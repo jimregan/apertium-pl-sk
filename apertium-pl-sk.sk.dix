@@ -404,85 +404,103 @@
       </e>
     </pardef>
 
-    <pardef n="Neuter_pivo">
+    <pardef n="Neuter_pivo_sg">
       <e>
         <p>
           <l>o</l>
-          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>a</l>
-          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>u</l>
-          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>o</l>
-          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>o</l>
-          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>om</l>
-          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
+    </pardef>
+    <pardef n="Neuter_pivo_pl">
       <e>
         <p>
           <l>á</l>
-          <r>o<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+          <r><s n="nt"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ám</l>
-          <r>o<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+          <r><s n="nt"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>á</l>
-          <r>o<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+          <r><s n="nt"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>á</l>
-          <r>o<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
+          <r><s n="nt"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ách</l>
-          <r>o<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+          <r><s n="nt"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ami</l>
-          <r>o<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+          <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
+    </pardef>
+    <pardef n="Neuter_pivo">
+      <e>
+        <p>
+	  <l></l>
+	  <r>o<s n="n"/></r>
+	</p>
+	<par n="Neuter_pivo_sg"/>
+      <e>
+      <e>
+        <p>
+	  <l></l>
+	  <r>o<s n="n"/></r>
+	</p>
+	<par n="Neuter_pivo_pl"/>
+      <e>
     </pardef>
     <pardef n="p/ivo__n">
       <e>
