@@ -1245,6 +1245,26 @@
     </pardef>
   </pardefs>
   <section id="main" type="standard">
+    <e lm="na"><p><l>na</l><r>na<s n="pr"/></r></p></e>
+    <e lm="od" r="LR"><p><l>od</l><r>od<s n="pr"/></r></p></e>
+    <e lm="odo" r="LR"><p><l>odo</l><r>od<s n="pr"/></r></p></e>
+    <e lm="od" r="RL"><p><l><a/>od</l><r>od<s n="pr"/></r></p></e>
+    <e lm="k" r="LR"><p><l>k</l><r>k<s n="pr"/></r></p></e>
+    <e lm="ku" r="LR"><p><l>ku</l><r>k<s n="pr"/></r></p></e>
+    <e lm="k" r="RL"><p><l><a/>k</l><r>k<s n="pr"/></r></p></e>
+    <e lm="v" r="LR"><p><l>v</l><r>v<s n="pr"/></r></p></e>
+    <e lm="vo" r="LR"><p><l>vo</l><r>v<s n="pr"/></r></p></e>
+    <e lm="v" r="RL"><p><l><a/>v</l><r>v<s n="pr"/></r></p></e>
+    <e lm="z" r="LR"><p><l>z</l><r>z<s n="pr"/></r></p></e>
+    <e lm="zo" r="LR"><p><l>zo</l><r>z<s n="pr"/></r></p></e>
+    <e lm="z" r="RL"><p><l><a/>z</l><r>z<s n="pr"/></r></p></e>
+    <e lm="s" r="LR"><p><l>s</l><r>s<s n="pr"/></r></p></e>
+    <e lm="so" r="LR"><p><l>so</l><r>s<s n="pr"/></r></p></e>
+    <e lm="s" r="RL"><p><l><a/>s</l><r>s<s n="pr"/></r></p></e>
+    <e lm="nad" r="LR"><p><l>nad</l><r>nad<s n="pr"/></r></p></e>
+    <e lm="nado" r="LR"><p><l>nado</l><r>nad<s n="pr"/></r></p></e>
+    <e lm="nad" r="RL"><p><l><a/>nad</l><r>nad<s n="pr"/></r></p></e>
+  
     <e lm="čítať"><i>čít</i><par n="čít/ať__vblex"/></e>
     <e lm="mať"><i>m</i><par n="m/ať__vbhaver"/></e>
     <e lm="robiť"><i>rob</i><par n="rob/iť__vblex"/></e>
