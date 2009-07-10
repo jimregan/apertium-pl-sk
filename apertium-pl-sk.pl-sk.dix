@@ -12,10 +12,11 @@
     <sdef n="np"/>
     <sdef n="top"/>
     <sdef n="adj"/>
+    <sdef n="adv"/>
     <sdef n="sint"/>
   </sdefs>
 
-  <section id="numbers" type="standard">
+  <section id="main" type="standard">
     <e><p><l>zero<s n="num"/></l><r>nula<s n="num"/></r></p></e>
     <e><p><l>jeden<s n="num"/></l><r>jeden<s n="num"/></r></p></e>
     <e><p><l>dwa<s n="num"/></l><r>dva<s n="num"/></r></p></e>
@@ -27,9 +28,6 @@
     <e><p><l>osiem<s n="num"/></l><r>osem<s n="num"/></r></p></e>
     <e><p><l>dziewięć<s n="num"/></l><r>deväť<s n="num"/></r></p></e>
     <e><p><l>dziesięć<s n="num"/></l><r>desať<s n="num"/></r></p></e>
-  </section>
-
-  <section id="months" type="standard">
     <e><p><l>styczeń<s n="n"/><s n="mi"/></l><r>január<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>luty<s n="n"/><s n="mi"/></l><r>február<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>marzec<s n="n"/><s n="mi"/></l><r>marec<s n="n"/><s n="mi"/></r></p></e>
@@ -42,9 +40,6 @@
     <e><p><l>październik<s n="n"/><s n="mi"/></l><r>október<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>listopad<s n="n"/><s n="mi"/></l><r>november<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>grudzień<s n="n"/><s n="mi"/></l><r>december<s n="n"/><s n="mi"/></r></p></e>
-  </section>
-
-  <section id="verbs" type="standard">
     <e><p><l>być<s n="vbser"/></l><r>byť<s n="vbser"/></r></p></e>
     <e><p><l>czytać<s n="vblex"/><s n="imperf"/></l><r>čítať<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>iść<s n="vblex"/><s n="imperf"/></l><r>ísť<s n="vblex"/><s n="imperf"/></r></p></e>
@@ -52,15 +47,13 @@
     <e><p><l>otworzyć<s n="vblex"/></l><r>otvoriť<s n="vblex"/></r></p></e>
     <e><p><l>przedłużyć<s n="vblex"/></l><r>predĺžiť<s n="vblex"/></r></p></e>
     <e><p><l>robić<s n="vblex"/><s n="imperf"/></l><r>robiť<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zrobić<s n="vblex"/><s n="perf"/></l><r>urobiť<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>rozwiązać<s n="vblex"/></l><r>rozviazať<s n="vblex"/></r></p></e>
     <e><p><l>spuścić<s n="vblex"/></l><r>spustiť<s n="vblex"/></r></p></e>
     <e><p><l>ściągać<s n="vblex"/></l><r>stiahnúť<s n="vblex"/></r></p></e>
     <e><p><l>wyciągać<s n="vblex"/></l><r>vytiahnuť<s n="vblex"/></r></p></e>
     <e><p><l>związać<s n="vblex"/></l><r>zviazať<s n="vblex"/></r></p></e>
     <e><p><l>spać<s n="vblex"/><s n="imperf"/></l><r>spať<s n="vblex"/><s n="imperf"/></r></p></e>
-  </section>
-
-  <section id="nouns" type="standard">
     <e><p><l>matka<s n="n"/><s n="f"/></l><r>matka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>piwo<s n="n"/><s n="nt"/></l><r>pivo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>miasto<s n="n"/><s n="nt"/></l><r>mesto<s n="n"/><s n="nt"/></r></p></e>
@@ -1056,7 +1049,7 @@
 <e><p><l>znowu<s n="adv"/></l><r>znovu<s n="adv"/></r></p></e>
 <e r="LR"><p><l>znów<s n="adv"/></l><r>znovu<s n="adv"/></r></p></e>
 <e><p><l>wytrwale<s n="adv"/></l><r>vytrvale<s n="adv"/></r></p></e>
-<e><p><l>wysoki<s n="adj"/></l><r>vysoký<s n="adj"/></r></p></e>
+<e><p><l>wysoki<s n="adj"/><s n="sint"/></l><r>vysoký<s n="adj"/><s n="sint"/></r></p></e>
 <e><p><l>wysoko<s n="adv"/></l><r>vysoko<s n="adv"/></r></p></e>
 <e><p><l>wyraz<s n="n"/></l><r>výraz<s n="n"/></r></p></e>
 <e><p><l>traktor<s n="n"/></l><r>traktor<s n="n"/></r></p></e>
@@ -1110,13 +1103,11 @@
 <e><p><l>szatan<s n="n"/></l><r>satan<s n="n"/></r></p></e>
 <e><p><l>satanizm<s n="n"/></l><r>satanizmus<s n="n"/></r></p></e>
 <e><p><l>szatański<s n="adj"/></l><r>satanský<s n="adj"/></r></p></e>
-<e r="LR"><p><l>sataniczny<s n="adj"/></l><r>satanský<s n="adj"/></r></p></e>
+<e r="LR"																																																><p><l>sataniczny<s n="adj"/></l><r>satanský<s n="adj"/></r></p></e>
 <e><p><l>satelita<s n="n"/></l><r>satelit<s n="n"/></r></p></e>
 <e><p><l>satyryk<s n="n"/></l><r>satirik<s n="n"/></r></p></e>
 <e><p><l>szatnia<s n="n"/></l><r>šatňa<s n="n"/></r></p></e>
 
-  </section>
-  <section id="toponyms" type="standard">
     <e><p><l>kraj<b/>bratysławski<s n="n"/><s n="mi"/></l><r>Bratislavský<b/>kraj<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>kraj<b/>bańskobystrzycki<s n="n"/><s n="mi"/></l><r>Banskobystrický<b/>kraj<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>kraj<b/>trnawski<s n="n"/><s n="mi"/></l><r>Trnavský<b/>kraj<s n="n"/><s n="mi"/></r></p></e>
@@ -1146,8 +1137,6 @@
     <e><p><l>Tracja<s n="np"/><s n="top"/><s n="f"/></l><r>Trácia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Walencja<s n="np"/><s n="top"/><s n="f"/></l><r>Valencia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Republika<b/>Federalna<b/>Niemiec<s n="np"/><s n="top"/><s n="f"/></l><r>Nemecká<b/>Spolková<b/>Republika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-  </section>
-  <section id="place-adjectives" type="standard">
     <e><p><l>bratysławski<s n="adj"/></l><r>bratislavský<s n="adj"/></r></p></e>
     <e><p><l>bańskobystrzycki<s n="adj"/></l><r>banskobystrický<s n="adj"/></r></p></e>
     <e><p><l>trnawski<s n="adj"/></l><r>trnavský<s n="adj"/></r></p></e>
@@ -1156,8 +1145,6 @@
     <e><p><l>żyliński<s n="adj"/></l><r>žilinský<s n="adj"/></r></p></e>
     <e><p><l>preszowski<s n="adj"/></l><r>prešovský<s n="adj"/></r></p></e>
     <e><p><l>koszycki<s n="adj"/></l><r>košický<s n="adj"/></r></p></e>
-  </section>
-  <section id="adjectives" type="standard">
     <e><p><l>głupi<s n="adj"/></l><r>hlúpy<s n="adj"/></r></p></e>
     <e><p><l>elegantny<s n="adj"/></l><r>elegantný<s n="adj"/></r></p></e>
     <e><p><l>miękki<s n="adj"/><s n="sint"/></l><r>mäkký<s n="adj"/><s n="sint"/></r></p></e>
