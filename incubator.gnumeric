@@ -92,10 +92,10 @@
         <gnm:ColInfo No="3" Unit="48" Count="5"/>
       </gnm:Cols>
       <gnm:Rows DefaultSizePts="12.75">
-        <gnm:RowInfo No="0" Unit="13.5" Count="353"/>
+        <gnm:RowInfo No="0" Unit="13.5" Count="352"/>
       </gnm:Rows>
-      <gnm:Selections CursorCol="3" CursorRow="175">
-        <gnm:Selection startCol="3" startRow="175" endCol="3" endRow="175"/>
+      <gnm:Selections CursorCol="0" CursorRow="200">
+        <gnm:Selection startCol="0" startRow="200" endCol="255" endRow="200"/>
       </gnm:Selections>
       <gnm:Cells>
         <gnm:Cell Row="0" Col="0" ValueType="60">a</gnm:Cell>
@@ -1115,523 +1115,613 @@
         <gnm:Cell Row="198" Col="0" ValueType="60">autobusový</gnm:Cell>
         <gnm:Cell Row="198" Col="2" ValueType="60">autobusowy</gnm:Cell>
         <gnm:Cell Row="199" Col="0" ValueType="60">automaticky</gnm:Cell>
+        <gnm:Cell Row="199" Col="1" ValueType="60">adj</gnm:Cell>
         <gnm:Cell Row="199" Col="2" ValueType="60">automatyczny</gnm:Cell>
+        <gnm:Cell Row="199" Col="3" ValueType="60">adj</gnm:Cell>
         <gnm:Cell Row="199" Col="4" ValueType="60">automatic</gnm:Cell>
         <gnm:Cell Row="199" Col="5" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="200" Col="0" ValueType="60">automatický</gnm:Cell>
-        <gnm:Cell Row="200" Col="2" ValueType="60">automatyczny</gnm:Cell>
-        <gnm:Cell Row="201" Col="0" ValueType="60">automatizácia</gnm:Cell>
-        <gnm:Cell Row="201" Col="2" ValueType="60">automatyzacja</gnm:Cell>
-        <gnm:Cell Row="202" Col="0" ValueType="60">automatizovane</gnm:Cell>
-        <gnm:Cell Row="202" Col="2" ValueType="60">automatyzowanie</gnm:Cell>
-        <gnm:Cell Row="203" Col="0" ValueType="60">automatizovať</gnm:Cell>
-        <gnm:Cell Row="203" Col="2" ValueType="60">automatyzować</gnm:Cell>
-        <gnm:Cell Row="203" Col="4" ValueType="60">automate</gnm:Cell>
-        <gnm:Cell Row="203" Col="5" ValueType="60">vblex</gnm:Cell>
-        <gnm:Cell Row="204" Col="0" ValueType="60">autopilot</gnm:Cell>
-        <gnm:Cell Row="204" Col="2" ValueType="60">autopilot</gnm:Cell>
-        <gnm:Cell Row="205" Col="0" ValueType="60">autoportrét</gnm:Cell>
-        <gnm:Cell Row="205" Col="2" ValueType="60">autoportret</gnm:Cell>
-        <gnm:Cell Row="206" Col="0" ValueType="60">autorizácia</gnm:Cell>
-        <gnm:Cell Row="206" Col="2" ValueType="60">autoryzacja</gnm:Cell>
-        <gnm:Cell Row="207" Col="0" ValueType="60">autorské právo</gnm:Cell>
-        <gnm:Cell Row="207" Col="2" ValueType="60">prawo autorskie</gnm:Cell>
-        <gnm:Cell Row="208" Col="0" ValueType="60">autorský</gnm:Cell>
-        <gnm:Cell Row="208" Col="2" ValueType="60">autorski</gnm:Cell>
-        <gnm:Cell Row="209" Col="0" ValueType="60">autoservis</gnm:Cell>
-        <gnm:Cell Row="209" Col="2" ValueType="60">autoserwis</gnm:Cell>
-        <gnm:Cell Row="210" Col="0" ValueType="60">autostop</gnm:Cell>
-        <gnm:Cell Row="210" Col="2" ValueType="60">autostop</gnm:Cell>
-        <gnm:Cell Row="211" Col="0" ValueType="60">autostráda</gnm:Cell>
-        <gnm:Cell Row="211" Col="2" ValueType="60">autostrada</gnm:Cell>
-        <gnm:Cell Row="212" Col="0" ValueType="60">axiomatický</gnm:Cell>
-        <gnm:Cell Row="212" Col="2" ValueType="60">aksjomatyczny</gnm:Cell>
-        <gnm:Cell Row="213" Col="0" ValueType="60">axonometrický</gnm:Cell>
-        <gnm:Cell Row="213" Col="2" ValueType="60">aksonometryczny</gnm:Cell>
-        <gnm:Cell Row="214" Col="0" ValueType="60">Azerbajdžan</gnm:Cell>
-        <gnm:Cell Row="214" Col="1" ValueType="60">np.top.mi</gnm:Cell>
-        <gnm:Cell Row="214" Col="2" ValueType="60">Azerbejdżan</gnm:Cell>
-        <gnm:Cell Row="214" Col="3" ValueType="60">np.top.mi</gnm:Cell>
-        <gnm:Cell Row="215" Col="0" ValueType="60">Azerbajdžánec</gnm:Cell>
-        <gnm:Cell Row="215" Col="1" ValueType="60">n.ma</gnm:Cell>
-        <gnm:Cell Row="215" Col="2" ValueType="60">Azerbejdżanin</gnm:Cell>
-        <gnm:Cell Row="215" Col="3" ValueType="60">n.mp</gnm:Cell>
-        <gnm:Cell Row="216" Col="0" ValueType="60">Ázia</gnm:Cell>
-        <gnm:Cell Row="216" Col="2" ValueType="60">Azja</gnm:Cell>
-        <gnm:Cell Row="217" Col="0" ValueType="60">azimut</gnm:Cell>
-        <gnm:Cell Row="217" Col="2" ValueType="60">azymut</gnm:Cell>
-        <gnm:Cell Row="218" Col="0" ValueType="60">azurit</gnm:Cell>
-        <gnm:Cell Row="218" Col="2" ValueType="60">azuryt</gnm:Cell>
-        <gnm:Cell Row="219" Col="0" ValueType="60">až</gnm:Cell>
-        <gnm:Cell Row="219" Col="2" ValueType="60">aż</gnm:Cell>
-        <gnm:Cell Row="220" Col="0" ValueType="60">až do</gnm:Cell>
-        <gnm:Cell Row="220" Col="1" ValueType="60">pr</gnm:Cell>
-        <gnm:Cell Row="220" Col="2" ValueType="60">aż do</gnm:Cell>
-        <gnm:Cell Row="220" Col="3" ValueType="60">pr</gnm:Cell>
-        <gnm:Cell Row="221" Col="0" ValueType="60">bakalár</gnm:Cell>
-        <gnm:Cell Row="221" Col="2" ValueType="60">bakalarz</gnm:Cell>
-        <gnm:Cell Row="222" Col="0" ValueType="60">balkón</gnm:Cell>
-        <gnm:Cell Row="222" Col="2" ValueType="60">balkon</gnm:Cell>
-        <gnm:Cell Row="222" Col="4" ValueType="60">balcony</gnm:Cell>
-        <gnm:Cell Row="223" Col="0" ValueType="60">balzám</gnm:Cell>
-        <gnm:Cell Row="223" Col="2" ValueType="60">balsam</gnm:Cell>
-        <gnm:Cell Row="223" Col="4" ValueType="60">balsam</gnm:Cell>
-        <gnm:Cell Row="224" Col="0" ValueType="60">banálny</gnm:Cell>
-        <gnm:Cell Row="224" Col="2" ValueType="60">banalny</gnm:Cell>
-        <gnm:Cell Row="224" Col="4" ValueType="60">banal</gnm:Cell>
-        <gnm:Cell Row="225" Col="0" ValueType="60">bandita</gnm:Cell>
-        <gnm:Cell Row="225" Col="2" ValueType="60">bandyta</gnm:Cell>
-        <gnm:Cell Row="225" Col="4" ValueType="60">bandit</gnm:Cell>
-        <gnm:Cell Row="226" Col="0" ValueType="60">Bangladéš</gnm:Cell>
-        <gnm:Cell Row="226" Col="2" ValueType="60">Bangladesz</gnm:Cell>
-        <gnm:Cell Row="226" Col="4" ValueType="60">Bangladesh</gnm:Cell>
-        <gnm:Cell Row="227" Col="0" ValueType="60">bankár</gnm:Cell>
-        <gnm:Cell Row="227" Col="2" ValueType="60">bankier</gnm:Cell>
-        <gnm:Cell Row="227" Col="4" ValueType="60">banker</gnm:Cell>
-        <gnm:Cell Row="228" Col="0" ValueType="60">banket</gnm:Cell>
-        <gnm:Cell Row="228" Col="2" ValueType="60">bankiet</gnm:Cell>
-        <gnm:Cell Row="228" Col="4" ValueType="60">banquet</gnm:Cell>
-        <gnm:Cell Row="229" Col="0" ValueType="60">bankomat</gnm:Cell>
-        <gnm:Cell Row="229" Col="2" ValueType="60">bankomat</gnm:Cell>
-        <gnm:Cell Row="229" Col="4" ValueType="60">ATM</gnm:Cell>
-        <gnm:Cell Row="230" Col="0" ValueType="60">bankový</gnm:Cell>
-        <gnm:Cell Row="230" Col="2" ValueType="60">bankowy</gnm:Cell>
-        <gnm:Cell Row="231" Col="0" ValueType="60">basový</gnm:Cell>
-        <gnm:Cell Row="231" Col="1" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="231" Col="2" ValueType="60">basowy</gnm:Cell>
-        <gnm:Cell Row="231" Col="3" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="232" Col="0" ValueType="60">báť</gnm:Cell>
-        <gnm:Cell Row="232" Col="1" ValueType="60">vblex</gnm:Cell>
-        <gnm:Cell Row="232" Col="2" ValueType="60">bać</gnm:Cell>
-        <gnm:Cell Row="232" Col="3" ValueType="60">vblex</gnm:Cell>
-        <gnm:Cell Row="233" Col="0" ValueType="60">batéria</gnm:Cell>
-        <gnm:Cell Row="233" Col="1" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="233" Col="2" ValueType="60">bateria</gnm:Cell>
-        <gnm:Cell Row="233" Col="3" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="234" Col="0" ValueType="60">batožina</gnm:Cell>
-        <gnm:Cell Row="234" Col="1" ValueType="60">n.mi</gnm:Cell>
-        <gnm:Cell Row="234" Col="2" ValueType="60">bagaż</gnm:Cell>
-        <gnm:Cell Row="235" Col="0" ValueType="60">bavlna</gnm:Cell>
-        <gnm:Cell Row="235" Col="1" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="235" Col="2" ValueType="60">bawełna</gnm:Cell>
-        <gnm:Cell Row="236" Col="0" ValueType="60">bažant</gnm:Cell>
-        <gnm:Cell Row="236" Col="2" ValueType="60">bażant</gnm:Cell>
-        <gnm:Cell Row="236" Col="4" ValueType="60">pheasant</gnm:Cell>
-        <gnm:Cell Row="237" Col="0" ValueType="60">bdieť</gnm:Cell>
-        <gnm:Cell Row="237" Col="2" ValueType="60">budzić</gnm:Cell>
-        <gnm:Cell Row="238" Col="0" ValueType="60">vyložiť</gnm:Cell>
-        <gnm:Cell Row="238" Col="2" ValueType="60">położyć</gnm:Cell>
-        <gnm:Cell Row="239" Col="0" ValueType="60">behať</gnm:Cell>
-        <gnm:Cell Row="239" Col="2" ValueType="60">biegać</gnm:Cell>
-        <gnm:Cell Row="240" Col="0" ValueType="60">Bejrút</gnm:Cell>
-        <gnm:Cell Row="240" Col="2" ValueType="60">Bejrut</gnm:Cell>
-        <gnm:Cell Row="241" Col="0" ValueType="60">Belehrad</gnm:Cell>
-        <gnm:Cell Row="241" Col="2" ValueType="60">Belgrad</gnm:Cell>
-        <gnm:Cell Row="242" Col="0" ValueType="60">Belgicko</gnm:Cell>
-        <gnm:Cell Row="242" Col="2" ValueType="60">Belgia</gnm:Cell>
-        <gnm:Cell Row="243" Col="0" ValueType="60">Belgický</gnm:Cell>
-        <gnm:Cell Row="243" Col="1" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="243" Col="2" ValueType="60">Belgijski</gnm:Cell>
-        <gnm:Cell Row="243" Col="3" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="244" Col="0" ValueType="60">Belize</gnm:Cell>
-        <gnm:Cell Row="244" Col="2" ValueType="60">Belize</gnm:Cell>
-        <gnm:Cell Row="245" Col="0" ValueType="60">beneficient</gnm:Cell>
-        <gnm:Cell Row="245" Col="2" ValueType="60">beneficjent</gnm:Cell>
-        <gnm:Cell Row="246" Col="0" ValueType="60">bengálsky</gnm:Cell>
-        <gnm:Cell Row="246" Col="1" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="246" Col="2" ValueType="60">bengalski</gnm:Cell>
-        <gnm:Cell Row="246" Col="3" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="247" Col="0" ValueType="60">Benin</gnm:Cell>
+        <gnm:Cell Row="200" Col="0" ValueType="60">automatizácia</gnm:Cell>
+        <gnm:Cell Row="200" Col="1" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="200" Col="2" ValueType="60">automatyzacja</gnm:Cell>
+        <gnm:Cell Row="200" Col="3" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="201" Col="0" ValueType="60">automatizovane</gnm:Cell>
+        <gnm:Cell Row="201" Col="2" ValueType="60">automatyzowanie</gnm:Cell>
+        <gnm:Cell Row="202" Col="0" ValueType="60">automatizovať</gnm:Cell>
+        <gnm:Cell Row="202" Col="1" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="202" Col="2" ValueType="60">automatyzować</gnm:Cell>
+        <gnm:Cell Row="202" Col="3" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="202" Col="4" ValueType="60">automate</gnm:Cell>
+        <gnm:Cell Row="202" Col="5" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="203" Col="0" ValueType="60">autopilot</gnm:Cell>
+        <gnm:Cell Row="203" Col="1" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="203" Col="2" ValueType="60">autopilot</gnm:Cell>
+        <gnm:Cell Row="203" Col="3" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="203" Col="4" ValueType="60">autopilot</gnm:Cell>
+        <gnm:Cell Row="203" Col="5" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="204" Col="0" ValueType="60">autoportrét</gnm:Cell>
+        <gnm:Cell Row="204" Col="1" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="204" Col="2" ValueType="60">autoportret</gnm:Cell>
+        <gnm:Cell Row="204" Col="3" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="204" Col="4" ValueType="60">self-portait</gnm:Cell>
+        <gnm:Cell Row="204" Col="5" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="205" Col="0" ValueType="60">autorizácia</gnm:Cell>
+        <gnm:Cell Row="205" Col="1" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="205" Col="2" ValueType="60">autoryzacja</gnm:Cell>
+        <gnm:Cell Row="205" Col="3" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="205" Col="4" ValueType="60">authorisation</gnm:Cell>
+        <gnm:Cell Row="205" Col="5" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="206" Col="0" ValueType="60">autorské právo</gnm:Cell>
+        <gnm:Cell Row="206" Col="1" ValueType="60">n.nt</gnm:Cell>
+        <gnm:Cell Row="206" Col="2" ValueType="60">prawo autorskie</gnm:Cell>
+        <gnm:Cell Row="206" Col="3" ValueType="60">n.nt</gnm:Cell>
+        <gnm:Cell Row="206" Col="4" ValueType="60">copyright</gnm:Cell>
+        <gnm:Cell Row="206" Col="5" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="207" Col="0" ValueType="60">autorský</gnm:Cell>
+        <gnm:Cell Row="207" Col="2" ValueType="60">autorski</gnm:Cell>
+        <gnm:Cell Row="208" Col="0" ValueType="60">autoservis</gnm:Cell>
+        <gnm:Cell Row="208" Col="2" ValueType="60">autoserwis</gnm:Cell>
+        <gnm:Cell Row="209" Col="0" ValueType="60">autostop</gnm:Cell>
+        <gnm:Cell Row="209" Col="2" ValueType="60">autostop</gnm:Cell>
+        <gnm:Cell Row="210" Col="0" ValueType="60">autostráda</gnm:Cell>
+        <gnm:Cell Row="210" Col="2" ValueType="60">autostrada</gnm:Cell>
+        <gnm:Cell Row="211" Col="0" ValueType="60">axiomatický</gnm:Cell>
+        <gnm:Cell Row="211" Col="2" ValueType="60">aksjomatyczny</gnm:Cell>
+        <gnm:Cell Row="211" Col="4" ValueType="60">axiomatic</gnm:Cell>
+        <gnm:Cell Row="212" Col="0" ValueType="60">axonometrický</gnm:Cell>
+        <gnm:Cell Row="212" Col="2" ValueType="60">aksonometryczny</gnm:Cell>
+        <gnm:Cell Row="213" Col="0" ValueType="60">Azerbajdžan</gnm:Cell>
+        <gnm:Cell Row="213" Col="1" ValueType="60">np.top.mi</gnm:Cell>
+        <gnm:Cell Row="213" Col="2" ValueType="60">Azerbejdżan</gnm:Cell>
+        <gnm:Cell Row="213" Col="3" ValueType="60">np.top.mi</gnm:Cell>
+        <gnm:Cell Row="214" Col="0" ValueType="60">Azerbajdžánec</gnm:Cell>
+        <gnm:Cell Row="214" Col="1" ValueType="60">n.ma</gnm:Cell>
+        <gnm:Cell Row="214" Col="2" ValueType="60">Azerbejdżanin</gnm:Cell>
+        <gnm:Cell Row="214" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="215" Col="0" ValueType="60">Ázia</gnm:Cell>
+        <gnm:Cell Row="215" Col="2" ValueType="60">Azja</gnm:Cell>
+        <gnm:Cell Row="216" Col="0" ValueType="60">azimut</gnm:Cell>
+        <gnm:Cell Row="216" Col="2" ValueType="60">azymut</gnm:Cell>
+        <gnm:Cell Row="217" Col="0" ValueType="60">azurit</gnm:Cell>
+        <gnm:Cell Row="217" Col="2" ValueType="60">azuryt</gnm:Cell>
+        <gnm:Cell Row="218" Col="0" ValueType="60">až</gnm:Cell>
+        <gnm:Cell Row="218" Col="2" ValueType="60">aż</gnm:Cell>
+        <gnm:Cell Row="219" Col="0" ValueType="60">až do</gnm:Cell>
+        <gnm:Cell Row="219" Col="1" ValueType="60">pr</gnm:Cell>
+        <gnm:Cell Row="219" Col="2" ValueType="60">aż do</gnm:Cell>
+        <gnm:Cell Row="219" Col="3" ValueType="60">pr</gnm:Cell>
+        <gnm:Cell Row="219" Col="4" ValueType="60">until</gnm:Cell>
+        <gnm:Cell Row="220" Col="0" ValueType="60">bakalár</gnm:Cell>
+        <gnm:Cell Row="220" Col="2" ValueType="60">bakalarz</gnm:Cell>
+        <gnm:Cell Row="221" Col="0" ValueType="60">balkón</gnm:Cell>
+        <gnm:Cell Row="221" Col="1" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="221" Col="2" ValueType="60">balkon</gnm:Cell>
+        <gnm:Cell Row="221" Col="3" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="221" Col="4" ValueType="60">balcony</gnm:Cell>
+        <gnm:Cell Row="222" Col="0" ValueType="60">balzám</gnm:Cell>
+        <gnm:Cell Row="222" Col="1" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="222" Col="2" ValueType="60">balsam</gnm:Cell>
+        <gnm:Cell Row="222" Col="3" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="222" Col="4" ValueType="60">balsam</gnm:Cell>
+        <gnm:Cell Row="223" Col="0" ValueType="60">banálny</gnm:Cell>
+        <gnm:Cell Row="223" Col="1" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="223" Col="2" ValueType="60">banalny</gnm:Cell>
+        <gnm:Cell Row="223" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="223" Col="4" ValueType="60">banal</gnm:Cell>
+        <gnm:Cell Row="224" Col="0" ValueType="60">bandita</gnm:Cell>
+        <gnm:Cell Row="224" Col="1" ValueType="60">n.ma</gnm:Cell>
+        <gnm:Cell Row="224" Col="2" ValueType="60">bandyta</gnm:Cell>
+        <gnm:Cell Row="224" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="224" Col="4" ValueType="60">bandit</gnm:Cell>
+        <gnm:Cell Row="225" Col="0" ValueType="60">Bangladéš</gnm:Cell>
+        <gnm:Cell Row="225" Col="1" ValueType="60">np.top.mi</gnm:Cell>
+        <gnm:Cell Row="225" Col="2" ValueType="60">Bangladesz</gnm:Cell>
+        <gnm:Cell Row="225" Col="3" ValueType="60">np.top.mi</gnm:Cell>
+        <gnm:Cell Row="225" Col="4" ValueType="60">Bangladesh</gnm:Cell>
+        <gnm:Cell Row="226" Col="0" ValueType="60">bankár</gnm:Cell>
+        <gnm:Cell Row="226" Col="1" ValueType="60">n.ma</gnm:Cell>
+        <gnm:Cell Row="226" Col="2" ValueType="60">bankier</gnm:Cell>
+        <gnm:Cell Row="226" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="226" Col="4" ValueType="60">banker</gnm:Cell>
+        <gnm:Cell Row="226" Col="5" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="227" Col="0" ValueType="60">banket</gnm:Cell>
+        <gnm:Cell Row="227" Col="1" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="227" Col="2" ValueType="60">bankiet</gnm:Cell>
+        <gnm:Cell Row="227" Col="3" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="227" Col="4" ValueType="60">banquet</gnm:Cell>
+        <gnm:Cell Row="227" Col="5" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="228" Col="0" ValueType="60">bankomat</gnm:Cell>
+        <gnm:Cell Row="228" Col="1" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="228" Col="2" ValueType="60">bankomat</gnm:Cell>
+        <gnm:Cell Row="228" Col="3" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="228" Col="4" ValueType="60">ATM</gnm:Cell>
+        <gnm:Cell Row="228" Col="5" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="229" Col="0" ValueType="60">bankový</gnm:Cell>
+        <gnm:Cell Row="229" Col="1" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="229" Col="2" ValueType="60">bankowy</gnm:Cell>
+        <gnm:Cell Row="229" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="229" Col="4" ValueType="60">bank</gnm:Cell>
+        <gnm:Cell Row="229" Col="5" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="230" Col="0" ValueType="60">basový</gnm:Cell>
+        <gnm:Cell Row="230" Col="1" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="230" Col="2" ValueType="60">basowy</gnm:Cell>
+        <gnm:Cell Row="230" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="231" Col="0" ValueType="60">báť</gnm:Cell>
+        <gnm:Cell Row="231" Col="1" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="231" Col="2" ValueType="60">bać</gnm:Cell>
+        <gnm:Cell Row="231" Col="3" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="232" Col="0" ValueType="60">batéria</gnm:Cell>
+        <gnm:Cell Row="232" Col="1" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="232" Col="2" ValueType="60">bateria</gnm:Cell>
+        <gnm:Cell Row="232" Col="3" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="233" Col="0" ValueType="60">batožina</gnm:Cell>
+        <gnm:Cell Row="233" Col="1" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="233" Col="2" ValueType="60">bagaż</gnm:Cell>
+        <gnm:Cell Row="233" Col="3" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="233" Col="4" ValueType="60">baggage</gnm:Cell>
+        <gnm:Cell Row="233" Col="5" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="234" Col="0" ValueType="60">bavlna</gnm:Cell>
+        <gnm:Cell Row="234" Col="1" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="234" Col="2" ValueType="60">bawełna</gnm:Cell>
+        <gnm:Cell Row="234" Col="3" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="235" Col="0" ValueType="60">bažant</gnm:Cell>
+        <gnm:Cell Row="235" Col="1" ValueType="60">n.ma</gnm:Cell>
+        <gnm:Cell Row="235" Col="2" ValueType="60">bażant</gnm:Cell>
+        <gnm:Cell Row="235" Col="3" ValueType="60">n.ma</gnm:Cell>
+        <gnm:Cell Row="235" Col="4" ValueType="60">pheasant</gnm:Cell>
+        <gnm:Cell Row="235" Col="5" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="236" Col="0" ValueType="60">bdieť</gnm:Cell>
+        <gnm:Cell Row="236" Col="1" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="236" Col="2" ValueType="60">budzić</gnm:Cell>
+        <gnm:Cell Row="236" Col="3" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="236" Col="4" ValueType="60">wake</gnm:Cell>
+        <gnm:Cell Row="236" Col="5" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="237" Col="0" ValueType="60">vyložiť</gnm:Cell>
+        <gnm:Cell Row="237" Col="1" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="237" Col="2" ValueType="60">położyć</gnm:Cell>
+        <gnm:Cell Row="237" Col="3" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="238" Col="0" ValueType="60">behať</gnm:Cell>
+        <gnm:Cell Row="238" Col="1" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="238" Col="2" ValueType="60">biegać</gnm:Cell>
+        <gnm:Cell Row="238" Col="3" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="238" Col="4" ValueType="60">run</gnm:Cell>
+        <gnm:Cell Row="238" Col="5" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="239" Col="0" ValueType="60">Bejrút</gnm:Cell>
+        <gnm:Cell Row="239" Col="1" ValueType="60">np.top.mi</gnm:Cell>
+        <gnm:Cell Row="239" Col="2" ValueType="60">Bejrut</gnm:Cell>
+        <gnm:Cell Row="239" Col="3" ValueType="60">np.top.mi</gnm:Cell>
+        <gnm:Cell Row="239" Col="4" ValueType="60">Beirut</gnm:Cell>
+        <gnm:Cell Row="239" Col="5" ValueType="60">np.top</gnm:Cell>
+        <gnm:Cell Row="240" Col="0" ValueType="60">Belehrad</gnm:Cell>
+        <gnm:Cell Row="240" Col="1" ValueType="60">np.top.mi</gnm:Cell>
+        <gnm:Cell Row="240" Col="2" ValueType="60">Belgrad</gnm:Cell>
+        <gnm:Cell Row="240" Col="3" ValueType="60">np.top.mi</gnm:Cell>
+        <gnm:Cell Row="240" Col="4" ValueType="60">Belgrade</gnm:Cell>
+        <gnm:Cell Row="240" Col="5" ValueType="60">np.top</gnm:Cell>
+        <gnm:Cell Row="241" Col="0" ValueType="60">Belgicko</gnm:Cell>
+        <gnm:Cell Row="241" Col="1" ValueType="60">np.top.nt</gnm:Cell>
+        <gnm:Cell Row="241" Col="2" ValueType="60">Belgia</gnm:Cell>
+        <gnm:Cell Row="241" Col="3" ValueType="60">np.top.f</gnm:Cell>
+        <gnm:Cell Row="241" Col="4" ValueType="60">Belgium</gnm:Cell>
+        <gnm:Cell Row="241" Col="5" ValueType="60">np.top</gnm:Cell>
+        <gnm:Cell Row="242" Col="0" ValueType="60">Belgický</gnm:Cell>
+        <gnm:Cell Row="242" Col="1" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="242" Col="2" ValueType="60">Belgijski</gnm:Cell>
+        <gnm:Cell Row="242" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="242" Col="4" ValueType="60">Belgian</gnm:Cell>
+        <gnm:Cell Row="242" Col="5" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="243" Col="0" ValueType="60">Belize</gnm:Cell>
+        <gnm:Cell Row="243" Col="2" ValueType="60">Belize</gnm:Cell>
+        <gnm:Cell Row="243" Col="4" ValueType="60">Belize</gnm:Cell>
+        <gnm:Cell Row="243" Col="5" ValueType="60">np.top</gnm:Cell>
+        <gnm:Cell Row="244" Col="0" ValueType="60">beneficient</gnm:Cell>
+        <gnm:Cell Row="244" Col="2" ValueType="60">beneficjent</gnm:Cell>
+        <gnm:Cell Row="245" Col="0" ValueType="60">bengálsky</gnm:Cell>
+        <gnm:Cell Row="245" Col="1" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="245" Col="2" ValueType="60">bengalski</gnm:Cell>
+        <gnm:Cell Row="245" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="245" Col="4" ValueType="60">Bengali</gnm:Cell>
+        <gnm:Cell Row="245" Col="5" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="246" Col="0" ValueType="60">Benin</gnm:Cell>
+        <gnm:Cell Row="246" Col="1" ValueType="60">np.top.mi</gnm:Cell>
+        <gnm:Cell Row="246" Col="2" ValueType="60">Benin</gnm:Cell>
+        <gnm:Cell Row="246" Col="3" ValueType="60">np.top.mi</gnm:Cell>
+        <gnm:Cell Row="247" Col="0" ValueType="60">Berlín</gnm:Cell>
         <gnm:Cell Row="247" Col="1" ValueType="60">np.top.mi</gnm:Cell>
-        <gnm:Cell Row="247" Col="2" ValueType="60">Benin</gnm:Cell>
+        <gnm:Cell Row="247" Col="2" ValueType="60">Berlin</gnm:Cell>
         <gnm:Cell Row="247" Col="3" ValueType="60">np.top.mi</gnm:Cell>
-        <gnm:Cell Row="248" Col="0" ValueType="60">Berlín</gnm:Cell>
-        <gnm:Cell Row="248" Col="1" ValueType="60">np.top.mi</gnm:Cell>
-        <gnm:Cell Row="248" Col="2" ValueType="60">Berlin</gnm:Cell>
-        <gnm:Cell Row="248" Col="3" ValueType="60">np.top.mi</gnm:Cell>
-        <gnm:Cell Row="249" Col="0" ValueType="60">beta</gnm:Cell>
-        <gnm:Cell Row="249" Col="2" ValueType="60">beta</gnm:Cell>
-        <gnm:Cell Row="250" Col="0" ValueType="60">betón</gnm:Cell>
-        <gnm:Cell Row="250" Col="2" ValueType="60">beton</gnm:Cell>
-        <gnm:Cell Row="251" Col="0" ValueType="60">betónovanie</gnm:Cell>
-        <gnm:Cell Row="251" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="251" Col="2" ValueType="60">betonowanie</gnm:Cell>
-        <gnm:Cell Row="251" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="252" Col="0" ValueType="60">bez</gnm:Cell>
-        <gnm:Cell Row="252" Col="1" ValueType="60">pr</gnm:Cell>
-        <gnm:Cell Row="252" Col="2" ValueType="60">bez</gnm:Cell>
-        <gnm:Cell Row="252" Col="3" ValueType="60">pr</gnm:Cell>
-        <gnm:Cell Row="253" Col="0" ValueType="60">bez alkoholu</gnm:Cell>
+        <gnm:Cell Row="247" Col="4" ValueType="60">Berlin</gnm:Cell>
+        <gnm:Cell Row="247" Col="5" ValueType="60">np.yop</gnm:Cell>
+        <gnm:Cell Row="248" Col="0" ValueType="60">beta</gnm:Cell>
+        <gnm:Cell Row="248" Col="1" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="248" Col="2" ValueType="60">beta</gnm:Cell>
+        <gnm:Cell Row="248" Col="3" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="248" Col="4" ValueType="60">beta</gnm:Cell>
+        <gnm:Cell Row="248" Col="5" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="249" Col="0" ValueType="60">betón</gnm:Cell>
+        <gnm:Cell Row="249" Col="1" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="249" Col="2" ValueType="60">beton</gnm:Cell>
+        <gnm:Cell Row="249" Col="3" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="249" Col="4" ValueType="60">concrete</gnm:Cell>
+        <gnm:Cell Row="249" Col="5" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="250" Col="0" ValueType="60">betónovanie</gnm:Cell>
+        <gnm:Cell Row="250" Col="1" ValueType="60">adv</gnm:Cell>
+        <gnm:Cell Row="250" Col="2" ValueType="60">betonowanie</gnm:Cell>
+        <gnm:Cell Row="250" Col="3" ValueType="60">adv</gnm:Cell>
+        <gnm:Cell Row="251" Col="0" ValueType="60">bez</gnm:Cell>
+        <gnm:Cell Row="251" Col="1" ValueType="60">pr</gnm:Cell>
+        <gnm:Cell Row="251" Col="2" ValueType="60">bez</gnm:Cell>
+        <gnm:Cell Row="251" Col="3" ValueType="60">pr</gnm:Cell>
+        <gnm:Cell Row="252" Col="0" ValueType="60">bez alkoholu</gnm:Cell>
+        <gnm:Cell Row="252" Col="1" ValueType="60">adv</gnm:Cell>
+        <gnm:Cell Row="252" Col="2" ValueType="60">bez alkoholu</gnm:Cell>
+        <gnm:Cell Row="252" Col="3" ValueType="60">adv</gnm:Cell>
+        <gnm:Cell Row="253" Col="0" ValueType="60">bez cirkevnej príslušnosti</gnm:Cell>
         <gnm:Cell Row="253" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="253" Col="2" ValueType="60">bez alkoholu</gnm:Cell>
+        <gnm:Cell Row="253" Col="2" ValueType="60">bez kościoła </gnm:Cell>
         <gnm:Cell Row="253" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="254" Col="0" ValueType="60">bez cirkevnej príslušnosti</gnm:Cell>
+        <gnm:Cell Row="254" Col="0" ValueType="60">bez hrdze</gnm:Cell>
         <gnm:Cell Row="254" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="254" Col="2" ValueType="60">bez kościoła </gnm:Cell>
+        <gnm:Cell Row="254" Col="2" ValueType="60">bez rdzy </gnm:Cell>
         <gnm:Cell Row="254" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="255" Col="0" ValueType="60">bez hrdze</gnm:Cell>
+        <gnm:Cell Row="255" Col="0" ValueType="60">bez chýb</gnm:Cell>
         <gnm:Cell Row="255" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="255" Col="2" ValueType="60">bez rdzy </gnm:Cell>
+        <gnm:Cell Row="255" Col="2" ValueType="60">bez błędów </gnm:Cell>
         <gnm:Cell Row="255" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="256" Col="0" ValueType="60">bez chýb</gnm:Cell>
+        <gnm:Cell Row="256" Col="0" ValueType="60">bez ľadu</gnm:Cell>
         <gnm:Cell Row="256" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="256" Col="2" ValueType="60">bez błędów </gnm:Cell>
+        <gnm:Cell Row="256" Col="2" ValueType="60">bez lodu </gnm:Cell>
         <gnm:Cell Row="256" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="257" Col="0" ValueType="60">bez ľadu</gnm:Cell>
+        <gnm:Cell Row="257" Col="0" ValueType="60">bez limitu</gnm:Cell>
         <gnm:Cell Row="257" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="257" Col="2" ValueType="60">bez lodu </gnm:Cell>
+        <gnm:Cell Row="257" Col="2" ValueType="60">bez limitu </gnm:Cell>
         <gnm:Cell Row="257" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="258" Col="0" ValueType="60">bez limitu</gnm:Cell>
+        <gnm:Cell Row="258" Col="0" ValueType="60">bez nadšenia</gnm:Cell>
         <gnm:Cell Row="258" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="258" Col="2" ValueType="60">bez limitu </gnm:Cell>
+        <gnm:Cell Row="258" Col="2" ValueType="60">bez entuzjazmu </gnm:Cell>
         <gnm:Cell Row="258" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="259" Col="0" ValueType="60">bez nadšenia</gnm:Cell>
+        <gnm:Cell Row="259" Col="0" ValueType="60">bez nikotínu</gnm:Cell>
         <gnm:Cell Row="259" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="259" Col="2" ValueType="60">bez entuzjazmu </gnm:Cell>
+        <gnm:Cell Row="259" Col="2" ValueType="60">bez nikotyny </gnm:Cell>
         <gnm:Cell Row="259" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="260" Col="0" ValueType="60">bez nikotínu</gnm:Cell>
+        <gnm:Cell Row="260" Col="0" ValueType="60">bez pochýb</gnm:Cell>
         <gnm:Cell Row="260" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="260" Col="2" ValueType="60">bez nikotyny </gnm:Cell>
+        <gnm:Cell Row="260" Col="2" ValueType="60">bez wątpienia </gnm:Cell>
         <gnm:Cell Row="260" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="261" Col="0" ValueType="60">bez pochýb</gnm:Cell>
+        <gnm:Cell Row="261" Col="0" ValueType="60">bez poplatku</gnm:Cell>
         <gnm:Cell Row="261" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="261" Col="2" ValueType="60">bez wątpienia </gnm:Cell>
+        <gnm:Cell Row="261" Col="2" ValueType="60">bez opłat </gnm:Cell>
         <gnm:Cell Row="261" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="262" Col="0" ValueType="60">bez poplatku</gnm:Cell>
+        <gnm:Cell Row="262" Col="0" ValueType="60">bez silikonu</gnm:Cell>
         <gnm:Cell Row="262" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="262" Col="2" ValueType="60">bez opłat </gnm:Cell>
+        <gnm:Cell Row="262" Col="2" ValueType="60">bez silikonu</gnm:Cell>
         <gnm:Cell Row="262" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="263" Col="0" ValueType="60">bez silikonu</gnm:Cell>
+        <gnm:Cell Row="263" Col="0" ValueType="60">bez soli</gnm:Cell>
         <gnm:Cell Row="263" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="263" Col="2" ValueType="60">bez silikonu</gnm:Cell>
+        <gnm:Cell Row="263" Col="2" ValueType="60">bez soli</gnm:Cell>
         <gnm:Cell Row="263" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="264" Col="0" ValueType="60">bez soli</gnm:Cell>
+        <gnm:Cell Row="264" Col="0" ValueType="60">bez tuku</gnm:Cell>
         <gnm:Cell Row="264" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="264" Col="2" ValueType="60">bez soli</gnm:Cell>
+        <gnm:Cell Row="264" Col="2" ValueType="60">bez tłuszczu </gnm:Cell>
         <gnm:Cell Row="264" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="265" Col="0" ValueType="60">bez tuku</gnm:Cell>
-        <gnm:Cell Row="265" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="265" Col="2" ValueType="60">bez tłuszczu </gnm:Cell>
-        <gnm:Cell Row="265" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="266" Col="0" ValueType="60">bezár</gnm:Cell>
-        <gnm:Cell Row="266" Col="1" ValueType="60">n.mi</gnm:Cell>
-        <gnm:Cell Row="266" Col="2" ValueType="60">bazar</gnm:Cell>
-        <gnm:Cell Row="266" Col="3" ValueType="60">n.mi</gnm:Cell>
-        <gnm:Cell Row="267" Col="0" ValueType="60">bezbožný</gnm:Cell>
-        <gnm:Cell Row="267" Col="1" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="267" Col="2" ValueType="60">bezbożny</gnm:Cell>
-        <gnm:Cell Row="267" Col="3" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="268" Col="0" ValueType="60">bidet</gnm:Cell>
-        <gnm:Cell Row="268" Col="1" ValueType="60">n.mi</gnm:Cell>
-        <gnm:Cell Row="268" Col="2" ValueType="60">bidet</gnm:Cell>
-        <gnm:Cell Row="268" Col="3" ValueType="60">n.mi</gnm:Cell>
-        <gnm:Cell Row="269" Col="0" ValueType="60">bieda</gnm:Cell>
-        <gnm:Cell Row="269" Col="1" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="269" Col="2" ValueType="60">bieda</gnm:Cell>
-        <gnm:Cell Row="269" Col="3" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="270" Col="0" ValueType="60">biedny</gnm:Cell>
-        <gnm:Cell Row="270" Col="2" ValueType="60">biedny</gnm:Cell>
-        <gnm:Cell Row="271" Col="0" ValueType="60">biely</gnm:Cell>
-        <gnm:Cell Row="271" Col="1" ValueType="60">adj.sint</gnm:Cell>
-        <gnm:Cell Row="271" Col="2" ValueType="60">biały</gnm:Cell>
-        <gnm:Cell Row="271" Col="3" ValueType="60">adj.sint</gnm:Cell>
-        <gnm:Cell Row="272" Col="0" ValueType="60">biotechnológia</gnm:Cell>
-        <gnm:Cell Row="272" Col="2" ValueType="60">biotechnologia</gnm:Cell>
-        <gnm:Cell Row="273" Col="0" ValueType="60">blízky</gnm:Cell>
-        <gnm:Cell Row="273" Col="1" ValueType="60">adj.sint</gnm:Cell>
-        <gnm:Cell Row="273" Col="2" ValueType="60">bliski</gnm:Cell>
-        <gnm:Cell Row="273" Col="3" ValueType="60">adj.sint</gnm:Cell>
-        <gnm:Cell Row="274" Col="0" ValueType="60">brat</gnm:Cell>
-        <gnm:Cell Row="274" Col="2" ValueType="60">brat</gnm:Cell>
-        <gnm:Cell Row="275" Col="0" ValueType="60">brať</gnm:Cell>
-        <gnm:Cell Row="275" Col="2" ValueType="60">brać</gnm:Cell>
-        <gnm:Cell Row="276" Col="0" ValueType="60">bratstvo</gnm:Cell>
-        <gnm:Cell Row="276" Col="1" ValueType="60">n.nt</gnm:Cell>
-        <gnm:Cell Row="276" Col="2" ValueType="60">bractwo</gnm:Cell>
-        <gnm:Cell Row="277" Col="0" ValueType="60">brazílsky</gnm:Cell>
+        <gnm:Cell Row="265" Col="0" ValueType="60">bezár</gnm:Cell>
+        <gnm:Cell Row="265" Col="1" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="265" Col="2" ValueType="60">bazar</gnm:Cell>
+        <gnm:Cell Row="265" Col="3" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="266" Col="0" ValueType="60">bezbožný</gnm:Cell>
+        <gnm:Cell Row="266" Col="1" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="266" Col="2" ValueType="60">bezbożny</gnm:Cell>
+        <gnm:Cell Row="266" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="267" Col="0" ValueType="60">bidet</gnm:Cell>
+        <gnm:Cell Row="267" Col="1" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="267" Col="2" ValueType="60">bidet</gnm:Cell>
+        <gnm:Cell Row="267" Col="3" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="268" Col="0" ValueType="60">bieda</gnm:Cell>
+        <gnm:Cell Row="268" Col="1" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="268" Col="2" ValueType="60">bieda</gnm:Cell>
+        <gnm:Cell Row="268" Col="3" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="269" Col="0" ValueType="60">biedny</gnm:Cell>
+        <gnm:Cell Row="269" Col="2" ValueType="60">biedny</gnm:Cell>
+        <gnm:Cell Row="270" Col="0" ValueType="60">biely</gnm:Cell>
+        <gnm:Cell Row="270" Col="1" ValueType="60">adj.sint</gnm:Cell>
+        <gnm:Cell Row="270" Col="2" ValueType="60">biały</gnm:Cell>
+        <gnm:Cell Row="270" Col="3" ValueType="60">adj.sint</gnm:Cell>
+        <gnm:Cell Row="271" Col="0" ValueType="60">biotechnológia</gnm:Cell>
+        <gnm:Cell Row="271" Col="2" ValueType="60">biotechnologia</gnm:Cell>
+        <gnm:Cell Row="272" Col="0" ValueType="60">blízky</gnm:Cell>
+        <gnm:Cell Row="272" Col="1" ValueType="60">adj.sint</gnm:Cell>
+        <gnm:Cell Row="272" Col="2" ValueType="60">bliski</gnm:Cell>
+        <gnm:Cell Row="272" Col="3" ValueType="60">adj.sint</gnm:Cell>
+        <gnm:Cell Row="273" Col="0" ValueType="60">brat</gnm:Cell>
+        <gnm:Cell Row="273" Col="2" ValueType="60">brat</gnm:Cell>
+        <gnm:Cell Row="274" Col="0" ValueType="60">brať</gnm:Cell>
+        <gnm:Cell Row="274" Col="2" ValueType="60">brać</gnm:Cell>
+        <gnm:Cell Row="275" Col="0" ValueType="60">bratstvo</gnm:Cell>
+        <gnm:Cell Row="275" Col="1" ValueType="60">n.nt</gnm:Cell>
+        <gnm:Cell Row="275" Col="2" ValueType="60">bractwo</gnm:Cell>
+        <gnm:Cell Row="276" Col="0" ValueType="60">brazílsky</gnm:Cell>
+        <gnm:Cell Row="276" Col="1" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="276" Col="2" ValueType="60">brazylijski</gnm:Cell>
+        <gnm:Cell Row="277" Col="0" ValueType="60">bridký</gnm:Cell>
         <gnm:Cell Row="277" Col="1" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="277" Col="2" ValueType="60">brazylijski</gnm:Cell>
-        <gnm:Cell Row="278" Col="0" ValueType="60">bridký</gnm:Cell>
-        <gnm:Cell Row="278" Col="1" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="278" Col="2" ValueType="60">brzydki</gnm:Cell>
-        <gnm:Cell Row="278" Col="3" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="279" Col="0" ValueType="60">eliminovať</gnm:Cell>
-        <gnm:Cell Row="279" Col="2" ValueType="60">eliminować</gnm:Cell>
-        <gnm:Cell Row="280" Col="0" ValueType="60">e-mail</gnm:Cell>
-        <gnm:Cell Row="280" Col="2" ValueType="60">e-mail</gnm:Cell>
-        <gnm:Cell Row="281" Col="0" ValueType="60">eminentný</gnm:Cell>
-        <gnm:Cell Row="281" Col="2" ValueType="60">eminentny</gnm:Cell>
-        <gnm:Cell Row="282" Col="0" ValueType="60">emir</gnm:Cell>
-        <gnm:Cell Row="282" Col="2" ValueType="60">emir</gnm:Cell>
-        <gnm:Cell Row="283" Col="0" ValueType="60">emisia</gnm:Cell>
-        <gnm:Cell Row="283" Col="1" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="283" Col="2" ValueType="60">emisja</gnm:Cell>
-        <gnm:Cell Row="283" Col="3" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="284" Col="0" ValueType="60">emitovať</gnm:Cell>
-        <gnm:Cell Row="284" Col="2" ValueType="60">emitować</gnm:Cell>
-        <gnm:Cell Row="285" Col="0" ValueType="60">emulácia</gnm:Cell>
-        <gnm:Cell Row="285" Col="1" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="285" Col="2" ValueType="60">emulacja</gnm:Cell>
-        <gnm:Cell Row="285" Col="3" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="286" Col="0" ValueType="60">emulátor</gnm:Cell>
-        <gnm:Cell Row="286" Col="2" ValueType="60">emulator</gnm:Cell>
-        <gnm:Cell Row="287" Col="0" ValueType="60">encyklopédia</gnm:Cell>
-        <gnm:Cell Row="287" Col="1" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="287" Col="2" ValueType="60">encyklopedia</gnm:Cell>
-        <gnm:Cell Row="287" Col="3" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="288" Col="0" ValueType="60">energický</gnm:Cell>
-        <gnm:Cell Row="288" Col="2" ValueType="60">energiczny</gnm:Cell>
-        <gnm:Cell Row="289" Col="0" ValueType="60">entuziazmus</gnm:Cell>
-        <gnm:Cell Row="289" Col="2" ValueType="60">entuzjazm</gnm:Cell>
-        <gnm:Cell Row="290" Col="0" ValueType="60">enumerácia</gnm:Cell>
-        <gnm:Cell Row="290" Col="1" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="290" Col="2" ValueType="60">enumeracja</gnm:Cell>
-        <gnm:Cell Row="290" Col="3" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="291" Col="0" ValueType="60">eón</gnm:Cell>
-        <gnm:Cell Row="291" Col="2" ValueType="60">eon</gnm:Cell>
-        <gnm:Cell Row="292" Col="0" ValueType="60">erekcia</gnm:Cell>
-        <gnm:Cell Row="292" Col="1" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="292" Col="2" ValueType="60">erekcja</gnm:Cell>
-        <gnm:Cell Row="292" Col="3" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="293" Col="0" ValueType="60">Eritrea</gnm:Cell>
-        <gnm:Cell Row="293" Col="1" ValueType="60">np.top.f</gnm:Cell>
-        <gnm:Cell Row="293" Col="2" ValueType="60">Erytrea</gnm:Cell>
-        <gnm:Cell Row="293" Col="3" ValueType="60">np.top.f</gnm:Cell>
-        <gnm:Cell Row="294" Col="0" ValueType="60">esencia</gnm:Cell>
+        <gnm:Cell Row="277" Col="2" ValueType="60">brzydki</gnm:Cell>
+        <gnm:Cell Row="277" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="278" Col="0" ValueType="60">eliminovať</gnm:Cell>
+        <gnm:Cell Row="278" Col="2" ValueType="60">eliminować</gnm:Cell>
+        <gnm:Cell Row="279" Col="0" ValueType="60">e-mail</gnm:Cell>
+        <gnm:Cell Row="279" Col="2" ValueType="60">e-mail</gnm:Cell>
+        <gnm:Cell Row="280" Col="0" ValueType="60">eminentný</gnm:Cell>
+        <gnm:Cell Row="280" Col="2" ValueType="60">eminentny</gnm:Cell>
+        <gnm:Cell Row="281" Col="0" ValueType="60">emir</gnm:Cell>
+        <gnm:Cell Row="281" Col="2" ValueType="60">emir</gnm:Cell>
+        <gnm:Cell Row="282" Col="0" ValueType="60">emisia</gnm:Cell>
+        <gnm:Cell Row="282" Col="1" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="282" Col="2" ValueType="60">emisja</gnm:Cell>
+        <gnm:Cell Row="282" Col="3" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="283" Col="0" ValueType="60">emitovať</gnm:Cell>
+        <gnm:Cell Row="283" Col="2" ValueType="60">emitować</gnm:Cell>
+        <gnm:Cell Row="284" Col="0" ValueType="60">emulácia</gnm:Cell>
+        <gnm:Cell Row="284" Col="1" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="284" Col="2" ValueType="60">emulacja</gnm:Cell>
+        <gnm:Cell Row="284" Col="3" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="285" Col="0" ValueType="60">emulátor</gnm:Cell>
+        <gnm:Cell Row="285" Col="2" ValueType="60">emulator</gnm:Cell>
+        <gnm:Cell Row="286" Col="0" ValueType="60">encyklopédia</gnm:Cell>
+        <gnm:Cell Row="286" Col="1" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="286" Col="2" ValueType="60">encyklopedia</gnm:Cell>
+        <gnm:Cell Row="286" Col="3" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="287" Col="0" ValueType="60">energický</gnm:Cell>
+        <gnm:Cell Row="287" Col="2" ValueType="60">energiczny</gnm:Cell>
+        <gnm:Cell Row="288" Col="0" ValueType="60">entuziazmus</gnm:Cell>
+        <gnm:Cell Row="288" Col="2" ValueType="60">entuzjazm</gnm:Cell>
+        <gnm:Cell Row="289" Col="0" ValueType="60">enumerácia</gnm:Cell>
+        <gnm:Cell Row="289" Col="1" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="289" Col="2" ValueType="60">enumeracja</gnm:Cell>
+        <gnm:Cell Row="289" Col="3" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="290" Col="0" ValueType="60">eón</gnm:Cell>
+        <gnm:Cell Row="290" Col="2" ValueType="60">eon</gnm:Cell>
+        <gnm:Cell Row="291" Col="0" ValueType="60">erekcia</gnm:Cell>
+        <gnm:Cell Row="291" Col="1" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="291" Col="2" ValueType="60">erekcja</gnm:Cell>
+        <gnm:Cell Row="291" Col="3" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="292" Col="0" ValueType="60">Eritrea</gnm:Cell>
+        <gnm:Cell Row="292" Col="1" ValueType="60">np.top.f</gnm:Cell>
+        <gnm:Cell Row="292" Col="2" ValueType="60">Erytrea</gnm:Cell>
+        <gnm:Cell Row="292" Col="3" ValueType="60">np.top.f</gnm:Cell>
+        <gnm:Cell Row="293" Col="0" ValueType="60">esencia</gnm:Cell>
+        <gnm:Cell Row="293" Col="1" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="293" Col="2" ValueType="60">esencja</gnm:Cell>
+        <gnm:Cell Row="293" Col="3" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="294" Col="0" ValueType="60">eskalácia</gnm:Cell>
         <gnm:Cell Row="294" Col="1" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="294" Col="2" ValueType="60">esencja</gnm:Cell>
+        <gnm:Cell Row="294" Col="2" ValueType="60">eskalacja</gnm:Cell>
         <gnm:Cell Row="294" Col="3" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="295" Col="0" ValueType="60">eskalácia</gnm:Cell>
-        <gnm:Cell Row="295" Col="1" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="295" Col="2" ValueType="60">eskalacja</gnm:Cell>
-        <gnm:Cell Row="295" Col="3" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="296" Col="0" ValueType="60">estetický</gnm:Cell>
+        <gnm:Cell Row="295" Col="0" ValueType="60">estetický</gnm:Cell>
+        <gnm:Cell Row="295" Col="1" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="295" Col="2" ValueType="60">estetyczny</gnm:Cell>
+        <gnm:Cell Row="295" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="296" Col="0" ValueType="60">estónsky</gnm:Cell>
         <gnm:Cell Row="296" Col="1" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="296" Col="2" ValueType="60">estetyczny</gnm:Cell>
+        <gnm:Cell Row="296" Col="2" ValueType="60">estoński</gnm:Cell>
         <gnm:Cell Row="296" Col="3" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="297" Col="0" ValueType="60">estónsky</gnm:Cell>
-        <gnm:Cell Row="297" Col="1" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="297" Col="2" ValueType="60">estoński</gnm:Cell>
-        <gnm:Cell Row="297" Col="3" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="298" Col="0" ValueType="60">etiketa</gnm:Cell>
-        <gnm:Cell Row="298" Col="1" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="298" Col="2" ValueType="60">etykieta</gnm:Cell>
-        <gnm:Cell Row="298" Col="3" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="299" Col="0" ValueType="60">Etiópia</gnm:Cell>
-        <gnm:Cell Row="299" Col="1" ValueType="60">np.top.f</gnm:Cell>
-        <gnm:Cell Row="299" Col="2" ValueType="60">Etiopia</gnm:Cell>
-        <gnm:Cell Row="299" Col="3" ValueType="60">np.top.f</gnm:Cell>
-        <gnm:Cell Row="300" Col="0" ValueType="60">káva</gnm:Cell>
+        <gnm:Cell Row="297" Col="0" ValueType="60">etiketa</gnm:Cell>
+        <gnm:Cell Row="297" Col="1" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="297" Col="2" ValueType="60">etykieta</gnm:Cell>
+        <gnm:Cell Row="297" Col="3" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="298" Col="0" ValueType="60">Etiópia</gnm:Cell>
+        <gnm:Cell Row="298" Col="1" ValueType="60">np.top.f</gnm:Cell>
+        <gnm:Cell Row="298" Col="2" ValueType="60">Etiopia</gnm:Cell>
+        <gnm:Cell Row="298" Col="3" ValueType="60">np.top.f</gnm:Cell>
+        <gnm:Cell Row="299" Col="0" ValueType="60">káva</gnm:Cell>
+        <gnm:Cell Row="299" Col="1" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="299" Col="2" ValueType="60">kawa</gnm:Cell>
+        <gnm:Cell Row="299" Col="3" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="300" Col="0" ValueType="60">kaviareň</gnm:Cell>
         <gnm:Cell Row="300" Col="1" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="300" Col="2" ValueType="60">kawa</gnm:Cell>
+        <gnm:Cell Row="300" Col="2" ValueType="60">kawiarnia</gnm:Cell>
         <gnm:Cell Row="300" Col="3" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="301" Col="0" ValueType="60">kaviareň</gnm:Cell>
-        <gnm:Cell Row="301" Col="1" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="301" Col="2" ValueType="60">kawiarnia</gnm:Cell>
-        <gnm:Cell Row="301" Col="3" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="302" Col="0" ValueType="60">kázať</gnm:Cell>
-        <gnm:Cell Row="302" Col="1" ValueType="60">vblex</gnm:Cell>
-        <gnm:Cell Row="302" Col="2" ValueType="60">kazać</gnm:Cell>
-        <gnm:Cell Row="302" Col="3" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="301" Col="0" ValueType="60">kázať</gnm:Cell>
+        <gnm:Cell Row="301" Col="1" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="301" Col="2" ValueType="60">kazać</gnm:Cell>
+        <gnm:Cell Row="301" Col="3" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="302" Col="0" ValueType="60">každý</gnm:Cell>
+        <gnm:Cell Row="302" Col="1" ValueType="60">det.dem</gnm:Cell>
+        <gnm:Cell Row="302" Col="2" ValueType="60">każdy</gnm:Cell>
+        <gnm:Cell Row="302" Col="3" ValueType="60">det.dem</gnm:Cell>
         <gnm:Cell Row="303" Col="0" ValueType="60">každý</gnm:Cell>
-        <gnm:Cell Row="303" Col="1" ValueType="60">det.dem</gnm:Cell>
+        <gnm:Cell Row="303" Col="1" ValueType="60">prn.ind</gnm:Cell>
         <gnm:Cell Row="303" Col="2" ValueType="60">każdy</gnm:Cell>
-        <gnm:Cell Row="303" Col="3" ValueType="60">det.dem</gnm:Cell>
-        <gnm:Cell Row="304" Col="0" ValueType="60">každý</gnm:Cell>
-        <gnm:Cell Row="304" Col="1" ValueType="60">prn.ind</gnm:Cell>
-        <gnm:Cell Row="304" Col="2" ValueType="60">każdy</gnm:Cell>
-        <gnm:Cell Row="304" Col="3" ValueType="60">prn.ind</gnm:Cell>
-        <gnm:Cell Row="305" Col="0" ValueType="60">kde</gnm:Cell>
-        <gnm:Cell Row="305" Col="1" ValueType="60">adv.itg</gnm:Cell>
-        <gnm:Cell Row="305" Col="2" ValueType="60">gdzie</gnm:Cell>
-        <gnm:Cell Row="305" Col="3" ValueType="60">adv.itg</gnm:Cell>
-        <gnm:Cell Row="306" Col="0" ValueType="60">kdekoľvek</gnm:Cell>
-        <gnm:Cell Row="306" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="306" Col="2" ValueType="60">gdziekolwiek</gnm:Cell>
-        <gnm:Cell Row="306" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="307" Col="0" ValueType="60">kedy</gnm:Cell>
-        <gnm:Cell Row="307" Col="1" ValueType="60">adv.itg</gnm:Cell>
-        <gnm:Cell Row="307" Col="2" ValueType="60">kiedy</gnm:Cell>
-        <gnm:Cell Row="307" Col="3" ValueType="60">adv.itg</gnm:Cell>
-        <gnm:Cell Row="308" Col="0" ValueType="60">kedykoľvek</gnm:Cell>
-        <gnm:Cell Row="308" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="308" Col="2" ValueType="60">kiedykolwiek</gnm:Cell>
-        <gnm:Cell Row="308" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="309" Col="0" ValueType="60">koniec</gnm:Cell>
+        <gnm:Cell Row="303" Col="3" ValueType="60">prn.ind</gnm:Cell>
+        <gnm:Cell Row="304" Col="0" ValueType="60">kde</gnm:Cell>
+        <gnm:Cell Row="304" Col="1" ValueType="60">adv.itg</gnm:Cell>
+        <gnm:Cell Row="304" Col="2" ValueType="60">gdzie</gnm:Cell>
+        <gnm:Cell Row="304" Col="3" ValueType="60">adv.itg</gnm:Cell>
+        <gnm:Cell Row="305" Col="0" ValueType="60">kdekoľvek</gnm:Cell>
+        <gnm:Cell Row="305" Col="1" ValueType="60">adv</gnm:Cell>
+        <gnm:Cell Row="305" Col="2" ValueType="60">gdziekolwiek</gnm:Cell>
+        <gnm:Cell Row="305" Col="3" ValueType="60">adv</gnm:Cell>
+        <gnm:Cell Row="306" Col="0" ValueType="60">kedy</gnm:Cell>
+        <gnm:Cell Row="306" Col="1" ValueType="60">adv.itg</gnm:Cell>
+        <gnm:Cell Row="306" Col="2" ValueType="60">kiedy</gnm:Cell>
+        <gnm:Cell Row="306" Col="3" ValueType="60">adv.itg</gnm:Cell>
+        <gnm:Cell Row="307" Col="0" ValueType="60">kedykoľvek</gnm:Cell>
+        <gnm:Cell Row="307" Col="1" ValueType="60">adv</gnm:Cell>
+        <gnm:Cell Row="307" Col="2" ValueType="60">kiedykolwiek</gnm:Cell>
+        <gnm:Cell Row="307" Col="3" ValueType="60">adv</gnm:Cell>
+        <gnm:Cell Row="308" Col="0" ValueType="60">koniec</gnm:Cell>
+        <gnm:Cell Row="308" Col="1" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="308" Col="2" ValueType="60">koniec</gnm:Cell>
+        <gnm:Cell Row="308" Col="3" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="309" Col="0" ValueType="60">koniec týždňa</gnm:Cell>
         <gnm:Cell Row="309" Col="1" ValueType="60">n.mi</gnm:Cell>
-        <gnm:Cell Row="309" Col="2" ValueType="60">koniec</gnm:Cell>
+        <gnm:Cell Row="309" Col="2" ValueType="60">weekend</gnm:Cell>
         <gnm:Cell Row="309" Col="3" ValueType="60">n.mi</gnm:Cell>
-        <gnm:Cell Row="310" Col="0" ValueType="60">koniec týždňa</gnm:Cell>
-        <gnm:Cell Row="310" Col="1" ValueType="60">n.mi</gnm:Cell>
-        <gnm:Cell Row="310" Col="2" ValueType="60">weekend</gnm:Cell>
-        <gnm:Cell Row="310" Col="3" ValueType="60">n.mi</gnm:Cell>
-        <gnm:Cell Row="311" Col="0" ValueType="60">na</gnm:Cell>
-        <gnm:Cell Row="311" Col="1" ValueType="60">pr</gnm:Cell>
-        <gnm:Cell Row="311" Col="2" ValueType="60">na</gnm:Cell>
-        <gnm:Cell Row="311" Col="3" ValueType="60">pr</gnm:Cell>
-        <gnm:Cell Row="312" Col="0" ValueType="60">na našej strane</gnm:Cell>
+        <gnm:Cell Row="310" Col="0" ValueType="60">na</gnm:Cell>
+        <gnm:Cell Row="310" Col="1" ValueType="60">pr</gnm:Cell>
+        <gnm:Cell Row="310" Col="2" ValueType="60">na</gnm:Cell>
+        <gnm:Cell Row="310" Col="3" ValueType="60">pr</gnm:Cell>
+        <gnm:Cell Row="311" Col="0" ValueType="60">na našej strane</gnm:Cell>
+        <gnm:Cell Row="311" Col="1" ValueType="60">adv</gnm:Cell>
+        <gnm:Cell Row="311" Col="2" ValueType="60">na naszej stronie </gnm:Cell>
+        <gnm:Cell Row="311" Col="3" ValueType="60">adv</gnm:Cell>
+        <gnm:Cell Row="312" Col="0" ValueType="60">na veky vekov</gnm:Cell>
         <gnm:Cell Row="312" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="312" Col="2" ValueType="60">na naszej stronie </gnm:Cell>
+        <gnm:Cell Row="312" Col="2" ValueType="60">na wieki wieków</gnm:Cell>
         <gnm:Cell Row="312" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="313" Col="0" ValueType="60">na veky vekov</gnm:Cell>
-        <gnm:Cell Row="313" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="313" Col="2" ValueType="60">na wieki wieków</gnm:Cell>
-        <gnm:Cell Row="313" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="314" Col="0" ValueType="60">od</gnm:Cell>
-        <gnm:Cell Row="314" Col="1" ValueType="60">pr</gnm:Cell>
-        <gnm:Cell Row="314" Col="2" ValueType="60">od</gnm:Cell>
-        <gnm:Cell Row="314" Col="3" ValueType="60">pr</gnm:Cell>
-        <gnm:Cell Row="315" Col="0" ValueType="60">od domu k domu</gnm:Cell>
+        <gnm:Cell Row="313" Col="0" ValueType="60">od</gnm:Cell>
+        <gnm:Cell Row="313" Col="1" ValueType="60">pr</gnm:Cell>
+        <gnm:Cell Row="313" Col="2" ValueType="60">od</gnm:Cell>
+        <gnm:Cell Row="313" Col="3" ValueType="60">pr</gnm:Cell>
+        <gnm:Cell Row="314" Col="0" ValueType="60">od domu k domu</gnm:Cell>
+        <gnm:Cell Row="314" Col="1" ValueType="60">adv</gnm:Cell>
+        <gnm:Cell Row="314" Col="2" ValueType="60">od domu do domu </gnm:Cell>
+        <gnm:Cell Row="314" Col="3" ValueType="60">adv</gnm:Cell>
+        <gnm:Cell Row="315" Col="0" ValueType="60">od hlavy po päty</gnm:Cell>
         <gnm:Cell Row="315" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="315" Col="2" ValueType="60">od domu do domu </gnm:Cell>
+        <gnm:Cell Row="315" Col="2" ValueType="60">od głowy do stóp </gnm:Cell>
         <gnm:Cell Row="315" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="316" Col="0" ValueType="60">od hlavy po päty</gnm:Cell>
+        <gnm:Cell Row="316" Col="0" ValueType="60">od pobrežia k pobrežiu</gnm:Cell>
         <gnm:Cell Row="316" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="316" Col="2" ValueType="60">od głowy do stóp </gnm:Cell>
+        <gnm:Cell Row="316" Col="2" ValueType="60">od wybrzeża do wybrzeża </gnm:Cell>
         <gnm:Cell Row="316" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="317" Col="0" ValueType="60">od pobrežia k pobrežiu</gnm:Cell>
+        <gnm:Cell Row="317" Col="0" ValueType="60">od steny k stene</gnm:Cell>
         <gnm:Cell Row="317" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="317" Col="2" ValueType="60">od wybrzeża do wybrzeża </gnm:Cell>
+        <gnm:Cell Row="317" Col="2" ValueType="60">od ściany do ściany </gnm:Cell>
         <gnm:Cell Row="317" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="318" Col="0" ValueType="60">od steny k stene</gnm:Cell>
+        <gnm:Cell Row="318" Col="0" ValueType="60">od začiatku do konca</gnm:Cell>
         <gnm:Cell Row="318" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="318" Col="2" ValueType="60">od ściany do ściany </gnm:Cell>
+        <gnm:Cell Row="318" Col="2" ValueType="60">od początku do końca</gnm:Cell>
         <gnm:Cell Row="318" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="319" Col="0" ValueType="60">od začiatku do konca</gnm:Cell>
-        <gnm:Cell Row="319" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="319" Col="2" ValueType="60">od początku do końca</gnm:Cell>
-        <gnm:Cell Row="319" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="320" Col="0" ValueType="60">okno</gnm:Cell>
+        <gnm:Cell Row="319" Col="0" ValueType="60">okno</gnm:Cell>
+        <gnm:Cell Row="319" Col="1" ValueType="60">n.nt</gnm:Cell>
+        <gnm:Cell Row="319" Col="2" ValueType="60">okno</gnm:Cell>
+        <gnm:Cell Row="319" Col="3" ValueType="60">n.nt</gnm:Cell>
+        <gnm:Cell Row="320" Col="0" ValueType="60">oko</gnm:Cell>
         <gnm:Cell Row="320" Col="1" ValueType="60">n.nt</gnm:Cell>
-        <gnm:Cell Row="320" Col="2" ValueType="60">okno</gnm:Cell>
+        <gnm:Cell Row="320" Col="2" ValueType="60">oko</gnm:Cell>
         <gnm:Cell Row="320" Col="3" ValueType="60">n.nt</gnm:Cell>
-        <gnm:Cell Row="321" Col="0" ValueType="60">oko</gnm:Cell>
-        <gnm:Cell Row="321" Col="1" ValueType="60">n.nt</gnm:Cell>
-        <gnm:Cell Row="321" Col="2" ValueType="60">oko</gnm:Cell>
-        <gnm:Cell Row="321" Col="3" ValueType="60">n.nt</gnm:Cell>
-        <gnm:Cell Row="322" Col="0" ValueType="60">počítač</gnm:Cell>
-        <gnm:Cell Row="322" Col="2" ValueType="60">komputer</gnm:Cell>
-        <gnm:Cell Row="322" Col="3" ValueType="60">n.mi</gnm:Cell>
-        <gnm:Cell Row="323" Col="0" ValueType="60">sedem</gnm:Cell>
+        <gnm:Cell Row="321" Col="0" ValueType="60">počítač</gnm:Cell>
+        <gnm:Cell Row="321" Col="2" ValueType="60">komputer</gnm:Cell>
+        <gnm:Cell Row="321" Col="3" ValueType="60">n.mi</gnm:Cell>
+        <gnm:Cell Row="322" Col="0" ValueType="60">sedem</gnm:Cell>
+        <gnm:Cell Row="322" Col="1" ValueType="60">num</gnm:Cell>
+        <gnm:Cell Row="322" Col="2" ValueType="60">siedem</gnm:Cell>
+        <gnm:Cell Row="322" Col="3" ValueType="60">num</gnm:Cell>
+        <gnm:Cell Row="323" Col="0" ValueType="60">sedemdesiat</gnm:Cell>
         <gnm:Cell Row="323" Col="1" ValueType="60">num</gnm:Cell>
-        <gnm:Cell Row="323" Col="2" ValueType="60">siedem</gnm:Cell>
+        <gnm:Cell Row="323" Col="2" ValueType="60">siedemdziesiąt </gnm:Cell>
         <gnm:Cell Row="323" Col="3" ValueType="60">num</gnm:Cell>
-        <gnm:Cell Row="324" Col="0" ValueType="60">sedemdesiat</gnm:Cell>
+        <gnm:Cell Row="324" Col="0" ValueType="60">sedemnásť</gnm:Cell>
         <gnm:Cell Row="324" Col="1" ValueType="60">num</gnm:Cell>
-        <gnm:Cell Row="324" Col="2" ValueType="60">siedemdziesiąt </gnm:Cell>
+        <gnm:Cell Row="324" Col="2" ValueType="60">siedemnaście </gnm:Cell>
         <gnm:Cell Row="324" Col="3" ValueType="60">num</gnm:Cell>
-        <gnm:Cell Row="325" Col="0" ValueType="60">sedemnásť</gnm:Cell>
+        <gnm:Cell Row="325" Col="0" ValueType="60">sedemsto</gnm:Cell>
         <gnm:Cell Row="325" Col="1" ValueType="60">num</gnm:Cell>
-        <gnm:Cell Row="325" Col="2" ValueType="60">siedemnaście </gnm:Cell>
+        <gnm:Cell Row="325" Col="2" ValueType="60">siedemset </gnm:Cell>
         <gnm:Cell Row="325" Col="3" ValueType="60">num</gnm:Cell>
-        <gnm:Cell Row="326" Col="0" ValueType="60">sedemsto</gnm:Cell>
-        <gnm:Cell Row="326" Col="1" ValueType="60">num</gnm:Cell>
-        <gnm:Cell Row="326" Col="2" ValueType="60">siedemset </gnm:Cell>
-        <gnm:Cell Row="326" Col="3" ValueType="60">num</gnm:Cell>
-        <gnm:Cell Row="327" Col="0" ValueType="60">sedieť</gnm:Cell>
-        <gnm:Cell Row="327" Col="1" ValueType="60">vblex</gnm:Cell>
-        <gnm:Cell Row="327" Col="2" ValueType="60">siedzieć </gnm:Cell>
-        <gnm:Cell Row="327" Col="3" ValueType="60">vblex</gnm:Cell>
-        <gnm:Cell Row="328" Col="0" ValueType="60">sekretár</gnm:Cell>
-        <gnm:Cell Row="328" Col="1" ValueType="60">n.ma</gnm:Cell>
-        <gnm:Cell Row="328" Col="2" ValueType="60">sekretarz</gnm:Cell>
-        <gnm:Cell Row="328" Col="3" ValueType="60">n.mp</gnm:Cell>
-        <gnm:Cell Row="329" Col="0" ValueType="60">sekvencia</gnm:Cell>
-        <gnm:Cell Row="329" Col="1" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="329" Col="2" ValueType="60">sekwencja</gnm:Cell>
-        <gnm:Cell Row="329" Col="3" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="330" Col="0" ValueType="60">sekvenčný</gnm:Cell>
+        <gnm:Cell Row="326" Col="0" ValueType="60">sedieť</gnm:Cell>
+        <gnm:Cell Row="326" Col="1" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="326" Col="2" ValueType="60">siedzieć </gnm:Cell>
+        <gnm:Cell Row="326" Col="3" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="327" Col="0" ValueType="60">sekretár</gnm:Cell>
+        <gnm:Cell Row="327" Col="1" ValueType="60">n.ma</gnm:Cell>
+        <gnm:Cell Row="327" Col="2" ValueType="60">sekretarz</gnm:Cell>
+        <gnm:Cell Row="327" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="328" Col="0" ValueType="60">sekvencia</gnm:Cell>
+        <gnm:Cell Row="328" Col="1" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="328" Col="2" ValueType="60">sekwencja</gnm:Cell>
+        <gnm:Cell Row="328" Col="3" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="329" Col="0" ValueType="60">sekvenčný</gnm:Cell>
+        <gnm:Cell Row="329" Col="1" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="329" Col="2" ValueType="60">sekwencyjny </gnm:Cell>
+        <gnm:Cell Row="329" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="330" Col="0" ValueType="60">selektívny</gnm:Cell>
         <gnm:Cell Row="330" Col="1" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="330" Col="2" ValueType="60">sekwencyjny </gnm:Cell>
+        <gnm:Cell Row="330" Col="2" ValueType="60">selektywny</gnm:Cell>
         <gnm:Cell Row="330" Col="3" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="331" Col="0" ValueType="60">selektívny</gnm:Cell>
+        <gnm:Cell Row="331" Col="0" ValueType="60">smutný</gnm:Cell>
         <gnm:Cell Row="331" Col="1" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="331" Col="2" ValueType="60">selektywny</gnm:Cell>
+        <gnm:Cell Row="331" Col="2" ValueType="60">smutny</gnm:Cell>
         <gnm:Cell Row="331" Col="3" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="332" Col="0" ValueType="60">smutný</gnm:Cell>
-        <gnm:Cell Row="332" Col="1" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="332" Col="2" ValueType="60">smutny</gnm:Cell>
-        <gnm:Cell Row="332" Col="3" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="333" Col="0" ValueType="60">spať</gnm:Cell>
+        <gnm:Cell Row="332" Col="0" ValueType="60">spať</gnm:Cell>
+        <gnm:Cell Row="332" Col="1" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="332" Col="2" ValueType="60">spać</gnm:Cell>
+        <gnm:Cell Row="332" Col="3" ValueType="60">vblex</gnm:Cell>
+        <gnm:Cell Row="333" Col="0" ValueType="60">spievať</gnm:Cell>
         <gnm:Cell Row="333" Col="1" ValueType="60">vblex</gnm:Cell>
-        <gnm:Cell Row="333" Col="2" ValueType="60">spać</gnm:Cell>
+        <gnm:Cell Row="333" Col="2" ValueType="60">śpiewać</gnm:Cell>
         <gnm:Cell Row="333" Col="3" ValueType="60">vblex</gnm:Cell>
-        <gnm:Cell Row="334" Col="0" ValueType="60">spievať</gnm:Cell>
-        <gnm:Cell Row="334" Col="1" ValueType="60">vblex</gnm:Cell>
-        <gnm:Cell Row="334" Col="2" ValueType="60">śpiewać</gnm:Cell>
-        <gnm:Cell Row="334" Col="3" ValueType="60">vblex</gnm:Cell>
-        <gnm:Cell Row="335" Col="0" ValueType="60">sto</gnm:Cell>
-        <gnm:Cell Row="335" Col="1" ValueType="60">num</gnm:Cell>
-        <gnm:Cell Row="335" Col="2" ValueType="60">sto</gnm:Cell>
-        <gnm:Cell Row="335" Col="3" ValueType="60">num</gnm:Cell>
-        <gnm:Cell Row="336" Col="0" ValueType="60">strašne</gnm:Cell>
-        <gnm:Cell Row="336" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="336" Col="2" ValueType="60">strasznie</gnm:Cell>
-        <gnm:Cell Row="336" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="337" Col="0" ValueType="60">strašný</gnm:Cell>
-        <gnm:Cell Row="337" Col="1" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="337" Col="2" ValueType="60">straszny</gnm:Cell>
-        <gnm:Cell Row="337" Col="3" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="338" Col="0" ValueType="60">šesť</gnm:Cell>
+        <gnm:Cell Row="334" Col="0" ValueType="60">sto</gnm:Cell>
+        <gnm:Cell Row="334" Col="1" ValueType="60">num</gnm:Cell>
+        <gnm:Cell Row="334" Col="2" ValueType="60">sto</gnm:Cell>
+        <gnm:Cell Row="334" Col="3" ValueType="60">num</gnm:Cell>
+        <gnm:Cell Row="335" Col="0" ValueType="60">strašne</gnm:Cell>
+        <gnm:Cell Row="335" Col="1" ValueType="60">adv</gnm:Cell>
+        <gnm:Cell Row="335" Col="2" ValueType="60">strasznie</gnm:Cell>
+        <gnm:Cell Row="335" Col="3" ValueType="60">adv</gnm:Cell>
+        <gnm:Cell Row="336" Col="0" ValueType="60">strašný</gnm:Cell>
+        <gnm:Cell Row="336" Col="1" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="336" Col="2" ValueType="60">straszny</gnm:Cell>
+        <gnm:Cell Row="336" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="337" Col="0" ValueType="60">šesť</gnm:Cell>
+        <gnm:Cell Row="337" Col="1" ValueType="60">num</gnm:Cell>
+        <gnm:Cell Row="337" Col="2" ValueType="60">sześć </gnm:Cell>
+        <gnm:Cell Row="337" Col="3" ValueType="60">num</gnm:Cell>
+        <gnm:Cell Row="338" Col="0" ValueType="60">šestnásť</gnm:Cell>
         <gnm:Cell Row="338" Col="1" ValueType="60">num</gnm:Cell>
-        <gnm:Cell Row="338" Col="2" ValueType="60">sześć </gnm:Cell>
+        <gnm:Cell Row="338" Col="2" ValueType="60">szesnaście </gnm:Cell>
         <gnm:Cell Row="338" Col="3" ValueType="60">num</gnm:Cell>
-        <gnm:Cell Row="339" Col="0" ValueType="60">šestnásť</gnm:Cell>
+        <gnm:Cell Row="339" Col="0" ValueType="60">šesťsto</gnm:Cell>
         <gnm:Cell Row="339" Col="1" ValueType="60">num</gnm:Cell>
-        <gnm:Cell Row="339" Col="2" ValueType="60">szesnaście </gnm:Cell>
+        <gnm:Cell Row="339" Col="2" ValueType="60">sześćset </gnm:Cell>
         <gnm:Cell Row="339" Col="3" ValueType="60">num</gnm:Cell>
-        <gnm:Cell Row="340" Col="0" ValueType="60">šesťsto</gnm:Cell>
-        <gnm:Cell Row="340" Col="1" ValueType="60">num</gnm:Cell>
-        <gnm:Cell Row="340" Col="2" ValueType="60">sześćset </gnm:Cell>
-        <gnm:Cell Row="340" Col="3" ValueType="60">num</gnm:Cell>
-        <gnm:Cell Row="341" Col="0" ValueType="60">šialenec</gnm:Cell>
-        <gnm:Cell Row="341" Col="1" ValueType="60">n.ma</gnm:Cell>
-        <gnm:Cell Row="341" Col="2" ValueType="60">szaleniec</gnm:Cell>
-        <gnm:Cell Row="341" Col="3" ValueType="60">n.mp</gnm:Cell>
-        <gnm:Cell Row="342" Col="0" ValueType="60">šialenstvo</gnm:Cell>
-        <gnm:Cell Row="342" Col="1" ValueType="60">n.nt</gnm:Cell>
-        <gnm:Cell Row="342" Col="2" ValueType="60">szaleństwo</gnm:Cell>
-        <gnm:Cell Row="342" Col="3" ValueType="60">n.nt</gnm:Cell>
-        <gnm:Cell Row="343" Col="0" ValueType="60">šialený</gnm:Cell>
-        <gnm:Cell Row="343" Col="1" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="343" Col="2" ValueType="60">szalony</gnm:Cell>
-        <gnm:Cell Row="343" Col="3" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="344" Col="0" ValueType="60">široko</gnm:Cell>
-        <gnm:Cell Row="344" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="344" Col="2" ValueType="60">szeroko</gnm:Cell>
-        <gnm:Cell Row="344" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="345" Col="0" ValueType="60">široký</gnm:Cell>
-        <gnm:Cell Row="345" Col="1" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="345" Col="2" ValueType="60">szeroki</gnm:Cell>
-        <gnm:Cell Row="345" Col="3" ValueType="60">adj</gnm:Cell>
-        <gnm:Cell Row="346" Col="0" ValueType="60">škola</gnm:Cell>
-        <gnm:Cell Row="346" Col="1" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="346" Col="2" ValueType="60">szkoła</gnm:Cell>
-        <gnm:Cell Row="346" Col="3" ValueType="60">n.f</gnm:Cell>
-        <gnm:Cell Row="347" Col="0" ValueType="60">šľachta</gnm:Cell>
-        <gnm:Cell Row="347" Col="2" ValueType="60">szlachta</gnm:Cell>
-        <gnm:Cell Row="348" Col="0" ValueType="60">učiť</gnm:Cell>
-        <gnm:Cell Row="348" Col="1" ValueType="60">vblex.imperf</gnm:Cell>
-        <gnm:Cell Row="348" Col="2" ValueType="60">uczyć</gnm:Cell>
-        <gnm:Cell Row="348" Col="3" ValueType="60">vblex.imperf</gnm:Cell>
-        <gnm:Cell Row="349" Col="0" ValueType="60">v</gnm:Cell>
-        <gnm:Cell Row="349" Col="1" ValueType="60">pr</gnm:Cell>
-        <gnm:Cell Row="349" Col="2" ValueType="60">w</gnm:Cell>
-        <gnm:Cell Row="349" Col="3" ValueType="60">pr</gnm:Cell>
-        <gnm:Cell Row="350" Col="0" ValueType="60">v každom prípade</gnm:Cell>
-        <gnm:Cell Row="350" Col="1" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="350" Col="2" ValueType="60">w każdym przypadku </gnm:Cell>
-        <gnm:Cell Row="350" Col="3" ValueType="60">adv</gnm:Cell>
-        <gnm:Cell Row="351" Col="0" ValueType="60">zabíjať</gnm:Cell>
-        <gnm:Cell Row="351" Col="1" ValueType="60">vblex.imperf</gnm:Cell>
-        <gnm:Cell Row="351" Col="2" ValueType="60">zabijać</gnm:Cell>
-        <gnm:Cell Row="351" Col="3" ValueType="60">vblex.imperf</gnm:Cell>
-        <gnm:Cell Row="352" Col="0" ValueType="60">zabiť</gnm:Cell>
-        <gnm:Cell Row="352" Col="1" ValueType="60">vblex.perf</gnm:Cell>
-        <gnm:Cell Row="352" Col="2" ValueType="60">zabić</gnm:Cell>
-        <gnm:Cell Row="352" Col="3" ValueType="60">vblex.perf</gnm:Cell>
+        <gnm:Cell Row="340" Col="0" ValueType="60">šialenec</gnm:Cell>
+        <gnm:Cell Row="340" Col="1" ValueType="60">n.ma</gnm:Cell>
+        <gnm:Cell Row="340" Col="2" ValueType="60">szaleniec</gnm:Cell>
+        <gnm:Cell Row="340" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="341" Col="0" ValueType="60">šialenstvo</gnm:Cell>
+        <gnm:Cell Row="341" Col="1" ValueType="60">n.nt</gnm:Cell>
+        <gnm:Cell Row="341" Col="2" ValueType="60">szaleństwo</gnm:Cell>
+        <gnm:Cell Row="341" Col="3" ValueType="60">n.nt</gnm:Cell>
+        <gnm:Cell Row="342" Col="0" ValueType="60">šialený</gnm:Cell>
+        <gnm:Cell Row="342" Col="1" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="342" Col="2" ValueType="60">szalony</gnm:Cell>
+        <gnm:Cell Row="342" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="343" Col="0" ValueType="60">široko</gnm:Cell>
+        <gnm:Cell Row="343" Col="1" ValueType="60">adv</gnm:Cell>
+        <gnm:Cell Row="343" Col="2" ValueType="60">szeroko</gnm:Cell>
+        <gnm:Cell Row="343" Col="3" ValueType="60">adv</gnm:Cell>
+        <gnm:Cell Row="344" Col="0" ValueType="60">široký</gnm:Cell>
+        <gnm:Cell Row="344" Col="1" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="344" Col="2" ValueType="60">szeroki</gnm:Cell>
+        <gnm:Cell Row="344" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="345" Col="0" ValueType="60">škola</gnm:Cell>
+        <gnm:Cell Row="345" Col="1" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="345" Col="2" ValueType="60">szkoła</gnm:Cell>
+        <gnm:Cell Row="345" Col="3" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="346" Col="0" ValueType="60">šľachta</gnm:Cell>
+        <gnm:Cell Row="346" Col="2" ValueType="60">szlachta</gnm:Cell>
+        <gnm:Cell Row="347" Col="0" ValueType="60">učiť</gnm:Cell>
+        <gnm:Cell Row="347" Col="1" ValueType="60">vblex.imperf</gnm:Cell>
+        <gnm:Cell Row="347" Col="2" ValueType="60">uczyć</gnm:Cell>
+        <gnm:Cell Row="347" Col="3" ValueType="60">vblex.imperf</gnm:Cell>
+        <gnm:Cell Row="348" Col="0" ValueType="60">v</gnm:Cell>
+        <gnm:Cell Row="348" Col="1" ValueType="60">pr</gnm:Cell>
+        <gnm:Cell Row="348" Col="2" ValueType="60">w</gnm:Cell>
+        <gnm:Cell Row="348" Col="3" ValueType="60">pr</gnm:Cell>
+        <gnm:Cell Row="349" Col="0" ValueType="60">v každom prípade</gnm:Cell>
+        <gnm:Cell Row="349" Col="1" ValueType="60">adv</gnm:Cell>
+        <gnm:Cell Row="349" Col="2" ValueType="60">w każdym przypadku </gnm:Cell>
+        <gnm:Cell Row="349" Col="3" ValueType="60">adv</gnm:Cell>
+        <gnm:Cell Row="350" Col="0" ValueType="60">zabíjať</gnm:Cell>
+        <gnm:Cell Row="350" Col="1" ValueType="60">vblex.imperf</gnm:Cell>
+        <gnm:Cell Row="350" Col="2" ValueType="60">zabijać</gnm:Cell>
+        <gnm:Cell Row="350" Col="3" ValueType="60">vblex.imperf</gnm:Cell>
+        <gnm:Cell Row="351" Col="0" ValueType="60">zabiť</gnm:Cell>
+        <gnm:Cell Row="351" Col="1" ValueType="60">vblex.perf</gnm:Cell>
+        <gnm:Cell Row="351" Col="2" ValueType="60">zabić</gnm:Cell>
+        <gnm:Cell Row="351" Col="3" ValueType="60">vblex.perf</gnm:Cell>
       </gnm:Cells>
-      <gnm:SheetLayout TopLeft="A175"/>
+      <gnm:SheetLayout TopLeft="A199"/>
       <gnm:Solver ProblemType="1" Inputs="" MaxTime="0" MaxIter="0" NonNeg="1" Discr="0" AutoScale="0" ShowIter="0" AnswerR="0" SensitivityR="0" LimitsR="0" PerformR="0" ProgramR="0"/>
     </gnm:Sheet>
     <gnm:Sheet DisplayFormulas="0" HideZero="0" HideGrid="0" HideColHeader="0" HideRowHeader="0" DisplayOutlines="1" OutlineSymbolsBelow="1" OutlineSymbolsRight="1" Visibility="GNM_SHEET_VISIBILITY_VISIBLE" GridColor="0:0:0">
