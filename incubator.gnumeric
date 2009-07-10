@@ -132,10 +132,10 @@
         <gnm:ColInfo No="3" Unit="48" Count="5"/>
       </gnm:Cols>
       <gnm:Rows DefaultSizePts="12.75">
-        <gnm:RowInfo No="0" Unit="13.5" Count="407"/>
+        <gnm:RowInfo No="0" Unit="13.5" Count="409"/>
       </gnm:Rows>
-      <gnm:Selections CursorCol="3" CursorRow="370">
-        <gnm:Selection startCol="3" startRow="370" endCol="3" endRow="386"/>
+      <gnm:Selections CursorCol="4" CursorRow="351">
+        <gnm:Selection startCol="4" startRow="351" endCol="4" endRow="351"/>
       </gnm:Selections>
       <gnm:Cells>
         <gnm:Cell Row="0" Col="0" ValueType="60">a</gnm:Cell>
@@ -1831,141 +1831,175 @@
         <gnm:Cell Row="352" Col="1" ValueType="60">np.top.nt</gnm:Cell>
         <gnm:Cell Row="352" Col="2" ValueType="60">Austria</gnm:Cell>
         <gnm:Cell Row="352" Col="3" ValueType="60">np.top.f</gnm:Cell>
+        <gnm:Cell Row="352" Col="4" ValueType="60">Austria</gnm:Cell>
         <gnm:Cell Row="353" Col="0" ValueType="60">Brazília</gnm:Cell>
         <gnm:Cell Row="353" Col="1" ValueType="60">np.top.f</gnm:Cell>
         <gnm:Cell Row="353" Col="2" ValueType="60">Brazylia</gnm:Cell>
         <gnm:Cell Row="353" Col="3" ValueType="60">np.top.f</gnm:Cell>
+        <gnm:Cell Row="353" Col="4" ValueType="60">Brazil</gnm:Cell>
         <gnm:Cell Row="354" Col="0" ValueType="60">Čína</gnm:Cell>
         <gnm:Cell Row="354" Col="1" ValueType="60">np.top.f</gnm:Cell>
         <gnm:Cell Row="354" Col="2" ValueType="60">Chiny</gnm:Cell>
         <gnm:Cell Row="354" Col="3" ValueType="60">np.top.f.pl</gnm:Cell>
+        <gnm:Cell Row="354" Col="4" ValueType="60">China</gnm:Cell>
         <gnm:Cell Row="355" Col="0" ValueType="60">Česko</gnm:Cell>
         <gnm:Cell Row="355" Col="1" ValueType="60">np.top.nt</gnm:Cell>
         <gnm:Cell Row="355" Col="2" ValueType="60">Czechy</gnm:Cell>
         <gnm:Cell Row="355" Col="3" ValueType="60">np.top.f.pl</gnm:Cell>
+        <gnm:Cell Row="355" Col="4" ValueType="60">Czech</gnm:Cell>
         <gnm:Cell Row="356" Col="0" ValueType="60">Francúzsko</gnm:Cell>
         <gnm:Cell Row="356" Col="1" ValueType="60">np.top.nt</gnm:Cell>
         <gnm:Cell Row="356" Col="2" ValueType="60">Francja</gnm:Cell>
         <gnm:Cell Row="356" Col="3" ValueType="60">np.top.f</gnm:Cell>
+        <gnm:Cell Row="356" Col="4" ValueType="60">France</gnm:Cell>
         <gnm:Cell Row="357" Col="0" ValueType="60">Grécko</gnm:Cell>
         <gnm:Cell Row="357" Col="1" ValueType="60">np.top.nt</gnm:Cell>
         <gnm:Cell Row="357" Col="2" ValueType="60">Grecja</gnm:Cell>
         <gnm:Cell Row="357" Col="3" ValueType="60">np.top.f</gnm:Cell>
+        <gnm:Cell Row="357" Col="4" ValueType="60">Greece</gnm:Cell>
         <gnm:Cell Row="358" Col="0" ValueType="60">Španielsko</gnm:Cell>
         <gnm:Cell Row="358" Col="1" ValueType="60">np.top.nt</gnm:Cell>
         <gnm:Cell Row="358" Col="2" ValueType="60">Hiszpania</gnm:Cell>
         <gnm:Cell Row="358" Col="3" ValueType="60">np.top.f</gnm:Cell>
+        <gnm:Cell Row="358" Col="4" ValueType="60">Spain</gnm:Cell>
         <gnm:Cell Row="359" Col="0" ValueType="60">Nemecko</gnm:Cell>
         <gnm:Cell Row="359" Col="1" ValueType="60">np.top.nt</gnm:Cell>
         <gnm:Cell Row="359" Col="2" ValueType="60">Niemcy</gnm:Cell>
         <gnm:Cell Row="359" Col="3" ValueType="60">np.top.f.pl</gnm:Cell>
+        <gnm:Cell Row="359" Col="4" ValueType="60">Germany</gnm:Cell>
         <gnm:Cell Row="360" Col="0" ValueType="60">Poľsko</gnm:Cell>
         <gnm:Cell Row="360" Col="1" ValueType="60">np.top.nt</gnm:Cell>
         <gnm:Cell Row="360" Col="2" ValueType="60">Polska</gnm:Cell>
         <gnm:Cell Row="360" Col="3" ValueType="60">np.top.f</gnm:Cell>
+        <gnm:Cell Row="360" Col="4" ValueType="60">Poland</gnm:Cell>
         <gnm:Cell Row="361" Col="0" ValueType="60">Portugalsko</gnm:Cell>
         <gnm:Cell Row="361" Col="1" ValueType="60">np.top.nt</gnm:Cell>
         <gnm:Cell Row="361" Col="2" ValueType="60">Portugalia</gnm:Cell>
         <gnm:Cell Row="361" Col="3" ValueType="60">np.top.f</gnm:Cell>
+        <gnm:Cell Row="361" Col="4" ValueType="60">Portugal</gnm:Cell>
         <gnm:Cell Row="362" Col="0" ValueType="60">Rusko</gnm:Cell>
         <gnm:Cell Row="362" Col="1" ValueType="60">np.top.nt</gnm:Cell>
         <gnm:Cell Row="362" Col="2" ValueType="60">Rosja</gnm:Cell>
         <gnm:Cell Row="362" Col="3" ValueType="60">np.top.f</gnm:Cell>
+        <gnm:Cell Row="362" Col="4" ValueType="60">Russia</gnm:Cell>
         <gnm:Cell Row="363" Col="0" ValueType="60">Rumunsko</gnm:Cell>
         <gnm:Cell Row="363" Col="1" ValueType="60">np.top.nt</gnm:Cell>
         <gnm:Cell Row="363" Col="2" ValueType="60">Rumunia</gnm:Cell>
         <gnm:Cell Row="363" Col="3" ValueType="60">np.top.f</gnm:Cell>
+        <gnm:Cell Row="363" Col="4" ValueType="60">Romania</gnm:Cell>
         <gnm:Cell Row="364" Col="0" ValueType="60">Slovensko</gnm:Cell>
         <gnm:Cell Row="364" Col="1" ValueType="60">np.top.nt</gnm:Cell>
-        <gnm:Cell Row="364" Col="2" ValueType="60">Rumunia</gnm:Cell>
         <gnm:Cell Row="364" Col="3" ValueType="60">np.top.f</gnm:Cell>
+        <gnm:Cell Row="364" Col="4" ValueType="60">Slovakia</gnm:Cell>
         <gnm:Cell Row="365" Col="0" ValueType="60">Ukrajina</gnm:Cell>
         <gnm:Cell Row="365" Col="1" ValueType="60">np.top.f</gnm:Cell>
         <gnm:Cell Row="365" Col="2" ValueType="60">Ukraina</gnm:Cell>
         <gnm:Cell Row="365" Col="3" ValueType="60">np.top.f</gnm:Cell>
+        <gnm:Cell Row="365" Col="4" ValueType="60">Ukraine</gnm:Cell>
         <gnm:Cell Row="366" Col="0" ValueType="60">Spojené štáty</gnm:Cell>
         <gnm:Cell Row="366" Col="1" ValueType="60">np.top.mi.pl</gnm:Cell>
         <gnm:Cell Row="366" Col="3" ValueType="60">np.top.mi.pl</gnm:Cell>
+        <gnm:Cell Row="366" Col="4" ValueType="60">United States</gnm:Cell>
         <gnm:Cell Row="367" Col="0" ValueType="60">Maďarsko</gnm:Cell>
         <gnm:Cell Row="367" Col="1" ValueType="60">np.top.nt</gnm:Cell>
         <gnm:Cell Row="367" Col="2" ValueType="60">Węgry</gnm:Cell>
         <gnm:Cell Row="367" Col="3" ValueType="60">np.top.f.pl</gnm:Cell>
+        <gnm:Cell Row="367" Col="4" ValueType="60">Hungary</gnm:Cell>
         <gnm:Cell Row="368" Col="0" ValueType="60">Veľka Británia</gnm:Cell>
         <gnm:Cell Row="368" Col="1" ValueType="60">np.top.f</gnm:Cell>
         <gnm:Cell Row="368" Col="2" ValueType="60">Wielka Brytania</gnm:Cell>
         <gnm:Cell Row="368" Col="3" ValueType="60">np.top.f</gnm:Cell>
+        <gnm:Cell Row="368" Col="4" ValueType="60">Great Britain</gnm:Cell>
         <gnm:Cell Row="369" Col="0" ValueType="60">Taliansko</gnm:Cell>
         <gnm:Cell Row="369" Col="1" ValueType="60">np.top.nt</gnm:Cell>
         <gnm:Cell Row="369" Col="2" ValueType="60">Włochy</gnm:Cell>
         <gnm:Cell Row="369" Col="3" ValueType="60">np.top.f.pl</gnm:Cell>
+        <gnm:Cell Row="369" Col="4" ValueType="60">Italy</gnm:Cell>
         <gnm:Cell Row="370" Col="0" ValueType="60">rakúsky</gnm:Cell>
         <gnm:Cell Row="370" Col="1" ValueType="60">adj</gnm:Cell>
         <gnm:Cell Row="370" Col="2" ValueType="60">austriacki</gnm:Cell>
         <gnm:Cell Row="370" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="370" Col="4" ValueType="60">Austrian</gnm:Cell>
         <gnm:Cell Row="371" Col="0" ValueType="60">brazílsky</gnm:Cell>
         <gnm:Cell Row="371" Col="1" ValueType="60">adj</gnm:Cell>
         <gnm:Cell Row="371" Col="2" ValueType="60">brazylijski</gnm:Cell>
         <gnm:Cell Row="371" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="371" Col="4" ValueType="60">Brazilian</gnm:Cell>
         <gnm:Cell Row="372" Col="0" ValueType="60">čínsky</gnm:Cell>
         <gnm:Cell Row="372" Col="1" ValueType="60">adj</gnm:Cell>
         <gnm:Cell Row="372" Col="2" ValueType="60">chiński</gnm:Cell>
         <gnm:Cell Row="372" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="372" Col="4" ValueType="60">Chinese</gnm:Cell>
         <gnm:Cell Row="373" Col="0" ValueType="60">český</gnm:Cell>
         <gnm:Cell Row="373" Col="1" ValueType="60">adj</gnm:Cell>
         <gnm:Cell Row="373" Col="2" ValueType="60">czeski</gnm:Cell>
         <gnm:Cell Row="373" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="373" Col="4" ValueType="60">Czech</gnm:Cell>
         <gnm:Cell Row="374" Col="0" ValueType="60">francúzsky</gnm:Cell>
         <gnm:Cell Row="374" Col="1" ValueType="60">adj</gnm:Cell>
         <gnm:Cell Row="374" Col="2" ValueType="60">francuski</gnm:Cell>
         <gnm:Cell Row="374" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="374" Col="4" ValueType="60">French</gnm:Cell>
         <gnm:Cell Row="375" Col="0" ValueType="60">grécky</gnm:Cell>
         <gnm:Cell Row="375" Col="1" ValueType="60">adj</gnm:Cell>
         <gnm:Cell Row="375" Col="2" ValueType="60">grecki</gnm:Cell>
         <gnm:Cell Row="375" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="375" Col="4" ValueType="60">Greek</gnm:Cell>
         <gnm:Cell Row="376" Col="0" ValueType="60">španielsky</gnm:Cell>
         <gnm:Cell Row="376" Col="1" ValueType="60">adj</gnm:Cell>
         <gnm:Cell Row="376" Col="2" ValueType="60">hiszpański</gnm:Cell>
         <gnm:Cell Row="376" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="376" Col="4" ValueType="60">Spanish</gnm:Cell>
         <gnm:Cell Row="377" Col="0" ValueType="60">nemecký</gnm:Cell>
         <gnm:Cell Row="377" Col="1" ValueType="60">adj</gnm:Cell>
         <gnm:Cell Row="377" Col="2" ValueType="60">niemiecki</gnm:Cell>
         <gnm:Cell Row="377" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="377" Col="4" ValueType="60">German</gnm:Cell>
         <gnm:Cell Row="378" Col="0" ValueType="60">poľský</gnm:Cell>
         <gnm:Cell Row="378" Col="1" ValueType="60">adj</gnm:Cell>
         <gnm:Cell Row="378" Col="2" ValueType="60">polski</gnm:Cell>
         <gnm:Cell Row="378" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="378" Col="4" ValueType="60">Polish</gnm:Cell>
         <gnm:Cell Row="379" Col="0" ValueType="60">portugalský</gnm:Cell>
         <gnm:Cell Row="379" Col="1" ValueType="60">adj</gnm:Cell>
         <gnm:Cell Row="379" Col="2" ValueType="60">portugalski</gnm:Cell>
         <gnm:Cell Row="379" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="379" Col="4" ValueType="60">Portuguese</gnm:Cell>
         <gnm:Cell Row="380" Col="0" ValueType="60">ruský</gnm:Cell>
         <gnm:Cell Row="380" Col="1" ValueType="60">adj</gnm:Cell>
         <gnm:Cell Row="380" Col="2" ValueType="60">rosyjski</gnm:Cell>
         <gnm:Cell Row="380" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="380" Col="4" ValueType="60">Russian</gnm:Cell>
         <gnm:Cell Row="381" Col="0" ValueType="60">rumunský</gnm:Cell>
         <gnm:Cell Row="381" Col="1" ValueType="60">adj</gnm:Cell>
         <gnm:Cell Row="381" Col="2" ValueType="60">rumuński</gnm:Cell>
         <gnm:Cell Row="381" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="381" Col="4" ValueType="60">Romanian</gnm:Cell>
         <gnm:Cell Row="382" Col="0" ValueType="60">slovenský</gnm:Cell>
         <gnm:Cell Row="382" Col="1" ValueType="60">adj</gnm:Cell>
         <gnm:Cell Row="382" Col="2" ValueType="60">słowacki</gnm:Cell>
         <gnm:Cell Row="382" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="382" Col="4" ValueType="60">Slovakian</gnm:Cell>
         <gnm:Cell Row="383" Col="0" ValueType="60">ukrajinský</gnm:Cell>
         <gnm:Cell Row="383" Col="1" ValueType="60">adj</gnm:Cell>
         <gnm:Cell Row="383" Col="2" ValueType="60">ukraiński</gnm:Cell>
         <gnm:Cell Row="383" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="383" Col="4" ValueType="60">Ukrainian</gnm:Cell>
         <gnm:Cell Row="384" Col="0" ValueType="60">maďarský</gnm:Cell>
         <gnm:Cell Row="384" Col="1" ValueType="60">adj</gnm:Cell>
         <gnm:Cell Row="384" Col="2" ValueType="60">węgierski</gnm:Cell>
         <gnm:Cell Row="384" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="384" Col="4" ValueType="60">Hungarian</gnm:Cell>
         <gnm:Cell Row="385" Col="0" ValueType="60">britský</gnm:Cell>
         <gnm:Cell Row="385" Col="1" ValueType="60">adj</gnm:Cell>
         <gnm:Cell Row="385" Col="2" ValueType="60">brytyjski</gnm:Cell>
         <gnm:Cell Row="385" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="385" Col="4" ValueType="60">British</gnm:Cell>
         <gnm:Cell Row="386" Col="0" ValueType="60">taliansky</gnm:Cell>
         <gnm:Cell Row="386" Col="1" ValueType="60">adj</gnm:Cell>
         <gnm:Cell Row="386" Col="2" ValueType="60">włoski</gnm:Cell>
         <gnm:Cell Row="386" Col="3" ValueType="60">adj</gnm:Cell>
+        <gnm:Cell Row="386" Col="4" ValueType="60">Italian</gnm:Cell>
         <gnm:Cell Row="387" Col="0" ValueType="60">Angličan</gnm:Cell>
         <gnm:Cell Row="387" Col="1" ValueType="60">n.ma</gnm:Cell>
         <gnm:Cell Row="387" Col="2" ValueType="60">Anglik</gnm:Cell>
@@ -1974,10 +2008,12 @@
         <gnm:Cell Row="388" Col="1" ValueType="60">n.ma</gnm:Cell>
         <gnm:Cell Row="388" Col="2" ValueType="60">Austriak</gnm:Cell>
         <gnm:Cell Row="388" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="388" Col="4" ValueType="60">Austrian</gnm:Cell>
         <gnm:Cell Row="389" Col="0" ValueType="60">Brazílčan</gnm:Cell>
         <gnm:Cell Row="389" Col="1" ValueType="60">n.ma</gnm:Cell>
         <gnm:Cell Row="389" Col="2" ValueType="60">Brazylijczyk</gnm:Cell>
         <gnm:Cell Row="389" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="389" Col="4" ValueType="60">Brazilian</gnm:Cell>
         <gnm:Cell Row="390" Col="0" ValueType="60">Číňan</gnm:Cell>
         <gnm:Cell Row="390" Col="1" ValueType="60">n.ma</gnm:Cell>
         <gnm:Cell Row="390" Col="2" ValueType="60">Chińczyk</gnm:Cell>
@@ -1994,18 +2030,22 @@
         <gnm:Cell Row="393" Col="1" ValueType="60">n.ma</gnm:Cell>
         <gnm:Cell Row="393" Col="2" ValueType="60">Grek</gnm:Cell>
         <gnm:Cell Row="393" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="393" Col="4" ValueType="60">Greek</gnm:Cell>
         <gnm:Cell Row="394" Col="0" ValueType="60">Španiel</gnm:Cell>
         <gnm:Cell Row="394" Col="1" ValueType="60">n.ma</gnm:Cell>
         <gnm:Cell Row="394" Col="2" ValueType="60">Hiszpan</gnm:Cell>
         <gnm:Cell Row="394" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="394" Col="4" ValueType="60">Spaniard</gnm:Cell>
         <gnm:Cell Row="395" Col="0" ValueType="60">Nemec</gnm:Cell>
         <gnm:Cell Row="395" Col="1" ValueType="60">n.ma</gnm:Cell>
         <gnm:Cell Row="395" Col="2" ValueType="60">Niemiec</gnm:Cell>
         <gnm:Cell Row="395" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="395" Col="4" ValueType="60">German</gnm:Cell>
         <gnm:Cell Row="396" Col="0" ValueType="60">Poliak</gnm:Cell>
         <gnm:Cell Row="396" Col="1" ValueType="60">n.ma</gnm:Cell>
         <gnm:Cell Row="396" Col="2" ValueType="60">Polak</gnm:Cell>
         <gnm:Cell Row="396" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="396" Col="4" ValueType="60">Pole</gnm:Cell>
         <gnm:Cell Row="397" Col="0" ValueType="60">Portugalec</gnm:Cell>
         <gnm:Cell Row="397" Col="1" ValueType="60">n.ma</gnm:Cell>
         <gnm:Cell Row="397" Col="2" ValueType="60">Portugalczyk</gnm:Cell>
@@ -2014,36 +2054,54 @@
         <gnm:Cell Row="398" Col="1" ValueType="60">n.ma</gnm:Cell>
         <gnm:Cell Row="398" Col="2" ValueType="60">Rosjanin</gnm:Cell>
         <gnm:Cell Row="398" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="398" Col="4" ValueType="60">Russian</gnm:Cell>
         <gnm:Cell Row="399" Col="0" ValueType="60">Rumun</gnm:Cell>
         <gnm:Cell Row="399" Col="1" ValueType="60">n.ma</gnm:Cell>
         <gnm:Cell Row="399" Col="2" ValueType="60">Rumun</gnm:Cell>
         <gnm:Cell Row="399" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="399" Col="4" ValueType="60">Romanian</gnm:Cell>
         <gnm:Cell Row="400" Col="0" ValueType="60">Slovák</gnm:Cell>
         <gnm:Cell Row="400" Col="1" ValueType="60">n.ma</gnm:Cell>
         <gnm:Cell Row="400" Col="2" ValueType="60">Słowak</gnm:Cell>
         <gnm:Cell Row="400" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="400" Col="4" ValueType="60">Slovak</gnm:Cell>
         <gnm:Cell Row="401" Col="0" ValueType="60">Ukrajinec</gnm:Cell>
         <gnm:Cell Row="401" Col="1" ValueType="60">n.ma</gnm:Cell>
         <gnm:Cell Row="401" Col="2" ValueType="60">Ukrainiec</gnm:Cell>
         <gnm:Cell Row="401" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="401" Col="4" ValueType="60">Ukrainian</gnm:Cell>
         <gnm:Cell Row="402" Col="0" ValueType="60">Američan</gnm:Cell>
         <gnm:Cell Row="402" Col="1" ValueType="60">n.ma</gnm:Cell>
         <gnm:Cell Row="402" Col="2" ValueType="60">Amerykanin</gnm:Cell>
         <gnm:Cell Row="402" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="402" Col="4" ValueType="60">American</gnm:Cell>
         <gnm:Cell Row="403" Col="0" ValueType="60">Maďar</gnm:Cell>
         <gnm:Cell Row="403" Col="1" ValueType="60">n.ma</gnm:Cell>
         <gnm:Cell Row="403" Col="2" ValueType="60">Węgier</gnm:Cell>
         <gnm:Cell Row="403" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="403" Col="4" ValueType="60">Hungarian</gnm:Cell>
         <gnm:Cell Row="404" Col="0" ValueType="60">Brit</gnm:Cell>
         <gnm:Cell Row="404" Col="1" ValueType="60">n.ma</gnm:Cell>
         <gnm:Cell Row="404" Col="2" ValueType="60">Brytyjczyk</gnm:Cell>
         <gnm:Cell Row="404" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="404" Col="4" ValueType="10"></gnm:Cell>
         <gnm:Cell Row="405" Col="0" ValueType="60">Talian</gnm:Cell>
         <gnm:Cell Row="405" Col="1" ValueType="60">n.ma</gnm:Cell>
         <gnm:Cell Row="405" Col="2" ValueType="60">Włoch</gnm:Cell>
         <gnm:Cell Row="405" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="405" Col="4" ValueType="60">Italian</gnm:Cell>
+        <gnm:Cell Row="406" Col="0" ValueType="60">práca</gnm:Cell>
+        <gnm:Cell Row="406" Col="1" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="406" Col="2" ValueType="60">praca</gnm:Cell>
+        <gnm:Cell Row="406" Col="3" ValueType="60">n.f</gnm:Cell>
+        <gnm:Cell Row="406" Col="4" ValueType="60">work</gnm:Cell>
+        <gnm:Cell Row="407" Col="0" ValueType="60">pracovník</gnm:Cell>
+        <gnm:Cell Row="407" Col="1" ValueType="60">n.ma</gnm:Cell>
+        <gnm:Cell Row="407" Col="2" ValueType="60">pracownik</gnm:Cell>
+        <gnm:Cell Row="407" Col="3" ValueType="60">n.mp</gnm:Cell>
+        <gnm:Cell Row="407" Col="4" ValueType="60">worker</gnm:Cell>
       </gnm:Cells>
-      <gnm:SheetLayout TopLeft="A370"/>
+      <gnm:SheetLayout TopLeft="A352"/>
       <gnm:Solver ProblemType="1" Inputs="" MaxTime="0" MaxIter="0" NonNeg="1" Discr="0" AutoScale="0" ShowIter="0" AnswerR="0" SensitivityR="0" LimitsR="0" PerformR="0" ProgramR="0"/>
     </gnm:Sheet>
     <gnm:Sheet DisplayFormulas="0" HideZero="0" HideGrid="0" HideColHeader="0" HideRowHeader="0" DisplayOutlines="1" OutlineSymbolsBelow="1" OutlineSymbolsRight="1" Visibility="GNM_SHEET_VISIBILITY_VISIBLE" GridColor="0:0:0">
