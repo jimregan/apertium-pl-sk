@@ -59,10 +59,17 @@
     <e><p><l>grudzień<s n="n"/><s n="mi"/></l><r>december<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>być<s n="vbser"/></l><r>byť<s n="vbser"/></r></p></e>
     <e><p><l>czytać<s n="vblex"/><s n="imperf"/></l><r>čítať<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>przeczytać<s n="vblex"/><s n="perf"/></l><r>prečítať<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>iść<s n="vblex"/><s n="imperf"/></l><r>ísť<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>mieć<s n="vbhaver"/></l><r>mať<s n="vbhaver"/></r></p></e>
     <e><p><l>otworzyć<s n="vblex"/></l><r>otvoriť<s n="vblex"/></r></p></e>
     <e><p><l>przedłużyć<s n="vblex"/></l><r>predĺžiť<s n="vblex"/></r></p></e>
+    <e><p><l>szukać<s n="vblex"/></l><r>hĺadať<s n="vblex"/></r></p></e>
+    <e><p><l>chcieć<s n="vblex"/></l><r>chcieť<s n="vblex"/></r></p></e>
+    <e><p><l>bywać<s n="vblex"/></l><r>bývať<s n="vblex"/></r></p></e>
+    <e><p><l>dziękować<s n="vblex"/></l><r>ďakovať<s n="vblex"/></r></p></e>
+    <e><p><l>dawać<s n="vblex"/></l><r>dávať<s n="vblex"/></r></p></e>
+    <e><p><l>mówić<s n="vblex"/></l><r>hovoriť<s n="vblex"/></r></p></e>
     <e><p><l>robić<s n="vblex"/><s n="imperf"/></l><r>robiť<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>zrobić<s n="vblex"/><s n="perf"/></l><r>urobiť<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>rozwiązać<s n="vblex"/></l><r>rozviazať<s n="vblex"/></r></p></e>
