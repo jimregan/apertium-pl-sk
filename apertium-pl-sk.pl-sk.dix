@@ -57,6 +57,14 @@
     <e><p><l>październik<s n="n"/><s n="mi"/></l><r>október<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>listopad<s n="n"/><s n="mi"/></l><r>november<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>grudzień<s n="n"/><s n="mi"/></l><r>december<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>weekend<s n="n"/><s n="mi"/></l><r>víkend<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>niedziela<s n="n"/><s n="f"/></l><r>nedeľa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>poniedziałek<s n="n"/><s n="mi"/></l><r>pondelok<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>wtorek<s n="n"/><s n="mi"/></l><r>utorok<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>środa<s n="n"/><s n="f"/></l><r>streda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>czwartek<s n="n"/><s n="mi"/></l><r>štvrtok<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>piątek<s n="n"/><s n="mi"/></l><r>piatok<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>sobota<s n="n"/><s n="f"/></l><r>sobota<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>być<s n="vbser"/></l><r>byť<s n="vbser"/></r></p></e>
     <e><p><l>czytać<s n="vblex"/><s n="imperf"/></l><r>čítať<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>przeczytać<s n="vblex"/><s n="perf"/></l><r>prečítať<s n="vblex"/><s n="perf"/></r></p></e>
