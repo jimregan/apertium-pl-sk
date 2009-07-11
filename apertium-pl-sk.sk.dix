@@ -52,6 +52,15 @@
   </sdefs>
   
   <pardefs>
+  
+    <pardef n="že__cnjsub">
+      <e>
+        <p>
+	  <l></l>
+	  <r><s n="cnjsub"/>
+	</p>
+      </e>
+    </pardef>
     <pardef n="čít/ať__vblex">
       <e>
          <p>
@@ -1264,6 +1273,13 @@
     <e lm="nad" r="LR"><p><l>nad</l><r>nad<s n="pr"/></r></p></e>
     <e lm="nado" r="LR"><p><l>nado</l><r>nad<s n="pr"/></r></p></e>
     <e lm="nad" r="RL"><p><l><a/>nad</l><r>nad<s n="pr"/></r></p></e>
+    <e lm="o"><p><l>o</l><r>o<s n="pr"/></r></p></e>
+    <e lm="po"><p><l>po</l><r>po<s n="pr"/></r></p></e>
+    <e lm="za"><p><l>za</l><r>za<s n="pr"/></r></p></e>
+
+    <e lm="že"><i>že</i><par n="že__cnjsub"/></e>
+    <e lm="by"><i>by</i><par n="že__cnjsub"/></e>
+    <e lm="aby"><i>aby</i><par n="že__cnjsub"/></e>
   
     <e lm="čítať"><i>čít</i><par n="čít/ať__vblex"/></e>
     <e lm="mať"><i>m</i><par n="m/ať__vbhaver"/></e>

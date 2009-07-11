@@ -26,6 +26,13 @@
     <e><p><l>od<s n="pr"/></l><r>od<s n="pr"/></r></p></e>
     <e><p><l>nad<s n="pr"/></l><r>nad<s n="pr"/></r></p></e>
     <e><p><l>na<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
+    <e><p><l>o<s n="pr"/></l><r>o<s n="pr"/></r></p></e>
+    <e><p><l>za<s n="pr"/></l><r>za<s n="pr"/></r></p></e>
+    <e><p><l>po<s n="pr"/></l><r>po<s n="pr"/></r></p></e>
+    
+    <e><p><l>że<s n="cnjsub"/></l><r>že<s n="cnjsub"/></r></p></e>
+    <e><p><l>by<s n="cnjsub"/></l><r>by<s n="cnjsub"/></r></p></e>
+    <e><p><l>aby<s n="cnjsub"/></l><r>aby<s n="cnjsub"/></r></p></e>
     
     <e><p><l>zero<s n="num"/></l><r>nula<s n="num"/></r></p></e>
     <e><p><l>jeden<s n="num"/></l><r>jeden<s n="num"/></r></p></e>
@@ -1113,7 +1120,7 @@
 <e><p><l>szatan<s n="n"/></l><r>satan<s n="n"/></r></p></e>
 <e><p><l>satanizm<s n="n"/></l><r>satanizmus<s n="n"/></r></p></e>
 <e><p><l>szatański<s n="adj"/></l><r>satanský<s n="adj"/></r></p></e>
-<e r="LR"																																																><p><l>sataniczny<s n="adj"/></l><r>satanský<s n="adj"/></r></p></e>
+<e r="LR"><p><l>sataniczny<s n="adj"/></l><r>satanský<s n="adj"/></r></p></e>
 <e><p><l>satelita<s n="n"/></l><r>satelit<s n="n"/></r></p></e>
 <e><p><l>satyryk<s n="n"/></l><r>satirik<s n="n"/></r></p></e>
 <e><p><l>szatnia<s n="n"/></l><r>šatňa<s n="n"/></r></p></e>
