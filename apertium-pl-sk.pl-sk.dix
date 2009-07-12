@@ -2,6 +2,8 @@
 <dictionary>
   <alphabet/>
   <sdefs>
+    <sdef n="cnjcoo"/>
+    <sdef n="cnjsub"/>
     <sdef n="num"/>
     <sdef n="n"/>
     <sdef n="ma"/>
@@ -9,12 +11,26 @@
     <sdef n="mp"/>
     <sdef n="f"/>
     <sdef n="nt"/>
+    <sdef n="sg"/>
+    <sdef n="pl"/>
     <sdef n="np"/>
     <sdef n="top"/>
     <sdef n="adj"/>
     <sdef n="adv"/>
     <sdef n="sint"/>
     <sdef n="pr"/>
+    <sdef n="vblex"/>
+    <sdef n="imperf"/>
+    <sdef n="perf"/>
+    <sdef n="vbser"/>
+    <sdef n="vbhaver"/>
+    <sdef n="nom"/>
+    <sdef n="gen"/>
+    <sdef n="dat"/>
+    <sdef n="acc"/>
+    <sdef n="ins"/>
+    <sdef n="loc"/>
+    <sdef n="voc"/>
   </sdefs>
 
   <section id="main" type="standard">

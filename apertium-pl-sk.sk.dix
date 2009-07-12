@@ -49,6 +49,9 @@
     <sdef n="ins"/>
     <sdef n="loc"/>
     <sdef n="voc"/>
+    <sdef n="cnjcoo"/>
+    <sdef n="cnjsub"/>
+    <sdef n="pr"/>
   </sdefs>
   
   <pardefs>
@@ -57,7 +60,7 @@
       <e>
         <p>
 	  <l></l>
-	  <r><s n="cnjsub"/>
+	  <r><s n="cnjsub"/></r>
 	</p>
       </e>
     </pardef>
@@ -502,14 +505,14 @@
 	  <r>o<s n="n"/></r>
 	</p>
 	<par n="Neuter_pivo_sg"/>
-      <e>
+      </e>
       <e>
         <p>
 	  <l></l>
 	  <r>o<s n="n"/></r>
 	</p>
 	<par n="Neuter_pivo_pl"/>
-      <e>
+      </e>
     </pardef>
     <pardef n="p/ivo__n">
       <e>
