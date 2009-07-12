@@ -11,7 +11,7 @@
 -->
 
 <dictionary>
-  <alphabet>AaÁáÄäBbCcČčDdĎďEeÉéFfGgHhIiÍíJjKkLlĽľĹĺMmNnŇňOoÓóÔôPpQqRrŔŕSsŠšTtŤťUuÚúVvWwXxYyÝýZzŽž</alphabet>
+  <alphabet>AaÁáÄäBbCcČčDdĎďEeÉéFfGgHhIiÍíJjKkLlĽľĹĺMmNnŇňOoÓóÔôPpQqRrŔŕSsŠšTtŤťUuÚúVvWwXxYyÝýZzŽžĄąĆćĘęŁłŃńÓóŚśQqŻżŹź</alphabet>
   <sdefs>
     <sdef n="vblex"/>
     <sdef n="vbser"/>
