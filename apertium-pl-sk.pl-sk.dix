@@ -1275,6 +1275,377 @@
     <e><p><l>elektrycznie<s n="adv"/></l><r>elektricky<s n="adv"/></r></p></e>
     <e><p><l>elektryfikacja<s n="n"/><s n="f"/></l><r>elektrifikácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>skóra<s n="n"/><s n="f"/></l><r>koža<s n="n"/><s n="f"/></r></p></e>
+
+    <e><p><l>diament<s n="n"/><s n="mi"/></l><r>diamant<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dynamo<s n="n"/><s n="nt"/></l><r>dynamo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Ukraina<s n="np"/><s n="top"/><s n="f"/></l><r>Ukrajina<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Stany<b/>Zjednoczone<s n="np"/><s n="top"/><s n="mi"/><s n="pl"/></l><r>Spojené<b/>štáty<s n="np"/><s n="top"/><s n="mi"/><s n="pl"/></r></p></e>
+    <e><p><l>Węgry<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Maďarsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Wielka<b/>Brytania<s n="np"/><s n="top"/><s n="f"/></l><r>Veľka<b/>Británia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Włochy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Taliansko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>siedem<s n="num"/></l><r>sedem<s n="num"/></r></p></e>
+    <e><p><l>siedemdziesiąt<s n="num"/></l><r>sedemdesiat<s n="num"/></r></p></e>
+    <e><p><l>siedemnaście<s n="num"/></l><r>sedemnásť<s n="num"/></r></p></e>
+    <e><p><l>siedemset<s n="num"/></l><r>sedemsto<s n="num"/></r></p></e>
+    <e><p><l>siedzieć<s n="vblex"/></l><r>sedieť<s n="vblex"/></r></p></e>
+    <e><p><l>sekretarz<s n="n"/><s n="mp"/></l><r>sekretár<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>sekwencja<s n="n"/><s n="f"/></l><r>sekvencia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sekwencyjny<s n="adj"/></l><r>sekvenčný<s n="adj"/></r></p></e>
+    <e><p><l>selektywny<s n="adj"/></l><r>selektívny<s n="adj"/></r></p></e>
+    <e><p><l>smutny<s n="adj"/></l><r>smutný<s n="adj"/></r></p></e>
+    <e><p><l>spać<s n="vblex"/></l><r>spať<s n="vblex"/></r></p></e>
+    <e><p><l>śpiewać<s n="vblex"/></l><r>spievať<s n="vblex"/></r></p></e>
+    <e><p><l>sto<s n="num"/></l><r>sto<s n="num"/></r></p></e>
+    <e><p><l>strasznie<s n="adv"/></l><r>strašne<s n="adv"/></r></p></e>
+    <e><p><l>straszny<s n="adj"/></l><r>strašný<s n="adj"/></r></p></e>
+    <e><p><l>sześć<s n="num"/></l><r>šesť<s n="num"/></r></p></e>
+    <e><p><l>szesnaście<s n="num"/></l><r>šestnásť<s n="num"/></r></p></e>
+    <e><p><l>sześćset<s n="num"/></l><r>šesťsto<s n="num"/></r></p></e>
+    <e><p><l>szaleniec<s n="n"/><s n="mp"/></l><r>šialenec<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>szaleństwo<s n="n"/><s n="nt"/></l><r>šialenstvo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>szalony<s n="adj"/></l><r>šialený<s n="adj"/></r></p></e>
+    <e><p><l>szeroko<s n="adv"/></l><r>široko<s n="adv"/></r></p></e>
+    <e><p><l>szeroki<s n="adj"/></l><r>široký<s n="adj"/></r></p></e>
+    <e><p><l>szkoła<s n="n"/><s n="f"/></l><r>škola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>szlachta<s n=""/></l><r>šľachta<s n=""/></r></p></e>
+    <e><p><l>uczyć<s n="vblex"/><s n="imperf"/></l><r>učiť<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>w<s n="pr"/></l><r>v<s n="pr"/></r></p></e>
+    <e><p><l>w<b/>każdym<b/>przypadku<s n="adv"/></l><r>v<b/>každom<b/>prípade<s n="adv"/></r></p></e>
+    <e><p><l>zabijać<s n="vblex"/><s n="imperf"/></l><r>zabíjať<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zabić<s n="vblex"/><s n="perf"/></l><r>zabiť<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>Austria<s n="np"/><s n="top"/><s n="f"/></l><r>Rakúsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Brazylia<s n="np"/><s n="top"/><s n="f"/></l><r>Brazília<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Chiny<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Čína<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Czechy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Česko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Grecja<s n="np"/><s n="top"/><s n="f"/></l><r>Grécko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Hiszpania<s n="np"/><s n="top"/><s n="f"/></l><r>Španielsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Niemcy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Nemecko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Polska<s n="np"/><s n="top"/><s n="f"/></l><r>Poľsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Portugalia<s n="np"/><s n="top"/><s n="f"/></l><r>Portugalsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Rosja<s n="np"/><s n="top"/><s n="f"/></l><r>Rusko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Rumunia<s n="np"/><s n="top"/><s n="f"/></l><r>Rumunsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>etykieta<s n="n"/><s n="f"/></l><r>etiketa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Etiopia<s n="np"/><s n="top"/><s n="f"/></l><r>Etiópia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>kawa<s n="n"/><s n="f"/></l><r>káva<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kawiarnia<s n="n"/><s n="f"/></l><r>kaviareň<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kazać<s n="vblex"/></l><r>kázať<s n="vblex"/></r></p></e>
+    <e><p><l>każdy<s n="det"/><s n="dem"/></l><r>každý<s n="det"/><s n="dem"/></r></p></e>
+    <e><p><l>każdy<s n="prn"/><s n="ind"/></l><r>každý<s n="prn"/><s n="ind"/></r></p></e>
+    <e><p><l>gdzie<s n="adv"/><s n="itg"/></l><r>kde<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>gdziekolwiek<s n="adv"/></l><r>kdekoľvek<s n="adv"/></r></p></e>
+    <e><p><l>kiedy<s n="adv"/><s n="itg"/></l><r>kedy<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>kiedykolwiek<s n="adv"/></l><r>kedykoľvek<s n="adv"/></r></p></e>
+    <e><p><l>koniec<s n="n"/><s n="mi"/></l><r>koniec<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>weekend<s n="n"/><s n="mi"/></l><r>koniec<b/>týždňa<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>na<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
+    <e><p><l>na<b/>naszej<b/>stronie<s n="adv"/></l><r>na<b/>našej<b/>strane<s n="adv"/></r></p></e>
+    <e><p><l>na<b/>wieki<b/>wieków<s n="adv"/></l><r>na<b/>veky<b/>vekov<s n="adv"/></r></p></e>
+    <e><p><l>od<s n="pr"/></l><r>od<s n="pr"/></r></p></e>
+    <e><p><l>od<b/>domu<b/>do<b/>domu<s n="adv"/></l><r>od<b/>domu<b/>k<b/>domu<s n="adv"/></r></p></e>
+    <e><p><l>od<b/>głowy<b/>do<b/>stóp<s n="adv"/></l><r>od<b/>hlavy<b/>po<b/>päty<s n="adv"/></r></p></e>
+    <e><p><l>od<b/>wybrzeża<b/>do<b/>wybrzeża<s n="adv"/></l><r>od<b/>pobrežia<b/>k<b/>pobrežiu<s n="adv"/></r></p></e>
+    <e><p><l>od<b/>ściany<b/>do<b/>ściany<s n="adv"/></l><r>od<b/>steny<b/>k<b/>stene<s n="adv"/></r></p></e>
+    <e><p><l>od<b/>początku<b/>do<b/>końca<s n="adv"/></l><r>od<b/>začiatku<b/>do<b/>konca<s n="adv"/></r></p></e>
+    <e><p><l>okno<s n="n"/><s n="nt"/></l><r>okno<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>oko<s n="n"/><s n="nt"/></l><r>oko<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>komputer<s n="n"/><s n="mi"/></l><r>počítač<s n=""/></r></p></e>
+    <e><p><l>bengalski<s n="adj"/></l><r>bengálsky<s n="adj"/></r></p></e>
+    <e><p><l>Benin<s n="np"/><s n="top"/><s n="mi"/></l><r>Benin<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Berlin<s n="np"/><s n="top"/><s n="mi"/></l><r>Berlín<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>beta<s n="n"/><s n="f"/></l><r>beta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>beton<s n="n"/><s n="mi"/></l><r>betón<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>betonowanie<s n="adv"/></l><r>betónovanie<s n="adv"/></r></p></e>
+    <e><p><l>bez<s n="pr"/></l><r>bez<s n="pr"/></r></p></e>
+    <e><p><l>bez<b/>alkoholu<s n="adv"/></l><r>bez<b/>alkoholu<s n="adv"/></r></p></e>
+    <e><p><l>bez<b/>kościoła<s n="adv"/></l><r>bez<b/>cirkevnej<b/>príslušnosti<s n="adv"/></r></p></e>
+    <e><p><l>bez<b/>rdzy<s n="adv"/></l><r>bez<b/>hrdze<s n="adv"/></r></p></e>
+    <e><p><l>bez<b/>błędów<s n="adv"/></l><r>bez<b/>chýb<s n="adv"/></r></p></e>
+    <e><p><l>bez<b/>lodu<s n="adv"/></l><r>bez<b/>ľadu<s n="adv"/></r></p></e>
+    <e><p><l>bez<b/>limitu<s n="adv"/></l><r>bez<b/>limitu<s n="adv"/></r></p></e>
+    <e><p><l>bez<b/>entuzjazmu<s n="adv"/></l><r>bez<b/>nadšenia<s n="adv"/></r></p></e>
+    <e><p><l>bez<b/>nikotyny<s n="adv"/></l><r>bez<b/>nikotínu<s n="adv"/></r></p></e>
+    <e><p><l>bez<b/>wątpienia<s n="adv"/></l><r>bez<b/>pochýb<s n="adv"/></r></p></e>
+    <e><p><l>bez<b/>opłat<s n="adv"/></l><r>bez<b/>poplatku<s n="adv"/></r></p></e>
+    <e><p><l>bez<b/>silikonu<s n="adv"/></l><r>bez<b/>silikonu<s n="adv"/></r></p></e>
+    <e><p><l>bez<b/>soli<s n="adv"/></l><r>bez<b/>soli<s n="adv"/></r></p></e>
+    <e><p><l>bez<b/>tłuszczu<s n="adv"/></l><r>bez<b/>tuku<s n="adv"/></r></p></e>
+    <e><p><l>bazar<s n="n"/><s n="mi"/></l><r>bezár<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>bezbożny<s n="adj"/></l><r>bezbožný<s n="adj"/></r></p></e>
+    <e><p><l>bidet<s n="n"/><s n="mi"/></l><r>bidet<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>bieda<s n="n"/><s n="f"/></l><r>bieda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biedny<s n=""/></l><r>biedny<s n=""/></r></p></e>
+    <e><p><l>biały<s n="adj"/><s n="sint"/></l><r>biely<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>biotechnologia<s n=""/></l><r>biotechnológia<s n=""/></r></p></e>
+    <e><p><l>bliski<s n="adj"/><s n="sint"/></l><r>blízky<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>brat<s n=""/></l><r>brat<s n=""/></r></p></e>
+    <e><p><l>brać<s n="vblex"/></l><r>brať<s n="vblex"/></r></p></e>
+    <e><p><l>bractwo<s n="n"/><s n="nt"/></l><r>bratstvo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>brazylijski<s n="adj"/></l><r>brazílsky<s n="adj"/></r></p></e>
+    <e><p><l>brzydki<s n="adj"/></l><r>bridký<s n="adj"/></r></p></e>
+    <e><p><l>eliminować<s n="vblex"/></l><r>eliminovať<s n="vblex"/></r></p></e>
+    <e><p><l>e-mail<s n="n"/><s n="mi"/></l><r>e-mail<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>eminentny<s n="adj"/></l><r>eminentný<s n="adj"/></r></p></e>
+    <e><p><l>emir<s n="n"/><s n="ma"/></l><r>emir<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>emisja<s n="n"/><s n="f"/></l><r>emisia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>emitować<s n="vblex"/></l><r>emitovať<s n="vblex"/></r></p></e>
+    <e><p><l>emulacja<s n="n"/><s n="f"/></l><r>emulácia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>emulator<s n=""/></l><r>emulátor<s n=""/></r></p></e>
+    <e><p><l>encyklopedia<s n="n"/><s n="f"/></l><r>encyklopédia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>energiczny<s n=""/></l><r>energický<s n=""/></r></p></e>
+    <e><p><l>entuzjazm<s n=""/></l><r>entuziazmus<s n=""/></r></p></e>
+    <e><p><l>enumeracja<s n="n"/><s n="f"/></l><r>enumerácia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>eon<s n=""/></l><r>eón<s n=""/></r></p></e>
+    <e><p><l>erekcja<s n="n"/><s n="f"/></l><r>erekcia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Erytrea<s n="np"/><s n="top"/><s n="f"/></l><r>Eritrea<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>esencja<s n="n"/><s n="f"/></l><r>esencia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>eskalacja<s n="n"/><s n="f"/></l><r>eskalácia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>estetyczny<s n="adj"/></l><r>estetický<s n="adj"/></r></p></e>
+    <e><p><l>estoński<s n="adj"/></l><r>estónsky<s n="adj"/></r></p></e>
+    <e><p><l>a<s n="cnjcoo"/></l><r>a<s n="cnjcoo"/></r></p></e>
+    <e><p><l>absencja<s n="n"/><s n="f"/></l><r>absencia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>absynt<s n="n"/><s n="mi"/></l><r>absint<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>abecadło<s n="n"/><s n="nt"/></l><r>abeceda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abchaski<s n="adj"/></l><r>abcházsky<s n="adj"/></r></p></e>
+    <e><p><l>anormalny<s n="adj"/></l><r>abnormálny<s n="adj"/></r></p></e>
+    <e><p><l>absolutystyczny<s n="adj"/></l><r>absolutistický<s n="adj"/></r></p></e>
+    <e><p><l>absolutnie<s n="adv"/></l><r>absolútne<s n="adv"/></r></p></e>
+    <e><p><l>absolutny<s n="adj"/></l><r>absolútny<s n="adj"/></r></p></e>
+    <e><p><l>absolwować<s n=""/></l><r>absolvovať<s n="vblex"/></r></p></e>
+    <e><p><l>abstrahować<s n=""/></l><r>abstrahovať<s n="vblex"/></r></p></e>
+    <e><p><l>abstrakcyjny<s n="adj"/></l><r>abstraktný<s n="adj"/></r></p></e>
+    <e><p><l>absurdalny<s n="adj"/></l><r>absurdný<s n="adj"/></r></p></e>
+    <e><p><l>alfabetyczny<s n="adj"/></l><r>abecedný<s n="adj"/></r></p></e>
+    <e><p><l>aczkolwiek<s n="adv"/></l><r>ačkoľvek<s n="adv"/></r></p></e>
+    <e><p><l>adaptacja<s n="n"/><s n="f"/></l><r>adaptácia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>adaptywny<s n="adj"/></l><r>adaptívny<s n="adj"/></r></p></e>
+    <e><p><l>afekt<s n="n"/><s n="mi"/></l><r>afekt<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>adaptować<s n="vblex"/></l><r>adaptovať<s n="vblex"/></r></p></e>
+    <e><p><l>adekwatność<s n="n"/><s n="f"/></l><r>adekvátnosť<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>adekwatny<s n="adj"/></l><r>adekvátny<s n="adj"/></r></p></e>
+    <e><p><l>addycja<s n="n"/><s n="f"/></l><r>adícia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>administrator<s n="n"/><s n="mp"/></l><r>administrátor<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>adopcja<s n="n"/><s n="f"/></l><r>adopcia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>adoptowanie<s n="n"/><s n="nt"/></l><r>adoptovanie<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>adoptować<s n="vblex"/></l><r>adoptovať<s n="vblex"/></r></p></e>
+    <e><p><l>adres<s n="n"/><s n="mi"/></l><r>adresa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>książka<b/>adresowa<s n="n"/><s n="f"/></l><r>adresár<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>adresat<s n="n"/><s n="mp"/></l><r>adresát<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>adwent<s n="n"/><s n="mi"/></l><r>advent<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>aeronautyka<s n="n"/><s n="f"/></l><r>aeronautika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>adresować<s n="vblex"/></l><r>adresovať<s n="vblex"/></r></p></e>
+    <e><p><l>aerodynamiczny<s n="adj"/></l><r>aerodynamický<s n="adj"/></r></p></e>
+    <e><p><l>adwokat<s n="n"/><s n="mp"/></l><r>advokát<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>aerobik<s n="n"/><s n="mi"/></l><r>aerobik<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>aerodrom<s n="n"/><s n="mi"/></l><r>aerodróm<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>afera<s n="n"/><s n="f"/></l><r>aféra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Afganiec<s n="n"/><s n="mp"/></l><r>Afganec<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Afganistan<s n="np"/><s n="top"/><s n="mi"/></l><r>Afganistan<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>afgański<s n="adj"/></l><r>afgánsky<s n="adj"/></r></p></e>
+    <e><p><l>Afrika<s n="np"/><s n="top"/><s n="f"/></l><r>Afrika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>afrykański<s n="adj"/></l><r>Afrikánsky<s n="adj"/></r></p></e>
+    <e><p><l>afroamerykański<s n="adj"/></l><r>afroamerický<s n="adj"/></r></p></e>
+    <e><p><l>afroazjatycki<s n="adj"/></l><r>afroázijský<s n="adj"/></r></p></e>
+    <e><p><l>agat<s n="n"/><s n="mi"/></l><r>agát<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>agenda<s n="n"/><s n="f"/></l><r>agenda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agent<s n="n"/><s n="mp"/></l><r>agent<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>agentura<s n="n"/><s n="f"/></l><r>agentúra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agitować<s n="vblex"/></l><r>agitovať<s n="vblex"/></r></p></e>
+    <e><p><l>agregować<s n="vblex"/></l><r>agregovať<s n="vblex"/></r></p></e>
+    <e><p><l>agronomia<s n="n"/><s n="f"/></l><r>agronómia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>akacja<s n="n"/><s n="f"/></l><r>akácia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>akademia<s n="n"/><s n="f"/></l><r>akadémia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>akademiczny<s n="adj"/></l><r>akademický<s n="adj"/></r></p></e>
+    <e><p><l>akcelerator<s n="n"/><s n="mi"/></l><r>akcelerátor<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>akcent<s n="n"/><s n="mi"/></l><r>akcent<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>akceptor<s n=""/></l><r>akceptor<s n=""/></r></p></e>
+    <e><p><l>akceptowanie<s n=""/></l><r>akceptovanie<s n=""/></r></p></e>
+    <e><p><l>akceptować<s n="vblex"/></l><r>akceptovať<s n="vblex"/></r></p></e>
+    <e><p><l>akcja<s n="n"/><s n="f"/></l><r>akcia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>akcjonariusz<s n="n"/><s n="mp"/></l><r>akcionár<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>akr<s n="n"/><s n="mi"/></l><r>aker<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>jak<s n="adv"/><s n="itg"/></l><r>ako<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>jakby<s n="cnjsub"/></l><r>akoby<s n="cnjsub"/></r></p></e>
+    <e><p><l>aktówka<s n="n"/><s n="f"/></l><r>aktovka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aktualizacja<s n="n"/><s n="f"/></l><r>aktualizácia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aktywista<s n="n"/></l><r>aktivista<s n="n"/></r></p></e>
+    <e><p><l>akwamaryn<s n="n"/><s n="mi"/></l><r>akvamarín<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>aktualizować<s n="vblex"/></l><r>aktualizovať<s n="vblex"/></r></p></e>
+    <e><p><l>aktualnie<s n="adv"/></l><r>aktuálne<s n="adv"/></r></p></e>
+    <e><p><l>aktualny<s n="adj"/></l><r>aktuálny<s n="adj"/></r></p></e>
+    <e><p><l>akumulować<s n="vblex"/></l><r>akumulovať<s n="vblex"/></r></p></e>
+    <e><p><l>akurat<s n="n"/></l><r>akurát<s n="n"/></r></p></e>
+    <e><p><l>akwedukt<s n="n"/><s n="mi"/></l><r>akvadukt<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>akwamarynowy<s n="adj"/></l><r>akvamarínový<s n="adj"/></r></p></e>
+    <e><p><l>akwarium<s n="n"/></l><r>akvárium<s n="n"/></r></p></e>
+    <e><p><l>jaki<s n=""/></l><r>aký<s n=""/></r></p></e>
+    <e><p><l>jakikolwiek<s n=""/></l><r>akýkoľvek<s n=""/></r></p></e>
+    <e><p><l>alabastrowy<s n="adj"/></l><r>alabastrový<s n="adj"/></r></p></e>
+    <e><p><l>alarm<s n="n"/><s n="mi"/></l><r>alarm<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>alarmować<s n="vblex"/></l><r>alarmovať<s n="vblex"/></r></p></e>
+    <e><p><l>ale<s n="cnjsub"/></l><r>ale<s n="cnjsub"/></r></p></e>
+    <e><p><l>albo<s n="cnjcoo"/></l><r>alebo<s n="cnjcoo"/></r></p></e>
+    <e><p><l>alegoria<s n="n"/><s n="f"/></l><r>alegória<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aleja<s n="n"/><s n="f"/></l><r>aleja<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alergia<s n="n"/><s n="f"/></l><r>alergia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alfa<s n="n"/><s n="f"/></l><r>alfa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alfanumeryczny<s n="adj"/></l><r>alfanumerický<s n="adj"/></r></p></e>
+    <e><p><l>algorytm<s n="n"/><s n="mi"/></l><r>algoritmus<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>alians<s n="n"/><s n="mi"/></l><r>aliancia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alkohol<s n="n"/><s n="mi"/></l><r>alkohol<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>alkoholik<s n="n"/><s n="mp"/></l><r>alkoholik<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>alpinizm<s n="n"/><s n="mi"/></l><r>alpinizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>alternatywny<s n="adj"/></l><r>alternatívny<s n="adj"/></r></p></e>
+    <e><p><l>alternować<s n="vblex"/></l><r>alternovať<s n="vblex"/></r></p></e>
+    <e><p><l>aluminium<s n="n"/></l><r>alumínium<s n="n"/></r></p></e>
+    <e><p><l>ambicja<s n="n"/><s n="f"/></l><r>ambícia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>amen<s n="n"/><s n="mi"/></l><r>amen<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>amerykański<s n="adj"/></l><r>americký<s n="adj"/></r></p></e>
+    <e><p><l>analiza<s n="n"/><s n="f"/></l><r>analýza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Ameryka<s n="np"/><s n="top"/><s n="f"/></l><r>Amerika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>amerykanizm<s n="n"/><s n="mi"/></l><r>amerikanizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>ametystowy<s n="adj"/></l><r>ametystový<s n="adj"/></r></p></e>
+    <e><p><l>amharski<s n="adj"/></l><r>amharský<s n="adj"/></r></p></e>
+    <e><p><l>amortyzacja<s n="n"/><s n="f"/></l><r>amortizácia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>amper<s n="n"/><s n="mi"/></l><r>ampér<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>analogiczny<s n="adj"/></l><r>analogický<s n="adj"/></r></p></e>
+    <e><p><l>analizować<s n="vblex"/></l><r>analyzovať<s n="vblex"/></r></p></e>
+    <e><p><l>ananas<s n="n"/><s n="mi"/></l><r>ananás<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>anatomia<s n="n"/><s n="f"/></l><r>anatómia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Andora<s n="np"/><s n="top"/><s n="f"/></l><r>Andorra<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Anglia<s n="np"/><s n="top"/><s n="f"/></l><r>Anglicko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>angielski<s n="adj"/></l><r>anglický<s n="adj"/></r></p></e>
+    <e><p><l>angloamerykański<s n="adj"/></l><r>angloamerický<s n="adj"/></r></p></e>
+    <e><p><l>ani<s n="cnjcoo"/></l><r>ani<s n="cnjcoo"/></r></p></e>
+    <e><p><l>ani<b/>jeden<s n="adv"/></l><r>ani<b/>jeden<s n="adv"/></r></p></e>
+    <e><p><l>animacja<s n="n"/><s n="f"/></l><r>animácia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>anno<b/>Domini<s n="adv"/></l><r>anno<b/>Domini<s n="adv"/></r></p></e>
+    <e><p><l>anonimowy<s n="adj"/></l><r>anonymný<s n="adj"/></r></p></e>
+    <e><p><l>Antarktyda<s n="np"/><s n="top"/><s n="f"/></l><r>Antarktída<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>antropologia<s n="n"/><s n="f"/></l><r>antropológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>anulować<s n="vblex"/></l><r>anulovať<s n="vblex"/></r></p></e>
+    <e><p><l>aparat<s n="n"/><s n="mi"/></l><r>aparát<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>apelować<s n="vblex"/></l><r>apelovať<s n="vblex"/></r></p></e>
+    <e><p><l>aplauz<s n="n"/><s n="mi"/></l><r>aplauz<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>aplet<s n="n"/><s n="mi"/></l><r>aplet<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>aplikacja<s n="n"/><s n="f"/></l><r>aplikácia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aplikować<s n="vblex"/></l><r>aplikovať<s n="vblex"/></r></p></e>
+    <e><p><l>apostrof<s n="n"/><s n="mi"/></l><r>apostrof<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>aproksymować<s n="vblex"/></l><r>aproximovať<s n="vblex"/></r></p></e>
+    <e><p><l>arabski<s n="adj"/></l><r>arabský<s n="adj"/></r></p></e>
+    <e><p><l>arendować<s n="vblex"/></l><r>árendovať<s n="vblex"/></r></p></e>
+    <e><p><l>Argentyna<s n="np"/><s n="top"/><s n="f"/></l><r>Argentína<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>argument<s n="n"/><s n="mi"/></l><r>argument<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>argumentacja<s n="n"/><s n="f"/></l><r>argumentácia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>argumentować<s n="vblex"/></l><r>argumentovať<s n="vblex"/></r></p></e>
+    <e><p><l>archeologia<s n="n"/><s n="f"/></l><r>archeológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>archeolog<s n="n"/><s n="mp"/></l><r>archeológ<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>architekt<s n="n"/><s n="mp"/></l><r>architekt<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>architektura<s n="n"/><s n="f"/></l><r>architektúra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>archiwa<s n="n"/><s n="mi"/></l><r>archív<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>archiwalny<s n="adj"/></l><r>archývny<s n="adj"/></r></p></e>
+    <e><p><l>Arizona<s n="np"/><s n="top"/><s n="f"/></l><r>Arizona<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>armada<s n="n"/><s n="f"/></l><r>armáda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>arogancki<s n="adj"/></l><r>arogantný<s n="adj"/></r></p></e>
+    <e><p><l>asfaltowy<s n="adj"/></l><r>asfaltový<s n="adj"/></r></p></e>
+    <e><p><l>asystent<s n=""/></l><r>asistent<s n=""/></r></p></e>
+    <e><p><l>asocjacja<s n="n"/><s n="f"/></l><r>asociácia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>asparagus<s n="n"/><s n="mi"/></l><r>asparágus<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>aspekt<s n="n"/><s n="mi"/></l><r>aspekt<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>aspiryn<s n="n"/><s n="mi"/></l><r>aspirín<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>astygmatyczny<s n="adj"/></l><r>astigmatický<s n="adj"/></r></p></e>
+    <e><p><l>astygmatyzm<s n="n"/><s n="mi"/></l><r>astigmatizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>astma<s n="n"/><s n="f"/></l><r>astma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>astmatyczny<s n="adj"/></l><r>astmatický<s n="adj"/></r></p></e>
+    <e><p><l>astmatyk<s n="n"/><s n="mp"/></l><r>astmatik<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>astrologia<s n="n"/><s n="f"/></l><r>astrológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>astrologiczny<s n="adj"/></l><r>astrologický<s n="adj"/></r></p></e>
+    <e><p><l>astronauta<s n="n"/><s n="mp"/></l><r>astronaut<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>astronawigacja<s n="n"/><s n="f"/></l><r>astronavigácia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>astronom<s n=""/></l><r>astronóm<s n=""/></r></p></e>
+    <e><p><l>astronomia<s n="n"/><s n="f"/></l><r>astronómia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>asymetria<s n="n"/><s n="f"/></l><r>asymetria<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>asymetryczny<s n="adj"/></l><r>asymetrický<s n="adj"/></r></p></e>
+    <e><p><l>atak<s n=""/></l><r>atak<s n=""/></r></p></e>
+    <e><p><l>itd<s n="adv"/></l><r>atď<s n="adv"/></r></p></e>
+    <e><p><l>ateista<s n=""/></l><r>ateista<s n=""/></r></p></e>
+    <e><p><l>ateistyczny<s n="adj"/></l><r>ateistický<s n="adj"/></r></p></e>
+    <e><p><l>atelier<s n=""/></l><r>ateliér<s n=""/></r></p></e>
+    <e><p><l>Ateny<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Atény<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
+    <e><p><l>atest<s n=""/></l><r>atest<s n=""/></r></p></e>
+    <e><p><l>atestacja<s n="n"/><s n="f"/></l><r>atestácia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Atlantyk<s n="np"/><s n="top"/><s n="mi"/></l><r>Atlantik<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>atlas<s n="n"/><s n="mi"/></l><r>atlas<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>atletyczny<s n="adj"/></l><r>atletický<s n="adj"/></r></p></e>
+    <e><p><l>atletyka<s n=""/></l><r>atletika<s n=""/></r></p></e>
+    <e><p><l>atmosfera<s n=""/></l><r>atmosféra<s n=""/></r></p></e>
+    <e><p><l>atmosferyczny<s n=""/></l><r>atmosférický<s n=""/></r></p></e>
+    <e><p><l>atol<s n=""/></l><r>atol<s n=""/></r></p></e>
+    <e><p><l>atom<s n=""/></l><r>atóm<s n=""/></r></p></e>
+    <e><p><l>atomowy<s n=""/></l><r>atómový<s n=""/></r></p></e>
+    <e><p><l>atrakcja<s n=""/></l><r>atrakcia<s n=""/></r></p></e>
+    <e><p><l>atrakcyjny<s n=""/></l><r>atraktívny<s n=""/></r></p></e>
+    <e><p><l>atramentowy<s n=""/></l><r>atramentový<s n=""/></r></p></e>
+    <e><p><l>atrybut<s n=""/></l><r>atribút<s n=""/></r></p></e>
+    <e><p><l>atrium<s n=""/></l><r>átrium<s n=""/></r></p></e>
+    <e><p><l>atypowy<s n=""/></l><r>atypický<s n=""/></r></p></e>
+    <e><p><l>audio<s n=""/></l><r>audio<s n=""/></r></p></e>
+    <e><p><l>audiometr<s n=""/></l><r>audiometer<s n=""/></r></p></e>
+    <e><p><l>audiowizualny<s n=""/></l><r>audiovizuálny<s n=""/></r></p></e>
+    <e><p><l>audyt<s n=""/></l><r>audit<s n=""/></r></p></e>
+    <e><p><l>audytor<s n=""/></l><r>auditor<s n=""/></r></p></e>
+    <e><p><l>aukcja<s n=""/></l><r>aukcia<s n=""/></r></p></e>
+    <e><p><l>australijski<s n=""/></l><r>austrálsky<s n=""/></r></p></e>
+    <e><p><l>autentyczny<s n=""/></l><r>autentický<s n=""/></r></p></e>
+    <e><p><l>autobiograficzny<s n=""/></l><r>autobiografický<s n=""/></r></p></e>
+    <e><p><l>autobus<s n=""/></l><r>autobus<s n=""/></r></p></e>
+    <e><p><l>autobusiarz<s n=""/></l><r>autobusár<s n=""/></r></p></e>
+    <e><p><l>autobusowy<s n=""/></l><r>autobusový<s n=""/></r></p></e>
+    <e><p><l>automatyczny<s n="adj"/></l><r>automaticky<s n="adj"/></r></p></e>
+    <e><p><l>automatyzacja<s n="n"/><s n="f"/></l><r>automatizácia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>automatyzowanie<s n=""/></l><r>automatizovane<s n=""/></r></p></e>
+    <e><p><l>automatyzować<s n="vblex"/></l><r>automatizovať<s n="vblex"/></r></p></e>
+    <e><p><l>autopilot<s n="n"/><s n="mi"/></l><r>autopilot<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>autoportret<s n="n"/><s n="mi"/></l><r>autoportrét<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>autoryzacja<s n="n"/><s n="f"/></l><r>autorizácia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prawo<b/>autorskie<s n="n"/><s n="nt"/></l><r>autorské<b/>právo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>autorski<s n=""/></l><r>autorský<s n=""/></r></p></e>
+    <e><p><l>autoserwis<s n=""/></l><r>autoservis<s n=""/></r></p></e>
+    <e><p><l>autostop<s n=""/></l><r>autostop<s n=""/></r></p></e>
+    <e><p><l>autostrada<s n=""/></l><r>autostráda<s n=""/></r></p></e>
+    <e><p><l>aksjomatyczny<s n=""/></l><r>axiomatický<s n=""/></r></p></e>
+    <e><p><l>aksonometryczny<s n=""/></l><r>axonometrický<s n=""/></r></p></e>
+    <e><p><l>Azerbejdżan<s n="np"/><s n="top"/><s n="mi"/></l><r>Azerbajdžan<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Azerbejdżanin<s n="n"/><s n="mp"/></l><r>Azerbajdžánec<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Azja<s n="np"/><s n="top"/><s n="f"/></l><r>Ázia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>azymut<s n=""/></l><r>azimut<s n=""/></r></p></e>
+    <e><p><l>azuryt<s n=""/></l><r>azurit<s n=""/></r></p></e>
+    <e><p><l>aż<s n=""/></l><r>až<s n=""/></r></p></e>
+    <e><p><l>aż<b/>do<s n="pr"/></l><r>až<b/>do<s n="pr"/></r></p></e>
+    <e><p><l>bakalarz<s n=""/></l><r>bakalár<s n=""/></r></p></e>
+    <e><p><l>balkon<s n="n"/><s n="mi"/></l><r>balkón<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>balsam<s n="n"/><s n="mi"/></l><r>balzám<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>banalny<s n="adj"/></l><r>banálny<s n="adj"/></r></p></e>
+    <e><p><l>bandyta<s n="n"/><s n="mp"/></l><r>bandita<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Bangladesz<s n="np"/><s n="top"/><s n="mi"/></l><r>Bangladéš<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>bankier<s n="n"/><s n="mp"/></l><r>bankár<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>bankiet<s n="n"/><s n="mi"/></l><r>banket<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>bankomat<s n="n"/><s n="mi"/></l><r>bankomat<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>bankowy<s n="adj"/></l><r>bankový<s n="adj"/></r></p></e>
+    <e><p><l>basowy<s n="adj"/></l><r>basový<s n="adj"/></r></p></e>
+    <e><p><l>bać<s n="vblex"/></l><r>báť<s n="vblex"/></r></p></e>
+    <e><p><l>bateria<s n="n"/><s n="f"/></l><r>batéria<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bagaż<s n="n"/><s n="mi"/></l><r>batožina<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>bawełna<s n="n"/><s n="f"/></l><r>bavlna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bażant<s n="n"/><s n="ma"/></l><r>bažant<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>budzić<s n="vblex"/></l><r>bdieť<s n="vblex"/></r></p></e>
+    <e><p><l>położyć<s n="vblex"/></l><r>vyložiť<s n="vblex"/></r></p></e>
+    <e><p><l>biegać<s n="vblex"/></l><r>behať<s n="vblex"/></r></p></e>
+    <e><p><l>Bejrut<s n="np"/><s n="top"/><s n="mi"/></l><r>Bejrút<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Belgrad<s n="np"/><s n="top"/><s n="mi"/></l><r>Belehrad<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Belgia<s n="np"/><s n="top"/><s n="f"/></l><r>Belgicko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Belgijski<s n="adj"/></l><r>Belgický<s n="adj"/></r></p></e>
+    <e><p><l>Belize<s n=""/></l><r>Belize<s n=""/></r></p></e>
+    <e><p><l>beneficjent<s n=""/></l><r>beneficient<s n=""/></r></p></e>
   </section>
 </dictionary>
 
