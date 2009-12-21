@@ -1579,49 +1579,49 @@
     <e><p><l>atletyka<s n="n"/><s n="f"/></l><r>atletika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>atmosfera<s n="n"/><s n="f"/></l><r>atmosféra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>atmosferyczny<s n="adj"/></l><r>atmosférický<s n="adj"/></r></p></e>
-    <e><p><l>atol<s n=""/></l><r>atol<s n=""/></r></p></e>
-    <e><p><l>atom<s n=""/></l><r>atóm<s n=""/></r></p></e>
-    <e><p><l>atomowy<s n=""/></l><r>atómový<s n=""/></r></p></e>
-    <e><p><l>atrakcja<s n=""/></l><r>atrakcia<s n=""/></r></p></e>
+    <e><p><l>atol<s n="n"/><s n="mi"/></l><r>atol<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>atom<s n="n"/><s n="mi"/></l><r>atóm<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>atomowy<s n="adj"/></l><r>atómový<s n="adj"/></r></p></e>
+    <e><p><l>atrakcja<s n="n"/><s n="f"/></l><r>atrakcia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>atrakcyjny<s n="adj"/></l><r>atraktívny<s n="adj"/></r></p></e>
     <e><p><l>atramentowy<s n="adj"/></l><r>atramentový<s n="adj"/></r></p></e>
-    <e><p><l>atrybut<s n=""/></l><r>atribút<s n=""/></r></p></e>
+    <e><p><l>atrybut<s n="n"/><s n="mi"/></l><r>atribút<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>atrium<s n=""/></l><r>átrium<s n=""/></r></p></e>
     <e><p><l>atypowy<s n="adj"/></l><r>atypický<s n="adj"/></r></p></e>
-    <e><p><l>audio<s n=""/></l><r>audio<s n=""/></r></p></e>
-    <e><p><l>audiometr<s n=""/></l><r>audiometer<s n=""/></r></p></e>
-    <e><p><l>audiowizualny<s n=""/></l><r>audiovizuálny<s n=""/></r></p></e>
-    <e><p><l>audyt<s n=""/></l><r>audit<s n=""/></r></p></e>
-    <e><p><l>audytor<s n=""/></l><r>auditor<s n=""/></r></p></e>
-    <e><p><l>aukcja<s n=""/></l><r>aukcia<s n=""/></r></p></e>
-    <e><p><l>australijski<s n=""/></l><r>austrálsky<s n=""/></r></p></e>
-    <e><p><l>autentyczny<s n=""/></l><r>autentický<s n=""/></r></p></e>
-    <e><p><l>autobiograficzny<s n=""/></l><r>autobiografický<s n=""/></r></p></e>
-    <e><p><l>autobus<s n=""/></l><r>autobus<s n=""/></r></p></e>
-    <e><p><l>autobusiarz<s n=""/></l><r>autobusár<s n=""/></r></p></e>
-    <e><p><l>autobusowy<s n=""/></l><r>autobusový<s n=""/></r></p></e>
+    <e><p><l>audio<s n="n"/><s n="nt"/></l><r>audio<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>audiometr<s n="n"/><s n="mi"/></l><r>audiometer<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>audiowizualny<s n="adj"/></l><r>audiovizuálny<s n="adj"/></r></p></e>
+    <e><p><l>audyt<s n="n"/><s n="mi"/></l><r>audit<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>audytor<s n="n"/><s n="mp"/></l><r>auditor<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>aukcja<s n="n"/><s n="f"/></l><r>aukcia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>australijski<s n="adj"/></l><r>austrálsky<s n="adj"/></r></p></e>
+    <e><p><l>autentyczny<s n="adj"/></l><r>autentický<s n="adj"/></r></p></e>
+    <e><p><l>autobiograficzny<s n="adj"/></l><r>autobiografický<s n="adj"/></r></p></e>
+    <e><p><l>autobus<s n="n"/><s n="mi"/></l><r>autobus<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>autobusiarz<s n="n"/><s n="mp"/></l><r>autobusár<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>autobusowy<s n="adj"/></l><r>autobusový<s n="adj"/></r></p></e>
     <e><p><l>automatyczny<s n="adj"/></l><r>automaticky<s n="adj"/></r></p></e>
     <e><p><l>automatyzacja<s n="n"/><s n="f"/></l><r>automatizácia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>automatyzowanie<s n=""/></l><r>automatizovane<s n=""/></r></p></e>
+    <e><p><l>automatyzowanie<s n="adv"/></l><r>automatizovane<s n="adv"/></r></p></e>
     <e><p><l>automatyzować<s n="vblex"/></l><r>automatizovať<s n="vblex"/></r></p></e>
     <e><p><l>autopilot<s n="n"/><s n="mi"/></l><r>autopilot<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>autoportret<s n="n"/><s n="mi"/></l><r>autoportrét<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>autoryzacja<s n="n"/><s n="f"/></l><r>autorizácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>prawo<b/>autorskie<s n="n"/><s n="nt"/></l><r>autorské<b/>právo<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>autorski<s n=""/></l><r>autorský<s n=""/></r></p></e>
-    <e><p><l>autoserwis<s n=""/></l><r>autoservis<s n=""/></r></p></e>
-    <e><p><l>autostop<s n=""/></l><r>autostop<s n=""/></r></p></e>
-    <e><p><l>autostrada<s n=""/></l><r>autostráda<s n=""/></r></p></e>
-    <e><p><l>aksjomatyczny<s n=""/></l><r>axiomatický<s n=""/></r></p></e>
-    <e><p><l>aksonometryczny<s n=""/></l><r>axonometrický<s n=""/></r></p></e>
+    <e><p><l>autorski<s n="adj"/></l><r>autorský<s n="adj"/></r></p></e>
+    <e><p><l>autoserwis<s n="n"/><s n="mi"/></l><r>autoservis<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>autostop<s n="n"/><s n="mi"/></l><r>autostop<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>autostrada<s n="n"/><s n="f"/></l><r>autostráda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aksjomatyczny<s n="adj"/></l><r>axiomatický<s n="adj"/></r></p></e>
+    <e><p><l>aksonometryczny<s n="adj"/></l><r>axonometrický<s n="adj"/></r></p></e>
     <e><p><l>Azerbejdżan<s n="np"/><s n="top"/><s n="mi"/></l><r>Azerbajdžan<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Azerbejdżanin<s n="n"/><s n="mp"/></l><r>Azerbajdžánec<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>Azja<s n="np"/><s n="top"/><s n="f"/></l><r>Ázia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>azymut<s n=""/></l><r>azimut<s n=""/></r></p></e>
+    <e><p><l>azymut<s n="n"/><s n="mi"/></l><r>azimut<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>azuryt<s n=""/></l><r>azurit<s n=""/></r></p></e>
-    <e><p><l>aż<s n=""/></l><r>až<s n=""/></r></p></e>
+    <e><p><l>aż<s n="cnjsub"/></l><r>až<s n="cnjsub"/></r></p></e>
     <e><p><l>aż<b/>do<s n="pr"/></l><r>až<b/>do<s n="pr"/></r></p></e>
-    <e><p><l>bakalarz<s n=""/></l><r>bakalár<s n=""/></r></p></e>
+    <e><p><l>bakalarz<s n="n"/><s n="mp"/></l><r>bakalár<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>balkon<s n="n"/><s n="mi"/></l><r>balkón<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>balsam<s n="n"/><s n="mi"/></l><r>balzám<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>banalny<s n="adj"/></l><r>banálny<s n="adj"/></r></p></e>
