@@ -1818,6 +1818,50 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Chorvátsk/o__np">
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>o<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>o<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>o<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r>o<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
   </pardefs>
   <section id="main" type="standard">
     <e lm="do"><p><l>do</l><r>do<s n="pr"/></r></p></e>
@@ -3986,5 +4030,17 @@
     
     <!-- np.hyd -->
     <e lm="Ochotské more"><i>Ochotsk</i><par n="Ochotsk/é more__np"/></e>
+
+    <e lm="Chorvátsko"><i>Chorvátsk</i><par n="Chorvátsk/o__np"/></e>
+    <e lm="Francúzsko"><i>Francúzsk</i><par n="Chorvátsk/o__np"/></e>
+    <e lm="Maďarsko"><i>Maďarsk</i><par n="Chorvátsk/o__np"/></e>
+    <e lm="Taliansko"><i>Taliansk</i><par n="Chorvátsk/o__np"/></e>
+    <e lm="Rakúsko"><i>Rakúsk</i><par n="Chorvátsk/o__np"/></e>
+    <e lm="Česko"><i>Česk</i><par n="Chorvátsk/o__np"/></e>
+    <e lm="Španielsko"><i>Španielsk</i><par n="Chorvátsk/o__np"/></e>
+    <e lm="Poľsko"><i>Poľsk</i><par n="Chorvátsk/o__np"/></e>
+    <e lm="Portugalsko"><i>Portugalsk</i><par n="Chorvátsk/o__np"/></e>
+    <e lm="Rusko"><i>Rusk</i><par n="Chorvátsk/o__np"/></e>
+    <e lm="Rumunsko"><i>Rumunsk</i><par n="Chorvátsk/o__np"/></e>
   </section>
 </dictionary>
