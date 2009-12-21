@@ -1102,7 +1102,7 @@
 <e r="LR"><p><l>znów<s n="adv"/></l><r>znovu<s n="adv"/></r></p></e>
 <e><p><l>wytrwale<s n="adv"/></l><r>vytrvale<s n="adv"/></r></p></e>
 <e><p><l>wysoki<s n="adj"/><s n="sint"/></l><r>vysoký<s n="adj"/><s n="sint"/></r></p></e>
-<e><p><l>wysoko<s n="adv"/></l><r>vysoko<s n="adv"/></r></p></e>
+<e><p><l>wysoko<s n="adv"/><s n="sint"/></l><r>vysoko<s n="adv"/><s n="sint"/></r></p></e>
 <e><p><l>wyraz<s n="n"/></l><r>výraz<s n="n"/></r></p></e>
 <e><p><l>traktor<s n="n"/></l><r>traktor<s n="n"/></r></p></e>
 <e><p><l>transporter<s n="n"/></l><r>transportér<s n="n"/></r></p></e>
@@ -1227,6 +1227,54 @@
     <e><p><l>węgierski<s n="adj"/></l><r>maďarský<s n="adj"/></r></p></e>
     <e><p><l>brytyjski<s n="adj"/></l><r>britský<s n="adj"/></r></p></e>
     <e><p><l>włoski<s n="adj"/></l><r>taliansky<s n="adj"/></r></p></e>
+    <e><p><l>dezaktywować<s n="vblex"/></l><r>deaktivovať<s n="vblex"/></r></p></e>
+    <e><p><l>diagram<s n="n"/><s n="mi"/></l><r>diagram<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>archeologia<s n="n"/><s n="f"/></l><r>archeológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>architektura<s n="n"/><s n="f"/></l><r>architektúra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>diagnostyka<s n="n"/><s n="f"/></l><r>diagnostika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dializa<s n="n"/><s n="f"/></l><r>dialýza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>długowieczność<s n="n"/><s n="f"/></l><r>dlhovekosť<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dokument<s n="n"/><s n="mi"/></l><r>dokument<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>domino<s n="n"/><s n="nt"/></l><r>domino<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>dosłowny<s n="adj"/></l><r>doslovný<s n="adj"/></r></p></e>
+    <e><p><l>dostępność<s n="n"/><s n="f"/></l><r>dostupnosť<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dwadzieścia<s n="num"/></l><r>dvadsať<s n="num"/></r></p></e>
+    <e><p><l>dwanaście<s n="num"/></l><r>dvanásť<s n="num"/></r></p></e>
+    <e><p><l>dwieście<s n="num"/></l><r>dvesto<s n="num"/></r></p></e>
+    <e><p><l>dylatacja<s n="n"/><s n="f"/></l><r>dilatácia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dyktator n.mp<s n="diktátor"/></l><r>n.ma<s n=""/></r></p></e>
+    <e><p><l>dyferencjał<s n="n"/><s n="mi"/></l><r>diferenciál<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dychać<s n="vblex"/></l><r>dýchať<s n="vblex"/></r></p></e>
+    <e><p><l>dwustronnie<s n="adv"/></l><r>dvojstranne<s n="adv"/></r></p></e>
+    <e><p><l>dwoisty<s n="adj"/></l><r>dvojitý<s n="adj"/></r></p></e>
+    <e><p><l>dyscyplina<s n="n"/><s n="f"/></l><r>disciplína<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dysfunkcja<s n="n"/><s n="f"/></l><r>dysfunkcia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dysharmonijny<s n="adj"/></l><r>disharmonický<s n="adj"/></r></p></e>
+    <e><p><l>dystrybucja<s n="n"/><s n="f"/></l><r>distribúcia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dyskwalifikacja<s n="n"/><s n="f"/></l><r>diskvalifikácia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dyskwalifikować<s n="vblex"/></l><r>diskvalifikovať<s n="vblex"/></r></p></e>
+    <e><p><l>dynamit<s n="n"/><s n="mi"/></l><r>dynamit<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dynastyczny<s n="adj"/></l><r>dynastický<s n="adj"/></r></p></e>
+    <e><p><l>dżihad<s n="n"/><s n="mi"/></l><r>džihád<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>efekt<s n="n"/><s n="mi"/></l><r>efekt<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>ekologia<s n="n"/><s n="f"/></l><r>ekológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ekonomiczny<s n="adj"/></l><r>ekonomický<s n="adj"/></r></p></e>
+    <e><p><l>ekonomika<s n="n"/><s n="f"/></l><r>ekonomika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>egzema<s n="n"/><s n="f"/></l><r>ekzém<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>elektrochemia<s n="n"/><s n="f"/></l><r>elektrochémia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>elektrodynamiczny<s n="adj"/></l><r>elektrodynamický<s n="adj"/></r></p></e>
+    <e><p><l>elektrodynamika<s n="n"/><s n="f"/></l><r>elektrodynamika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>elektrokardiograf<s n="n"/><s n="mi"/></l><r>elektrokardiograf<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>elektrokardiogram<s n="n"/><s n="mi"/></l><r>elektrokardiogram<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>elektroliza<s n="n"/><s n="f"/></l><r>elektrolýza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>elektromagnetycznie<s n="adv"/></l><r>elektromagneticky<s n="adv"/></r></p></e>
+    <e><p><l>elektron<s n="n"/><s n="mi"/></l><r>elektrón<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>elektronika<s n="n"/><s n="f"/></l><r>elektronika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>elektroskop<s n="n"/><s n="mi"/></l><r>elektroskop<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>elektrostatyka<s n="n"/><s n="f"/></l><r>elektrostatika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>elektrycznie<s n="adv"/></l><r>elektricky<s n="adv"/></r></p></e>
+    <e><p><l>elektryfikacja<s n="n"/><s n="f"/></l><r>elektrifikácia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>skóra<s n="n"/><s n="f"/></l><r>koža<s n="n"/><s n="f"/></r></p></e>
   </section>
 </dictionary>
 
