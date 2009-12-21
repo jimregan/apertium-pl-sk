@@ -1348,7 +1348,7 @@
     <e><p><l>od<b/>początku<b/>do<b/>końca<s n="adv"/></l><r>od<b/>začiatku<b/>do<b/>konca<s n="adv"/></r></p></e>
     <e><p><l>okno<s n="n"/><s n="nt"/></l><r>okno<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>oko<s n="n"/><s n="nt"/></l><r>oko<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>komputer<s n="n"/><s n="mi"/></l><r>počítač<s n=""/></r></p></e>
+    <e><p><l>komputer<s n="n"/><s n="mi"/></l><r>počítač<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>bengalski<s n="adj"/></l><r>bengálsky<s n="adj"/></r></p></e>
     <e><p><l>Benin<s n="np"/><s n="top"/><s n="mi"/></l><r>Benin<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Berlin<s n="np"/><s n="top"/><s n="mi"/></l><r>Berlín<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
@@ -1373,11 +1373,11 @@
     <e><p><l>bezbożny<s n="adj"/></l><r>bezbožný<s n="adj"/></r></p></e>
     <e><p><l>bidet<s n="n"/><s n="mi"/></l><r>bidet<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>bieda<s n="n"/><s n="f"/></l><r>bieda<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>biedny<s n=""/></l><r>biedny<s n=""/></r></p></e>
+    <e><p><l>biedny<s n="adj"/></l><r>biedny<s n="adj"/></r></p></e>
     <e><p><l>biały<s n="adj"/><s n="sint"/></l><r>biely<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>biotechnologia<s n=""/></l><r>biotechnológia<s n=""/></r></p></e>
+    <e><p><l>biotechnologia<s n="n"/><s n="f"/></l><r>biotechnológia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bliski<s n="adj"/><s n="sint"/></l><r>blízky<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>brat<s n=""/></l><r>brat<s n=""/></r></p></e>
+    <e><p><l>brat<s n="n"/><s n="mp"/></l><r>brat<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>brać<s n="vblex"/></l><r>brať<s n="vblex"/></r></p></e>
     <e><p><l>bractwo<s n="n"/><s n="nt"/></l><r>bratstvo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>brazylijski<s n="adj"/></l><r>brazílsky<s n="adj"/></r></p></e>
@@ -1389,12 +1389,12 @@
     <e><p><l>emisja<s n="n"/><s n="f"/></l><r>emisia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>emitować<s n="vblex"/></l><r>emitovať<s n="vblex"/></r></p></e>
     <e><p><l>emulacja<s n="n"/><s n="f"/></l><r>emulácia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>emulator<s n=""/></l><r>emulátor<s n=""/></r></p></e>
+    <e><p><l>emulator<s n="n"/><s n="mi"/></l><r>emulátor<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>encyklopedia<s n="n"/><s n="f"/></l><r>encyklopédia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>energiczny<s n=""/></l><r>energický<s n=""/></r></p></e>
-    <e><p><l>entuzjazm<s n=""/></l><r>entuziazmus<s n=""/></r></p></e>
+    <e><p><l>energiczny<s n="adj"/></l><r>energický<s n="adj"/></r></p></e>
+    <e><p><l>entuzjazm<s n="n"/><s n="mi"/></l><r>entuziazmus<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>enumeracja<s n="n"/><s n="f"/></l><r>enumerácia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>eon<s n=""/></l><r>eón<s n=""/></r></p></e>
+    <e><p><l>eon<s n="n"/><s n="mi"/></l><r>eón<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>erekcja<s n="n"/><s n="f"/></l><r>erekcia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Erytrea<s n="np"/><s n="top"/><s n="f"/></l><r>Eritrea<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>esencja<s n="n"/><s n="f"/></l><r>esencia<s n="n"/><s n="f"/></r></p></e>
@@ -1410,8 +1410,8 @@
     <e><p><l>absolutystyczny<s n="adj"/></l><r>absolutistický<s n="adj"/></r></p></e>
     <e><p><l>absolutnie<s n="adv"/></l><r>absolútne<s n="adv"/></r></p></e>
     <e><p><l>absolutny<s n="adj"/></l><r>absolútny<s n="adj"/></r></p></e>
-    <e><p><l>absolwować<s n=""/></l><r>absolvovať<s n="vblex"/></r></p></e>
-    <e><p><l>abstrahować<s n=""/></l><r>abstrahovať<s n="vblex"/></r></p></e>
+    <e><p><l>absolwować<s n="vblex"/></l><r>absolvovať<s n="vblex"/></r></p></e>
+    <e><p><l>abstrahować<s n="vblex"/></l><r>abstrahovať<s n="vblex"/></r></p></e>
     <e><p><l>abstrakcyjny<s n="adj"/></l><r>abstraktný<s n="adj"/></r></p></e>
     <e><p><l>absurdalny<s n="adj"/></l><r>absurdný<s n="adj"/></r></p></e>
     <e><p><l>alfabetyczny<s n="adj"/></l><r>abecedný<s n="adj"/></r></p></e>
@@ -1457,8 +1457,8 @@
     <e><p><l>akademiczny<s n="adj"/></l><r>akademický<s n="adj"/></r></p></e>
     <e><p><l>akcelerator<s n="n"/><s n="mi"/></l><r>akcelerátor<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>akcent<s n="n"/><s n="mi"/></l><r>akcent<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>akceptor<s n=""/></l><r>akceptor<s n=""/></r></p></e>
-    <e><p><l>akceptowanie<s n=""/></l><r>akceptovanie<s n=""/></r></p></e>
+    <e><p><l>akceptor<s n="n"/><s n="mi"/></l><r>akceptor<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>akceptowanie<s n="n"/><s n="nt"/></l><r>akceptovanie<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>akceptować<s n="vblex"/></l><r>akceptovať<s n="vblex"/></r></p></e>
     <e><p><l>akcja<s n="n"/><s n="f"/></l><r>akcia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>akcjonariusz<s n="n"/><s n="mp"/></l><r>akcionár<s n="n"/><s n="ma"/></r></p></e>
@@ -1477,8 +1477,8 @@
     <e><p><l>akwedukt<s n="n"/><s n="mi"/></l><r>akvadukt<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>akwamarynowy<s n="adj"/></l><r>akvamarínový<s n="adj"/></r></p></e>
     <e><p><l>akwarium<s n="n"/></l><r>akvárium<s n="n"/></r></p></e>
-    <e><p><l>jaki<s n=""/></l><r>aký<s n=""/></r></p></e>
-    <e><p><l>jakikolwiek<s n=""/></l><r>akýkoľvek<s n=""/></r></p></e>
+    <e><p><l>jaki<s n="det"/><s n="itg"/></l><r>aký<s n="det"/><s n="itg"/></r></p></e>
+    <e><p><l>jakikolwiek<s n="det"/><s n="ind"/></l><r>akýkoľvek<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>alabastrowy<s n="adj"/></l><r>alabastrový<s n="adj"/></r></p></e>
     <e><p><l>alarm<s n="n"/><s n="mi"/></l><r>alarm<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>alarmować<s n="vblex"/></l><r>alarmovať<s n="vblex"/></r></p></e>
@@ -1547,7 +1547,7 @@
     <e><p><l>armada<s n="n"/><s n="f"/></l><r>armáda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>arogancki<s n="adj"/></l><r>arogantný<s n="adj"/></r></p></e>
     <e><p><l>asfaltowy<s n="adj"/></l><r>asfaltový<s n="adj"/></r></p></e>
-    <e><p><l>asystent<s n=""/></l><r>asistent<s n=""/></r></p></e>
+    <e><p><l>asystent<s n="n"/><s n="mp"/></l><r>asistent<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>asocjacja<s n="n"/><s n="f"/></l><r>asociácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asparagus<s n="n"/><s n="mi"/></l><r>asparágus<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>aspekt<s n="n"/><s n="mi"/></l><r>aspekt<s n="n"/><s n="mi"/></r></p></e>
@@ -1569,7 +1569,7 @@
     <e><p><l>itd<s n="adv"/></l><r>atď<s n="adv"/></r></p></e>
     <e><p><l>ateista<s n="n"/><s n="mp"/></l><r>ateista<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>ateistyczny<s n="adj"/></l><r>ateistický<s n="adj"/></r></p></e>
-    <e><p><l>atelier<s n=""/></l><r>ateliér<s n=""/></r></p></e>
+    <e><p><l>atelier<s n="n"/><s n="nt"/></l><r>ateliér<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Ateny<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Atény<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>atest<s n="n"/><s n="mi"/></l><r>atest<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>atestacja<s n="n"/><s n="f"/></l><r>atestácia<s n="n"/><s n="f"/></r></p></e>
@@ -1586,7 +1586,7 @@
     <e><p><l>atrakcyjny<s n="adj"/></l><r>atraktívny<s n="adj"/></r></p></e>
     <e><p><l>atramentowy<s n="adj"/></l><r>atramentový<s n="adj"/></r></p></e>
     <e><p><l>atrybut<s n="n"/><s n="mi"/></l><r>atribút<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>atrium<s n=""/></l><r>átrium<s n=""/></r></p></e>
+    <e><p><l>atrium<s n="n"/><s n="nt"/></l><r>átrium<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>atypowy<s n="adj"/></l><r>atypický<s n="adj"/></r></p></e>
     <e><p><l>audio<s n="n"/><s n="nt"/></l><r>audio<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>audiometr<s n="n"/><s n="mi"/></l><r>audiometer<s n="n"/><s n="mi"/></r></p></e>
@@ -1618,7 +1618,7 @@
     <e><p><l>Azerbejdżanin<s n="n"/><s n="mp"/></l><r>Azerbajdžánec<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>Azja<s n="np"/><s n="top"/><s n="f"/></l><r>Ázia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>azymut<s n="n"/><s n="mi"/></l><r>azimut<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>azuryt<s n=""/></l><r>azurit<s n=""/></r></p></e>
+    <e><p><l>azuryt<s n="n"/><s n="mi"/></l><r>azurit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>aż<s n="cnjsub"/></l><r>až<s n="cnjsub"/></r></p></e>
     <e><p><l>aż<b/>do<s n="pr"/></l><r>až<b/>do<s n="pr"/></r></p></e>
     <e><p><l>bakalarz<s n="n"/><s n="mp"/></l><r>bakalár<s n="n"/><s n="ma"/></r></p></e>
@@ -1643,9 +1643,37 @@
     <e><p><l>Bejrut<s n="np"/><s n="top"/><s n="mi"/></l><r>Bejrút<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Belgrad<s n="np"/><s n="top"/><s n="mi"/></l><r>Belehrad<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Belgia<s n="np"/><s n="top"/><s n="f"/></l><r>Belgicko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
-    <e><p><l>Belgijski<s n="adj"/></l><r>Belgický<s n="adj"/></r></p></e>
+    <e><p><l>belgijski<s n="adj"/></l><r>belgický<s n="adj"/></r></p></e>
     <e><p><l>Belize<s n=""/></l><r>Belize<s n=""/></r></p></e>
-    <e><p><l>beneficjent<s n=""/></l><r>beneficient<s n=""/></r></p></e>
+    <e><p><l>beneficjent<s n="n"/><s n="mp"/></l><r>beneficient<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>dialog<s n="n"/><s n="mi"/></l><r>dialóg<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dystrybutor<s n="n"/><s n="mp"/></l><r>distribútor<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>dysydent<s n="n"/><s n="mp"/></l><r>disident<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>dyplom<s n="n"/><s n="mi"/></l><r>diplom<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dyplomacja<s n="n"/><s n="f"/></l><r>diplomacia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dyplomata<s n="n"/><s n="mp"/></l><r>diplomat<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>elektrotechnik<s n="n"/><s n="mp"/></l><r>elektrotechnik<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Anglik<s n="n"/><s n="mp"/></l><r>Angličan<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Austriak<s n="n"/><s n="mp"/></l><r>Rakúšan<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Brazylijczyk<s n="n"/><s n="mp"/></l><r>Brazílčan<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Chińczyk<s n="n"/><s n="mp"/></l><r>Číňan<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Czech<s n="n"/><s n="mp"/></l><r>Čech<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Francuz<s n="n"/><s n="mp"/></l><r>Francúz<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Grek<s n="n"/><s n="mp"/></l><r>Grék<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Hiszpan<s n="n"/><s n="mp"/></l><r>Španiel<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Niemiec<s n="n"/><s n="mp"/></l><r>Nemec<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Polak<s n="n"/><s n="mp"/></l><r>Poliak<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Portugalczyk<s n="n"/><s n="mp"/></l><r>Portugalec<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Rosjanin<s n="n"/><s n="mp"/></l><r>Rus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Rumun<s n="n"/><s n="mp"/></l><r>Rumun<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Słowak<s n="n"/><s n="mp"/></l><r>Slovák<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Ukrainiec<s n="n"/><s n="mp"/></l><r>Ukrajinec<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Amerykanin<s n="n"/><s n="mp"/></l><r>Američan<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Węgier<s n="n"/><s n="mp"/></l><r>Maďar<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Brytyjczyk<s n="n"/><s n="mp"/></l><r>Brit<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Włoch<s n="n"/><s n="mp"/></l><r>Talian<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>praca<s n="n"/><s n="f"/></l><r>práca<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pracownik<s n="n"/><s n="mp"/></l><r>pracovník<s n="n"/><s n="ma"/></r></p></e>
   </section>
 </dictionary>
 
