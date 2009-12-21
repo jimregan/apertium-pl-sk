@@ -541,6 +541,15 @@
       </e>
       <e><i>iv</i><par n="Neuter_pivo"/></e>
     </pardef>
+    <pardef n="s/lnko__n">
+      <e>
+        <p>
+          <l>ĺnk</l>
+          <r>lnko<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e><i>lnk</i><par n="Neuter_pivo"/></e>
+    </pardef>
     <pardef n="šialenst/vo__n">
       <e>
         <p>
@@ -1691,6 +1700,80 @@
         </p>
       </e>
     </pardef>
+    <pardef n="organizm/us__n">
+      <e>
+        <p>
+          <l>us</l>
+          <r>us<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>us<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>us<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>us</l>
+          <r>us<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>us<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r>us<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r>us<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ov</l>
+          <r>us<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r>us<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r>us<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>och</l>
+          <r>us<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ami</l>
+          <r>us<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="Ochotsk/é more__np">
       <e>
         <p>
@@ -1830,12 +1913,14 @@
     <e lm="chlap"><i>chlap</i><par n="chlap/__n"/></e>
     <e lm="jazyk"><i>jazyk</i><par n="jazyk__n"/></e>
     <e lm="okno"><i>ok</i><par n="ok/no__n"/></e>
+    <e lm="organizmus"><i>organizm</i><par n="organizm/us__n"/></e>
     <e lm="stroj"><i>stroj</i><par n="stroj/__n"/></e>
     <e lm="september"><i>septemb</i><par n="novemb/er__n"/></e>
     <e lm="október"><i>októb</i><par n="novemb/er__n"/></e>
     <e lm="november"><i>novemb</i><par n="novemb/er__n"/></e>
     <e lm="december"><i>decemb</i><par n="novemb/er__n"/></e>
     <e lm="stôl"><i>st</i><par n="st/ôl__n"/></e>
+    <e lm="slnko"><i>s</i><par n="s/lnko__n"/></e>
     <e lm="šialenstvo"><i>šialenst</i><par n="šialenst/vo__n"/></e>
     
     <e lm="abnormálnosť"><i>abnormálnos</i><par n="kos/ť__n"/></e>
