@@ -52,6 +52,7 @@
     <sdef n="cnjcoo"/>
     <sdef n="cnjsub"/>
     <sdef n="pr"/>
+    <sdef n="itg"/>
   </sdefs>
   
   <pardefs>
@@ -61,6 +62,22 @@
         <p>
 	  <l></l>
 	  <r><s n="cnjsub"/></r>
+	</p>
+      </e>
+    </pardef>
+    <pardef n="kde__adv">
+      <e>
+        <p>
+	  <l></l>
+	  <r><s n="adv"/><s n="itg"/></r>
+	</p>
+      </e>
+    </pardef>
+    <pardef n="tu__adv">
+      <e>
+        <p>
+	  <l></l>
+	  <r><s n="adv"/></r>
 	</p>
       </e>
     </pardef>
@@ -1414,6 +1431,7 @@
     </pardef>
   </pardefs>
   <section id="main" type="standard">
+    <e lm="do"><p><l>do</l><r>do<s n="pr"/></r></p></e>
     <e lm="na"><p><l>na</l><r>na<s n="pr"/></r></p></e>
     <e lm="od" r="LR"><p><l>od</l><r>od<s n="pr"/></r></p></e>
     <e lm="odo" r="LR"><p><l>odo</l><r>od<s n="pr"/></r></p></e>
@@ -1441,7 +1459,51 @@
     <e lm="by"><i>by</i><par n="že__cnjsub"/></e>
     <e lm="aby"><i>aby</i><par n="že__cnjsub"/></e>
     <e lm="ale"><i>ale</i><par n="že__cnjsub"/></e>
+
+    <e lm="kde"><i>kde</i><par n="kde__adv"/></e>
+    <e lm="kedy"><i>kedy</i><par n="kde__adv"/></e>
   
+    <e lm="znovu"><i>znovu<par n="tu__adv"/></e>
+    <e lm="vytrvale"><i>vytrvale<par n="tu__adv"/></e>
+    <e lm="vysoko"><i>vysoko<par n="tu__adv"/></e>
+    <e lm="tu"><i>tu<par n="tu__adv"/></e>
+    <e lm="dvojstranne"><i>dvojstranne<par n="tu__adv"/></e>
+    <e lm="elektromagneticky"><i>elektromagneticky<par n="tu__adv"/></e>
+    <e lm="elektricky"><i>elektricky<par n="tu__adv"/></e>
+    <e lm="strašne"><i>strašne<par n="tu__adv"/></e>
+    <e lm="široko"><i>široko<par n="tu__adv"/></e>
+    <e lm="v každom prípade"><i>v<b/>každom<b/>prípade<par n="tu__adv"/></e>
+    <e lm="kdekoľvek"><i>kdekoľvek<par n="tu__adv"/></e>
+    <e lm="kedykoľvek"><i>kedykoľvek<par n="tu__adv"/></e>
+    <e lm="na našej strane"><i>na<b/>našej<b/>strane<par n="tu__adv"/></e>
+    <e lm="na veky vekov"><i>na<b/>veky<b/>vekov<par n="tu__adv"/></e>
+    <e lm="od domu k domu"><i>od<b/>domu<b/>k<b/>domu<par n="tu__adv"/></e>
+    <e lm="od hlavy po päty"><i>od<b/>hlavy<b/>po<b/>päty<par n="tu__adv"/></e>
+    <e lm="od pobrežia k pobrežiu"><i>od<b/>pobrežia<b/>k<b/>pobrežiu<par n="tu__adv"/></e>
+    <e lm="od steny k stene"><i>od<b/>steny<b/>k<b/>stene<par n="tu__adv"/></e>
+    <e lm="od začiatku do konca"><i>od<b/>začiatku<b/>do<b/>konca<par n="tu__adv"/></e>
+    <e lm="betónovanie"><i>betónovanie<par n="tu__adv"/></e>
+    <e lm="bez alkoholu"><i>bez<b/>alkoholu<par n="tu__adv"/></e>
+    <e lm="bez cirkevnej príslušnosti"><i>bez<b/>cirkevnej<b/>príslušnosti<par n="tu__adv"/></e>
+    <e lm="bez hrdze"><i>bez<b/>hrdze<par n="tu__adv"/></e>
+    <e lm="bez chýb"><i>bez<b/>chýb<par n="tu__adv"/></e>
+    <e lm="bez ľadu"><i>bez<b/>ľadu<par n="tu__adv"/></e>
+    <e lm="bez limitu"><i>bez<b/>limitu<par n="tu__adv"/></e>
+    <e lm="bez nadšenia"><i>bez<b/>nadšenia<par n="tu__adv"/></e>
+    <e lm="bez nikotínu"><i>bez<b/>nikotínu<par n="tu__adv"/></e>
+    <e lm="bez pochýb"><i>bez<b/>pochýb<par n="tu__adv"/></e>
+    <e lm="bez poplatku"><i>bez<b/>poplatku<par n="tu__adv"/></e>
+    <e lm="bez silikonu"><i>bez<b/>silikonu<par n="tu__adv"/></e>
+    <e lm="bez soli"><i>bez<b/>soli<par n="tu__adv"/></e>
+    <e lm="bez tuku"><i>bez<b/>tuku<par n="tu__adv"/></e>
+    <e lm="absolútne"><i>absolútne<par n="tu__adv"/></e>
+    <e lm="ačkoľvek"><i>ačkoľvek<par n="tu__adv"/></e>
+    <e lm="aktuálne"><i>aktuálne<par n="tu__adv"/></e>
+    <e lm="ani jeden"><i>ani<b/>jeden<par n="tu__adv"/></e>
+    <e lm="anno Domini"><i>anno<b/>Domini<par n="tu__adv"/></e>
+    <e lm="atď"><i>atď<par n="tu__adv"/></e>
+    <e lm="automatizovane"><i>automatizovane<par n="tu__adv"/></e>
+
     <e lm="čítať"><i>čít</i><par n="čít/ať__vblex"/></e>
     <e lm="mať"><i>m</i><par n="m/ať__vbhaver"/></e>
     <e lm="robiť"><i>rob</i><par n="rob/iť__vblex"/></e>
