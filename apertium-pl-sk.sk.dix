@@ -3895,6 +3895,9 @@
     <e lm="jún"><i>jún</i><par n="január__n"/></e>
     <e lm="apríl"><i>apríl</i><par n="január__n"/></e>
     <e lm="máj"><i>máj</i><par n="január__n"/></e>
+    <e lm="sklo"><i>sk</i><par n="sk/lo__n"/></e>
+    <e lm="kreslo"><i>kres</i><par n="sk/lo__n"/></e>
+    <e lm="heslo"><i>hes</i><par n="sk/lo__n"/></e>
     
     <!-- np.hyd -->
     <e lm="Ochotské more"><i>Ochotsk</i><par n="Ochotsk/é more__np"/></e>
