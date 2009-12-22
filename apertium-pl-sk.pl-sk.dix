@@ -1168,6 +1168,10 @@
 <e><p><l>satelita<s n="n"/></l><r>satelit<s n="n"/></r></p></e>
 <e><p><l>satyryk<s n="n"/></l><r>satirik<s n="n"/></r></p></e>
 <e><p><l>szatnia<s n="n"/></l><r>šatňa<s n="n"/></r></p></e>
+<e><p><l>klucz<s n="n"/></l><r>kľúč<s n="n"/></r></p></e>
+<e><p><l>krew<s n="n"/></l><r>krv<s n="n"/></r></p></e>
+<e><p><l>gwiazda<s n="n"/></l><r>hviezda<s n="n"/></r></p></e>
+<e><p><l>organizm<s n="n"/></l><r>organizmus<s n="n"/></r></p></e>
 
     <e><p><l>kraj<b/>bratysławski<s n="n"/><s n="mi"/></l><r>Bratislavský<b/>kraj<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>kraj<b/>bańskobystrzycki<s n="n"/><s n="mi"/></l><r>Banskobystrický<b/>kraj<s n="n"/><s n="mi"/></r></p></e>
@@ -1877,6 +1881,143 @@
     <e c="sp.">ikonografia<s n="n"/><s n="f"/></l><r>ikonografia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp.">immunologia<s n="n"/><s n="f"/></l><r>imunológia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp.">Indonezja<s n="np"><s n="top"/><s n="f"/></l><r>Indonézia<s n="np"><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp.">absolutyzm<s n="n"/><s n="mi"/></l><r>absolutizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">abstrakcjonizm<s n="n"/><s n="mi"/></l><r>abstrakcionizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">aforyzm<s n="n"/><s n="mi"/></l><r>aforizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">agnostycyzm<s n="n"/><s n="mi"/></l><r>agnosticizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">albinizm<s n="n"/><s n="mi"/></l><r>albinizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">alibizm<s n="n"/><s n="mi"/></l><r>alibizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">alkoholizm<s n="n"/><s n="mi"/></l><r>alkoholizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">alogizm<s n="n"/><s n="mi"/></l><r>alogizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">altruizm<s n="n"/><s n="mi"/></l><r>altruizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">anachronizm<s n="n"/><s n="mi"/></l><r>anachronizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">animalizm<s n="n"/><s n="mi"/></l><r>animalizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">animizm<s n="n"/><s n="mi"/></l><r>animizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">antagonizm<s n="n"/><s n="mi"/></l><r>antagonizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">antyfaszyzm<s n="n"/><s n="mi"/></l><r>antifašizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">antykolonializm<s n="n"/><s n="mi"/></l><r>antikolonializmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">antykomunizm<s n="n"/><s n="mi"/></l><r>antikomunizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">antymilitaryzm<s n="n"/><s n="mi"/></l><r>antimilitarizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">antysemityzm<s n="n"/><s n="mi"/></l><r>antisemitizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">antropocentryzm<s n="n"/><s n="mi"/></l><r>antropocentrizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">archaizm<s n="n"/><s n="mi"/></l><r>archaizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">ascetyzm<s n="n"/><s n="mi"/></l><r>asketizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">astygmatyzm<s n="n"/><s n="mi"/></l><r>astigmatizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">atawizm<s n="n"/><s n="mi"/></l><r>atavizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">ateizm<s n="n"/><s n="mi"/></l><r>ateizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">atomizm<s n="n"/><s n="mi"/></l><r>atomizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">austroslawizm<s n="n"/><s n="mi"/></l><r>austroslavizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">automobilizm<s n="n"/><s n="mi"/></l><r>automobilizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">autorytaryzm<s n="n"/><s n="mi"/></l><r>autoritatizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">baptyzm<s n="n"/><s n="mi"/></l><r>baptizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">behawioryzm<s n="n"/><s n="mi"/></l><r>behaviorizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">bilingwizm<s n="n"/><s n="mi"/></l><r>bilingvizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">biocentryzm<s n="n"/><s n="mi"/></l><r>biocentrizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">bohemizm<s n="n"/><s n="mi"/></l><r>bohemizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">bolszewizm<s n="n"/><s n="mi"/></l><r>boľševizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">buddyzm<s n="n"/><s n="mi"/></l><r>budhizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">biurokratyzm<s n="n"/><s n="mi"/></l><r>byrokratizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">caryzm<s n="n"/><s n="mi"/></l><r>cárizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">centralizm<s n="n"/><s n="mi"/></l><r>centralizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">centryzm<s n="n"/><s n="mi"/></l><r>centrizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">cynizm<s n="n"/><s n="mi"/></l><r>cynizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">czechizm<s n="n"/><s n="mi"/></l><r>čechizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">dadaizm<s n="n"/><s n="mi"/></l><r>dadaizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">daltonizm<s n="n"/><s n="mi"/></l><r>daltonizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">darwinizm<s n="n"/><s n="mi"/></l><r>darvinizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">defetyzm<s n="n"/><s n="mi"/></l><r>defetizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">deizm<s n="n"/><s n="mi"/></l><r>deizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">demokratyzm<s n="n"/><s n="mi"/></l><r>demokratizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">despotyzm<s n="n"/><s n="mi"/></l><r>despotizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">determinizm<s n="n"/><s n="mi"/></l><r>determinizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">dialektyzm<s n="n"/><s n="mi"/></l><r>dialektizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">dimorfizm<s n="n"/><s n="mi"/></l><r>dimorfizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">dogmatyzm<s n="n"/><s n="mi"/></l><r>dogmatizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">dualizm<s n="n"/><s n="mi"/></l><r>dualizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">dynamizm<s n="n"/><s n="mi"/></l><r>dynamizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">egocentryzm<s n="n"/><s n="mi"/></l><r>egocentrizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">egoizm<s n="n"/><s n="mi"/></l><r>egoizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">eklektycyzm<s n="n"/><s n="mi"/></l><r>eklekticizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">eklektyzm<s n="n"/><s n="mi"/></l><r>eklektizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">ekumenizm<s n="n"/><s n="mi"/></l><r>ekumenizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">elektromagnetyzm<s n="n"/><s n="mi"/></l><r>elektromagnetizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">empiriokrytycyzm<s n="n"/><s n="mi"/></l><r>empiriokriticizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">empiryzm<s n="n"/><s n="mi"/></l><r>empirizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">entuzjazm<s n="n"/><s n="mi"/></l><r>entuziazmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">eufemizm<s n="n"/><s n="mi"/></l><r>eufemizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">europeizm<s n="n"/><s n="mi"/></l><r>europeizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">eurosceptycyzm<s n="n"/><s n="mi"/></l><r>euroskepticizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">ewolucjonizm<s n="n"/><s n="mi"/></l><r>evolucionizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">ekshibicjonizm<s n="n"/><s n="mi"/></l><r>exhibicionizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">egzystencjalizm<s n="n"/><s n="mi"/></l><r>existencializmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">ekspresjonizm<s n="n"/><s n="mi"/></l><r>expresionizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">ezoteryzm<s n="n"/><s n="mi"/></l><r>ezoterizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">fanatyzm<s n="n"/><s n="mi"/></l><r>fanatizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">faszyzm<s n="n"/><s n="mi"/></l><r>fašizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">fatalizm<s n="n"/><s n="mi"/></l><r>fatalizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">federalizm<s n="n"/><s n="mi"/></l><r>federalizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">feminizm<s n="n"/><s n="mi"/></l><r>feminizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">fetyszyzm<s n="n"/><s n="mi"/></l><r>fetišizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">feudalizm<s n="n"/><s n="mi"/></l><r>feudalizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">fideizm<s n="n"/><s n="mi"/></l><r>fideizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">formalizm<s n="n"/><s n="mi"/></l><r>formalizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">frazeologizm<s n="n"/><s n="mi"/></l><r>frazeologizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">freudyzm<s n="n"/><s n="mi"/></l><r>freudizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">fundamentalizm<s n="n"/><s n="mi"/></l><r>fundamentalizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">futuryzm<s n="n"/><s n="mi"/></l><r>futurizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">galwanizm<s n="n"/><s n="mi"/></l><r>galvanizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">geocentryzm<s n="n"/><s n="mi"/></l><r>geocentrizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">germanizm<s n="n"/><s n="mi"/></l><r>germanizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">hedonizm<s n="n"/><s n="mi"/></l><r>hedonizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">heliocentryzm<s n="n"/><s n="mi"/></l><r>heliocentrizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">heroizm<s n="n"/><s n="mi"/></l><r>heroizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">hinduizm<s n="n"/><s n="mi"/></l><r>hinduizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">historyzm<s n="n"/><s n="mi"/></l><r>historizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">humanizm<s n="n"/><s n="mi"/></l><r>humanizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">hungaryzm<s n="n"/><s n="mi"/></l><r>hungarizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">chiliazm<s n="n"/><s n="mi"/></l><r>chiliazmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">chromatyzm<s n="n"/><s n="mi"/></l><r>chromatizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">idealizm<s n="n"/><s n="mi"/></l><r>idealizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">idiomatyzm<s n="n"/><s n="mi"/></l><r>idiomatizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">idiotyzm<s n="n"/><s n="mi"/></l><r>idiotizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">iluzjonizm<s n="n"/><s n="mi"/></l><r>iluzionizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">imperializm<s n="n"/><s n="mi"/></l><r>imperializmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">impresjonizm<s n="n"/><s n="mi"/></l><r>impresionizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">indywidualizm<s n="n"/><s n="mi"/></l><r>individualizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">internacjonalizm<s n="n"/><s n="mi"/></l><r>internacionalizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">irracjonalizm<s n="n"/><s n="mi"/></l><r>iracionalizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">irredentyzm<s n="n"/><s n="mi"/></l><r>iredentizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">izochronizm<s n="n"/><s n="mi"/></l><r>izochronizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">izolacjonizm<s n="n"/><s n="mi"/></l><r>izolacionizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">izomorfizm<s n="n"/><s n="mi"/></l><r>izomorfizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">jogizm<s n="n"/><s n="mi"/></l><r>jogizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">kalwinizm<s n="n"/><s n="mi"/></l><r>kalvinizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">kanibalizm<s n="n"/><s n="mi"/></l><r>kanibalizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">kapitalizm<s n="n"/><s n="mi"/></l><r>kapitalizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">katechizm<s n="n"/><s n="mi"/></l><r>katechizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">katolicyzm<s n="n"/><s n="mi"/></l><r>katolicizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">klasycyzm<s n="n"/><s n="mi"/></l><r>klasicizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">klerykalizm<s n="n"/><s n="mi"/></l><r>klerikalizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">kolektywizm<s n="n"/><s n="mi"/></l><r>kolektivizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">kolonializm<s n="n"/><s n="mi"/></l><r>kolonializmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">komunizm<s n="n"/><s n="mi"/></l><r>komunizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">konformizm<s n="n"/><s n="mi"/></l><r>konformizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">koniunkturalizm<s n="n"/><s n="mi"/></l><r>konjunkturalizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">konstruktywizm<s n="n"/><s n="mi"/></l><r>konštruktivizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">kosmopolityzm<s n="n"/><s n="mi"/></l><r>kozmopolitizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">kretynizm<s n="n"/><s n="mi"/></l><r>kreténizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">krytycyzm<s n="n"/><s n="mi"/></l><r>kriticizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">kubizm<s n="n"/><s n="mi"/></l><r>kubizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">lamaizm<s n="n"/><s n="mi"/></l><r>lamaizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">leninizm<s n="n"/><s n="mi"/></l><r>leninizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">liberalizm<s n="n"/><s n="mi"/></l><r>liberalizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">lokalpatriotyzm<s n="n"/><s n="mi"/></l><r>lokálpatriotizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">magnetyzm<s n="n"/><s n="mi"/></l><r>magnetizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">makroorganizm<s n="n"/><s n="mi"/></l><r>makroorganizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">maltuzjanizm<s n="n"/><s n="mi"/></l><r>maltuzianizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">manieryzm<s n="n"/><s n="mi"/></l><r>manierizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">marazm<s n="n"/><s n="mi"/></l><r>marazmus<s n="n"/><s n="mi"/></r></p></e>
+    <e c="sp.">marksizm<s n="n"/><s n="mi"/></l><r>marxizmus<s n="n"/><s n="mi"/></r></p></e>
   </section>
 </dictionary>
 

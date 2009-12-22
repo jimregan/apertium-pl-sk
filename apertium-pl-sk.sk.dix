@@ -1129,6 +1129,50 @@
         </p>
       </e>
     </pardef>
+    <pardef n="krv__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ou</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="Gamb/ia__np">
       <e>
         <p>
@@ -5197,5 +5241,142 @@
     <e lm="Gambia"><i>Gamb</i><par n="Gamb/ia__np"/></e>
     <e lm="Gdynia"><i>Gdyn</i><par n="Gamb/ia__np"/></e>
     <e lm="Indonézia"><i>Indonéz</i><par n="Gamb/ia__np"/></e>
+    <e lm="absolutizmus"><i>absolutizm</i><par n="organizm/us__n"/></e>
+    <e lm="abstrakcionizmus"><i>abstrakcionizm</i><par n="organizm/us__n"/></e>
+    <e lm="aforizmus"><i>aforizm</i><par n="organizm/us__n"/></e>
+    <e lm="agnosticizmus"><i>agnosticizm</i><par n="organizm/us__n"/></e>
+    <e lm="albinizmus"><i>albinizm</i><par n="organizm/us__n"/></e>
+    <e lm="alibizmus"><i>alibizm</i><par n="organizm/us__n"/></e>
+    <e lm="alkoholizmus"><i>alkoholizm</i><par n="organizm/us__n"/></e>
+    <e lm="alogizmus"><i>alogizm</i><par n="organizm/us__n"/></e>
+    <e lm="altruizmus"><i>altruizm</i><par n="organizm/us__n"/></e>
+    <e lm="anachronizmus"><i>anachronizm</i><par n="organizm/us__n"/></e>
+    <e lm="animalizmus"><i>animalizm</i><par n="organizm/us__n"/></e>
+    <e lm="animizmus"><i>animizm</i><par n="organizm/us__n"/></e>
+    <e lm="antagonizmus"><i>antagonizm</i><par n="organizm/us__n"/></e>
+    <e lm="antifašizmus"><i>antifašizm</i><par n="organizm/us__n"/></e>
+    <e lm="antikolonializmus"><i>antikolonializm</i><par n="organizm/us__n"/></e>
+    <e lm="antikomunizmus"><i>antikomunizm</i><par n="organizm/us__n"/></e>
+    <e lm="antimilitarizmus"><i>antimilitarizm</i><par n="organizm/us__n"/></e>
+    <e lm="antisemitizmus"><i>antisemitizm</i><par n="organizm/us__n"/></e>
+    <e lm="antropocentrizmus"><i>antropocentrizm</i><par n="organizm/us__n"/></e>
+    <e lm="archaizmus"><i>archaizm</i><par n="organizm/us__n"/></e>
+    <e lm="asketizmus"><i>asketizm</i><par n="organizm/us__n"/></e>
+    <e lm="astigmatizmus"><i>astigmatizm</i><par n="organizm/us__n"/></e>
+    <e lm="atavizmus"><i>atavizm</i><par n="organizm/us__n"/></e>
+    <e lm="ateizmus"><i>ateizm</i><par n="organizm/us__n"/></e>
+    <e lm="atomizmus"><i>atomizm</i><par n="organizm/us__n"/></e>
+    <e lm="austroslavizmus"><i>austroslavizm</i><par n="organizm/us__n"/></e>
+    <e lm="automobilizmus"><i>automobilizm</i><par n="organizm/us__n"/></e>
+    <e lm="autoritatizmus"><i>autoritatizm</i><par n="organizm/us__n"/></e>
+    <e lm="baptizmus"><i>baptizm</i><par n="organizm/us__n"/></e>
+    <e lm="behaviorizmus"><i>behaviorizm</i><par n="organizm/us__n"/></e>
+    <e lm="bilingvizmus"><i>bilingvizm</i><par n="organizm/us__n"/></e>
+    <e lm="biocentrizmus"><i>biocentrizm</i><par n="organizm/us__n"/></e>
+    <e lm="bohemizmus"><i>bohemizm</i><par n="organizm/us__n"/></e>
+    <e lm="boľševizmus"><i>boľševizm</i><par n="organizm/us__n"/></e>
+    <e lm="budhizmus"><i>budhizm</i><par n="organizm/us__n"/></e>
+    <e lm="byrokratizmus"><i>byrokratizm</i><par n="organizm/us__n"/></e>
+    <e lm="cárizmus"><i>cárizm</i><par n="organizm/us__n"/></e>
+    <e lm="centralizmus"><i>centralizm</i><par n="organizm/us__n"/></e>
+    <e lm="centrizmus"><i>centrizm</i><par n="organizm/us__n"/></e>
+    <e lm="cynizmus"><i>cynizm</i><par n="organizm/us__n"/></e>
+    <e lm="čechizmus"><i>čechizm</i><par n="organizm/us__n"/></e>
+    <e lm="dadaizmus"><i>dadaizm</i><par n="organizm/us__n"/></e>
+    <e lm="daltonizmus"><i>daltonizm</i><par n="organizm/us__n"/></e>
+    <e lm="darvinizmus"><i>darvinizm</i><par n="organizm/us__n"/></e>
+    <e lm="defetizmus"><i>defetizm</i><par n="organizm/us__n"/></e>
+    <e lm="deizmus"><i>deizm</i><par n="organizm/us__n"/></e>
+    <e lm="demokratizmus"><i>demokratizm</i><par n="organizm/us__n"/></e>
+    <e lm="despotizmus"><i>despotizm</i><par n="organizm/us__n"/></e>
+    <e lm="determinizmus"><i>determinizm</i><par n="organizm/us__n"/></e>
+    <e lm="dialektizmus"><i>dialektizm</i><par n="organizm/us__n"/></e>
+    <e lm="dimorfizmus"><i>dimorfizm</i><par n="organizm/us__n"/></e>
+    <e lm="dogmatizmus"><i>dogmatizm</i><par n="organizm/us__n"/></e>
+    <e lm="dualizmus"><i>dualizm</i><par n="organizm/us__n"/></e>
+    <e lm="dynamizmus"><i>dynamizm</i><par n="organizm/us__n"/></e>
+    <e lm="egocentrizmus"><i>egocentrizm</i><par n="organizm/us__n"/></e>
+    <e lm="egoizmus"><i>egoizm</i><par n="organizm/us__n"/></e>
+    <e lm="eklekticizmus"><i>eklekticizm</i><par n="organizm/us__n"/></e>
+    <e lm="eklektizmus"><i>eklektizm</i><par n="organizm/us__n"/></e>
+    <e lm="ekumenizmus"><i>ekumenizm</i><par n="organizm/us__n"/></e>
+    <e lm="elektromagnetizmus"><i>elektromagnetizm</i><par n="organizm/us__n"/></e>
+    <e lm="empiriokriticizmus"><i>empiriokriticizm</i><par n="organizm/us__n"/></e>
+    <e lm="empirizmus"><i>empirizm</i><par n="organizm/us__n"/></e>
+    <e lm="entuziazmus"><i>entuziazm</i><par n="organizm/us__n"/></e>
+    <e lm="eufemizmus"><i>eufemizm</i><par n="organizm/us__n"/></e>
+    <e lm="europeizmus"><i>europeizm</i><par n="organizm/us__n"/></e>
+    <e lm="euroskepticizmus"><i>euroskepticizm</i><par n="organizm/us__n"/></e>
+    <e lm="evolucionizmus"><i>evolucionizm</i><par n="organizm/us__n"/></e>
+    <e lm="exhibicionizmus"><i>exhibicionizm</i><par n="organizm/us__n"/></e>
+    <e lm="existencializmus"><i>existencializm</i><par n="organizm/us__n"/></e>
+    <e lm="expresionizmus"><i>expresionizm</i><par n="organizm/us__n"/></e>
+    <e lm="ezoterizmus"><i>ezoterizm</i><par n="organizm/us__n"/></e>
+    <e lm="fanatizmus"><i>fanatizm</i><par n="organizm/us__n"/></e>
+    <e lm="fašizmus"><i>fašizm</i><par n="organizm/us__n"/></e>
+    <e lm="fatalizmus"><i>fatalizm</i><par n="organizm/us__n"/></e>
+    <e lm="federalizmus"><i>federalizm</i><par n="organizm/us__n"/></e>
+    <e lm="feminizmus"><i>feminizm</i><par n="organizm/us__n"/></e>
+    <e lm="fetišizmus"><i>fetišizm</i><par n="organizm/us__n"/></e>
+    <e lm="feudalizmus"><i>feudalizm</i><par n="organizm/us__n"/></e>
+    <e lm="fideizmus"><i>fideizm</i><par n="organizm/us__n"/></e>
+    <e lm="formalizmus"><i>formalizm</i><par n="organizm/us__n"/></e>
+    <e lm="frazeologizmus"><i>frazeologizm</i><par n="organizm/us__n"/></e>
+    <e lm="freudizmus"><i>freudizm</i><par n="organizm/us__n"/></e>
+    <e lm="fundamentalizmus"><i>fundamentalizm</i><par n="organizm/us__n"/></e>
+    <e lm="futurizmus"><i>futurizm</i><par n="organizm/us__n"/></e>
+    <e lm="galvanizmus"><i>galvanizm</i><par n="organizm/us__n"/></e>
+    <e lm="geocentrizmus"><i>geocentrizm</i><par n="organizm/us__n"/></e>
+    <e lm="germanizmus"><i>germanizm</i><par n="organizm/us__n"/></e>
+    <e lm="hedonizmus"><i>hedonizm</i><par n="organizm/us__n"/></e>
+    <e lm="heliocentrizmus"><i>heliocentrizm</i><par n="organizm/us__n"/></e>
+    <e lm="heroizmus"><i>heroizm</i><par n="organizm/us__n"/></e>
+    <e lm="hinduizmus"><i>hinduizm</i><par n="organizm/us__n"/></e>
+    <e lm="historizmus"><i>historizm</i><par n="organizm/us__n"/></e>
+    <e lm="humanizmus"><i>humanizm</i><par n="organizm/us__n"/></e>
+    <e lm="hungarizmus"><i>hungarizm</i><par n="organizm/us__n"/></e>
+    <e lm="chiliazmus"><i>chiliazm</i><par n="organizm/us__n"/></e>
+    <e lm="chromatizmus"><i>chromatizm</i><par n="organizm/us__n"/></e>
+    <e lm="idealizmus"><i>idealizm</i><par n="organizm/us__n"/></e>
+    <e lm="idiomatizmus"><i>idiomatizm</i><par n="organizm/us__n"/></e>
+    <e lm="idiotizmus"><i>idiotizm</i><par n="organizm/us__n"/></e>
+    <e lm="iluzionizmus"><i>iluzionizm</i><par n="organizm/us__n"/></e>
+    <e lm="imperializmus"><i>imperializm</i><par n="organizm/us__n"/></e>
+    <e lm="impresionizmus"><i>impresionizm</i><par n="organizm/us__n"/></e>
+    <e lm="individualizmus"><i>individualizm</i><par n="organizm/us__n"/></e>
+    <e lm="internacionalizmus"><i>internacionalizm</i><par n="organizm/us__n"/></e>
+    <e lm="iracionalizmus"><i>iracionalizm</i><par n="organizm/us__n"/></e>
+    <e lm="iredentizmus"><i>iredentizm</i><par n="organizm/us__n"/></e>
+    <e lm="izochronizmus"><i>izochronizm</i><par n="organizm/us__n"/></e>
+    <e lm="izolacionizmus"><i>izolacionizm</i><par n="organizm/us__n"/></e>
+    <e lm="izomorfizmus"><i>izomorfizm</i><par n="organizm/us__n"/></e>
+    <e lm="jogizmus"><i>jogizm</i><par n="organizm/us__n"/></e>
+    <e lm="kalvinizmus"><i>kalvinizm</i><par n="organizm/us__n"/></e>
+    <e lm="kanibalizmus"><i>kanibalizm</i><par n="organizm/us__n"/></e>
+    <e lm="kapitalizmus"><i>kapitalizm</i><par n="organizm/us__n"/></e>
+    <e lm="katechizmus"><i>katechizm</i><par n="organizm/us__n"/></e>
+    <e lm="katolicizmus"><i>katolicizm</i><par n="organizm/us__n"/></e>
+    <e lm="klasicizmus"><i>klasicizm</i><par n="organizm/us__n"/></e>
+    <e lm="klerikalizmus"><i>klerikalizm</i><par n="organizm/us__n"/></e>
+    <e lm="kolektivizmus"><i>kolektivizm</i><par n="organizm/us__n"/></e>
+    <e lm="kolonializmus"><i>kolonializm</i><par n="organizm/us__n"/></e>
+    <e lm="komunizmus"><i>komunizm</i><par n="organizm/us__n"/></e>
+    <e lm="konformizmus"><i>konformizm</i><par n="organizm/us__n"/></e>
+    <e lm="konjunkturalizmus"><i>konjunkturalizm</i><par n="organizm/us__n"/></e>
+    <e lm="konštruktivizmus"><i>konštruktivizm</i><par n="organizm/us__n"/></e>
+    <e lm="kozmopolitizmus"><i>kozmopolitizm</i><par n="organizm/us__n"/></e>
+    <e lm="kreténizmus"><i>kreténizm</i><par n="organizm/us__n"/></e>
+    <e lm="kriticizmus"><i>kriticizm</i><par n="organizm/us__n"/></e>
+    <e lm="kubizmus"><i>kubizm</i><par n="organizm/us__n"/></e>
+    <e lm="lamaizmus"><i>lamaizm</i><par n="organizm/us__n"/></e>
+    <e lm="leninizmus"><i>leninizm</i><par n="organizm/us__n"/></e>
+    <e lm="liberalizmus"><i>liberalizm</i><par n="organizm/us__n"/></e>
+    <e lm="lokálpatriotizmus"><i>lokálpatriotizm</i><par n="organizm/us__n"/></e>
+    <e lm="magnetizmus"><i>magnetizm</i><par n="organizm/us__n"/></e>
+    <e lm="makroorganizmus"><i>makroorganizm</i><par n="organizm/us__n"/></e>
+    <e lm="maltuzianizmus"><i>maltuzianizm</i><par n="organizm/us__n"/></e>
+    <e lm="manierizmus"><i>manierizm</i><par n="organizm/us__n"/></e>
+    <e lm="marazmus"><i>marazm</i><par n="organizm/us__n"/></e>
+    <e lm="marxizmus"><i>marxizm</i><par n="organizm/us__n"/></e>
   </section>
 </dictionary>
