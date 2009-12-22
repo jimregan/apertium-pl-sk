@@ -1043,6 +1043,45 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Gamb/ia__np">
+      <e>
+        <p>
+          <l>ia</l>
+          <r>ia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r>ia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iu</l>
+          <r>ia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iou</l>
+          <r>ia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="dla/ň__n">
       <e>
         <p>
@@ -4864,6 +4903,181 @@
     <e lm="vivisekcia"><i>vivisekc</i><par n="aukc/ia__n"/></e>
     <e lm="vokalizácia"><i>vokalizác</i><par n="aukc/ia__n"/></e>
     <e lm="vulgarizácia"><i>vulgarizác</i><par n="aukc/ia__n"/></e>
+    <e lm="abrázia"><i>abráz</i><par n="aukc/ia__n"/></e>
+    <e lm="adhézia"><i>adhéz</i><par n="aukc/ia__n"/></e>
+    <e lm="aerofóbia"><i>aerofób</i><par n="aukc/ia__n"/></e>
+    <e lm="afázia"><i>afáz</i><par n="aukc/ia__n"/></e>
+    <e lm="agónia"><i>agón</i><par n="aukc/ia__n"/></e>
+    <e lm="agresia"><i>agres</i><par n="aukc/ia__n"/></e>
+    <e lm="agrobiológia"><i>agrobiológ</i><par n="aukc/ia__n"/></e>
+    <e lm="akríbia"><i>akríb</i><par n="aukc/ia__n"/></e>
+    <e lm="aktinídia"><i>aktiníd</i><par n="aukc/ia__n"/></e>
+    <e lm="alergiológia"><i>alergiológ</i><par n="aukc/ia__n"/></e>
+    <e lm="alopatia"><i>alopat</i><par n="aukc/ia__n"/></e>
+    <e lm="ambrózia"><i>ambróz</i><par n="aukc/ia__n"/></e>
+    <e lm="amnestia"><i>amnest</i><par n="aukc/ia__n"/></e>
+    <e lm="amnézia"><i>amnéz</i><par n="aukc/ia__n"/></e>
+    <e lm="analógia"><i>analóg</i><par n="aukc/ia__n"/></e>
+    <e lm="anarchia"><i>anarch</i><par n="aukc/ia__n"/></e>
+    <e lm="androfóbia"><i>androfób</i><par n="aukc/ia__n"/></e>
+    <e lm="anémia"><i>aném</i><par n="aukc/ia__n"/></e>
+    <e lm="anestézia"><i>anestéz</i><par n="aukc/ia__n"/></e>
+    <e lm="anestéziológia"><i>anestéziológ</i><par n="aukc/ia__n"/></e>
+    <e lm="anexia"><i>anex</i><par n="aukc/ia__n"/></e>
+    <e lm="anglofília"><i>anglofíl</i><par n="aukc/ia__n"/></e>
+    <e lm="anglofóbia"><i>anglofób</i><par n="aukc/ia__n"/></e>
+    <e lm="anglománia"><i>anglomán</i><par n="aukc/ia__n"/></e>
+    <e lm="anomália"><i>anomál</i><par n="aukc/ia__n"/></e>
+    <e lm="apatia"><i>apat</i><par n="aukc/ia__n"/></e>
+    <e lm="apológia"><i>apológ</i><par n="aukc/ia__n"/></e>
+    <e lm="ária"><i>ár</i><par n="aukc/ia__n"/></e>
+    <e lm="artéria"><i>artér</i><par n="aukc/ia__n"/></e>
+    <e lm="artiléria"><i>artilér</i><par n="aukc/ia__n"/></e>
+    <e lm="atrofia"><i>atrof</i><par n="aukc/ia__n"/></e>
+    <e lm="autobiografia"><i>autobiograf</i><par n="aukc/ia__n"/></e>
+    <e lm="autonómia"><i>autonóm</i><par n="aukc/ia__n"/></e>
+    <e lm="autopsia"><i>autops</i><par n="aukc/ia__n"/></e>
+    <e lm="autotypia"><i>autotyp</i><par n="aukc/ia__n"/></e>
+    <e lm="averzia"><i>averz</i><par n="aukc/ia__n"/></e>
+    <e lm="baktéria"><i>baktér</i><par n="aukc/ia__n"/></e>
+    <e lm="bakteriológia"><i>bakteriológ</i><par n="aukc/ia__n"/></e>
+    <e lm="balneológia"><i>balneológ</i><par n="aukc/ia__n"/></e>
+    <e lm="balneoterapia"><i>balneoterap</i><par n="aukc/ia__n"/></e>
+    <e lm="biblia"><i>bibl</i><par n="aukc/ia__n"/></e>
+    <e lm="bibliofília"><i>bibliofíl</i><par n="aukc/ia__n"/></e>
+    <e lm="bibliografia"><i>bibliograf</i><par n="aukc/ia__n"/></e>
+    <e lm="bigamia"><i>bigam</i><par n="aukc/ia__n"/></e>
+    <e lm="biografia"><i>biograf</i><par n="aukc/ia__n"/></e>
+    <e lm="biochémia"><i>biochém</i><par n="aukc/ia__n"/></e>
+    <e lm="biológia"><i>biológ</i><par n="aukc/ia__n"/></e>
+    <e lm="biometria"><i>biometr</i><par n="aukc/ia__n"/></e>
+    <e lm="bižutéria"><i>bižutér</i><par n="aukc/ia__n"/></e>
+    <e lm="bronchoskopia"><i>bronchoskop</i><par n="aukc/ia__n"/></e>
+    <e lm="ceremónia"><i>ceremón</i><par n="aukc/ia__n"/></e>
+    <e lm="cytológia"><i>cytológ</i><par n="aukc/ia__n"/></e>
+    <e lm="dácia"><i>dác</i><par n="aukc/ia__n"/></e>
+    <e lm="daktyloskopia"><i>daktyloskop</i><par n="aukc/ia__n"/></e>
+    <e lm="dália"><i>dál</i><par n="aukc/ia__n"/></e>
+    <e lm="defektológia"><i>defektológ</i><par n="aukc/ia__n"/></e>
+    <e lm="demagógia"><i>demagóg</i><par n="aukc/ia__n"/></e>
+    <e lm="demografia"><i>demograf</i><par n="aukc/ia__n"/></e>
+    <e lm="dendrológia"><i>dendrológ</i><par n="aukc/ia__n"/></e>
+    <e lm="depresia"><i>depres</i><par n="aukc/ia__n"/></e>
+    <e lm="dermatológia"><i>dermatológ</i><par n="aukc/ia__n"/></e>
+    <e lm="diachrónia"><i>diachrón</i><par n="aukc/ia__n"/></e>
+    <e lm="diakonia"><i>diakon</i><par n="aukc/ia__n"/></e>
+    <e lm="dialektológia"><i>dialektológ</i><par n="aukc/ia__n"/></e>
+    <e lm="diatermia"><i>diaterm</i><par n="aukc/ia__n"/></e>
+    <e lm="dioptria"><i>dioptr</i><par n="aukc/ia__n"/></e>
+    <e lm="disharmónia"><i>disharmón</i><par n="aukc/ia__n"/></e>
+    <e lm="diskusia"><i>diskus</i><par n="aukc/ia__n"/></e>
+    <e lm="disperzia"><i>disperz</i><par n="aukc/ia__n"/></e>
+    <e lm="diverzia"><i>diverz</i><par n="aukc/ia__n"/></e>
+    <e lm="divízia"><i>divíz</i><par n="aukc/ia__n"/></e>
+    <e lm="dozimetria"><i>dozimetr</i><par n="aukc/ia__n"/></e>
+    <e lm="dramaturgia"><i>dramaturg</i><par n="aukc/ia__n"/></e>
+    <e lm="drapéria"><i>drapér</i><par n="aukc/ia__n"/></e>
+    <e lm="drogéria"><i>drogér</i><par n="aukc/ia__n"/></e>
+    <e lm="dynastia"><i>dynast</i><par n="aukc/ia__n"/></e>
+    <e lm="dystrofia"><i>dystrof</i><par n="aukc/ia__n"/></e>
+    <e lm="dyzentéria"><i>dyzentér</i><par n="aukc/ia__n"/></e>
+    <e lm="egyptológia"><i>egyptológ</i><par n="aukc/ia__n"/></e>
+    <e lm="ekonómia"><i>ekonóm</i><par n="aukc/ia__n"/></e>
+    <e lm="elégia"><i>elég</i><par n="aukc/ia__n"/></e>
+    <e lm="elektroterapia"><i>elektroterap</i><par n="aukc/ia__n"/></e>
+    <e lm="embryológia"><i>embryológ</i><par n="aukc/ia__n"/></e>
+    <e lm="empatia"><i>empat</i><par n="aukc/ia__n"/></e>
+    <e lm="emulzia"><i>emulz</i><par n="aukc/ia__n"/></e>
+    <e lm="energia"><i>energ</i><par n="aukc/ia__n"/></e>
+    <e lm="entomológia"><i>entomológ</i><par n="aukc/ia__n"/></e>
+    <e lm="entropia"><i>entrop</i><par n="aukc/ia__n"/></e>
+    <e lm="epidémia"><i>epidém</i><par n="aukc/ia__n"/></e>
+    <e lm="epidemiológia"><i>epidemiológ</i><par n="aukc/ia__n"/></e>
+    <e lm="epilepsia"><i>epileps</i><par n="aukc/ia__n"/></e>
+    <e lm="ergonómia"><i>ergonóm</i><par n="aukc/ia__n"/></e>
+    <e lm="erózia"><i>eróz</i><par n="aukc/ia__n"/></e>
+    <e lm="eschatológia"><i>eschatológ</i><par n="aukc/ia__n"/></e>
+    <e lm="etnografia"><i>etnograf</i><par n="aukc/ia__n"/></e>
+    <e lm="etnológia"><i>etnológ</i><par n="aukc/ia__n"/></e>
+    <e lm="etymológia"><i>etymológ</i><par n="aukc/ia__n"/></e>
+    <e lm="eufónia"><i>eufón</i><par n="aukc/ia__n"/></e>
+    <e lm="eufória"><i>eufór</i><par n="aukc/ia__n"/></e>
+    <e lm="eutanázia"><i>eutanáz</i><par n="aukc/ia__n"/></e>
+    <e lm="exkurzia"><i>exkurz</i><par n="aukc/ia__n"/></e>
+    <e lm="expanzia"><i>expanz</i><par n="aukc/ia__n"/></e>
+    <e lm="faktografia"><i>faktograf</i><par n="aukc/ia__n"/></e>
+    <e lm="fantázia"><i>fantáz</i><par n="aukc/ia__n"/></e>
+    <e lm="fantazmagória"><i>fantazmagór</i><par n="aukc/ia__n"/></e>
+    <e lm="farmakológia"><i>farmakológ</i><par n="aukc/ia__n"/></e>
+    <e lm="filantropia"><i>filantrop</i><par n="aukc/ia__n"/></e>
+    <e lm="filatelia"><i>filatel</i><par n="aukc/ia__n"/></e>
+    <e lm="filharmónia"><i>filharmón</i><par n="aukc/ia__n"/></e>
+    <e lm="filológia"><i>filológ</i><par n="aukc/ia__n"/></e>
+    <e lm="filozofia"><i>filozof</i><par n="aukc/ia__n"/></e>
+    <e lm="flexia"><i>flex</i><par n="aukc/ia__n"/></e>
+    <e lm="fóbia"><i>fób</i><par n="aukc/ia__n"/></e>
+    <e lm="foniatria"><i>foniatr</i><par n="aukc/ia__n"/></e>
+    <e lm="fonológia"><i>fonológ</i><par n="aukc/ia__n"/></e>
+    <e lm="fotografia"><i>fotograf</i><par n="aukc/ia__n"/></e>
+    <e lm="fotogrametria"><i>fotogrametr</i><par n="aukc/ia__n"/></e>
+    <e lm="fotochémia"><i>fotochém</i><par n="aukc/ia__n"/></e>
+    <e lm="fotokópia"><i>fotokóp</i><par n="aukc/ia__n"/></e>
+    <e lm="fotometria"><i>fotometr</i><par n="aukc/ia__n"/></e>
+    <e lm="frazeológia"><i>frazeológ</i><par n="aukc/ia__n"/></e>
+    <e lm="fuksia"><i>fuks</i><par n="aukc/ia__n"/></e>
+    <e lm="fúria"><i>fúr</i><par n="aukc/ia__n"/></e>
+    <e lm="futurológia"><i>futurológ</i><par n="aukc/ia__n"/></e>
+    <e lm="gastronómia"><i>gastronóm</i><par n="aukc/ia__n"/></e>
+    <e lm="genealógia"><i>genealóg</i><par n="aukc/ia__n"/></e>
+    <e lm="geodézia"><i>geodéz</i><par n="aukc/ia__n"/></e>
+    <e lm="geografia"><i>geograf</i><par n="aukc/ia__n"/></e>
+    <e lm="geológia"><i>geológ</i><par n="aukc/ia__n"/></e>
+    <e lm="geometria"><i>geometr</i><par n="aukc/ia__n"/></e>
+    <e lm="geriatria"><i>geriatr</i><par n="aukc/ia__n"/></e>
+    <e lm="gerontológia"><i>gerontológ</i><par n="aukc/ia__n"/></e>
+    <e lm="gnozeológia"><i>gnozeológ</i><par n="aukc/ia__n"/></e>
+    <e lm="goniometria"><i>goniometr</i><par n="aukc/ia__n"/></e>
+    <e lm="grafológia"><i>grafológ</i><par n="aukc/ia__n"/></e>
+    <e lm="gravimetria"><i>gravimetr</i><par n="aukc/ia__n"/></e>
+    <e lm="gubernia"><i>gubern</i><par n="aukc/ia__n"/></e>
+    <e lm="gynekológia"><i>gynekológ</i><par n="aukc/ia__n"/></e>
+    <e lm="harmónia"><i>harmón</i><par n="aukc/ia__n"/></e>
+    <e lm="hegemónia"><i>hegemón</i><par n="aukc/ia__n"/></e>
+    <e lm="helmintológia"><i>helmintológ</i><par n="aukc/ia__n"/></e>
+    <e lm="hematológia"><i>hematológ</i><par n="aukc/ia__n"/></e>
+    <e lm="hierarchia"><i>hierarch</i><par n="aukc/ia__n"/></e>
+    <e lm="histológia"><i>histológ</i><par n="aukc/ia__n"/></e>
+    <e lm="história"><i>histór</i><par n="aukc/ia__n"/></e>
+    <e lm="historiografia"><i>historiograf</i><par n="aukc/ia__n"/></e>
+    <e lm="homeopatia"><i>homeopat</i><par n="aukc/ia__n"/></e>
+    <e lm="homofónia"><i>homofón</i><par n="aukc/ia__n"/></e>
+    <e lm="homológia"><i>homológ</i><par n="aukc/ia__n"/></e>
+    <e lm="hydrobiológia"><i>hydrobiológ</i><par n="aukc/ia__n"/></e>
+    <e lm="hydrogeológia"><i>hydrogeológ</i><par n="aukc/ia__n"/></e>
+    <e lm="hydrografia"><i>hydrograf</i><par n="aukc/ia__n"/></e>
+    <e lm="hydrológia"><i>hydrológ</i><par n="aukc/ia__n"/></e>
+    <e lm="hydrometalurgia"><i>hydrometalurg</i><par n="aukc/ia__n"/></e>
+    <e lm="hydrometeorológia"><i>hydrometeorológ</i><par n="aukc/ia__n"/></e>
+    <e lm="hyperglykémia"><i>hyperglykém</i><par n="aukc/ia__n"/></e>
+    <e lm="hypertenzia"><i>hypertenz</i><par n="aukc/ia__n"/></e>
+    <e lm="hypertónia"><i>hypertón</i><par n="aukc/ia__n"/></e>
+    <e lm="hypertrofia"><i>hypertrof</i><par n="aukc/ia__n"/></e>
+    <e lm="hypochondria"><i>hypochondr</i><par n="aukc/ia__n"/></e>
+    <e lm="hypotenzia"><i>hypotenz</i><par n="aukc/ia__n"/></e>
+    <e lm="hypotónia"><i>hypotón</i><par n="aukc/ia__n"/></e>
+    <e lm="hypotrofia"><i>hypotrof</i><par n="aukc/ia__n"/></e>
+    <e lm="hystéria"><i>hystér</i><par n="aukc/ia__n"/></e>
+    <e lm="chémia"><i>chém</i><par n="aukc/ia__n"/></e>
+    <e lm="chemoterapia"><i>chemoterap</i><par n="aukc/ia__n"/></e>
+    <e lm="chirurgia"><i>chirurg</i><par n="aukc/ia__n"/></e>
+    <e lm="choreografia"><i>choreograf</i><par n="aukc/ia__n"/></e>
+    <e lm="chromotypia"><i>chromotyp</i><par n="aukc/ia__n"/></e>
+    <e lm="chronológia"><i>chronológ</i><par n="aukc/ia__n"/></e>
+    <e lm="chronometria"><i>chronometr</i><par n="aukc/ia__n"/></e>
+    <e lm="ideológia"><i>ideológ</i><par n="aukc/ia__n"/></e>
+    <e lm="ichtyológia"><i>ichtyológ</i><par n="aukc/ia__n"/></e>
+    <e lm="ikonografia"><i>ikonograf</i><par n="aukc/ia__n"/></e>
+    <e lm="imunológia"><i>imunológ</i><par n="aukc/ia__n"/></e>
 
     <!-- np.hyd -->
     <e lm="Ochotské more"><i>Ochotsk</i><par n="Ochotsk/é more__np"/></e>
@@ -4879,5 +5093,21 @@
     <e lm="Portugalsko"><i>Portugalsk</i><par n="Chorvátsk/o__np"/></e>
     <e lm="Rusko"><i>Rusk</i><par n="Chorvátsk/o__np"/></e>
     <e lm="Rumunsko"><i>Rumunsk</i><par n="Chorvátsk/o__np"/></e>
+    <e lm="Andalúzia"><i>Andalúz</i><par n="Gamb/ia__np"/></e>
+    <e lm="Astúria"><i>Astúr</i><par n="Gamb/ia__np"/></e>
+    <e lm="Asýria"><i>Asýr</i><par n="Gamb/ia__np"/></e>
+    <e lm="Austrália"><i>Austrál</i><par n="Gamb/ia__np"/></e>
+    <e lm="Ázia"><i>Áz</i><par n="Gamb/ia__np"/></e>
+    <e lm="Bolívia"><i>Bolív</i><par n="Gamb/ia__np"/></e>
+    <e lm="Dalmácia"><i>Dalmác</i><par n="Gamb/ia__np"/></e>
+    <e lm="Etiópia"><i>Etióp</i><par n="Gamb/ia__np"/></e>
+    <e lm="Eurázia"><i>Euráz</i><par n="Gamb/ia__np"/></e>
+    <e lm="Fenícia"><i>Feníc</i><par n="Gamb/ia__np"/></e>
+    <e lm="Filadelfia"><i>Filadelf</i><par n="Gamb/ia__np"/></e>
+    <e lm="Florencia"><i>Florenc</i><par n="Gamb/ia__np"/></e>
+    <e lm="Galícia"><i>Galíc</i><par n="Gamb/ia__np"/></e>
+    <e lm="Gambia"><i>Gamb</i><par n="Gamb/ia__np"/></e>
+    <e lm="Gdynia"><i>Gdyn</i><par n="Gamb/ia__np"/></e>
+    <e lm="Indonézia"><i>Indonéz</i><par n="Gamb/ia__np"/></e>
   </section>
 </dictionary>
