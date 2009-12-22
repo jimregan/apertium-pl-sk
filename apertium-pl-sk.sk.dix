@@ -693,6 +693,15 @@
       </e>
       <e><i></i><par n="Neuter_srdce"/></e>
     </pardef>
+    <pardef n="s/lnce__n">
+      <e>
+        <p>
+          <l>ĺnc</l>
+          <r>lnce<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e><i>lnc</i><par n="Neuter_srdce"/></e>
+    </pardef>
     <pardef n="Feminine_žena">
       <e>
         <p>
@@ -959,6 +968,80 @@
         </p>
       </e>
       <e><i></i><par n="Feminine_idea"/></e>
+    </pardef>
+    <pardef n="aukc/ia__n">
+      <e>
+        <p>
+          <l>ia</l>
+          <r>ia<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ia<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r>ia<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iu</l>
+          <r>ia<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ia<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iou</l>
+          <r>ia<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r>ia<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>í</l>
+          <r>ia<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iam</l>
+          <r>ia<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r>ia<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iach</l>
+          <r>ia<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iami</l>
+          <r>ia<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
     </pardef>
     <pardef n="dla/ň__n">
       <e>
@@ -4028,6 +4111,760 @@
     <e lm="kreslo"><i>kres</i><par n="sk/lo__n"/></e>
     <e lm="heslo"><i>hes</i><par n="sk/lo__n"/></e>
     
+    <e lm="satanizmus"><i>satanizm</i><par n="organizm/us__n"/></e>
+    <e lm="entuziazmus"><i>entuziazm</i><par n="organizm/us__n"/></e>
+    <e lm="algoritmus"><i>algoritm</i><par n="organizm/us__n"/></e>
+    <e lm="alpinizmus"><i>alpinizm</i><par n="organizm/us__n"/></e>
+    <e lm="amerikanizmus"><i>amerikanizm</i><par n="organizm/us__n"/></e>
+    <e lm="astigmatizmus"><i>astigmatizm</i><par n="organizm/us__n"/></e>
+    <e lm="abdikácia"><i>abdikác</i><par n="aukc/ia__n"/></e>
+    <e lm="abreviácia"><i>abreviác</i><par n="aukc/ia__n"/></e>
+    <e lm="absencia"><i>absenc</i><par n="aukc/ia__n"/></e>
+    <e lm="absolutizácia"><i>absolutizác</i><par n="aukc/ia__n"/></e>
+    <e lm="absorpcia"><i>absorpc</i><par n="aukc/ia__n"/></e>
+    <e lm="abstinencia"><i>abstinenc</i><par n="aukc/ia__n"/></e>
+    <e lm="abstrakcia"><i>abstrakc</i><par n="aukc/ia__n"/></e>
+    <e lm="adaptácia"><i>adaptác</i><par n="aukc/ia__n"/></e>
+    <e lm="adícia"><i>adíc</i><par n="aukc/ia__n"/></e>
+    <e lm="adjustácia"><i>adjustác</i><par n="aukc/ia__n"/></e>
+    <e lm="administrácia"><i>administrác</i><par n="aukc/ia__n"/></e>
+    <e lm="adolescencia"><i>adolescenc</i><par n="aukc/ia__n"/></e>
+    <e lm="adopcia"><i>adopc</i><par n="aukc/ia__n"/></e>
+    <e lm="adoptácia"><i>adoptác</i><par n="aukc/ia__n"/></e>
+    <e lm="adsorpcia"><i>adsorpc</i><par n="aukc/ia__n"/></e>
+    <e lm="advokácia"><i>advokác</i><par n="aukc/ia__n"/></e>
+    <e lm="afektácia"><i>afektác</i><par n="aukc/ia__n"/></e>
+    <e lm="afiliácia"><i>afiliác</i><par n="aukc/ia__n"/></e>
+    <e lm="afinácia"><i>afinác</i><par n="aukc/ia__n"/></e>
+    <e lm="afirmácia"><i>afirmác</i><par n="aukc/ia__n"/></e>
+    <e lm="agitácia"><i>agitác</i><par n="aukc/ia__n"/></e>
+    <e lm="aglomerácia"><i>aglomerác</i><par n="aukc/ia__n"/></e>
+    <e lm="aglutinácia"><i>aglutinác</i><par n="aukc/ia__n"/></e>
+    <e lm="agregácia"><i>agregác</i><par n="aukc/ia__n"/></e>
+    <e lm="agronómia"><i>agronóm</i><par n="aukc/ia__n"/></e>
+    <e lm="akácia"><i>akác</i><par n="aukc/ia__n"/></e>
+    <e lm="akadémia"><i>akadém</i><par n="aukc/ia__n"/></e>
+    <e lm="akcelerácia"><i>akcelerác</i><par n="aukc/ia__n"/></e>
+    <e lm="akceptácia"><i>akceptác</i><par n="aukc/ia__n"/></e>
+    <e lm="akcia"><i>akc</i><par n="aukc/ia__n"/></e>
+    <e lm="aklamácia"><i>aklamác</i><par n="aukc/ia__n"/></e>
+    <e lm="aklimatizácia"><i>aklimatizác</i><par n="aukc/ia__n"/></e>
+    <e lm="akomodácia"><i>akomodác</i><par n="aukc/ia__n"/></e>
+    <e lm="akreditácia"><i>akreditác</i><par n="aukc/ia__n"/></e>
+    <e lm="akrobacia"><i>akrobac</i><par n="aukc/ia__n"/></e>
+    <e lm="aktivácia"><i>aktivác</i><par n="aukc/ia__n"/></e>
+    <e lm="aktivizácia"><i>aktivizác</i><par n="aukc/ia__n"/></e>
+    <e lm="aktualizácia"><i>aktualizác</i><par n="aukc/ia__n"/></e>
+    <e lm="akumulácia"><i>akumulác</i><par n="aukc/ia__n"/></e>
+    <e lm="akvizícia"><i>akvizíc</i><par n="aukc/ia__n"/></e>
+    <e lm="alegória"><i>alegór</i><par n="aukc/ia__n"/></e>
+    <e lm="alergia"><i>alerg</i><par n="aukc/ia__n"/></e>
+    <e lm="aliancia"><i>alianc</i><par n="aukc/ia__n"/></e>
+    <e lm="alimentácia"><i>alimentác</i><par n="aukc/ia__n"/></e>
+    <e lm="aliterácia"><i>aliterác</i><par n="aukc/ia__n"/></e>
+    <e lm="alkylácia"><i>alkylác</i><par n="aukc/ia__n"/></e>
+    <e lm="alokácia"><i>alokác</i><par n="aukc/ia__n"/></e>
+    <e lm="alternácia"><i>alternác</i><par n="aukc/ia__n"/></e>
+    <e lm="ambícia"><i>ambíc</i><par n="aukc/ia__n"/></e>
+    <e lm="ambulancia"><i>ambulanc</i><par n="aukc/ia__n"/></e>
+    <e lm="amerikanizácia"><i>amerikanizác</i><par n="aukc/ia__n"/></e>
+    <e lm="amortizácia"><i>amortizác</i><par n="aukc/ia__n"/></e>
+    <e lm="amplifikácia"><i>amplifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="amputácia"><i>amputác</i><par n="aukc/ia__n"/></e>
+    <e lm="anatómia"><i>anatóm</i><par n="aukc/ia__n"/></e>
+    <e lm="animácia"><i>animác</i><par n="aukc/ia__n"/></e>
+    <e lm="anotácia"><i>anotác</i><par n="aukc/ia__n"/></e>
+    <e lm="antepozícia"><i>antepozíc</i><par n="aukc/ia__n"/></e>
+    <e lm="anticipácia"><i>anticipác</i><par n="aukc/ia__n"/></e>
+    <e lm="antikoncepcia"><i>antikoncepc</i><par n="aukc/ia__n"/></e>
+    <e lm="antropológia"><i>antropológ</i><par n="aukc/ia__n"/></e>
+    <e lm="apelácia"><i>apelác</i><par n="aukc/ia__n"/></e>
+    <e lm="aplikácia"><i>aplikác</i><par n="aukc/ia__n"/></e>
+    <e lm="apozícia"><i>apozíc</i><par n="aukc/ia__n"/></e>
+    <e lm="aprobácia"><i>aprobác</i><par n="aukc/ia__n"/></e>
+    <e lm="aproximácia"><i>aproximác</i><par n="aukc/ia__n"/></e>
+    <e lm="archeológia"><i>archeológ</i><par n="aukc/ia__n"/></e>
+    <e lm="archivácia"><i>archivác</i><par n="aukc/ia__n"/></e>
+    <e lm="argumentácia"><i>argumentác</i><par n="aukc/ia__n"/></e>
+    <e lm="aristokracia"><i>aristokrac</i><par n="aukc/ia__n"/></e>
+    <e lm="arogancia"><i>aroganc</i><par n="aukc/ia__n"/></e>
+    <e lm="artikulácia"><i>artikulác</i><par n="aukc/ia__n"/></e>
+    <e lm="asibilácia"><i>asibilác</i><par n="aukc/ia__n"/></e>
+    <e lm="asignácia"><i>asignác</i><par n="aukc/ia__n"/></e>
+    <e lm="asimilácia"><i>asimilác</i><par n="aukc/ia__n"/></e>
+    <e lm="asistencia"><i>asistenc</i><par n="aukc/ia__n"/></e>
+    <e lm="asociácia"><i>asociác</i><par n="aukc/ia__n"/></e>
+    <e lm="asonancia"><i>asonanc</i><par n="aukc/ia__n"/></e>
+    <e lm="aspirácia"><i>aspirác</i><par n="aukc/ia__n"/></e>
+    <e lm="ašpirácia"><i>ašpirác</i><par n="aukc/ia__n"/></e>
+    <e lm="astrológia"><i>astrológ</i><par n="aukc/ia__n"/></e>
+    <e lm="astronavigácia"><i>astronavigác</i><par n="aukc/ia__n"/></e>
+    <e lm="astronómia"><i>astronóm</i><par n="aukc/ia__n"/></e>
+    <e lm="asymetria"><i>asymetr</i><par n="aukc/ia__n"/></e>
+    <e lm="atestácia"><i>atestác</i><par n="aukc/ia__n"/></e>
+    <e lm="atomizácia"><i>atomizác</i><par n="aukc/ia__n"/></e>
+    <e lm="atrakcia"><i>atrakc</i><par n="aukc/ia__n"/></e>
+    <e lm="audiencia"><i>audienc</i><par n="aukc/ia__n"/></e>
+    <e lm="aukcia"><i>aukc</i><par n="aukc/ia__n"/></e>
+    <e lm="autentifikácia"><i>autentifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="autodetekcia"><i>autodetekc</i><par n="aukc/ia__n"/></e>
+    <e lm="autokracia"><i>autokrac</i><par n="aukc/ia__n"/></e>
+    <e lm="automatizácia"><i>automatizác</i><par n="aukc/ia__n"/></e>
+    <e lm="autorizácia"><i>autorizác</i><par n="aukc/ia__n"/></e>
+    <e lm="autosugescia"><i>autosugesc</i><par n="aukc/ia__n"/></e>
+    <e lm="batéria"><i>batér</i><par n="aukc/ia__n"/></e>
+    <e lm="benevolencia"><i>benevolenc</i><par n="aukc/ia__n"/></e>
+    <e lm="bifurkácia"><i>bifurkác</i><par n="aukc/ia__n"/></e>
+    <e lm="biotechnológia"><i>biotechnológ</i><par n="aukc/ia__n"/></e>
+    <e lm="bonifikácia"><i>bonifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="byrokracia"><i>byrokrac</i><par n="aukc/ia__n"/></e>
+    <e lm="cementácia"><i>cementác</i><par n="aukc/ia__n"/></e>
+    <e lm="centralizácia"><i>centralizác</i><par n="aukc/ia__n"/></e>
+    <e lm="certifikácia"><i>certifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="charakterizácia"><i>charakterizác</i><par n="aukc/ia__n"/></e>
+    <e lm="chemizácia"><i>chemizác</i><par n="aukc/ia__n"/></e>
+    <e lm="christianizácia"><i>christianizác</i><par n="aukc/ia__n"/></e>
+    <e lm="chronologizácia"><i>chronologizác</i><par n="aukc/ia__n"/></e>
+    <e lm="cirkulácia"><i>cirkulác</i><par n="aukc/ia__n"/></e>
+    <e lm="citácia"><i>citác</i><par n="aukc/ia__n"/></e>
+    <e lm="civilizácia"><i>civilizác</i><par n="aukc/ia__n"/></e>
+    <e lm="decentralizácia"><i>decentralizác</i><par n="aukc/ia__n"/></e>
+    <e lm="dedikácia"><i>dedikác</i><par n="aukc/ia__n"/></e>
+    <e lm="dedukcia"><i>dedukc</i><par n="aukc/ia__n"/></e>
+    <e lm="defenestrácia"><i>defenestrác</i><par n="aukc/ia__n"/></e>
+    <e lm="definícia"><i>definíc</i><par n="aukc/ia__n"/></e>
+    <e lm="deflácia"><i>deflác</i><par n="aukc/ia__n"/></e>
+    <e lm="deflorácia"><i>deflorác</i><par n="aukc/ia__n"/></e>
+    <e lm="deformácia"><i>deformác</i><par n="aukc/ia__n"/></e>
+    <e lm="defraudácia"><i>defraudác</i><par n="aukc/ia__n"/></e>
+    <e lm="degenerácia"><i>degenerác</i><par n="aukc/ia__n"/></e>
+    <e lm="degradácia"><i>degradác</i><par n="aukc/ia__n"/></e>
+    <e lm="degustácia"><i>degustác</i><par n="aukc/ia__n"/></e>
+    <e lm="dehydratácia"><i>dehydratác</i><par n="aukc/ia__n"/></e>
+    <e lm="dekadencia"><i>dekadenc</i><par n="aukc/ia__n"/></e>
+    <e lm="dekarbonizácia"><i>dekarbonizác</i><par n="aukc/ia__n"/></e>
+    <e lm="deklamácia"><i>deklamác</i><par n="aukc/ia__n"/></e>
+    <e lm="deklarácia"><i>deklarác</i><par n="aukc/ia__n"/></e>
+    <e lm="deklinácia"><i>deklinác</i><par n="aukc/ia__n"/></e>
+    <e lm="dekolonizácia"><i>dekolonizác</i><par n="aukc/ia__n"/></e>
+    <e lm="dekompenzácia"><i>dekompenzác</i><par n="aukc/ia__n"/></e>
+    <e lm="dekompozícia"><i>dekompozíc</i><par n="aukc/ia__n"/></e>
+    <e lm="dekontaminácia"><i>dekontaminác</i><par n="aukc/ia__n"/></e>
+    <e lm="dekorácia"><i>dekorác</i><par n="aukc/ia__n"/></e>
+    <e lm="delegácia"><i>delegác</i><par n="aukc/ia__n"/></e>
+    <e lm="delimitácia"><i>delimitác</i><par n="aukc/ia__n"/></e>
+    <e lm="demarkácia"><i>demarkác</i><par n="aukc/ia__n"/></e>
+    <e lm="demilitarizácia"><i>demilitarizác</i><par n="aukc/ia__n"/></e>
+    <e lm="demobilizácia"><i>demobilizác</i><par n="aukc/ia__n"/></e>
+    <e lm="demokracia"><i>demokrac</i><par n="aukc/ia__n"/></e>
+    <e lm="demokratizácia"><i>demokratizác</i><par n="aukc/ia__n"/></e>
+    <e lm="demonštrácia"><i>demonštrác</i><par n="aukc/ia__n"/></e>
+    <e lm="demoralizácia"><i>demoralizác</i><par n="aukc/ia__n"/></e>
+    <e lm="denacifikácia"><i>denacifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="denominácia"><i>denominác</i><par n="aukc/ia__n"/></e>
+    <e lm="denudácia"><i>denudác</i><par n="aukc/ia__n"/></e>
+    <e lm="denunciácia"><i>denunciác</i><par n="aukc/ia__n"/></e>
+    <e lm="depalatizácia"><i>depalatizác</i><par n="aukc/ia__n"/></e>
+    <e lm="depilácia"><i>depilác</i><par n="aukc/ia__n"/></e>
+    <e lm="depolarizácia"><i>depolarizác</i><par n="aukc/ia__n"/></e>
+    <e lm="deportácia"><i>deportác</i><par n="aukc/ia__n"/></e>
+    <e lm="depozícia"><i>depozíc</i><par n="aukc/ia__n"/></e>
+    <e lm="deputácia"><i>deputác</i><par n="aukc/ia__n"/></e>
+    <e lm="deratizácia"><i>deratizác</i><par n="aukc/ia__n"/></e>
+    <e lm="deregulácia"><i>deregulác</i><par n="aukc/ia__n"/></e>
+    <e lm="derivácia"><i>derivác</i><par n="aukc/ia__n"/></e>
+    <e lm="deskripcia"><i>deskripc</i><par n="aukc/ia__n"/></e>
+    <e lm="destilácia"><i>destilác</i><par n="aukc/ia__n"/></e>
+    <e lm="deštrukcia"><i>deštrukc</i><par n="aukc/ia__n"/></e>
+    <e lm="detekcia"><i>detekc</i><par n="aukc/ia__n"/></e>
+    <e lm="determinácia"><i>determinác</i><par n="aukc/ia__n"/></e>
+    <e lm="detonácia"><i>detonác</i><par n="aukc/ia__n"/></e>
+    <e lm="detronizácia"><i>detronizác</i><par n="aukc/ia__n"/></e>
+    <e lm="devalorizácia"><i>devalorizác</i><par n="aukc/ia__n"/></e>
+    <e lm="devalvácia"><i>devalvác</i><par n="aukc/ia__n"/></e>
+    <e lm="devastácia"><i>devastác</i><par n="aukc/ia__n"/></e>
+    <e lm="deviácia"><i>deviác</i><par n="aukc/ia__n"/></e>
+    <e lm="dezercia"><i>dezerc</i><par n="aukc/ia__n"/></e>
+    <e lm="dezinfekcia"><i>dezinfekc</i><par n="aukc/ia__n"/></e>
+    <e lm="dezinformácia"><i>dezinformác</i><par n="aukc/ia__n"/></e>
+    <e lm="dezinsekcia"><i>dezinsekc</i><par n="aukc/ia__n"/></e>
+    <e lm="dezintegrácia"><i>dezintegrác</i><par n="aukc/ia__n"/></e>
+    <e lm="dezorganizácia"><i>dezorganizác</i><par n="aukc/ia__n"/></e>
+    <e lm="dezorientácia"><i>dezorientác</i><par n="aukc/ia__n"/></e>
+    <e lm="dezoxidácia"><i>dezoxidác</i><par n="aukc/ia__n"/></e>
+    <e lm="diferenciácia"><i>diferenciác</i><par n="aukc/ia__n"/></e>
+    <e lm="diferencia"><i>diferenc</i><par n="aukc/ia__n"/></e>
+    <e lm="difrakcia"><i>difrakc</i><par n="aukc/ia__n"/></e>
+    <e lm="digitalizácia"><i>digitalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="dikcia"><i>dikc</i><par n="aukc/ia__n"/></e>
+    <e lm="dilatácia"><i>dilatác</i><par n="aukc/ia__n"/></e>
+    <e lm="diplomacia"><i>diplomac</i><par n="aukc/ia__n"/></e>
+    <e lm="disfunkcia"><i>disfunkc</i><par n="aukc/ia__n"/></e>
+    <e lm="disimilácia"><i>disimilác</i><par n="aukc/ia__n"/></e>
+    <e lm="disjunkcia"><i>disjunkc</i><par n="aukc/ia__n"/></e>
+    <e lm="diškrécia"><i>diškréc</i><par n="aukc/ia__n"/></e>
+    <e lm="diskreditácia"><i>diskreditác</i><par n="aukc/ia__n"/></e>
+    <e lm="diskriminácia"><i>diskriminác</i><par n="aukc/ia__n"/></e>
+    <e lm="diskvalifikácia"><i>diskvalifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="dislokácia"><i>dislokác</i><par n="aukc/ia__n"/></e>
+    <e lm="dispozícia"><i>dispozíc</i><par n="aukc/ia__n"/></e>
+    <e lm="disproporcia"><i>disproporc</i><par n="aukc/ia__n"/></e>
+    <e lm="dištancia"><i>dištanc</i><par n="aukc/ia__n"/></e>
+    <e lm="dištinkcia"><i>dištinkc</i><par n="aukc/ia__n"/></e>
+    <e lm="distribúcia"><i>distribúc</i><par n="aukc/ia__n"/></e>
+    <e lm="divergencia"><i>divergenc</i><par n="aukc/ia__n"/></e>
+    <e lm="diverzifikácia"><i>diverzifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="dizertácia"><i>dizertác</i><par n="aukc/ia__n"/></e>
+    <e lm="dokumentácia"><i>dokumentác</i><par n="aukc/ia__n"/></e>
+    <e lm="donácia"><i>donác</i><par n="aukc/ia__n"/></e>
+    <e lm="dotácia"><i>dotác</i><par n="aukc/ia__n"/></e>
+    <e lm="dramatizácia"><i>dramatizác</i><par n="aukc/ia__n"/></e>
+    <e lm="duplikácia"><i>duplikác</i><par n="aukc/ia__n"/></e>
+    <e lm="dysfunkcia"><i>dysfunkc</i><par n="aukc/ia__n"/></e>
+    <e lm="edícia"><i>edíc</i><par n="aukc/ia__n"/></e>
+    <e lm="edukácia"><i>edukác</i><par n="aukc/ia__n"/></e>
+    <e lm="egalizácia"><i>egalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="ejakulácia"><i>ejakulác</i><par n="aukc/ia__n"/></e>
+    <e lm="ekológia"><i>ekológ</i><par n="aukc/ia__n"/></e>
+    <e lm="ekonomizácia"><i>ekonomizác</i><par n="aukc/ia__n"/></e>
+    <e lm="ekvivalencia"><i>ekvivalenc</i><par n="aukc/ia__n"/></e>
+    <e lm="elegancia"><i>eleganc</i><par n="aukc/ia__n"/></e>
+    <e lm="elektrifikácia"><i>elektrifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="elektrochémia"><i>elektrochém</i><par n="aukc/ia__n"/></e>
+    <e lm="elektroinštalácia"><i>elektroinštalác</i><par n="aukc/ia__n"/></e>
+    <e lm="eliminácia"><i>eliminác</i><par n="aukc/ia__n"/></e>
+    <e lm="emancipácia"><i>emancipác</i><par n="aukc/ia__n"/></e>
+    <e lm="emigrácia"><i>emigrác</i><par n="aukc/ia__n"/></e>
+    <e lm="eminencia"><i>eminenc</i><par n="aukc/ia__n"/></e>
+    <e lm="emisia"><i>emis</i><par n="aukc/ia__n"/></e>
+    <e lm="emócia"><i>emóc</i><par n="aukc/ia__n"/></e>
+    <e lm="emulácia"><i>emulác</i><par n="aukc/ia__n"/></e>
+    <e lm="encyklopédia"><i>encyklopéd</i><par n="aukc/ia__n"/></e>
+    <e lm="enumerácia"><i>enumerác</i><par n="aukc/ia__n"/></e>
+    <e lm="epilácia"><i>epilác</i><par n="aukc/ia__n"/></e>
+    <e lm="erekcia"><i>erekc</i><par n="aukc/ia__n"/></e>
+    <e lm="erudícia"><i>erudíc</i><par n="aukc/ia__n"/></e>
+    <e lm="erupcia"><i>erupc</i><par n="aukc/ia__n"/></e>
+    <e lm="esencia"><i>esenc</i><par n="aukc/ia__n"/></e>
+    <e lm="eskalácia"><i>eskalác</i><par n="aukc/ia__n"/></e>
+    <e lm="europeizácia"><i>europeizác</i><par n="aukc/ia__n"/></e>
+    <e lm="evakuácia"><i>evakuác</i><par n="aukc/ia__n"/></e>
+    <e lm="evaluácia"><i>evaluác</i><par n="aukc/ia__n"/></e>
+    <e lm="evalvácia"><i>evalvác</i><par n="aukc/ia__n"/></e>
+    <e lm="evanjelizácia"><i>evanjelizác</i><par n="aukc/ia__n"/></e>
+    <e lm="evidencia"><i>evidenc</i><par n="aukc/ia__n"/></e>
+    <e lm="evokácia"><i>evokác</i><par n="aukc/ia__n"/></e>
+    <e lm="evolúcia"><i>evolúc</i><par n="aukc/ia__n"/></e>
+    <e lm="excelencia"><i>excelenc</i><par n="aukc/ia__n"/></e>
+    <e lm="excerpcia"><i>excerpc</i><par n="aukc/ia__n"/></e>
+    <e lm="exekúcia"><i>exekúc</i><par n="aukc/ia__n"/></e>
+    <e lm="exemplifikácia"><i>exemplifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="exhalácia"><i>exhalác</i><par n="aukc/ia__n"/></e>
+    <e lm="exhibícia"><i>exhibíc</i><par n="aukc/ia__n"/></e>
+    <e lm="exhumácia"><i>exhumác</i><par n="aukc/ia__n"/></e>
+    <e lm="exkomunikácia"><i>exkomunikác</i><par n="aukc/ia__n"/></e>
+    <e lm="expedícia"><i>expedíc</i><par n="aukc/ia__n"/></e>
+    <e lm="explikácia"><i>explikác</i><par n="aukc/ia__n"/></e>
+    <e lm="exploatácia"><i>exploatác</i><par n="aukc/ia__n"/></e>
+    <e lm="expozícia"><i>expozíc</i><par n="aukc/ia__n"/></e>
+    <e lm="exspirácia"><i>exspirác</i><par n="aukc/ia__n"/></e>
+    <e lm="extrakcia"><i>extrakc</i><par n="aukc/ia__n"/></e>
+    <e lm="extrapolácia"><i>extrapolác</i><par n="aukc/ia__n"/></e>
+    <e lm="extravagancia"><i>extravaganc</i><par n="aukc/ia__n"/></e>
+    <e lm="falzifikácia"><i>falzifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="farmácia"><i>farmác</i><par n="aukc/ia__n"/></e>
+    <e lm="fascinácia"><i>fascinác</i><par n="aukc/ia__n"/></e>
+    <e lm="fašizácia"><i>fašizác</i><par n="aukc/ia__n"/></e>
+    <e lm="federácia"><i>federác</i><par n="aukc/ia__n"/></e>
+    <e lm="federalizácia"><i>federalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="feminizácia"><i>feminizác</i><par n="aukc/ia__n"/></e>
+    <e lm="fermentácia"><i>fermentác</i><par n="aukc/ia__n"/></e>
+    <e lm="fikcia"><i>fikc</i><par n="aukc/ia__n"/></e>
+    <e lm="filiácia"><i>filiác</i><par n="aukc/ia__n"/></e>
+    <e lm="filtrácia"><i>filtrác</i><par n="aukc/ia__n"/></e>
+    <e lm="finalizácia"><i>finalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="fixácia"><i>fixác</i><par n="aukc/ia__n"/></e>
+    <e lm="fluktuácia"><i>fluktuác</i><par n="aukc/ia__n"/></e>
+    <e lm="fluorescencia"><i>fluorescenc</i><par n="aukc/ia__n"/></e>
+    <e lm="fluorizácia"><i>fluorizác</i><par n="aukc/ia__n"/></e>
+    <e lm="fonácia"><i>fonác</i><par n="aukc/ia__n"/></e>
+    <e lm="formácia"><i>formác</i><par n="aukc/ia__n"/></e>
+    <e lm="formalizácia"><i>formalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="formulácia"><i>formulác</i><par n="aukc/ia__n"/></e>
+    <e lm="fosilizácia"><i>fosilizác</i><par n="aukc/ia__n"/></e>
+    <e lm="frakcia"><i>frakc</i><par n="aukc/ia__n"/></e>
+    <e lm="frekvencia"><i>frekvenc</i><par n="aukc/ia__n"/></e>
+    <e lm="frustrácia"><i>frustrác</i><par n="aukc/ia__n"/></e>
+    <e lm="funkcia"><i>funkc</i><par n="aukc/ia__n"/></e>
+    <e lm="galvanizácia"><i>galvanizác</i><par n="aukc/ia__n"/></e>
+    <e lm="generácia"><i>generác</i><par n="aukc/ia__n"/></e>
+    <e lm="generalizácia"><i>generalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="germanizácia"><i>germanizác</i><par n="aukc/ia__n"/></e>
+    <e lm="gestikulácia"><i>gestikulác</i><par n="aukc/ia__n"/></e>
+    <e lm="globalizácia"><i>globalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="glorifikácia"><i>glorifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="grácia"><i>grác</i><par n="aukc/ia__n"/></e>
+    <e lm="gradácia"><i>gradác</i><par n="aukc/ia__n"/></e>
+    <e lm="granulácia"><i>granulác</i><par n="aukc/ia__n"/></e>
+    <e lm="gratulácia"><i>gratulác</i><par n="aukc/ia__n"/></e>
+    <e lm="gravitácia"><i>gravitác</i><par n="aukc/ia__n"/></e>
+    <e lm="habilitácia"><i>habilitác</i><par n="aukc/ia__n"/></e>
+    <e lm="halucinácia"><i>halucinác</i><par n="aukc/ia__n"/></e>
+    <e lm="harmonizácia"><i>harmonizác</i><par n="aukc/ia__n"/></e>
+    <e lm="homogenizácia"><i>homogenizác</i><par n="aukc/ia__n"/></e>
+    <e lm="hospitácia"><i>hospitác</i><par n="aukc/ia__n"/></e>
+    <e lm="hospitalizácia"><i>hospitalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="hungarizácia"><i>hungarizác</i><par n="aukc/ia__n"/></e>
+    <e lm="hybridizácia"><i>hybridizác</i><par n="aukc/ia__n"/></e>
+    <e lm="hydratácia"><i>hydratác</i><par n="aukc/ia__n"/></e>
+    <e lm="hydrogenizácia"><i>hydrogenizác</i><par n="aukc/ia__n"/></e>
+    <e lm="idealizácia"><i>idealizác</i><par n="aukc/ia__n"/></e>
+    <e lm="identifikácia"><i>identifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="ideologizácia"><i>ideologizác</i><par n="aukc/ia__n"/></e>
+    <e lm="ignorancia"><i>ignoranc</i><par n="aukc/ia__n"/></e>
+    <e lm="iluminácia"><i>iluminác</i><par n="aukc/ia__n"/></e>
+    <e lm="ilustrácia"><i>ilustrác</i><par n="aukc/ia__n"/></e>
+    <e lm="imaginácia"><i>imaginác</i><par n="aukc/ia__n"/></e>
+    <e lm="imanencia"><i>imanenc</i><par n="aukc/ia__n"/></e>
+    <e lm="imatrikulácia"><i>imatrikulác</i><par n="aukc/ia__n"/></e>
+    <e lm="imigrácia"><i>imigrác</i><par n="aukc/ia__n"/></e>
+    <e lm="imitácia"><i>imitác</i><par n="aukc/ia__n"/></e>
+    <e lm="impedancia"><i>impedanc</i><par n="aukc/ia__n"/></e>
+    <e lm="impertinencia"><i>impertinenc</i><par n="aukc/ia__n"/></e>
+    <e lm="implantácia"><i>implantác</i><par n="aukc/ia__n"/></e>
+    <e lm="implementácia"><i>implementác</i><par n="aukc/ia__n"/></e>
+    <e lm="implikácia"><i>implikác</i><par n="aukc/ia__n"/></e>
+    <e lm="impotencia"><i>impotenc</i><par n="aukc/ia__n"/></e>
+    <e lm="impregnácia"><i>impregnác</i><par n="aukc/ia__n"/></e>
+    <e lm="improvizácia"><i>improvizác</i><par n="aukc/ia__n"/></e>
+    <e lm="inaugurácia"><i>inaugurác</i><par n="aukc/ia__n"/></e>
+    <e lm="indexácia"><i>indexác</i><par n="aukc/ia__n"/></e>
+    <e lm="indikácia"><i>indikác</i><par n="aukc/ia__n"/></e>
+    <e lm="individualizácia"><i>individualizác</i><par n="aukc/ia__n"/></e>
+    <e lm="indolencia"><i>indolenc</i><par n="aukc/ia__n"/></e>
+    <e lm="indukcia"><i>indukc</i><par n="aukc/ia__n"/></e>
+    <e lm="industrializácia"><i>industrializác</i><par n="aukc/ia__n"/></e>
+    <e lm="inercia"><i>inerc</i><par n="aukc/ia__n"/></e>
+    <e lm="infekcia"><i>infekc</i><par n="aukc/ia__n"/></e>
+    <e lm="infiltrácia"><i>infiltrác</i><par n="aukc/ia__n"/></e>
+    <e lm="inflácia"><i>inflác</i><par n="aukc/ia__n"/></e>
+    <e lm="informácia"><i>informác</i><par n="aukc/ia__n"/></e>
+    <e lm="informatizácia"><i>informatizác</i><par n="aukc/ia__n"/></e>
+    <e lm="ingrediencia"><i>ingredienc</i><par n="aukc/ia__n"/></e>
+    <e lm="inhalácia"><i>inhalác</i><par n="aukc/ia__n"/></e>
+    <e lm="inherencia"><i>inherenc</i><par n="aukc/ia__n"/></e>
+    <e lm="inhibícia"><i>inhibíc</i><par n="aukc/ia__n"/></e>
+    <e lm="iniciácia"><i>iniciác</i><par n="aukc/ia__n"/></e>
+    <e lm="injekcia"><i>injekc</i><par n="aukc/ia__n"/></e>
+    <e lm="inklinácia"><i>inklinác</i><par n="aukc/ia__n"/></e>
+    <e lm="inkorporácia"><i>inkorporác</i><par n="aukc/ia__n"/></e>
+    <e lm="inkriminácia"><i>inkriminác</i><par n="aukc/ia__n"/></e>
+    <e lm="inkubácia"><i>inkubác</i><par n="aukc/ia__n"/></e>
+    <e lm="inkvizícia"><i>inkvizíc</i><par n="aukc/ia__n"/></e>
+    <e lm="inovácia"><i>inovác</i><par n="aukc/ia__n"/></e>
+    <e lm="inseminácia"><i>inseminác</i><par n="aukc/ia__n"/></e>
+    <e lm="insinuácia"><i>insinuác</i><par n="aukc/ia__n"/></e>
+    <e lm="inšpekcia"><i>inšpekc</i><par n="aukc/ia__n"/></e>
+    <e lm="inspirácia"><i>inspirác</i><par n="aukc/ia__n"/></e>
+    <e lm="inšpirácia"><i>inšpirác</i><par n="aukc/ia__n"/></e>
+    <e lm="inštalácia"><i>inštalác</i><par n="aukc/ia__n"/></e>
+    <e lm="inštancia"><i>inštanc</i><par n="aukc/ia__n"/></e>
+    <e lm="inštitúcia"><i>inštitúc</i><par n="aukc/ia__n"/></e>
+    <e lm="inštrukcia"><i>inštrukc</i><par n="aukc/ia__n"/></e>
+    <e lm="inštrumentácia"><i>inštrumentác</i><par n="aukc/ia__n"/></e>
+    <e lm="integrácia"><i>integrác</i><par n="aukc/ia__n"/></e>
+    <e lm="intelektualizácia"><i>intelektualizác</i><par n="aukc/ia__n"/></e>
+    <e lm="inteligencia"><i>inteligenc</i><par n="aukc/ia__n"/></e>
+    <e lm="intencia"><i>intenc</i><par n="aukc/ia__n"/></e>
+    <e lm="intenzifikácia"><i>intenzifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="interakcia"><i>interakc</i><par n="aukc/ia__n"/></e>
+    <e lm="interferencia"><i>interferenc</i><par n="aukc/ia__n"/></e>
+    <e lm="interjekcia"><i>interjekc</i><par n="aukc/ia__n"/></e>
+    <e lm="internácia"><i>internác</i><par n="aukc/ia__n"/></e>
+    <e lm="internacionalizácia"><i>internacionalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="interpelácia"><i>interpelác</i><par n="aukc/ia__n"/></e>
+    <e lm="interpolácia"><i>interpolác</i><par n="aukc/ia__n"/></e>
+    <e lm="interpretácia"><i>interpretác</i><par n="aukc/ia__n"/></e>
+    <e lm="interpunkcia"><i>interpunkc</i><par n="aukc/ia__n"/></e>
+    <e lm="interrupcia"><i>interrupc</i><par n="aukc/ia__n"/></e>
+    <e lm="intervencia"><i>intervenc</i><par n="aukc/ia__n"/></e>
+    <e lm="intonácia"><i>intonác</i><par n="aukc/ia__n"/></e>
+    <e lm="intoxikácia"><i>intoxikác</i><par n="aukc/ia__n"/></e>
+    <e lm="introdukcia"><i>introdukc</i><par n="aukc/ia__n"/></e>
+    <e lm="introspekcia"><i>introspekc</i><par n="aukc/ia__n"/></e>
+    <e lm="intuícia"><i>intuíc</i><par n="aukc/ia__n"/></e>
+    <e lm="invencia"><i>invenc</i><par n="aukc/ia__n"/></e>
+    <e lm="inventarizácia"><i>inventarizác</i><par n="aukc/ia__n"/></e>
+    <e lm="investícia"><i>investíc</i><par n="aukc/ia__n"/></e>
+    <e lm="invokácia"><i>invokác</i><par n="aukc/ia__n"/></e>
+    <e lm="ionizácia"><i>ionizác</i><par n="aukc/ia__n"/></e>
+    <e lm="iradiácia"><i>iradiác</i><par n="aukc/ia__n"/></e>
+    <e lm="irigácia"><i>irigác</i><par n="aukc/ia__n"/></e>
+    <e lm="iritácia"><i>iritác</i><par n="aukc/ia__n"/></e>
+    <e lm="iterácia"><i>iterác</i><par n="aukc/ia__n"/></e>
+    <e lm="izolácia"><i>izolác</i><par n="aukc/ia__n"/></e>
+    <e lm="jarovizácia"><i>jarovizác</i><par n="aukc/ia__n"/></e>
+    <e lm="jurisdikcia"><i>jurisdikc</i><par n="aukc/ia__n"/></e>
+    <e lm="juxtapozícia"><i>juxtapozíc</i><par n="aukc/ia__n"/></e>
+    <e lm="kadencia"><i>kadenc</i><par n="aukc/ia__n"/></e>
+    <e lm="kalcifikácia"><i>kalcifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="kalibrácia"><i>kalibrác</i><par n="aukc/ia__n"/></e>
+    <e lm="kalkulácia"><i>kalkulác</i><par n="aukc/ia__n"/></e>
+    <e lm="kanalizácia"><i>kanalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="kanonizácia"><i>kanonizác</i><par n="aukc/ia__n"/></e>
+    <e lm="kapitulácia"><i>kapitulác</i><par n="aukc/ia__n"/></e>
+    <e lm="karbonizácia"><i>karbonizác</i><par n="aukc/ia__n"/></e>
+    <e lm="karburácia"><i>karburác</i><par n="aukc/ia__n"/></e>
+    <e lm="kastrácia"><i>kastrác</i><par n="aukc/ia__n"/></e>
+    <e lm="katalogizácia"><i>katalogizác</i><par n="aukc/ia__n"/></e>
+    <e lm="kategorizácia"><i>kategorizác</i><par n="aukc/ia__n"/></e>
+    <e lm="kaucia"><i>kauc</i><par n="aukc/ia__n"/></e>
+    <e lm="kinofikácia"><i>kinofikác</i><par n="aukc/ia__n"/></e>
+    <e lm="klasifikácia"><i>klasifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="klimatizácia"><i>klimatizác</i><par n="aukc/ia__n"/></e>
+    <e lm="koagulácia"><i>koagulác</i><par n="aukc/ia__n"/></e>
+    <e lm="koalícia"><i>koalíc</i><par n="aukc/ia__n"/></e>
+    <e lm="kodifikácia"><i>kodifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="koedukácia"><i>koedukác</i><par n="aukc/ia__n"/></e>
+    <e lm="koexistencia"><i>koexistenc</i><par n="aukc/ia__n"/></e>
+    <e lm="kognícia"><i>kogníc</i><par n="aukc/ia__n"/></e>
+    <e lm="kohabitácia"><i>kohabitác</i><par n="aukc/ia__n"/></e>
+    <e lm="koherencia"><i>koherenc</i><par n="aukc/ia__n"/></e>
+    <e lm="koincidencia"><i>koincidenc</i><par n="aukc/ia__n"/></e>
+    <e lm="kolaborácia"><i>kolaborác</i><par n="aukc/ia__n"/></e>
+    <e lm="kolaudácia"><i>kolaudác</i><par n="aukc/ia__n"/></e>
+    <e lm="kolekcia"><i>kolekc</i><par n="aukc/ia__n"/></e>
+    <e lm="kolektivizácia"><i>kolektivizác</i><par n="aukc/ia__n"/></e>
+    <e lm="kolonizácia"><i>kolonizác</i><par n="aukc/ia__n"/></e>
+    <e lm="kombinácia"><i>kombinác</i><par n="aukc/ia__n"/></e>
+    <e lm="komercializácia"><i>komercializác</i><par n="aukc/ia__n"/></e>
+    <e lm="komparácia"><i>komparác</i><par n="aukc/ia__n"/></e>
+    <e lm="kompenzácia"><i>kompenzác</i><par n="aukc/ia__n"/></e>
+    <e lm="kompetencia"><i>kompetenc</i><par n="aukc/ia__n"/></e>
+    <e lm="kompilácia"><i>kompilác</i><par n="aukc/ia__n"/></e>
+    <e lm="komplikácia"><i>komplikác</i><par n="aukc/ia__n"/></e>
+    <e lm="kompozícia"><i>kompozíc</i><par n="aukc/ia__n"/></e>
+    <e lm="komprimácia"><i>komprimác</i><par n="aukc/ia__n"/></e>
+    <e lm="komunikácia"><i>komunikác</i><par n="aukc/ia__n"/></e>
+    <e lm="komutácia"><i>komutác</i><par n="aukc/ia__n"/></e>
+    <e lm="koncentrácia"><i>koncentrác</i><par n="aukc/ia__n"/></e>
+    <e lm="koncepcia"><i>koncepc</i><par n="aukc/ia__n"/></e>
+    <e lm="kondenzácia"><i>kondenzác</i><par n="aukc/ia__n"/></e>
+    <e lm="kondícia"><i>kondíc</i><par n="aukc/ia__n"/></e>
+    <e lm="kondolencia"><i>kondolenc</i><par n="aukc/ia__n"/></e>
+    <e lm="konfederácia"><i>konfederác</i><par n="aukc/ia__n"/></e>
+    <e lm="konfekcia"><i>konfekc</i><par n="aukc/ia__n"/></e>
+    <e lm="konferencia"><i>konferenc</i><par n="aukc/ia__n"/></e>
+    <e lm="konfigurácia"><i>konfigurác</i><par n="aukc/ia__n"/></e>
+    <e lm="konfirmácia"><i>konfirmác</i><par n="aukc/ia__n"/></e>
+    <e lm="konfiškácia"><i>konfiškác</i><par n="aukc/ia__n"/></e>
+    <e lm="konfrontácia"><i>konfrontác</i><par n="aukc/ia__n"/></e>
+    <e lm="kongregácia"><i>kongregác</i><par n="aukc/ia__n"/></e>
+    <e lm="kongruencia"><i>kongruenc</i><par n="aukc/ia__n"/></e>
+    <e lm="konjugácia"><i>konjugác</i><par n="aukc/ia__n"/></e>
+    <e lm="konjunkcia"><i>konjunkc</i><par n="aukc/ia__n"/></e>
+    <e lm="konkretizácia"><i>konkretizác</i><par n="aukc/ia__n"/></e>
+    <e lm="konkurencia"><i>konkurenc</i><par n="aukc/ia__n"/></e>
+    <e lm="konsekvencia"><i>konsekvenc</i><par n="aukc/ia__n"/></e>
+    <e lm="konsolidácia"><i>konsolidác</i><par n="aukc/ia__n"/></e>
+    <e lm="konšpirácia"><i>konšpirác</i><par n="aukc/ia__n"/></e>
+    <e lm="konštatácia"><i>konštatác</i><par n="aukc/ia__n"/></e>
+    <e lm="konštelácia"><i>konštelác</i><par n="aukc/ia__n"/></e>
+    <e lm="konšternácia"><i>konšternác</i><par n="aukc/ia__n"/></e>
+    <e lm="konštitúcia"><i>konštitúc</i><par n="aukc/ia__n"/></e>
+    <e lm="konštrukcia"><i>konštrukc</i><par n="aukc/ia__n"/></e>
+    <e lm="kontaminácia"><i>kontaminác</i><par n="aukc/ia__n"/></e>
+    <e lm="kontradikcia"><i>kontradikc</i><par n="aukc/ia__n"/></e>
+    <e lm="kontrakcia"><i>kontrakc</i><par n="aukc/ia__n"/></e>
+    <e lm="kontraktácia"><i>kontraktác</i><par n="aukc/ia__n"/></e>
+    <e lm="kontrarevolúcia"><i>kontrarevolúc</i><par n="aukc/ia__n"/></e>
+    <e lm="kontribúcia"><i>kontribúc</i><par n="aukc/ia__n"/></e>
+    <e lm="kontumácia"><i>kontumác</i><par n="aukc/ia__n"/></e>
+    <e lm="konvencia"><i>konvenc</i><par n="aukc/ia__n"/></e>
+    <e lm="konvergencia"><i>konvergenc</i><par n="aukc/ia__n"/></e>
+    <e lm="konverzácia"><i>konverzác</i><par n="aukc/ia__n"/></e>
+    <e lm="konzekvencia"><i>konzekvenc</i><par n="aukc/ia__n"/></e>
+    <e lm="konzervácia"><i>konzervác</i><par n="aukc/ia__n"/></e>
+    <e lm="konzistencia"><i>konzistenc</i><par n="aukc/ia__n"/></e>
+    <e lm="konzultácia"><i>konzultác</i><par n="aukc/ia__n"/></e>
+    <e lm="konzumácia"><i>konzumác</i><par n="aukc/ia__n"/></e>
+    <e lm="kooperácia"><i>kooperác</i><par n="aukc/ia__n"/></e>
+    <e lm="koordinácia"><i>koordinác</i><par n="aukc/ia__n"/></e>
+    <e lm="kopulácia"><i>kopulác</i><par n="aukc/ia__n"/></e>
+    <e lm="korekcia"><i>korekc</i><par n="aukc/ia__n"/></e>
+    <e lm="korelácia"><i>korelác</i><par n="aukc/ia__n"/></e>
+    <e lm="korepetícia"><i>korepetíc</i><par n="aukc/ia__n"/></e>
+    <e lm="korešpondencia"><i>korešpondenc</i><par n="aukc/ia__n"/></e>
+    <e lm="korporácia"><i>korporác</i><par n="aukc/ia__n"/></e>
+    <e lm="korpulencia"><i>korpulenc</i><par n="aukc/ia__n"/></e>
+    <e lm="korupcia"><i>korupc</i><par n="aukc/ia__n"/></e>
+    <e lm="kreácia"><i>kreác</i><par n="aukc/ia__n"/></e>
+    <e lm="kremácia"><i>kremác</i><par n="aukc/ia__n"/></e>
+    <e lm="kryštalizácia"><i>kryštalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="kulminácia"><i>kulminác</i><par n="aukc/ia__n"/></e>
+    <e lm="kumulácia"><i>kumulác</i><par n="aukc/ia__n"/></e>
+    <e lm="kvalifikácia"><i>kvalifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="laktácia"><i>laktác</i><par n="aukc/ia__n"/></e>
+    <e lm="lamentácia"><i>lamentác</i><par n="aukc/ia__n"/></e>
+    <e lm="legalizácia"><i>legalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="legitimácia"><i>legitimác</i><par n="aukc/ia__n"/></e>
+    <e lm="lekcia"><i>lekc</i><par n="aukc/ia__n"/></e>
+    <e lm="liberalizácia"><i>liberalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="licencia"><i>licenc</i><par n="aukc/ia__n"/></e>
+    <e lm="likvidácia"><i>likvidác</i><par n="aukc/ia__n"/></e>
+    <e lm="limitácia"><i>limitác</i><par n="aukc/ia__n"/></e>
+    <e lm="lokalizácia"><i>lokalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="luminiscencia"><i>luminiscenc</i><par n="aukc/ia__n"/></e>
+    <e lm="lustrácia"><i>lustrác</i><par n="aukc/ia__n"/></e>
+    <e lm="macerácia"><i>macerác</i><par n="aukc/ia__n"/></e>
+    <e lm="machinácia"><i>machinác</i><par n="aukc/ia__n"/></e>
+    <e lm="maďarizácia"><i>maďarizác</i><par n="aukc/ia__n"/></e>
+    <e lm="magnetizácia"><i>magnetizác</i><par n="aukc/ia__n"/></e>
+    <e lm="magnificencia"><i>magnificenc</i><par n="aukc/ia__n"/></e>
+    <e lm="majorizácia"><i>majorizác</i><par n="aukc/ia__n"/></e>
+    <e lm="manifestácia"><i>manifestác</i><par n="aukc/ia__n"/></e>
+    <e lm="manipulácia"><i>manipulác</i><par n="aukc/ia__n"/></e>
+    <e lm="masturbácia"><i>masturbác</i><par n="aukc/ia__n"/></e>
+    <e lm="materializácia"><i>materializác</i><par n="aukc/ia__n"/></e>
+    <e lm="maximalizácia"><i>maximalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="mechanizácia"><i>mechanizác</i><par n="aukc/ia__n"/></e>
+    <e lm="medikácia"><i>medikác</i><par n="aukc/ia__n"/></e>
+    <e lm="meditácia"><i>meditác</i><par n="aukc/ia__n"/></e>
+    <e lm="meliorácia"><i>meliorác</i><par n="aukc/ia__n"/></e>
+    <e lm="menštruácia"><i>menštruác</i><par n="aukc/ia__n"/></e>
+    <e lm="migrácia"><i>migrác</i><par n="aukc/ia__n"/></e>
+    <e lm="milícia"><i>milíc</i><par n="aukc/ia__n"/></e>
+    <e lm="militarizácia"><i>militarizác</i><par n="aukc/ia__n"/></e>
+    <e lm="minimalizácia"><i>minimalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="mobilizácia"><i>mobilizác</i><par n="aukc/ia__n"/></e>
+    <e lm="modelácia"><i>modelác</i><par n="aukc/ia__n"/></e>
+    <e lm="modernizácia"><i>modernizác</i><par n="aukc/ia__n"/></e>
+    <e lm="modifikácia"><i>modifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="modulácia"><i>modulác</i><par n="aukc/ia__n"/></e>
+    <e lm="monštrancia"><i>monštranc</i><par n="aukc/ia__n"/></e>
+    <e lm="motivácia"><i>motivác</i><par n="aukc/ia__n"/></e>
+    <e lm="mutácia"><i>mutác</i><par n="aukc/ia__n"/></e>
+    <e lm="nácia"><i>nác</i><par n="aukc/ia__n"/></e>
+    <e lm="nadprodukcia"><i>nadprodukc</i><par n="aukc/ia__n"/></e>
+    <e lm="naturalizácia"><i>naturalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="navigácia"><i>navigác</i><par n="aukc/ia__n"/></e>
+    <e lm="negácia"><i>negác</i><par n="aukc/ia__n"/></e>
+    <e lm="neutralizácia"><i>neutralizác</i><par n="aukc/ia__n"/></e>
+    <e lm="nivelácia"><i>nivelác</i><par n="aukc/ia__n"/></e>
+    <e lm="nominácia"><i>nominác</i><par n="aukc/ia__n"/></e>
+    <e lm="nonšalancia"><i>nonšalanc</i><par n="aukc/ia__n"/></e>
+    <e lm="normalizácia"><i>normalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="nostrifikácia"><i>nostrifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="novelizácia"><i>novelizác</i><par n="aukc/ia__n"/></e>
+    <e lm="objektivizácia"><i>objektivizác</i><par n="aukc/ia__n"/></e>
+    <e lm="obligácia"><i>obligác</i><par n="aukc/ia__n"/></e>
+    <e lm="obštrukcia"><i>obštrukc</i><par n="aukc/ia__n"/></e>
+    <e lm="okupácia"><i>okupác</i><par n="aukc/ia__n"/></e>
+    <e lm="ondulácia"><i>ondulác</i><par n="aukc/ia__n"/></e>
+    <e lm="operácia"><i>operác</i><par n="aukc/ia__n"/></e>
+    <e lm="opozícia"><i>opozíc</i><par n="aukc/ia__n"/></e>
+    <e lm="optimalizácia"><i>optimalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="orácia"><i>orác</i><par n="aukc/ia__n"/></e>
+    <e lm="ordinácia"><i>ordinác</i><par n="aukc/ia__n"/></e>
+    <e lm="organizácia"><i>organizác</i><par n="aukc/ia__n"/></e>
+    <e lm="orientácia"><i>orientác</i><par n="aukc/ia__n"/></e>
+    <e lm="ortodoncia"><i>ortodonc</i><par n="aukc/ia__n"/></e>
+    <e lm="oscilácia"><i>oscilác</i><par n="aukc/ia__n"/></e>
+    <e lm="osifikácia"><i>osifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="ovulácia"><i>ovulác</i><par n="aukc/ia__n"/></e>
+    <e lm="oxidácia"><i>oxidác</i><par n="aukc/ia__n"/></e>
+    <e lm="pacifikácia"><i>pacifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="paginácia"><i>paginác</i><par n="aukc/ia__n"/></e>
+    <e lm="palatalizácia"><i>palatalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="paletizácia"><i>paletizác</i><par n="aukc/ia__n"/></e>
+    <e lm="parcelácia"><i>parcelác</i><par n="aukc/ia__n"/></e>
+    <e lm="pauperizácia"><i>pauperizác</i><par n="aukc/ia__n"/></e>
+    <e lm="percepcia"><i>percepc</i><par n="aukc/ia__n"/></e>
+    <e lm="perforácia"><i>perforác</i><par n="aukc/ia__n"/></e>
+    <e lm="periodizácia"><i>periodizác</i><par n="aukc/ia__n"/></e>
+    <e lm="permanencia"><i>permanenc</i><par n="aukc/ia__n"/></e>
+    <e lm="permutácia"><i>permutác</i><par n="aukc/ia__n"/></e>
+    <e lm="personifikácia"><i>personifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="petícia"><i>petíc</i><par n="aukc/ia__n"/></e>
+    <e lm="pistácia"><i>pistác</i><par n="aukc/ia__n"/></e>
+    <e lm="plutokracia"><i>plutokrac</i><par n="aukc/ia__n"/></e>
+    <e lm="polarizácia"><i>polarizác</i><par n="aukc/ia__n"/></e>
+    <e lm="polícia"><i>políc</i><par n="aukc/ia__n"/></e>
+    <e lm="politizácia"><i>politizác</i><par n="aukc/ia__n"/></e>
+    <e lm="polymerizácia"><i>polymerizác</i><par n="aukc/ia__n"/></e>
+    <e lm="populácia"><i>populác</i><par n="aukc/ia__n"/></e>
+    <e lm="popularizácia"><i>popularizác</i><par n="aukc/ia__n"/></e>
+    <e lm="porcia"><i>porc</i><par n="aukc/ia__n"/></e>
+    <e lm="potencia"><i>potenc</i><par n="aukc/ia__n"/></e>
+    <e lm="pozícia"><i>pozíc</i><par n="aukc/ia__n"/></e>
+    <e lm="precedencia"><i>precedenc</i><par n="aukc/ia__n"/></e>
+    <e lm="predikácia"><i>predikác</i><par n="aukc/ia__n"/></e>
+    <e lm="predikcia"><i>predikc</i><par n="aukc/ia__n"/></e>
+    <e lm="preferencia"><i>preferenc</i><par n="aukc/ia__n"/></e>
+    <e lm="preparácia"><i>preparác</i><par n="aukc/ia__n"/></e>
+    <e lm="prevencia"><i>prevenc</i><par n="aukc/ia__n"/></e>
+    <e lm="prezencia"><i>prezenc</i><par n="aukc/ia__n"/></e>
+    <e lm="prezentácia"><i>prezentác</i><par n="aukc/ia__n"/></e>
+    <e lm="privatizácia"><i>privatizác</i><par n="aukc/ia__n"/></e>
+    <e lm="produkcia"><i>produkc</i><par n="aukc/ia__n"/></e>
+    <e lm="profesionalizácia"><i>profesionalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="prohibícia"><i>prohibíc</i><par n="aukc/ia__n"/></e>
+    <e lm="projekcia"><i>projekc</i><par n="aukc/ia__n"/></e>
+    <e lm="proklamácia"><i>proklamác</i><par n="aukc/ia__n"/></e>
+    <e lm="proletarizácia"><i>proletarizác</i><par n="aukc/ia__n"/></e>
+    <e lm="prolongácia"><i>prolongác</i><par n="aukc/ia__n"/></e>
+    <e lm="promócia"><i>promóc</i><par n="aukc/ia__n"/></e>
+    <e lm="propagácia"><i>propagác</i><par n="aukc/ia__n"/></e>
+    <e lm="proporcia"><i>proporc</i><par n="aukc/ia__n"/></e>
+    <e lm="propozícia"><i>propozíc</i><par n="aukc/ia__n"/></e>
+    <e lm="prostitúcia"><i>prostitúc</i><par n="aukc/ia__n"/></e>
+    <e lm="protekcia"><i>protekc</i><par n="aukc/ia__n"/></e>
+    <e lm="provincia"><i>provinc</i><par n="aukc/ia__n"/></e>
+    <e lm="provokácia"><i>provokác</i><par n="aukc/ia__n"/></e>
+    <e lm="pseudodemokracia"><i>pseudodemokrac</i><par n="aukc/ia__n"/></e>
+    <e lm="publikácia"><i>publikác</i><par n="aukc/ia__n"/></e>
+    <e lm="punkcia"><i>punkc</i><par n="aukc/ia__n"/></e>
+    <e lm="racionalizácia"><i>racionalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="radiácia"><i>radiác</i><par n="aukc/ia__n"/></e>
+    <e lm="rádiolokácia"><i>rádiolokác</i><par n="aukc/ia__n"/></e>
+    <e lm="rafinácia"><i>rafinác</i><par n="aukc/ia__n"/></e>
+    <e lm="rajonizácia"><i>rajonizác</i><par n="aukc/ia__n"/></e>
+    <e lm="ratifikácia"><i>ratifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="reakcia"><i>reakc</i><par n="aukc/ia__n"/></e>
+    <e lm="realizácia"><i>realizác</i><par n="aukc/ia__n"/></e>
+    <e lm="recepcia"><i>recepc</i><par n="aukc/ia__n"/></e>
+    <e lm="recitácia"><i>recitác</i><par n="aukc/ia__n"/></e>
+    <e lm="redakcia"><i>redakc</i><par n="aukc/ia__n"/></e>
+    <e lm="redukcia"><i>redukc</i><par n="aukc/ia__n"/></e>
+    <e lm="redundancia"><i>redundanc</i><par n="aukc/ia__n"/></e>
+    <e lm="reedícia"><i>reedíc</i><par n="aukc/ia__n"/></e>
+    <e lm="referencia"><i>referenc</i><par n="aukc/ia__n"/></e>
+    <e lm="reformácia"><i>reformác</i><par n="aukc/ia__n"/></e>
+    <e lm="refrakcia"><i>refrakc</i><par n="aukc/ia__n"/></e>
+    <e lm="refundácia"><i>refundác</i><par n="aukc/ia__n"/></e>
+    <e lm="regenerácia"><i>regenerác</i><par n="aukc/ia__n"/></e>
+    <e lm="regulácia"><i>regulác</i><par n="aukc/ia__n"/></e>
+    <e lm="rehabilitácia"><i>rehabilitác</i><par n="aukc/ia__n"/></e>
+    <e lm="reinkarnácia"><i>reinkarnác</i><par n="aukc/ia__n"/></e>
+    <e lm="reinštalácia"><i>reinštalác</i><par n="aukc/ia__n"/></e>
+    <e lm="rekapitulácia"><i>rekapitulác</i><par n="aukc/ia__n"/></e>
+    <e lm="rekcia"><i>rekc</i><par n="aukc/ia__n"/></e>
+    <e lm="reklamácia"><i>reklamác</i><par n="aukc/ia__n"/></e>
+    <e lm="rekodifikácia"><i>rekodifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="rekonštrukcia"><i>rekonštrukc</i><par n="aukc/ia__n"/></e>
+    <e lm="rekonvalescencia"><i>rekonvalescenc</i><par n="aukc/ia__n"/></e>
+    <e lm="rekreácia"><i>rekreác</i><par n="aukc/ia__n"/></e>
+    <e lm="rekriminácia"><i>rekriminác</i><par n="aukc/ia__n"/></e>
+    <e lm="rekultivácia"><i>rekultivác</i><par n="aukc/ia__n"/></e>
+    <e lm="rekvalifikácia"><i>rekvalifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="relácia"><i>relác</i><par n="aukc/ia__n"/></e>
+    <e lm="relaxácia"><i>relaxác</i><par n="aukc/ia__n"/></e>
+    <e lm="reminiscencia"><i>reminiscenc</i><par n="aukc/ia__n"/></e>
+    <e lm="Renesancia"><i>Renesanc</i><par n="aukc/ia__n"/></e>
+    <e lm="renovácia"><i>renovác</i><par n="aukc/ia__n"/></e>
+    <e lm="reorganizácia"><i>reorganizác</i><par n="aukc/ia__n"/></e>
+    <e lm="repetícia"><i>repetíc</i><par n="aukc/ia__n"/></e>
+    <e lm="replikácia"><i>replikác</i><par n="aukc/ia__n"/></e>
+    <e lm="reprezentácia"><i>reprezentác</i><par n="aukc/ia__n"/></e>
+    <e lm="reprivatizácia"><i>reprivatizác</i><par n="aukc/ia__n"/></e>
+    <e lm="reprodukcia"><i>reprodukc</i><par n="aukc/ia__n"/></e>
+    <e lm="reputácia"><i>reputác</i><par n="aukc/ia__n"/></e>
+    <e lm="resekcia"><i>resekc</i><par n="aukc/ia__n"/></e>
+    <e lm="reslovakizácia"><i>reslovakizác</i><par n="aukc/ia__n"/></e>
+    <e lm="reštaurácia"><i>reštaurác</i><par n="aukc/ia__n"/></e>
+    <e lm="reštitúcia"><i>reštitúc</i><par n="aukc/ia__n"/></e>
+    <e lm="reštrikcia"><i>reštrikc</i><par n="aukc/ia__n"/></e>
+    <e lm="reštrukturalizácia"><i>reštrukturalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="retardácia"><i>retardác</i><par n="aukc/ia__n"/></e>
+    <e lm="retranslácia"><i>retranslác</i><par n="aukc/ia__n"/></e>
+    <e lm="revalvácia"><i>revalvác</i><par n="aukc/ia__n"/></e>
+    <e lm="revolúcia"><i>revolúc</i><par n="aukc/ia__n"/></e>
+    <e lm="rezervácia"><i>rezervác</i><par n="aukc/ia__n"/></e>
+    <e lm="rezidencia"><i>rezidenc</i><par n="aukc/ia__n"/></e>
+    <e lm="rezignácia"><i>rezignác</i><par n="aukc/ia__n"/></e>
+    <e lm="rezistencia"><i>rezistenc</i><par n="aukc/ia__n"/></e>
+    <e lm="rezolúcia"><i>rezolúc</i><par n="aukc/ia__n"/></e>
+    <e lm="rezonancia"><i>rezonanc</i><par n="aukc/ia__n"/></e>
+    <e lm="robotizácia"><i>robotizác</i><par n="aukc/ia__n"/></e>
+    <e lm="rotácia"><i>rotác</i><par n="aukc/ia__n"/></e>
+    <e lm="samoindukcia"><i>samoindukc</i><par n="aukc/ia__n"/></e>
+    <e lm="sanácia"><i>sanác</i><par n="aukc/ia__n"/></e>
+    <e lm="sankcia"><i>sankc</i><par n="aukc/ia__n"/></e>
+    <e lm="satisfakcia"><i>satisfakc</i><par n="aukc/ia__n"/></e>
+    <e lm="saturácia"><i>saturác</i><par n="aukc/ia__n"/></e>
+    <e lm="sedimentácia"><i>sedimentác</i><par n="aukc/ia__n"/></e>
+    <e lm="segmentácia"><i>segmentác</i><par n="aukc/ia__n"/></e>
+    <e lm="segregácia"><i>segregác</i><par n="aukc/ia__n"/></e>
+    <e lm="sekcia"><i>sekc</i><par n="aukc/ia__n"/></e>
+    <e lm="sekrécia"><i>sekréc</i><par n="aukc/ia__n"/></e>
+    <e lm="sekvencia"><i>sekvenc</i><par n="aukc/ia__n"/></e>
+    <e lm="selekcia"><i>selekc</i><par n="aukc/ia__n"/></e>
+    <e lm="sentencia"><i>sentenc</i><par n="aukc/ia__n"/></e>
+    <e lm="senzácia"><i>senzác</i><par n="aukc/ia__n"/></e>
+    <e lm="separácia"><i>separác</i><par n="aukc/ia__n"/></e>
+    <e lm="signalizácia"><i>signalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="simulácia"><i>simulác</i><par n="aukc/ia__n"/></e>
+    <e lm="situácia"><i>situác</i><par n="aukc/ia__n"/></e>
+    <e lm="slovakizácia"><i>slovakizác</i><par n="aukc/ia__n"/></e>
+    <e lm="socializácia"><i>socializác</i><par n="aukc/ia__n"/></e>
+    <e lm="solarizácia"><i>solarizác</i><par n="aukc/ia__n"/></e>
+    <e lm="solmizácia"><i>solmizác</i><par n="aukc/ia__n"/></e>
+    <e lm="špecializácia"><i>špecializác</i><par n="aukc/ia__n"/></e>
+    <e lm="špecifikácia"><i>špecifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="špekulácia"><i>špekulác</i><par n="aukc/ia__n"/></e>
+    <e lm="stabilizácia"><i>stabilizác</i><par n="aukc/ia__n"/></e>
+    <e lm="stagnácia"><i>stagnác</i><par n="aukc/ia__n"/></e>
+    <e lm="štandardizácia"><i>štandardizác</i><par n="aukc/ia__n"/></e>
+    <e lm="sterilizácia"><i>sterilizác</i><par n="aukc/ia__n"/></e>
+    <e lm="stimulácia"><i>stimulác</i><par n="aukc/ia__n"/></e>
+    <e lm="stratifikácia"><i>stratifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="štrukturalizácia"><i>štrukturalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="štylizácia"><i>štylizác</i><par n="aukc/ia__n"/></e>
+    <e lm="subjektivizácia"><i>subjektivizác</i><par n="aukc/ia__n"/></e>
+    <e lm="subordinácia"><i>subordinác</i><par n="aukc/ia__n"/></e>
+    <e lm="subskripcia"><i>subskripc</i><par n="aukc/ia__n"/></e>
+    <e lm="substancia"><i>substanc</i><par n="aukc/ia__n"/></e>
+    <e lm="substitúcia"><i>substitúc</i><par n="aukc/ia__n"/></e>
+    <e lm="subvencia"><i>subvenc</i><par n="aukc/ia__n"/></e>
+    <e lm="sugescia"><i>sugesc</i><par n="aukc/ia__n"/></e>
+    <e lm="suplikácia"><i>suplikác</i><par n="aukc/ia__n"/></e>
+    <e lm="synchronizácia"><i>synchronizác</i><par n="aukc/ia__n"/></e>
+    <e lm="systematizácia"><i>systematizác</i><par n="aukc/ia__n"/></e>
+    <e lm="technizácia"><i>technizác</i><par n="aukc/ia__n"/></e>
+    <e lm="telefonizácia"><i>telefonizác</i><par n="aukc/ia__n"/></e>
+    <e lm="telekomunikácia"><i>telekomunikác</i><par n="aukc/ia__n"/></e>
+    <e lm="tendencia"><i>tendenc</i><par n="aukc/ia__n"/></e>
+    <e lm="tercia"><i>terc</i><par n="aukc/ia__n"/></e>
+    <e lm="termoregulácia"><i>termoregulác</i><par n="aukc/ia__n"/></e>
+    <e lm="tolerancia"><i>toleranc</i><par n="aukc/ia__n"/></e>
+    <e lm="tradícia"><i>tradíc</i><par n="aukc/ia__n"/></e>
+    <e lm="trakcia"><i>trakc</i><par n="aukc/ia__n"/></e>
+    <e lm="transakcia"><i>transakc</i><par n="aukc/ia__n"/></e>
+    <e lm="transformácia"><i>transformác</i><par n="aukc/ia__n"/></e>
+    <e lm="transkripcia"><i>transkripc</i><par n="aukc/ia__n"/></e>
+    <e lm="transliterácia"><i>transliterác</i><par n="aukc/ia__n"/></e>
+    <e lm="transplantácia"><i>transplantác</i><par n="aukc/ia__n"/></e>
+    <e lm="transpozícia"><i>transpozíc</i><par n="aukc/ia__n"/></e>
+    <e lm="trepanácia"><i>trepanác</i><par n="aukc/ia__n"/></e>
+    <e lm="triangulácia"><i>triangulác</i><par n="aukc/ia__n"/></e>
+    <e lm="typizácia"><i>typizác</i><par n="aukc/ia__n"/></e>
+    <e lm="ubikácia"><i>ubikác</i><par n="aukc/ia__n"/></e>
+    <e lm="unifikácia"><i>unifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="urbanizácia"><i>urbanizác</i><par n="aukc/ia__n"/></e>
+    <e lm="vakcinácia"><i>vakcinác</i><par n="aukc/ia__n"/></e>
+    <e lm="validácia"><i>validác</i><par n="aukc/ia__n"/></e>
+    <e lm="valorizácia"><i>valorizác</i><par n="aukc/ia__n"/></e>
+    <e lm="variácia"><i>variác</i><par n="aukc/ia__n"/></e>
+    <e lm="vegetácia"><i>vegetác</i><par n="aukc/ia__n"/></e>
+    <e lm="ventilácia"><i>ventilác</i><par n="aukc/ia__n"/></e>
+    <e lm="verifikácia"><i>verifikác</i><par n="aukc/ia__n"/></e>
+    <e lm="vibrácia"><i>vibrác</i><par n="aukc/ia__n"/></e>
+    <e lm="videoprojekcia"><i>videoprojekc</i><par n="aukc/ia__n"/></e>
+    <e lm="vinkulácia"><i>vinkulác</i><par n="aukc/ia__n"/></e>
+    <e lm="vivisekcia"><i>vivisekc</i><par n="aukc/ia__n"/></e>
+    <e lm="vokalizácia"><i>vokalizác</i><par n="aukc/ia__n"/></e>
+    <e lm="vulgarizácia"><i>vulgarizác</i><par n="aukc/ia__n"/></e>
+
     <!-- np.hyd -->
     <e lm="Ochotské more"><i>Ochotsk</i><par n="Ochotsk/é more__np"/></e>
 
