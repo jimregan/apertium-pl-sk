@@ -770,6 +770,74 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Feminine_latka">
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ou</l>
+          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ám</l>
+          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ami</l>
+          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="mat/ka__n">
       <e>
         <p>
@@ -787,6 +855,24 @@
         </p>
       </e>
       <e><i>en</i><par n="Feminine_žena"/></e>
+    </pardef>
+    <pardef n="lás/ka__n">
+      <e>
+        <p>
+          <l>iek</l>
+          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e><i>k</i><par n="Feminine_žena"/></e>
+    </pardef>
+    <pardef n="lát/ka__n">
+      <e>
+        <p>
+          <l>ok</l>
+          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e><i>k</i><par n="Feminine_latka"/></e>
     </pardef>
     <pardef n="náuk/a__n">
       <e>
@@ -5078,6 +5164,8 @@
     <e lm="ichtyológia"><i>ichtyológ</i><par n="aukc/ia__n"/></e>
     <e lm="ikonografia"><i>ikonograf</i><par n="aukc/ia__n"/></e>
     <e lm="imunológia"><i>imunológ</i><par n="aukc/ia__n"/></e>
+    <e lm="látka"><i>lát</i><par n="lát/ka__n"/></e>
+    <e lm="láska"><i>lás</i><par n="lás/ka__n"/></e>
 
     <!-- np.hyd -->
     <e lm="Ochotské more"><i>Ochotsk</i><par n="Ochotsk/é more__np"/></e>
