@@ -37,6 +37,7 @@
     <sdef n="itg"/>
     <sdef n="ind"/>
     <sdef n="dem"/>
+    <sdef n="ant"/>
   </sdefs>
 
   <section id="main" type="standard">
@@ -2113,6 +2114,236 @@
     <e c="sp."><p><l>werbalizm<s n="n"/><s n="mi"/></l><r>verbalizmus<s n="n"/><s n="mi"/></r></p></e>
     <e c="sp."><p><l>woluntaryzm<s n="n"/><s n="mi"/></l><r>voluntarizmus<s n="n"/><s n="mi"/></r></p></e>
     <e c="sp."><p><l>żurnalizm<s n="n"/><s n="mi"/></l><r>žurnalizmus<s n="n"/><s n="mi"/></r></p></e>
+
+    <e c="sp."><p><l>infuzja<s n="n"/><s n="f"/></l><r>infúzia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>inkluzja<s n="n"/><s n="f"/></l><r>inklúzia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>intelektualizacja<s n="n"/><s n="f"/></l><r>intelektrualizácia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>introwersja<s n="n"/><s n="f"/></l><r>introverzia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>inwazja<s n="n"/><s n="f"/></l><r>invázia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>inwersja<s n="n"/><s n="f"/></l><r>inverzia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>ironia<s n="n"/><s n="f"/></l><r>irónia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>izometria<s n="n"/><s n="f"/></l><r>izometria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>izotropia<s n="n"/><s n="f"/></l><r>izotropia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Jugosławia<s n="np"/><s n="top"/><s n="f"/></l><r>Juhoslávia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kakofonia<s n="n"/><s n="f"/></l><r>kakofónia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kaligrafia<s n="n"/><s n="f"/></l><r>kaligrafia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kaloria<s n="n"/><s n="f"/></l><r>kalória<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kalwaria<s n="n"/><s n="f"/></l><r>kalvária<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kancelaria<s n="n"/><s n="f"/></l><r>kancelária<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kardiochirurgia<s n="n"/><s n="f"/></l><r>kardiochirurgia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kardiologia<s n="n"/><s n="f"/></l><r>kardiológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>karoseria<s n="n"/><s n="f"/></l><r>karoséria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kartografia<s n="n"/><s n="f"/></l><r>kartografia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Kastylia<s n="np"/><s n="top"/><s n="f"/></l><r>Kastília<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kategoria<s n="n"/><s n="f"/></l><r>kategória<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kawaleria<s n="n"/><s n="f"/></l><r>kavaléria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kilokaloria<s n="n"/><s n="f"/></l><r>kilokalória<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kinematografia<s n="n"/><s n="f"/></l><r>kinematografia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Klaudia<s n="np"/><s n="ant"/><s n="f"/></l><r>Klaudia<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>klaustrofobia<s n="n"/><s n="f"/></l><r>klaustrofóbia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kleptomania<s n="n"/><s n="f"/></l><r>kleptománia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>klimatologia<s n="n"/><s n="f"/></l><r>klimatológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kohezja<s n="n"/><s n="f"/></l><r>kohézia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kokieteria<s n="n"/><s n="f"/></l><r>koketéria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kolonia<s n="n"/><s n="f"/></l><r>kolónia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kolorymetria<s n="n"/><s n="f"/></l><r>kolorimetria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Kolumbia<s n="np"/><s n="top"/><s n="f"/></l><r>Kolumbia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>komedia<s n="n"/><s n="f"/></l><r>komédia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>komisja<s n="n"/><s n="f"/></l><r>komisia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kompania<s n="n"/><s n="f"/></l><r>kompánia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kompresja<s n="n"/><s n="f"/></l><r>kompresia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>koncesja<s n="n"/><s n="f"/></l><r>koncesia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>koneksja<s n="n"/><s n="f"/></l><r>konexia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>konfesja<s n="n"/><s n="f"/></l><r>konfesia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>konfuzja<s n="n"/><s n="f"/></l><r>konfúzia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>konkluzja<s n="n"/><s n="f"/></l><r>konklúzia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kontra-indykacja<s n="n"/><s n="f"/></l><r>kontraindikácia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kontrowersja<s n="n"/><s n="f"/></l><r>kontroverzia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>konwersja<s n="n"/><s n="f"/></l><r>konverzia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kopia<s n="n"/><s n="f"/></l><r>kópia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>korozja<s n="n"/><s n="f"/></l><r>korózia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kosmogonia<s n="n"/><s n="f"/></l><r>kozmogónia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kosmologia<s n="n"/><s n="f"/></l><r>kozmológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kryptografia<s n="n"/><s n="f"/></l><r>kryptografia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>krystalografia<s n="n"/><s n="f"/></l><r>kryštalografia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kynologia<s n="n"/><s n="f"/></l><r>kynológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>latynizacja<s n="n"/><s n="f"/></l><r>latinizácia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>legia<s n="n"/><s n="f"/></l><r>légia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Lesia<s n="np"/><s n="top"/><s n="f"/></l><r>Lesia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>leukemia<s n="n"/><s n="f"/></l><r>leukémia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>leksykografia<s n="n"/><s n="f"/></l><r>lexikografia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>leksykologia<s n="n"/><s n="f"/></l><r>lexikológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Liberia<s n="np"/><s n="top"/><s n="f"/></l><r>Libéria<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>licytacja<s n="n"/><s n="f"/></l><r>licitácia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>linia<s n="n"/><s n="f"/></l><r>línia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>litografia<s n="n"/><s n="f"/></l><r>litografia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>liturgia<s n="n"/><s n="f"/></l><r>liturgia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>loggia<s n="n"/><s n="f"/></l><r>loggia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>logopedia<s n="n"/><s n="f"/></l><r>logopédia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>loteria<s n="n"/><s n="f"/></l><r>lotéria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>lizogenia<s n="n"/><s n="f"/></l><r>lyzogénia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>mafia<s n="n"/><s n="f"/></l><r>mafia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>magia<s n="n"/><s n="f"/></l><r>mágia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>magnetoterapia<s n="n"/><s n="f"/></l><r>magnetoterapia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>magnolia<s n="n"/><s n="f"/></l><r>magnólia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>mahonia<s n="n"/><s n="f"/></l><r>mahónia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>malaria<s n="n"/><s n="f"/></l><r>malária<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>mania<s n="n"/><s n="f"/></l><r>mánia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>marginalia<s n="n"/><s n="f"/></l><r>marginália<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>maszyneria<s n="n"/><s n="f"/></l><r>mašinéria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>materia<s n="n"/><s n="f"/></l><r>matéria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>melancholia<s n="n"/><s n="f"/></l><r>melanchólia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>melodia<s n="n"/><s n="f"/></l><r>melódia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>metalurgia<s n="n"/><s n="f"/></l><r>metalurgia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>metodologia<s n="n"/><s n="f"/></l><r>metodológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>metonimia<s n="n"/><s n="f"/></l><r>metonymia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>metrologia<s n="n"/><s n="f"/></l><r>metrológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Mezopotamia<s n="np"/><s n="top"/><s n="f"/></l><r>Mezopotámia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>mikrobiologia<s n="n"/><s n="f"/></l><r>mikrobiológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Mikronezja<s n="np"/><s n="top"/><s n="f"/></l><r>Mikronézia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>mineralogia<s n="n"/><s n="f"/></l><r>mineralógia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>misia<s n="n"/><s n="f"/></l><r>misia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>mitochondria<s n="n"/><s n="f"/></l><r>mitochondria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>mizantropia<s n="n"/><s n="f"/></l><r>mizantropia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>mizeria<s n="n"/><s n="f"/></l><r>mizéria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>monarchia<s n="n"/><s n="f"/></l><r>monarchia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>monogamia<s n="n"/><s n="f"/></l><r>monogamia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>monografia<s n="n"/><s n="f"/></l><r>monografia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>morfologia<s n="n"/><s n="f"/></l><r>morfológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>mumia<s n="n"/><s n="f"/></l><r>múmia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>muzeologia<s n="n"/><s n="f"/></l><r>muzeológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>muzykologia<s n="n"/><s n="f"/></l><r>muzikológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>mykologia<s n="n"/><s n="f"/></l><r>mykológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>mitologia<s n="n"/><s n="f"/></l><r>mytológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Namibia<s n="np"/><s n="top"/><s n="f"/></l><r>Namíbia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>narkomania<s n="n"/><s n="f"/></l><r>narkománia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>neuralgia<s n="n"/><s n="f"/></l><r>neuralgia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>neurastenia<s n="n"/><s n="f"/></l><r>neurasténia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>neurologia<s n="n"/><s n="f"/></l><r>neurológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>nostalgia<s n="n"/><s n="f"/></l><r>nostalgia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>nutria<s n="n"/><s n="f"/></l><r>nutria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Oceania<s n="np"/><s n="top"/><s n="f"/></l><r>Oceánia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>oligarchia<s n="n"/><s n="f"/></l><r>oligarchia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Olympia<s n="np"/><s n="top"/><s n="f"/></l><r>Olympia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>onania<s n="n"/><s n="f"/></l><r>onánia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>onkologia<s n="n"/><s n="f"/></l><r>onkológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>ontologia<s n="n"/><s n="f"/></l><r>ontológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>ornitologia<s n="n"/><s n="f"/></l><r>ornitológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>ortografia<s n="n"/><s n="f"/></l><r>ortografia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>ortopedia<s n="n"/><s n="f"/></l><r>ortopédia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>paleografia<s n="n"/><s n="f"/></l><r>paleografia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>paleontologia<s n="n"/><s n="f"/></l><r>paleontológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>parazytologia<s n="n"/><s n="f"/></l><r>parazitológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>perfumeria<s n="n"/><s n="f"/></l><r>parfuméria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>parodia<s n="n"/><s n="f"/></l><r>paródia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>partia<s n="n"/><s n="f"/></l><r>partia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>partycypacja<s n="n"/><s n="f"/></l><r>participácia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>patologia<s n="n"/><s n="f"/></l><r>patológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>pedanteria<s n="n"/><s n="f"/></l><r>pedantéria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>pediatria<s n="n"/><s n="f"/></l><r>pediatria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>pedologia<s n="n"/><s n="f"/></l><r>pedológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>pelargonia<s n="n"/><s n="f"/></l><r>pelargónia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Pensylwania<s n="np"/><s n="top"/><s n="f"/></l><r>Pennsylvánia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>pensja<s n="n"/><s n="f"/></l><r>penzia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>peryferia<s n="n"/><s n="f"/></l><r>periféria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>perypetia<s n="n"/><s n="f"/></l><r>peripetia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Perugia<s n="np"/><s n="top"/><s n="f"/></l><r>Perugia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Persja<s n="np"/><s n="top"/><s n="f"/></l><r>Perzia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>petrografia<s n="n"/><s n="f"/></l><r>petrografia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>petrochemia<s n="n"/><s n="f"/></l><r>petrochémia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>pigmentacja<s n="n"/><s n="f"/></l><r>pigmentácia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>pikanteria<s n="n"/><s n="f"/></l><r>pikantéria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>pinia<s n="n"/><s n="f"/></l><r>pínia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>piwonia<s n="n"/><s n="f"/></l><r>pivónia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>pneumonia<s n="n"/><s n="f"/></l><r>pneumónia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>poezja<s n="n"/><s n="f"/></l><r>poézia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>polarografia<s n="n"/><s n="f"/></l><r>polarografia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>polifonia<s n="n"/><s n="f"/></l><r>polyfónia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>poligamia<s n="n"/><s n="f"/></l><r>polygamia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>poligrafia<s n="n"/><s n="f"/></l><r>polygrafia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Polinezja<s n="np"/><s n="top"/><s n="f"/></l><r>Polynézia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>pomologia<s n="n"/><s n="f"/></l><r>pomológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>pornografia<s n="n"/><s n="f"/></l><r>pornografia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>prehistoria<s n="n"/><s n="f"/></l><r>prehistória<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>premia<s n="n"/><s n="f"/></l><r>prémia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>preria<s n="n"/><s n="f"/></l><r>préria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Pretoria<s n="np"/><s n="top"/><s n="f"/></l><r>Pretória<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>profilaksja<s n="n"/><s n="f"/></l><r>profylaxia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>prozodia<s n="n"/><s n="f"/></l><r>prozódia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>pruderia<s n="n"/><s n="f"/></l><r>prudéria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>psychiatria<s n="n"/><s n="f"/></l><r>psychiatria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>psychologia<s n="n"/><s n="f"/></l><r>psychológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>psychopatia<s n="n"/><s n="f"/></l><r>psychopatia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>radiologia<s n="n"/><s n="f"/></l><r>rádiológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>radiotelefonia<s n="n"/><s n="f"/></l><r>rádiotelefónia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>radiotelegrafia<s n="n"/><s n="f"/></l><r>rádiotelegrafia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>radioterapia<s n="n"/><s n="f"/></l><r>rádioterapia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>rafineria<s n="n"/><s n="f"/></l><r>rafinéria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>rapsodia<s n="n"/><s n="f"/></l><r>rapsódia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>rebelia<s n="n"/><s n="f"/></l><r>rebélia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>recenzja<s n="n"/><s n="f"/></l><r>recenzia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>recesja<s n="n"/><s n="f"/></l><r>recesia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>refleksja<s n="n"/><s n="f"/></l><r>reflexia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>relikwia<s n="n"/><s n="f"/></l><r>relikvia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>represja<s n="n"/><s n="f"/></l><r>represia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>rewizja<s n="n"/><s n="f"/></l><r>revízia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>sceneria<s n="n"/><s n="f"/></l><r>scenéria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>scenografia<s n="n"/><s n="f"/></l><r>scénografia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>sepia<s n="n"/><s n="f"/></l><r>sépia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>seria<s n="n"/><s n="f"/></l><r>séria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>schizofrenia<s n="n"/><s n="f"/></l><r>schizofrénia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Sycylia<s n="np"/><s n="top"/><s n="f"/></l><r>Sicília<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>socjologia<s n="n"/><s n="f"/></l><r>sociológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>speleologia<s n="n"/><s n="f"/></l><r>speleológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>stenografia<s n="n"/><s n="f"/></l><r>stenografia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>stenotypia<s n="n"/><s n="f"/></l><r>stenotypia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>stereofonia<s n="n"/><s n="f"/></l><r>stereofónia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>stereometria<s n="n"/><s n="f"/></l><r>stereometria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>stereoskopia<s n="n"/><s n="f"/></l><r>stereoskopia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>stomatologia<s n="n"/><s n="f"/></l><r>stomatológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>strategia<s n="n"/><s n="f"/></l><r>stratégia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>podkomisja<s n="n"/><s n="f"/></l><r>subkomisia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>suspensja<s n="n"/><s n="f"/></l><r>suspenzia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>symetria<s n="n"/><s n="f"/></l><r>symetria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>symfonia<s n="n"/><s n="f"/></l><r>symfónia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>sympatia<s n="n"/><s n="f"/></l><r>sympatia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>synchronia<s n="n"/><s n="f"/></l><r>synchrónia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Syria<s n="np"/><s n="top"/><s n="f"/></l><r>Sýria<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>studia<s n="n"/><s n="f"/></l><r>štúdia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Tanzania<s n="np"/><s n="top"/><s n="f"/></l><r>Tanzánia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>tapiseria<s n="n"/><s n="f"/></l><r>tapiséria<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>tautologia<s n="n"/><s n="f"/></l><r>tautológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>taksacja<s n="n"/><s n="f"/></l><r>taxácia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>taksonomia<s n="n"/><s n="f"/></l><r>taxonómia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>technologia<s n="n"/><s n="f"/></l><r>technológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>telegrafia<s n="n"/><s n="f"/></l><r>telegrafia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>telepatia<s n="n"/><s n="f"/></l><r>telepatia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>telewizja<s n="n"/><s n="f"/></l><r>televízia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>teologia<s n="n"/><s n="f"/></l><r>teológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>teoria<s n="n"/><s n="f"/></l><r>teória<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>terapia<s n="n"/><s n="f"/></l><r>terapia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>terminologia<s n="n"/><s n="f"/></l><r>terminológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>topografia<s n="n"/><s n="f"/></l><r>topografia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>toksykomania<s n="n"/><s n="f"/></l><r>toxikománia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>tragedia<s n="n"/><s n="f"/></l><r>tragédia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>tragikomedia<s n="n"/><s n="f"/></l><r>tragikomédia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>transfuzja<s n="n"/><s n="f"/></l><r>transfúzia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>transmisja<s n="n"/><s n="f"/></l><r>transmisia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Transylwania<s n="np"/><s n="top"/><s n="f"/></l><r>Transylvánia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>traumatologia<s n="n"/><s n="f"/></l><r>traumatológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>tularemia<s n="n"/><s n="f"/></l><r>tularémia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>typografia<s n="n"/><s n="f"/></l><r>typografia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>typologia<s n="n"/><s n="f"/></l><r>typológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>tyrania<s n="n"/><s n="f"/></l><r>tyrania<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>unia<s n="n"/><s n="f"/></l><r>únia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>uremia<s n="n"/><s n="f"/></l><r>urémia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>urologia<s n="n"/><s n="f"/></l><r>urológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>utopia<s n="n"/><s n="f"/></l><r>utópia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>wirologia<s n="n"/><s n="f"/></l><r>virológia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>wizja<s n="n"/><s n="f"/></l><r>vízia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>kserografia<s n="n"/><s n="f"/></l><r>xerografia<s n="n"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>Zambia<s n="np"/><s n="top"/><s n="f"/></l><r>Zambia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="sp."><p><l>zoologia<s n="n"/><s n="f"/></l><r>zoológia<s n="n"/><s n="f"/></r></p></e>
   </section>
 </dictionary>
 
