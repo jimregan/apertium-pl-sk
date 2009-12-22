@@ -54,10 +54,108 @@
     <sdef n="pr"/>
     <sdef n="adv"/>
     <sdef n="itg"/>
+    <sdef n="prn"/>
+    <sdef n="num"/>
+    <sdef n="ind"/>
+    <sdef n="percent"/>
+    <sdef n="lpar"/>
+    <sdef n="rpar"/>
+    <sdef n="sent"/>
+    <sdef n="guio"/>
+    <sdef n="apos"/>
+    <sdef n="cm"/>
   </sdefs>
   
   <pardefs>
+    <pardef n="guionet">
+      <e>
+        <p>
+          <l>-</l>
+          <r>-<s n="guio"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="coma">
+      <e>
+        <p>
+          <l>,</l>
+          <r>,<s n="cm"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="aposchar">
+      <e>
+        <i>'</i>
+      </e>
+      <e r="LR">
+        <p>
+          <l>’</l>
+          <r>'</r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="cometa">
+      <e>
+        <par n="aposchar"/>
+        <p>
+          <l/>
+          <r><s n="apos"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="numeros">
+      <e>
+        <re>[0-9]+([.,][0-9]+)?</re>
+        <p>
+          <l/>
+          <r><s n="num"/></r>
+        </p>
+      </e>
+      <e>
+        <re>[0-9]+([.,][0-9]+)?%</re>
+        <p>
+          <l/>
+          <r><s n="num"/><s n="percent"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="separa">
+      <e>
+        <re>[.\?;:!]</re>
+        <p>
+          <l/>
+          <r><s n="sent"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="paresq">
+      <e>
+        <re>[\(\[]</re>
+        <p>
+          <l/>
+          <r><s n="lpar"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="pardret">
+      <e>
+        <re>[\)\]]</re>
+        <p>
+          <l/>
+          <r><s n="rpar"/></r>
+        </p>
+      </e>
+    </pardef>
   
+    <pardef n="a__cnjcoo">
+      <e>
+        <p>
+	  <l></l>
+	  <r><s n="cnjcoo"/></r>
+	</p>
+      </e>
+    </pardef>
     <pardef n="že__cnjsub">
       <e>
         <p>
@@ -3364,6 +3462,14 @@
     </pardef>
   </pardefs>
   <section id="main" type="standard">
+    <e><par n="numeros"/></e>
+    <e><par n="separa"/></e>
+    <e><par n="paresq"/></e>
+    <e><par n="pardret"/></e>
+    <e><par n="cometa"/></e>
+    <e><par n="coma"/></e>
+    <e><par n="guionet"/></e>
+
     <e lm="do"><p><l>do</l><r>do<s n="pr"/></r></p></e>
     <e lm="na"><p><l>na</l><r>na<s n="pr"/></r></p></e>
     <e lm="od" r="LR"><p><l>od</l><r>od<s n="pr"/></r></p></e>
@@ -3399,6 +3505,14 @@
     <e lm="dačo"><i>dač</i><par n="nieč/o__prn"/></e>
     <e lm="ktosi"><i>k</i><par n="k/tosi__prn"/></e>
     <e lm="čosi"><i>č</i><par n="č/osi__prn"/></e>
+
+    <e lm="môj"><i>m</i><par n="m/ôj__det"/></e>
+    <e lm="tvoj"><i>tv</i><par n="tv/oj__det"/></e>
+    <e lm="svoj"><i>sv</i><par n="tv/oj__det"/></e>
+    <e lm="náš"><i>n</i><par n="n/áš__det"/></e>
+    <e lm="váš"><i>v</i><par n="n/áš__det"/></e>
+
+    <e lm="a"><i>a</i><par n="a__cnjcoo"/></e>
 
     <e lm="že"><i>že</i><par n="že__cnjsub"/></e>
     <e lm="by"><i>by</i><par n="že__cnjsub"/></e>
