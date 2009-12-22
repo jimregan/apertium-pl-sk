@@ -82,6 +82,160 @@
 	</p>
       </e>
     </pardef>
+
+    <pardef n="k/to__prn">
+      <e>
+        <p>
+          <l>to</l>
+          <r>to<s n="prn"/><s n="itg"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oho</l>
+          <r>to<s n="prn"/><s n="itg"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>omu</l>
+          <r>to<s n="prn"/><s n="itg"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oho</l>
+          <r>to<s n="prn"/><s n="itg"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r>to<s n="prn"/><s n="itg"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ým</l>
+          <r>to<s n="prn"/><s n="itg"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="č/o__prn">
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oho</l>
+          <r>o<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>omu</l>
+          <r>o<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r>o<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ím</l>
+          <r>o<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="niek/to__prn">
+      <e>
+        <p>
+          <l>to</l>
+          <r>to<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oho</l>
+          <r>to<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>omu</l>
+          <r>to<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oho</l>
+          <r>to<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r>to<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ým</l>
+          <r>to<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="nieč/o__prn">
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oho</l>
+          <r>o<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>omu</l>
+          <r>o<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r>o<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ím</l>
+          <r>o<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="čít/ať__vblex">
       <e>
          <p>
@@ -2140,6 +2294,14 @@
     <e lm="po"><p><l>po</l><r>po<s n="pr"/></r></p></e>
     <e lm="za"><p><l>za</l><r>za<s n="pr"/></r></p></e>
     <e lm="až do"><p><l>až<b/>do</l><r>až<b/>do<s n="pr"/></r></p></e>
+
+    <e lm="kto"><i>k</i><par n="k/to__prn"/></e>
+    <e lm="čo"><i>č</i><par n="č/o__prn"/></e>
+    <e lm="nikto"><i>nik</i><par n="niek/to__prn"/></e>
+    <e lm="niekto"><i>niek</i><par n="niek/to__prn"/></e>
+    <e lm="niečo"><i>nieč</i><par n="nieč/o__prn"/></e>
+    <e lm="dakto"><i>dak</i><par n="niek/to__prn"/></e>
+    <e lm="dačo"><i>dač</i><par n="nieč/o__prn"/></e>
 
     <e lm="že"><i>že</i><par n="že__cnjsub"/></e>
     <e lm="by"><i>by</i><par n="že__cnjsub"/></e>
@@ -5675,25 +5837,25 @@
     <e lm="vízia"><i>víz</i><par n="aukc/ia__n"/></e>
     <e lm="xerografia"><i>xerograf</i><par n="aukc/ia__n"/></e>
     <e lm="zoológia"><i>zoológ</i><par n="aukc/ia__n"/></e>
-    <e lm="Juhoslávia"><i>Juhosláv</i><par n="Gamb/ia__n"/></e>
-    <e lm="Kastília"><i>Kastíl</i><par n="Gamb/ia__n"/></e>
-    <e lm="Kolumbia"><i>Kolumb</i><par n="Gamb/ia__n"/></e>
-    <e lm="Lesia"><i>Les</i><par n="Gamb/ia__n"/></e>
-    <e lm="Libéria"><i>Libér</i><par n="Gamb/ia__n"/></e>
-    <e lm="Mezopotámia"><i>Mezopotám</i><par n="Gamb/ia__n"/></e>
-    <e lm="Mikronézia"><i>Mikronéz</i><par n="Gamb/ia__n"/></e>
-    <e lm="Namíbia"><i>Namíb</i><par n="Gamb/ia__n"/></e>
-    <e lm="Oceánia"><i>Oceán</i><par n="Gamb/ia__n"/></e>
-    <e lm="Olympia"><i>Olymp</i><par n="Gamb/ia__n"/></e>
-    <e lm="Pennsylvánia"><i>Pennsylván</i><par n="Gamb/ia__n"/></e>
-    <e lm="Perugia"><i>Perug</i><par n="Gamb/ia__n"/></e>
-    <e lm="Perzia"><i>Perz</i><par n="Gamb/ia__n"/></e>
-    <e lm="Polynézia"><i>Polynéz</i><par n="Gamb/ia__n"/></e>
-    <e lm="Sicília"><i>Sicíl</i><par n="Gamb/ia__n"/></e>
-    <e lm="Sýria"><i>Sýr</i><par n="Gamb/ia__n"/></e>
-    <e lm="Tanzánia"><i>Tanzán</i><par n="Gamb/ia__n"/></e>
-    <e lm="Transylvánia"><i>Transylván</i><par n="Gamb/ia__n"/></e>
-    <e lm="Zambia"><i>Zamb</i><par n="Gamb/ia__n"/></e>
-    <e lm="Pretória"><i>Pretór</i><par n="Gamb/ia__n"/></e>
+    <e lm="Juhoslávia"><i>Juhosláv</i><par n="Gamb/ia__np"/></e>
+    <e lm="Kastília"><i>Kastíl</i><par n="Gamb/ia__np"/></e>
+    <e lm="Kolumbia"><i>Kolumb</i><par n="Gamb/ia__np"/></e>
+    <e lm="Lesia"><i>Les</i><par n="Gamb/ia__np"/></e>
+    <e lm="Libéria"><i>Libér</i><par n="Gamb/ia__np"/></e>
+    <e lm="Mezopotámia"><i>Mezopotám</i><par n="Gamb/ia__np"/></e>
+    <e lm="Mikronézia"><i>Mikronéz</i><par n="Gamb/ia__np"/></e>
+    <e lm="Namíbia"><i>Namíb</i><par n="Gamb/ia__np"/></e>
+    <e lm="Oceánia"><i>Oceán</i><par n="Gamb/ia__np"/></e>
+    <e lm="Olympia"><i>Olymp</i><par n="Gamb/ia__np"/></e>
+    <e lm="Pennsylvánia"><i>Pennsylván</i><par n="Gamb/ia__np"/></e>
+    <e lm="Perugia"><i>Perug</i><par n="Gamb/ia__np"/></e>
+    <e lm="Perzia"><i>Perz</i><par n="Gamb/ia__np"/></e>
+    <e lm="Polynézia"><i>Polynéz</i><par n="Gamb/ia__np"/></e>
+    <e lm="Sicília"><i>Sicíl</i><par n="Gamb/ia__np"/></e>
+    <e lm="Sýria"><i>Sýr</i><par n="Gamb/ia__np"/></e>
+    <e lm="Tanzánia"><i>Tanzán</i><par n="Gamb/ia__np"/></e>
+    <e lm="Transylvánia"><i>Transylván</i><par n="Gamb/ia__np"/></e>
+    <e lm="Zambia"><i>Zamb</i><par n="Gamb/ia__np"/></e>
+    <e lm="Pretória"><i>Pretór</i><par n="Gamb/ia__np"/></e>
   </section>
 </dictionary>
