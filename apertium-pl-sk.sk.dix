@@ -235,6 +235,82 @@
         </p>
       </e>
     </pardef>
+    <pardef n="k/tosi__prn">
+      <e>
+        <p>
+          <l>tosi</l>
+          <r>tosi<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ohosi</l>
+          <r>tosi<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>omusi</l>
+          <r>tosi<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ohosi</l>
+          <r>tosi<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>omsi</l>
+          <r>tosi<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmsi</l>
+          <r>tosi<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="č/osi__prn">
+      <e>
+        <p>
+          <l>osi</l>
+          <r>osi<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ohosi</l>
+          <r>osi<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>omusi</l>
+          <r>osi<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>osi</l>
+          <r>osi<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>omsi</l>
+          <r>osi<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ímsi</l>
+          <r>osi<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="čít/ať__vblex">
       <e>
@@ -2297,11 +2373,14 @@
 
     <e lm="kto"><i>k</i><par n="k/to__prn"/></e>
     <e lm="čo"><i>č</i><par n="č/o__prn"/></e>
+    <e lm="hocikto"><i>hocik</i><par n="niek/to__prn"/></e>
     <e lm="nikto"><i>nik</i><par n="niek/to__prn"/></e>
     <e lm="niekto"><i>niek</i><par n="niek/to__prn"/></e>
     <e lm="niečo"><i>nieč</i><par n="nieč/o__prn"/></e>
     <e lm="dakto"><i>dak</i><par n="niek/to__prn"/></e>
     <e lm="dačo"><i>dač</i><par n="nieč/o__prn"/></e>
+    <e lm="ktosi"><i>k</i><par n="k/tosi__prn"/></e>
+    <e lm="čosi"><i>č</i><par n="č/osi__prn"/></e>
 
     <e lm="že"><i>že</i><par n="že__cnjsub"/></e>
     <e lm="by"><i>by</i><par n="že__cnjsub"/></e>
