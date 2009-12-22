@@ -64,6 +64,7 @@
     <sdef n="guio"/>
     <sdef n="apos"/>
     <sdef n="cm"/>
+    <sdef n="indecl"/>
   </sdefs>
   
   <pardefs>
@@ -172,11 +173,43 @@
 	</p>
       </e>
     </pardef>
+    <pardef n="kde__rel">
+      <e>
+        <p>
+	  <l></l>
+	  <r><s n="rel"/><s n="adv"/></r>
+	</p>
+      </e>
+    </pardef>
+    <pardef n="čo__rel">
+      <e>
+        <p>
+	  <l></l>
+	  <r><s n="rel"/><s n="an"/><s n="nt"/><s n="sg"/></r>
+	</p>
+      </e>
+    </pardef>
     <pardef n="tu__adv">
       <e>
         <p>
 	  <l></l>
 	  <r><s n="adv"/></r>
+	</p>
+      </e>
+    </pardef>
+    <pardef n="jej__det">
+      <e>
+        <p>
+	  <l></l>
+	  <r><s n="det"/><s n="pos"/><s n="adv"/></r>
+	</p>
+      </e>
+    </pardef>
+    <pardef n="Britney__np">
+      <e>
+        <p>
+	  <l></l>
+	  <r><s n="np"/><s n="ant"/><s n="f"/><s n="indecl"/></r>
 	</p>
       </e>
     </pardef>
@@ -3462,14 +3495,6 @@
     </pardef>
   </pardefs>
   <section id="main" type="standard">
-    <e><par n="numeros"/></e>
-    <e><par n="separa"/></e>
-    <e><par n="paresq"/></e>
-    <e><par n="pardret"/></e>
-    <e><par n="cometa"/></e>
-    <e><par n="coma"/></e>
-    <e><par n="guionet"/></e>
-
     <e lm="do"><p><l>do</l><r>do<s n="pr"/></r></p></e>
     <e lm="na"><p><l>na</l><r>na<s n="pr"/></r></p></e>
     <e lm="od" r="LR"><p><l>od</l><r>od<s n="pr"/></r></p></e>
@@ -3494,6 +3519,7 @@
     <e lm="po"><p><l>po</l><r>po<s n="pr"/></r></p></e>
     <e lm="za"><p><l>za</l><r>za<s n="pr"/></r></p></e>
     <e lm="až do"><p><l>až<b/>do</l><r>až<b/>do<s n="pr"/></r></p></e>
+    <e lm="počas"><p><l>počas</l><r>počas<s n="pr"/></r></p></e>
 
     <e lm="kto"><i>k</i><par n="k/to__prn"/></e>
     <e lm="čo"><i>č</i><par n="č/o__prn"/></e>
@@ -3522,10 +3548,15 @@
     <e lm="kde"><i>kde</i><par n="kde__adv"/></e>
     <e lm="kedy"><i>kedy</i><par n="kde__adv"/></e>
 
+    <e lm="kde"><i>kde</i><par n="kde__rel"/></e>
+    <e lm="čo"><i>čo</i><par n="čo__rel"/></e>
+
     <e lm="znovu"><i>znovu</i><par n="tu__adv"/></e>
     <e lm="vytrvale"><i>vytrvale</i><par n="tu__adv"/></e>
     <e lm="vysoko"><i>vysoko</i><par n="tu__adv"/></e>
     <e lm="tu"><i>tu</i><par n="tu__adv"/></e>
+    <e lm="tam"><i>tam</i><par n="tu__adv"/></e>
+    <e lm="tiež"><i>tiež</i><par n="tu__adv"/></e>
     <e lm="dvojstranne"><i>dvojstranne</i><par n="tu__adv"/></e>
     <e lm="elektromagneticky"><i>elektromagneticky</i><par n="tu__adv"/></e>
     <e lm="elektricky"><i>elektricky</i><par n="tu__adv"/></e>
@@ -7068,5 +7099,21 @@
     <e lm="Transylvánia"><i>Transylván</i><par n="Gamb/ia__np"/></e>
     <e lm="Zambia"><i>Zamb</i><par n="Gamb/ia__np"/></e>
     <e lm="Pretória"><i>Pretór</i><par n="Gamb/ia__np"/></e>
+
+    <e lm="Britney"><i>Britney</i><par n="Britney__np"/></e>
+    <e lm="Lynne"><i>Lynne</i><par n="Britney__np"/></e>
+    <e lm="Irene"><i>Irene</i><par n="Britney__np"/></e>
+    <e lm="Mary"><i>Mary</i><par n="Britney__np"/></e>
+    <e lm="Keri"><i>Keri</i><par n="Britney__np"/></e>
+    <e lm="Jamie"><i>Jamie</i><par n="Britney__np"/></e>
+  </section>
+  <section id="tokens" type="inconditional">
+    <e><par n="numeros"/></e>
+    <e><par n="separa"/></e>
+    <e><par n="paresq"/></e>
+    <e><par n="pardret"/></e>
+    <e><par n="cometa"/></e>
+    <e><par n="coma"/></e>
+    <e><par n="guionet"/></e>
   </section>
 </dictionary>

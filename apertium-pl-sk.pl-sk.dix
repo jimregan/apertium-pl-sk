@@ -1353,15 +1353,20 @@
     <e><p><l>każdy<s n="det"/><s n="dem"/></l><r>každý<s n="det"/><s n="dem"/></r></p></e>
     <e><p><l>każdy<s n="prn"/><s n="ind"/></l><r>každý<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>gdzie<s n="adv"/><s n="itg"/></l><r>kde<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>gdzie<s n="rel"/><s n="adv"/></l><r>kde<s n="rel"/><s n="adv"/></r></p></e>
+    <e><p><l>co<s n="rel"/></l><r>čo<s n="rel"/></r></p></e>
     <e><p><l>gdziekolwiek<s n="adv"/></l><r>kdekoľvek<s n="adv"/></r></p></e>
     <e><p><l>kiedy<s n="adv"/><s n="itg"/></l><r>kedy<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>kiedykolwiek<s n="adv"/></l><r>kedykoľvek<s n="adv"/></r></p></e>
+    <e><p><l>też<s n="adv"/></l><r>tiež<s n="adv"/></r></p></e>
+    <e><p><l>tam<s n="adv"/></l><r>tam<s n="adv"/></r></p></e>
     <e><p><l>koniec<s n="n"/><s n="mi"/></l><r>koniec<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>weekend<s n="n"/><s n="mi"/></l><r>koniec<b/>týždňa<s n="n"/><s n="mi"/></r></p></e>
+<!--    <e><p><l>weekend<s n="n"/><s n="mi"/></l><r>koniec<b/>týždňa<s n="n"/><s n="mi"/></r></p></e> -->
     <e><p><l>na<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
     <e><p><l>na<b/>naszej<b/>stronie<s n="adv"/></l><r>na<b/>našej<b/>strane<s n="adv"/></r></p></e>
     <e><p><l>na<b/>wieki<b/>wieków<s n="adv"/></l><r>na<b/>veky<b/>vekov<s n="adv"/></r></p></e>
     <e><p><l>od<s n="pr"/></l><r>od<s n="pr"/></r></p></e>
+    <e><p><l>podczas<s n="pr"/></l><r>počas<s n="pr"/></r></p></e>
     <e><p><l>od<b/>domu<b/>do<b/>domu<s n="adv"/></l><r>od<b/>domu<b/>k<b/>domu<s n="adv"/></r></p></e>
     <e><p><l>od<b/>głowy<b/>do<b/>stóp<s n="adv"/></l><r>od<b/>hlavy<b/>po<b/>päty<s n="adv"/></r></p></e>
     <e><p><l>od<b/>wybrzeża<b/>do<b/>wybrzeża<s n="adv"/></l><r>od<b/>pobrežia<b/>k<b/>pobrežiu<s n="adv"/></r></p></e>
@@ -2344,6 +2349,13 @@
     <e c="sp."><p><l>kserografia<s n="n"/><s n="f"/></l><r>xerografia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>Zambia<s n="np"/><s n="top"/><s n="f"/></l><r>Zambia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>zoologia<s n="n"/><s n="f"/></l><r>zoológia<s n="n"/><s n="f"/></r></p></e>
+
+    <e><i>Britney<s n="np"/></i></e>
+    <e><i>Lynne<s n="np"/></i></e>
+    <e><i>Irene<s n="np"/></i></e>
+    <e><i>Keri<s n="np"/></i></e>
+    <e><i>Mary<s n="np"/></i></e>
+    <e><i>Jamie<s n="np"/></i></e>
   </section>
 </dictionary>
 
