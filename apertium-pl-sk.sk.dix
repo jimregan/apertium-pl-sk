@@ -41,6 +41,7 @@
     <sdef n="cog"/>
     <sdef n="adj"/>
     <sdef n="det"/>
+    <sdef n="dem"/>
     <sdef n="pos"/>
     <sdef n="nom"/>
     <sdef n="dat"/>
@@ -67,6 +68,8 @@
     <sdef n="indecl"/>
     <sdef n="rel"/>
     <sdef n="an"/>
+    <sdef n="cpd"/>
+    <sdef n="po"/>
   </sdefs>
   
   <pardefs>
@@ -2565,6 +2568,15 @@
         <par n="BASE__abstraktný"/>
       </e>
     </pardef>
+    <pardef n="in/ý__prn">
+      <e>
+         <p>
+          <l></l>
+          <r>ý<s n="prn"/><s n="ind"/></r>
+        </p>
+        <par n="BASE__abstraktný"/>
+      </e>
+    </pardef>
     <pardef n="ktor/ý__rel">
       <e>
          <p>
@@ -4666,6 +4678,7 @@
     <e lm="ich"><i>ich</i><par n="jej__det"/></e>
     <e lm="jeho"><i>jeho</i><par n="jej__det"/></e>
     <e lm="iný"><i>in</i><par n="in/ý__det"/></e>
+    <e lm="iný"><i>in</i><par n="in/ý__prn"/></e>
 
     <e lm="a"><i>a</i><par n="a__cnjcoo"/></e>
     <e lm="ani"><i>ani</i><par n="a__cnjcoo"/></e>
