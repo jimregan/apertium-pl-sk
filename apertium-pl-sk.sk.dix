@@ -3250,6 +3250,15 @@
         <par n="BASE__abstraktný"/>
       </e>
     </pardef>
+    <pardef n="tak/ý__det">
+      <e>
+         <p>
+          <l></l>
+          <r>ý<s n="det"/><s n="ind"/></r>
+        </p>
+        <par n="BASE__abstraktný"/>
+      </e>
+    </pardef>
     <pardef n="in/ý__det">
       <e>
          <p>
@@ -5370,6 +5379,7 @@
     <e lm="jeho"><i>jeho</i><par n="jej__det"/></e>
     <e lm="iný"><i>in</i><par n="in/ý__det"/></e>
     <e lm="iný"><i>in</i><par n="in/ý__prn"/></e>
+    <e lm="taký"><i>tak</i><par n="tak/ý__det"/></e>
 
     <e lm="a"><i>a</i><par n="a__cnjcoo"/></e>
     <e lm="ani"><i>ani</i><par n="a__cnjcoo"/></e>
@@ -5396,6 +5406,7 @@
     <e lm="ktorýsi"><i>ktor</i><par n="ak/ýsi__det"/></e>
 
     <e lm="slovenský"><i>slovensk</i><par n="slovensk/ý__adj"/></e>
+    <e lm="latinský"><i>latinsk</i><par n="slovensk/ý__adj"/></e>
     <e lm="absolútny"><i>absolútn</i><par n="absolútn/y__adj"/></e>
     <e lm="abstraktný"><i>abstraktn</i><par n="abstraktn/ý__adj"/></e>
     <e lm="pekný"><i>pekn</i><par n="abstraktn/ý__adj"/></e>
