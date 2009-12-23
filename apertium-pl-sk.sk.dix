@@ -70,6 +70,7 @@
     <sdef n="an"/>
     <sdef n="cpd"/>
     <sdef n="po"/>
+    <sdef n="cnjadv"/>
   </sdefs>
   
   <pardefs>
@@ -167,6 +168,14 @@
         <p>
 	  <l></l>
 	  <r><s n="cnjsub"/></r>
+	</p>
+      </e>
+    </pardef>
+    <pardef n="viac__cnjadv">
+      <e>
+        <p>
+	  <l></l>
+	  <r><s n="cnjadv"/></r>
 	</p>
       </e>
     </pardef>
@@ -4685,9 +4694,11 @@
     <e lm="aj"><i>aj</i><par n="a__cnjcoo"/></e>
 
     <e lm="že"><i>že</i><par n="že__cnjsub"/></e>
+    <e lm="až"><i>až</i><par n="že__cnjsub"/></e>
     <e lm="by"><i>by</i><par n="že__cnjsub"/></e>
     <e lm="aby"><i>aby</i><par n="že__cnjsub"/></e>
     <e lm="ale"><i>ale</i><par n="že__cnjsub"/></e>
+    <e lm="viac"><i>viac</i><par n="viac__cnjadv"/></e>
 
     <e lm="kde"><i>kde</i><par n="kde__adv"/></e>
     <e lm="kedy"><i>kedy</i><par n="kde__adv"/></e>

@@ -41,6 +41,7 @@
     <sdef n="rel"/>
     <sdef n="indecl"/>
     <sdef n="an"/>
+    <sdef n="cnjadv"/>
   </sdefs>
 
   <section id="main" type="standard">
@@ -1339,6 +1340,7 @@
     <e><p><l>mimo<s n="pr"/></l><r>mimo<s n="pr"/></r></p></e>
     <e><p><l>inny<s n="det"/></l><r>iný<s n="det"/></r></p></e>
     <e><p><l>inny<s n="prn"/></l><r>iný<s n="prn"/></r></p></e>
+    <e><p><l>więc<s n="cnjadv"/></l><r>viac<s n="cnjadv"/></r></p></e>
     <e><p><l>w<b/>każdym<b/>przypadku<s n="adv"/></l><r>v<b/>každom<b/>prípade<s n="adv"/></r></p></e>
     <e><p><l>zabijać<s n="vblex"/><s n="imperf"/></l><r>zabíjať<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>zabić<s n="vblex"/><s n="perf"/></l><r>zabiť<s n="vblex"/><s n="perf"/></r></p></e>
