@@ -7,6 +7,15 @@
   <def-label name="PRE" closed="true">
     <tags-item lemma="pre" tags="pr"/>
   </def-label> 
+  <def-label name="P3DETPOS" closed="true">
+    <tags-item lemma="jej" tags="det.pos.adv"/>
+    <tags-item lemma="jeho" tags="det.pos.adv"/>
+    <tags-item lemma="ich" tags="det.pos.adv"/>
+  </def-label> 
+
+  <def-label name="PRPERS" closed="true">
+    <tags-item lemma="prpers" tags="prn.*"/>
+  </def-label> 
 
   <def-label name="P3PRNNONPR" closed="true">
     <tags-item lemma="prpers" tags="prn.emph.p3.m.sg.acc"/>
@@ -17,6 +26,7 @@
     <tags-item lemma="prpers" tags="prn.emph.p3.ma.sg.gen"/>
     <tags-item lemma="prpers" tags="prn.emph.p3.mf.sg.acc"/>
     <tags-item lemma="prpers" tags="prn.emph.p3.mf.sg.gen"/>
+    <tags-item lemma="prpers" tags="prn.emph.p3.f.sg.dat"/>
   </def-label> 
   <def-mult name="PRENEHOEMPHNT" closed="true">  
     <sequence>
@@ -51,7 +61,16 @@
   </label-sequence>
 </forbid>
 
+<enforce-rules>
+  <enforce-after label="PR">
+    <label-set>
+      <label-item label="P3DETPOS"/>
+    </label-set>
+  </enforce-after>
+</enforce-rules>
+
 <preferences>
+<!--
   <prefer tags="prn.emph.p3.nt.sg.gen"/>
   <prefer tags="prn.emph.p3.nt.sg.dat"/>
   <prefer tags="prn.emph.p3.nt.sg.acc"/>
@@ -62,5 +81,6 @@
   <prefer tags="prn.emph.p3.ma.pl.acc"/>
   <prefer tags="prn.emph.p3.ma.pl.ins"/>
   <prefer tags="prn.emph.p3.ma.pl.loc"/>
+-->
 </preferences>
 </tagger>
