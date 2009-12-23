@@ -2556,6 +2556,15 @@
         <par n="BASE__abstraktný"/>
       </e>
     </pardef>
+    <pardef n="in/ý__det">
+      <e>
+         <p>
+          <l></l>
+          <r>ý<s n="det"/><s n="dem"/></r>
+        </p>
+        <par n="BASE__abstraktný"/>
+      </e>
+    </pardef>
     <pardef n="ktor/ý__rel">
       <e>
          <p>
@@ -4656,6 +4665,7 @@
     <e lm="jej"><i>jej</i><par n="jej__det"/></e>
     <e lm="ich"><i>ich</i><par n="jej__det"/></e>
     <e lm="jeho"><i>jeho</i><par n="jej__det"/></e>
+    <e lm="iný"><i>in</i><par n="in/ý__det"/></e>
 
     <e lm="a"><i>a</i><par n="a__cnjcoo"/></e>
     <e lm="ani"><i>ani</i><par n="a__cnjcoo"/></e>
