@@ -13,8 +13,7 @@
     <tags-item lemma="z" tags="pr"/>
   </def-label> 
   <def-label name="DATPR" closed="true">
-    <tags-item lemma="v" tags="pr"/>
-    <tags-item lemma="na" tags="pr"/>
+    <tags-item lemma="k" tags="pr"/>
   </def-label> 
   <def-label name="ACCPR" closed="true">
     <tags-item lemma="pre" tags="pr"/>
