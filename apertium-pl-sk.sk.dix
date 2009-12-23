@@ -4698,7 +4698,6 @@
     <e lm="by"><i>by</i><par n="že__cnjsub"/></e>
     <e lm="aby"><i>aby</i><par n="že__cnjsub"/></e>
     <e lm="ale"><i>ale</i><par n="že__cnjsub"/></e>
-    <e lm="viac"><i>viac</i><par n="viac__cnjadv"/></e>
 
     <e lm="kde"><i>kde</i><par n="kde__adv"/></e>
     <e lm="kedy"><i>kedy</i><par n="kde__adv"/></e>
@@ -4716,6 +4715,8 @@
     <e lm="cudzí"><i>cudz</i><par n="cudz/í__adj"/></e>
 
     <e lm="znovu"><i>znovu</i><par n="tu__adv"/></e>
+    <e lm="viac"><i>viac</i><par n="tu__adv"/></e>
+    <e lm="viacej"><i>viacej</i><par n="tu__adv"/></e>
     <e lm="vytrvale"><i>vytrvale</i><par n="tu__adv"/></e>
     <e lm="vysoko"><i>vysoko</i><par n="tu__adv"/></e>
     <e lm="tu"><i>tu</i><par n="tu__adv"/></e>
