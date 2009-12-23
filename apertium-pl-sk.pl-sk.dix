@@ -42,6 +42,7 @@
     <sdef n="indecl"/>
     <sdef n="an"/>
     <sdef n="cnjadv"/>
+    <sdef n="ij"/>
   </sdefs>
 
   <section id="main" type="standard">
@@ -1340,6 +1341,10 @@
     <e><p><l>mimo<s n="pr"/></l><r>mimo<s n="pr"/></r></p></e>
     <e><p><l>inny<s n="det"/></l><r>iný<s n="det"/></r></p></e>
     <e><p><l>inny<s n="prn"/></l><r>iný<s n="prn"/></r></p></e>
+    <e><p><l>niektóry<s n="det"/></l><r>niektorý<s n="det"/></r></p></e>
+    <e><p><l>niektóry<s n="prn"/></l><r>niektorý<s n="prn"/></r></p></e>
+    <e><p><l>pierwszy<s n="det"/></l><r>prvý<s n="det"/></r></p></e>
+    <e><p><l>drugi<s n="det"/></l><r>druhý<s n="det"/></r></p></e>
     <e><p><l>więcej<s n="adv"/></l><r>viac<s n="adv"/></r></p></e>
     <e r="RL"><p><l>więcej<s n="adv"/></l><r>viacej<s n="adv"/></r></p></e>
     <e><p><l>bardzo<s n="adv"/><s n="sint"/></l><r>veľmi<s n="adv"/><s n="sint"/></r></p></e>
@@ -1510,6 +1515,7 @@
     <e><p><l>aktywista<s n="n"/></l><r>aktivista<s n="n"/></r></p></e>
     <e><p><l>akwamaryn<s n="n"/><s n="mi"/></l><r>akvamarín<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>aktualizować<s n="vblex"/></l><r>aktualizovať<s n="vblex"/></r></p></e>
+    <e><p><l>nigdy<s n="adv"/></l><r>nikdy<s n="adv"/></r></p></e>
     <e><p><l>aktualnie<s n="adv"/></l><r>aktuálne<s n="adv"/></r></p></e>
     <e><p><l>aktualny<s n="adj"/></l><r>aktuálny<s n="adj"/></r></p></e>
     <e><p><l>akumulować<s n="vblex"/></l><r>akumulovať<s n="vblex"/></r></p></e>
@@ -1534,6 +1540,7 @@
     <e><p><l>aleja<s n="n"/><s n="f"/></l><r>aleja<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>alergia<s n="n"/><s n="f"/></l><r>alergia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>alfa<s n="n"/><s n="f"/></l><r>alfa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>śmierć<s n="n"/><s n="f"/></l><r>smrť<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>alfanumeryczny<s n="adj"/></l><r>alfanumerický<s n="adj"/></r></p></e>
     <e><p><l>algorytm<s n="n"/><s n="mi"/></l><r>algoritmus<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>alians<s n="n"/><s n="mi"/></l><r>aliancia<s n="n"/><s n="f"/></r></p></e>
@@ -1569,6 +1576,8 @@
     <e><p><l>niemiecki<s n="adj"/></l><r>nemecký<s n="adj"/></r></p></e>
     <e><p><l>animacja<s n="n"/><s n="f"/></l><r>animácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>anno<b/>Domini<s n="adv"/></l><r>anno<b/>Domini<s n="adv"/></r></p></e>
+    <e><p><l>prawdopodobnie<s n="adv"/></l><r>pravdepodobne<s n="adv"/></r></p></e>
+    <e><p><l>przede<b/>wszystkim<s n="adv"/></l><r>predovšetkým<s n="adv"/></r></p></e>
     <e><p><l>anonimowy<s n="adj"/></l><r>anonymný<s n="adj"/></r></p></e>
     <e><p><l>Antarktyda<s n="np"/><s n="top"/><s n="f"/></l><r>Antarktída<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>antropologia<s n="n"/><s n="f"/></l><r>antropológia<s n="n"/><s n="f"/></r></p></e>
@@ -2380,6 +2389,16 @@
     <e><i>Keri<s n="np"/></i></e>
     <e><i>Mary<s n="np"/></i></e>
     <e><i>Jamie<s n="np"/></i></e>
+  </section>
+  <section id="foreign" type="standard">
+    <e><i>ref<s n="ij"/></i></e>
+    <e><i>and<s n="ij"/></i></e>
+    <e><i>the<s n="ij"/></i></e>
+    <e><i>nbsp<s n="ij"/></i></e>
+    <e><i>image<s n="ij"/></i></e>
+    <e><i>this<s n="ij"/></i></e>
+    <e><i>cite<s n="ij"/></i></e>
+    <e><i>br<s n="ij"/></i></e>
   </section>
 </dictionary>
 

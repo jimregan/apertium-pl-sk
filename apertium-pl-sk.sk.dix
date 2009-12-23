@@ -74,6 +74,8 @@
     <sdef n="comp"/>
     <sdef n="sup"/>
     <sdef n="sint"/>
+    <sdef n="ord"/>
+    <sdef n="ij"/>
   </sdefs>
   
   <pardefs>
@@ -158,6 +160,14 @@
       </e>
     </pardef>
   
+    <pardef n="ahoj__ij">
+      <e>
+        <p>
+	  <l></l>
+	  <r><s n="ij"/></r>
+	</p>
+      </e>
+    </pardef>
     <pardef n="a__cnjcoo">
       <e>
         <p>
@@ -3590,6 +3600,15 @@
         <par n="BASE__abstraktný"/>
       </e>
     </pardef>
+    <pardef n="prv/ý__det">
+      <e>
+         <p>
+          <l></l>
+          <r>ý<s n="det"/><s n="ord"/></r>
+        </p>
+        <par n="BASE__abstraktný"/>
+      </e>
+    </pardef>
     <pardef n="tak/ý__det">
       <e>
          <p>
@@ -5724,11 +5743,16 @@
     <e lm="iný"><i>in</i><par n="in/ý__det"/></e>
     <e lm="iný"><i>in</i><par n="in/ý__prn"/></e>
     <e lm="taký"><i>tak</i><par n="tak/ý__det"/></e>
+    <e lm="niektorý"><i>niektor</i><par n="in/ý__det"/></e>
+    <e lm="niektorý"><i>niektor</i><par n="in/ý__prn"/></e>
+    <e lm="prvý"><i>prv</i><par n="prv/ý__det"/></e>
+    <e lm="druhý"><i>druh</i><par n="prv/ý__det"/></e>
 
     <e lm="a"><i>a</i><par n="a__cnjcoo"/></e>
     <e lm="ani"><i>ani</i><par n="a__cnjcoo"/></e>
     <e lm="aj"><i>aj</i><par n="a__cnjcoo"/></e>
     <e lm="než"><i>než</i><par n="a__cnjcoo"/></e>
+    <e lm="alebo"><i>alebo</i><par n="a__cnjcoo"/></e>
 
     <e lm="že"><i>že</i><par n="že__cnjsub"/></e>
     <e lm="až"><i>až</i><par n="že__cnjsub"/></e>
@@ -5764,6 +5788,8 @@
     <e lm="veľmi"><p><l>väčšmi</l><r>veľmi<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
     <e lm="veľmi"><p><l>najväčšmi</l><r>veľmi<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
     <e lm="znovu"><i>znovu</i><par n="tu__adv"/></e>
+    <e lm="pravdepodobne"><i>pravdepodobne</i><par n="tu__adv"/></e>
+    <e lm="predovšetkým"><i>predovšetkým</i><par n="tu__adv"/></e>
     <e lm="viac"><i>viac</i><par n="tu__adv"/></e>
     <e lm="viacej"><i>viacej</i><par n="tu__adv"/></e>
     <e lm="vytrvale"><i>vytrvale</i><par n="tu__adv"/></e>
@@ -5811,6 +5837,7 @@
     <e lm="anno Domini"><i>anno<b/>Domini</i><par n="tu__adv"/></e>
     <e lm="atď"><i>atď</i><par n="tu__adv"/></e>
     <e lm="automatizovane"><i>automatizovane</i><par n="tu__adv"/></e>
+    <e lm="nikdy"><i>nikdy</i><par n="tu__adv"/></e>
 
     <e lm="čítať"><i>čít</i><par n="čít/ať__vblex"/></e>
     <e lm="mať"><i>m</i><par n="m/ať__vbhaver"/></e>
@@ -5828,6 +5855,7 @@
     <e lm="ulica"><i>ul</i><par n="ul/ica__n"/></e>
     <e lm="dlaň"><i>dla</i><par n="dla/ň__n"/></e>
     <e lm="kosť"><i>kos</i><par n="kos/ť__n"/></e>
+    <e lm="smrť"><i>smr</i><par n="kos/ť__n"/></e>
     <e lm="chlap"><i>chlap</i><par n="chlap/__n"/></e>
     <e lm="jazyk"><i>jazyk</i><par n="jazyk__n"/></e>
     <e lm="okno"><i>ok</i><par n="ok/no__n"/></e>
@@ -9321,6 +9349,7 @@
 
     <e lm="Britney"><i>Britney</i><par n="Britney__np"/></e>
     <e lm="Lynne"><i>Lynne</i><par n="Britney__np"/></e>
+    <e lm="Lynn"><i>Lynn</i><par n="Britney__np"/></e>
     <e lm="Irene"><i>Irene</i><par n="Britney__np"/></e>
     <e lm="Mary"><i>Mary</i><par n="Britney__np"/></e>
     <e lm="Keri"><i>Keri</i><par n="Britney__np"/></e>
@@ -9334,5 +9363,15 @@
     <e><par n="cometa"/></e>
     <e><par n="coma"/></e>
     <e><par n="guionet"/></e>
+  </section>
+  <section id="foreign" type="standard">
+    <e lm="and"><i>and</i><par n="ahoj__ij"/></e>
+    <e lm="the"><i>the</i><par n="ahoj__ij"/></e>
+    <e lm="this"><i>this</i><par n="ahoj__ij"/></e>
+    <e lm="cite"><i>cite</i><par n="ahoj__ij"/></e>
+    <e lm="br"><i>br</i><par n="ahoj__ij"/></e>
+    <e lm="image"><i>image</i><par n="ahoj__ij"/></e>
+    <e lm="ref"><i>ref</i><par n="ahoj__ij"/></e>
+    <e lm="nbsp"><i>nbsp</i><par n="ahoj__ij"/></e>
   </section>
 </dictionary>
