@@ -1477,6 +1477,685 @@
         </p>
       </e>
     </pardef>
+    <pardef n="ak/ýsi__det">
+      <e>
+        <p>
+          <l>ýsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ási</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ési</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>éhosi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>éhosi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ejsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>éhosi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>émusi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>émusi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ejsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>émusi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+         <p>
+          <l>éhosi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>úsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ési</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ousi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>omsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>omsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ejsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>omsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ási</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ési</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <!-- Plurals -->
+      <e>
+        <p>
+          <l>ísi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ési</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ési</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ési</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýchsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýchsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýchsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýchsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýchsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ési</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ési</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ési</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmisi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmisi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmisi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmisi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýchsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýchsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýchsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýchsi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ísi</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ési</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ési</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ési</l>
+          <r>ýsi<s n="det"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="ak/ýkoľvek__det">
+      <e>
+        <p>
+          <l>ýkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ákoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ékoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>éhokoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>éhokoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ejkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>éhokoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>émukoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>émukoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ejkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>émukoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+         <p>
+          <l>éhokoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>úkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ékoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oukoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>omkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>omkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ejkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>omkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ákoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ékoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <!-- Plurals -->
+      <e>
+        <p>
+          <l>íkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ékoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ékoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ékoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýchkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýchkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýchkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýchkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýchkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ékoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ékoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ékoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmikoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmikoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmikoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýmikoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýchkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýchkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýchkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ýchkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>íkoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ékoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ékoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ékoľvek</l>
+          <r>ýkoľvek<s n="det"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="BASE__abstraktný">
       <e>
         <p>
@@ -4710,6 +5389,9 @@
     <e lm="čo"><i>čo</i><par n="čo__rel"/></e>
     <e lm="ktorý"><i>ktor</i><par n="ktor/ý__rel"/></e>
     <e lm="ktorý"><i>ktor</i><par n="ktor/ý__det"/></e>
+    <e lm="aký"><i>ak</i><par n="ktor/ý__det"/></e>
+    <e lm="akýsi"><i>ak</i><par n="ak/ýsi__det"/></e>
+    <e lm="akýkoľvek"><i>ak</i><par n="ak/ýkoľvek__det"/></e>
 
     <e lm="slovenský"><i>slovensk</i><par n="slovensk/ý__adj"/></e>
     <e lm="absolútny"><i>absolútn</i><par n="absolútn/y__adj"/></e>
