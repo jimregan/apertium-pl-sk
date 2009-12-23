@@ -7,6 +7,26 @@
   <def-label name="PRE" closed="true">
     <tags-item lemma="pre" tags="pr"/>
   </def-label> 
+  <def-label name="GENPR" closed="true">
+    <tags-item lemma="do" tags="pr"/>
+    <tags-item lemma="mimo" tags="pr"/>
+    <tags-item lemma="z" tags="pr"/>
+  </def-label> 
+  <def-label name="DATPR" closed="true">
+    <tags-item lemma="v" tags="pr"/>
+    <tags-item lemma="na" tags="pr"/>
+  </def-label> 
+  <def-label name="ACCPR" closed="true">
+    <tags-item lemma="pre" tags="pr"/>
+  </def-label> 
+  <def-label name="LOCPR" closed="true">
+    <tags-item lemma="v" tags="pr"/>
+    <tags-item lemma="na" tags="pr"/>
+    <tags-item lemma="o" tags="pr"/>
+  </def-label> 
+  <def-label name="INSPR" closed="true">
+    <tags-item lemma="s" tags="pr"/>
+  </def-label> 
   <def-label name="P3DETPOS" closed="true">
     <tags-item lemma="jej" tags="det.pos.adv"/>
     <tags-item lemma="jeho" tags="det.pos.adv"/>
@@ -70,7 +90,6 @@
 </enforce-rules>
 
 <preferences>
-<!--
   <prefer tags="prn.emph.p3.nt.sg.gen"/>
   <prefer tags="prn.emph.p3.nt.sg.dat"/>
   <prefer tags="prn.emph.p3.nt.sg.acc"/>
@@ -81,6 +100,5 @@
   <prefer tags="prn.emph.p3.ma.pl.acc"/>
   <prefer tags="prn.emph.p3.ma.pl.ins"/>
   <prefer tags="prn.emph.p3.ma.pl.loc"/>
--->
 </preferences>
 </tagger>
