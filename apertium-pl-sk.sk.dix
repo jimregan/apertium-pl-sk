@@ -4714,6 +4714,9 @@
     <e lm="veľký"><i>veľk</i><par n="abstraktn/ý__adj"/></e>
     <e lm="cudzí"><i>cudz</i><par n="cudz/í__adj"/></e>
 
+    <e lm="veľmi"><p><l>veľmi</l><r>veľmi<s n="adv"/><s n="sint"/></r></p></e>
+    <e lm="veľmi"><p><l>väčšmi</l><r>veľmi<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
+    <e lm="veľmi"><p><l>najväčšmi</l><r>veľmi<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
     <e lm="znovu"><i>znovu</i><par n="tu__adv"/></e>
     <e lm="viac"><i>viac</i><par n="tu__adv"/></e>
     <e lm="viacej"><i>viacej</i><par n="tu__adv"/></e>
