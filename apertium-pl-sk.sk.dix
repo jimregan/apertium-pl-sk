@@ -5347,7 +5347,9 @@
     <e lm="počas"><p><l>počas</l><r>počas<s n="pr"/></r></p></e>
     <e lm="u"><p><l>u</l><r>u<s n="pr"/></r></p></e>
     <e lm="pre"><p><l>pre</l><r>pre<s n="pr"/></r></p></e>
-    <e lm="pred"><p><l>pred</l><r>pred<s n="pr"/></r></p></e>
+    <e lm="pred" r="LR"><p><l>pred</l><r>pred<s n="pr"/></r></p></e>
+    <e lm="predo" r="LR"><p><l>predo</l><r>pred<s n="pr"/></r></p></e>
+    <e lm="pred" r="RL"><p><l><a/>pred</l><r>pred<s n="pr"/></r></p></e>
     <e lm="pod"><p><l>pod</l><r>pod<s n="pr"/></r></p></e>
     <e lm="pri"><p><l>pri</l><r>pri<s n="pr"/></r></p></e>
     <e lm="okolo"><p><l>okolo</l><r>okolo<s n="pr"/></r></p></e>
