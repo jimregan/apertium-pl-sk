@@ -71,6 +71,9 @@
     <sdef n="cpd"/>
     <sdef n="po"/>
     <sdef n="cnjadv"/>
+    <sdef n="comp"/>
+    <sdef n="sup"/>
+    <sdef n="sint"/>
   </sdefs>
   
   <pardefs>
@@ -7800,6 +7803,7 @@
     <e lm="Portugalsko"><i>Portugalsk</i><par n="Chorvátsk/o__np"/></e>
     <e lm="Rusko"><i>Rusk</i><par n="Chorvátsk/o__np"/></e>
     <e lm="Rumunsko"><i>Rumunsk</i><par n="Chorvátsk/o__np"/></e>
+    <e lm="Slovensko"><i>Slovensk</i><par n="Chorvátsk/o__np"/></e>
     <e lm="Andalúzia"><i>Andalúz</i><par n="Gamb/ia__np"/></e>
     <e lm="Astúria"><i>Astúr</i><par n="Gamb/ia__np"/></e>
     <e lm="Asýria"><i>Asýr</i><par n="Gamb/ia__np"/></e>
