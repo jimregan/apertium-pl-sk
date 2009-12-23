@@ -4626,6 +4626,13 @@
     <e lm="počas"><p><l>počas</l><r>počas<s n="pr"/></r></p></e>
     <e lm="u"><p><l>u</l><r>u<s n="pr"/></r></p></e>
     <e lm="pre"><p><l>pre</l><r>pre<s n="pr"/></r></p></e>
+    <e lm="pred"><p><l>pred</l><r>pred<s n="pr"/></r></p></e>
+    <e lm="pod"><p><l>pod</l><r>pod<s n="pr"/></r></p></e>
+    <e lm="pri"><p><l>pri</l><r>pri<s n="pr"/></r></p></e>
+    <e lm="okolo"><p><l>okolo</l><r>okolo<s n="pr"/></r></p></e>
+    <e lm="cez"><p><l>cez</l><r>cez<s n="pr"/></r></p></e>
+    <e lm="medzi"><p><l>medzi</l><r>medzi<s n="pr"/></r></p></e>
+    <e lm="mimo"><p><l>mimo</l><r>mimo<s n="pr"/></r></p></e>
     <e i="yes" lm="preňho"><p><l>preňho</l><r>pre<s n="pr"/><j/>prpers<s n="prn"/></r></p></e>
     <e i="yes" lm="preň"><p><l>preň</l><r>pre<s n="pr"/><j/>prpers<s n="prn"/></r></p></e>
 
@@ -4651,6 +4658,8 @@
     <e lm="jeho"><i>jeho</i><par n="jej__det"/></e>
 
     <e lm="a"><i>a</i><par n="a__cnjcoo"/></e>
+    <e lm="ani"><i>ani</i><par n="a__cnjcoo"/></e>
+    <e lm="aj"><i>aj</i><par n="a__cnjcoo"/></e>
 
     <e lm="že"><i>že</i><par n="že__cnjsub"/></e>
     <e lm="by"><i>by</i><par n="že__cnjsub"/></e>
@@ -4670,11 +4679,14 @@
     <e lm="abstraktný"><i>abstraktn</i><par n="abstraktn/ý__adj"/></e>
     <e lm="pekný"><i>pekn</i><par n="abstraktn/ý__adj"/></e>
     <e lm="veľký"><i>veľk</i><par n="abstraktn/ý__adj"/></e>
+    <e lm="cudzí"><i>cudz</i><par n="cudz/í__adj"/></e>
 
     <e lm="znovu"><i>znovu</i><par n="tu__adv"/></e>
     <e lm="vytrvale"><i>vytrvale</i><par n="tu__adv"/></e>
     <e lm="vysoko"><i>vysoko</i><par n="tu__adv"/></e>
     <e lm="tu"><i>tu</i><par n="tu__adv"/></e>
+    <e lm="tzv"><i>tzv</i><par n="tu__adv"/></e>
+    <e lm="často"><i>často</i><par n="tu__adv"/></e>
     <e lm="tam"><i>tam</i><par n="tu__adv"/></e>
     <e lm="napríklad"><i>napríklad</i><par n="tu__adv"/></e>
     <e lm="tiež"><i>tiež</i><par n="tu__adv"/></e>
