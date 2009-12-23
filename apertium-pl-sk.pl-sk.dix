@@ -38,6 +38,9 @@
     <sdef n="ind"/>
     <sdef n="dem"/>
     <sdef n="ant"/>
+    <sdef n="rel"/>
+    <sdef n="indecl"/>
+    <sdef n="an"/>
   </sdefs>
 
   <section id="main" type="standard">

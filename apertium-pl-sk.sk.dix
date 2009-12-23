@@ -65,6 +65,8 @@
     <sdef n="apos"/>
     <sdef n="cm"/>
     <sdef n="indecl"/>
+    <sdef n="rel"/>
+    <sdef n="an"/>
   </sdefs>
   
   <pardefs>
@@ -3520,6 +3522,11 @@
     <e lm="za"><p><l>za</l><r>za<s n="pr"/></r></p></e>
     <e lm="až do"><p><l>až<b/>do</l><r>až<b/>do<s n="pr"/></r></p></e>
     <e lm="počas"><p><l>počas</l><r>počas<s n="pr"/></r></p></e>
+    <e lm="u"><p><l>u</l><r>u<s n="pr"/></r></p></e>
+    <e lm="pre"><p><l>pre</l><r>pre<s n="pr"/></r></p></e>
+    <e i="yes" lm="preňho"><p><l>preňho</l><r>pre<s n="pr"/><j/>prpers<s n="prn"/></r></p></e>
+    <e i="yes" lm="preň"><p><l>preň</l><r>pre<s n="pr"/><j/>prpers<s n="prn"/></r></p></e>
+
 
     <e lm="kto"><i>k</i><par n="k/to__prn"/></e>
     <e lm="čo"><i>č</i><par n="č/o__prn"/></e>
@@ -3537,6 +3544,9 @@
     <e lm="svoj"><i>sv</i><par n="tv/oj__det"/></e>
     <e lm="náš"><i>n</i><par n="n/áš__det"/></e>
     <e lm="váš"><i>v</i><par n="n/áš__det"/></e>
+    <e lm="jej"><i>jej</i><par n="jej__det"/></e>
+    <e lm="ich"><i>ich</i><par n="jej__det"/></e>
+    <e lm="jeho"><i>jeho</i><par n="jej__det"/></e>
 
     <e lm="a"><i>a</i><par n="a__cnjcoo"/></e>
 
