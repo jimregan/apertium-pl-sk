@@ -81,6 +81,7 @@
     <sdef n="emph"/>
     <sdef n="lquot"/>
     <sdef n="rquot"/>
+    <sdef n="ref"/>
   </sdefs>
   
   <pardefs>
@@ -6735,12 +6736,15 @@
     <e lm="latinský"><i>latinsk</i><par n="slovensk/ý__adj"/></e>
     <e lm="nemecký"><i>nemeck</i><par n="slovensk/ý__adj"/></e>
     <e lm="český"><i>česk</i><par n="slovensk/ý__adj"/></e>
+    <e lm="poľský"><i>poľsk</i><par n="slovensk/ý__adj"/></e>
     <e lm="absolútny"><i>absolútn</i><par n="absolútn/y__adj"/></e>
     <e lm="abstraktný"><i>abstraktn</i><par n="abstraktn/ý__adj"/></e>
+    <e lm="potrebný"><i>potrebn</i><par n="abstraktn/ý__adj"/></e>
     <e lm="pekný"><i>pekn</i><par n="abstraktn/ý__adj"/></e>
     <e lm="veľký"><i>veľk</i><par n="abstraktn/ý__adj"/></e>
     <e lm="ťažký"><i>ťažk</i><par n="abstraktn/ý__adj"/></e>
     <e lm="ľahký"><i>ľahk</i><par n="abstraktn/ý__adj"/></e>
+    <e lm="malý"><i>mal</i><par n="abstraktn/ý__adj"/></e>
     <e lm="cudzí"><i>cudz</i><par n="cudz/í__adj"/></e>
 
     <e lm="veľmi"><p><l>veľmi</l><r>veľmi<s n="adv"/><s n="sint"/></r></p></e>
