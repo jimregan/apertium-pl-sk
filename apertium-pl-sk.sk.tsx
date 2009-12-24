@@ -13,6 +13,7 @@
   <def-label name="GENPR" closed="true">
     <tags-item lemma="do" tags="pr"/>
     <tags-item lemma="od" tags="pr"/>
+    <tags-item lemma="až od" tags="pr"/>
     <tags-item lemma="mimo" tags="pr"/>
     <tags-item lemma="z" tags="pr"/>
     <tags-item lemma="bez" tags="pr"/>
@@ -25,6 +26,7 @@
     <tags-item lemma="uprostred" tags="pr"/>
     <tags-item lemma="u" tags="pr"/>
     <tags-item lemma="vôkol" tags="pr"/>
+    <tags-item lemma="okolo" tags="pr"/>
     <tags-item lemma="za" tags="pr"/>
   </def-label> 
   <def-label name="DATPR" closed="true">
