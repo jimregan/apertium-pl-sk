@@ -6584,14 +6584,33 @@
     <e lm="predo" r="LR"><p><l>predo</l><r>pred<s n="pr"/></r></p></e>
     <e lm="pred" r="RL"><p><l><a/>pred</l><r>pred<s n="pr"/></r></p></e>
     <e lm="pod"><p><l>pod</l><r>pod<s n="pr"/></r></p></e>
+    <e lm="popod"><p><l>popod</l><r>popod<s n="pr"/></r></p></e>
     <e lm="pri"><p><l>pri</l><r>pri<s n="pr"/></r></p></e>
+    <e lm="popri"><p><l>popri</l><r>popri<s n="pr"/></r></p></e>
+    <e lm="skrz"><p><l>skrz</l><r>skrz<s n="pr"/></r></p></e>
+    <e lm="spod"><p><l>spod</l><r>spod<s n="pr"/></r></p></e>
+    <e lm="sponad"><p><l>sponad</l><r>sponad<s n="pr"/></r></p></e>
+    <e lm="proti"><p><l>proti</l><r>proti<s n="pr"/></r></p></e>
+    <e lm="naproti"><p><l>naproti</l><r>naproti<s n="pr"/></r></p></e>
+    <e lm="napriek"><p><l>napriek</l><r>napriek<s n="pr"/></r></p></e>
+    <e lm="kvôli"><p><l>kvôli</l><r>kvôli<s n="pr"/></r></p></e>
+    <e lm="vôkol"><p><l>vôkol</l><r>vôkol<s n="pr"/></r></p></e>
+    <e lm="okrem"><p><l>okrem</l><r>okrem<s n="pr"/></r></p></e>
     <e lm="okolo"><p><l>okolo</l><r>okolo<s n="pr"/></r></p></e>
     <e lm="cez"><p><l>cez</l><r>cez<s n="pr"/></r></p></e>
     <e lm="medzi"><p><l>medzi</l><r>medzi<s n="pr"/></r></p></e>
+    <e lm="pomedzi"><p><l>pomedzi</l><r>pomedzi<s n="pr"/></r></p></e>
+    <e lm="spomedzi"><p><l>spomedzi</l><r>spomedzi<s n="pr"/></r></p></e>
+    <e lm="voči"><p><l>voči</l><r>voči<s n="pr"/></r></p></e>
+    <e lm="prostred"><p><l>prostred</l><r>prostred<s n="pr"/></r></p></e>
+    <e lm="uprostred"><p><l>uprostred</l><r>uprostred<s n="pr"/></r></p></e>
+    <e lm="miesto"><p><l>miesto</l><r>miesto<s n="pr"/></r></p></e>
+    <e lm="poza"><p><l>poza</l><r>poza<s n="pr"/></r></p></e>
+    <e lm="spoza"><p><l>spoza</l><r>spoza<s n="pr"/></r></p></e>
     <e lm="mimo"><p><l>mimo</l><r>mimo<s n="pr"/></r></p></e>
-    <e c="accusative?" lm="preňho"><p><l>preňho</l><r>pre<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
-    <e c="accusative?" lm="preňho"><p><l>preňho</l><r>pre<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
-    <e c="accusative?" lm="preň"><p><l>preň</l><r>pre<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="preňho"><p><l>preňho</l><r>pre<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="preňho"><p><l>preňho</l><r>pre<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="preň"><p><l>preň</l><r>pre<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
 
 
     <e><par n="prpers__prn"/></e>
@@ -6720,6 +6739,11 @@
     <e lm="mať"><i>m</i><par n="m/ať__vbhaver"/></e>
     <e lm="robiť"><i>rob</i><par n="rob/iť__vblex"/></e>
     <e lm="byť"><i/><par n="/byť__vbser"/></e>
+
+    <e lm="kult"><i>kult</i><par n="narod__n"/></e>
+    <e lm="hrdina"><i>hrdin</i><par n="hrdin/a__n"/></e>
+    <e lm="zámok"><i>zám</i><par n="zám/ok__n"/></e>
+    <e lm="rok"><i>rok</i><par n="rok__n"/></e>
     <e lm="pivo"><i>p</i><par n="p/ivo__n"/></e>
     <e lm="mesto"><i>m</i><par n="m/esto__n"/></e>
     <e lm="koryto"><i>kor</i><par n="kor/yto__n"/></e>

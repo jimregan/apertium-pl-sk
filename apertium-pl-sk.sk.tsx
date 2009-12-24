@@ -15,20 +15,55 @@
     <tags-item lemma="od" tags="pr"/>
     <tags-item lemma="mimo" tags="pr"/>
     <tags-item lemma="z" tags="pr"/>
+    <tags-item lemma="bez" tags="pr"/>
+    <tags-item lemma="miesto" tags="pr"/>
+    <tags-item lemma="okrem" tags="pr"/>
+    <tags-item lemma="postred" tags="pr"/>
+    <tags-item lemma="spod" tags="pr"/>
+    <tags-item lemma="sponad" tags="pr"/>
+    <tags-item lemma="spomedzi" tags="pr"/>
+    <tags-item lemma="uprostred" tags="pr"/>
+    <tags-item lemma="u" tags="pr"/>
+    <tags-item lemma="vôkol" tags="pr"/>
+    <tags-item lemma="za" tags="pr"/>
   </def-label> 
   <def-label name="DATPR" closed="true">
     <tags-item lemma="k" tags="pr"/>
+    <tags-item lemma="napriek" tags="pr"/>
+    <tags-item lemma="naproti" tags="pr"/>
+    <tags-item lemma="proti" tags="pr"/>
+    <tags-item lemma="kvôli" tags="pr"/>
+    <tags-item lemma="voči" tags="pr"/>
   </def-label> 
   <def-label name="ACCPR" closed="true">
     <tags-item lemma="pre" tags="pr"/>
+    <tags-item lemma="po" tags="pr"/>
+    <tags-item lemma="pod" tags="pr"/>
+    <tags-item lemma="popod" tags="pr"/>
+    <tags-item lemma="o" tags="pr"/>
+    <tags-item lemma="v" tags="pr"/>
+    <tags-item lemma="na" tags="pr"/>
+    <tags-item lemma="nad" tags="pr"/>
+    <tags-item lemma="pred" tags="pr"/>
+    <tags-item lemma="za" tags="pr"/>
+    <tags-item lemma="cez" tags="pr"/>
+    <tags-item lemma="medzi" tags="pr"/>
+    <tags-item lemma="skrz" tags="pr"/>
   </def-label> 
   <def-label name="LOCPR" closed="true">
     <tags-item lemma="v" tags="pr"/>
     <tags-item lemma="na" tags="pr"/>
     <tags-item lemma="o" tags="pr"/>
+    <tags-item lemma="pri" tags="pr"/>
+    <tags-item lemma="popri" tags="pr"/>
   </def-label> 
   <def-label name="INSPR" closed="true">
     <tags-item lemma="s" tags="pr"/>
+    <tags-item lemma="medzi" tags="pr"/>
+    <tags-item lemma="nad" tags="pr"/>
+    <tags-item lemma="pod" tags="pr"/>
+    <tags-item lemma="pred" tags="pr"/>
+    <tags-item lemma="za" tags="pr"/>
   </def-label> 
   <def-label name="P3DETPOS" closed="true">
     <tags-item lemma="jej" tags="det.pos.adv"/>
