@@ -112,6 +112,8 @@
     <e><p><l>kupować<s n="vblex"/></l><r>kupovať<s n="vblex"/></r></p></e>
     <e><p><l>robić<s n="vblex"/><s n="imperf"/></l><r>robiť<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>zrobić<s n="vblex"/><s n="perf"/></l><r>urobiť<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>organizować<s n="vblex"/><s n="imperf"/></l><r>organizovať<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zorganizować<s n="vblex"/><s n="perf"/></l><r>zorganizovať<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>rozwiązać<s n="vblex"/></l><r>rozviazať<s n="vblex"/></r></p></e>
     <e><p><l>spuścić<s n="vblex"/></l><r>spustiť<s n="vblex"/></r></p></e>
     <e><p><l>ściągać<s n="vblex"/></l><r>stiahnúť<s n="vblex"/></r></p></e>
@@ -1346,8 +1348,9 @@
     <e><p><l>niektóry<s n="prn"/></l><r>niektorý<s n="prn"/></r></p></e>
     <e><p><l>pierwszy<s n="det"/></l><r>prvý<s n="det"/></r></p></e>
     <e><p><l>drugi<s n="det"/></l><r>druhý<s n="det"/></r></p></e>
-    <e><p><l>więcej<s n="adv"/></l><r>viac<s n="adv"/></r></p></e>
-    <e r="RL"><p><l>więcej<s n="adv"/></l><r>viacej<s n="adv"/></r></p></e>
+    <e><p><l>dobrze<s n="adv"/><s n="sint"/></l><r>dobre<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>źle<s n="adv"/><s n="sint"/></l><r>zle<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>wiele<s n="adv"/><s n="sint"/></l><r>veľa<s n="adv"/><s n="sint"/></r></p></e>
     <e><p><l>bardzo<s n="adv"/><s n="sint"/></l><r>veľmi<s n="adv"/><s n="sint"/></r></p></e>
     <e><p><l>w<b/>każdym<b/>przypadku<s n="adv"/></l><r>v<b/>každom<b/>prípade<s n="adv"/></r></p></e>
     <e><p><l>zabijać<s n="vblex"/><s n="imperf"/></l><r>zabíjať<s n="vblex"/><s n="imperf"/></r></p></e>

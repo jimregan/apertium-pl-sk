@@ -7484,14 +7484,23 @@
     <e lm="malý"><i>mal</i><par n="abstraktn/ý__adj"/></e>
     <e lm="cudzí"><i>cudz</i><par n="cudz/í__adj"/></e>
 
+    <e lm="dobre"><p><l>dobre</l><r>dobre<s n="adv"/><s n="sint"/></r></p></e>
+    <e lm="dobre"><p><l>lepšie</l><r>dobre<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
+    <e lm="dobre"><p><l>najlepšie</l><r>dobre<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
+    <e lm="zle"><p><l>zle</l><r>zle<s n="adv"/><s n="sint"/></r></p></e>
+    <e lm="zle"><p><l>horšie</l><r>zle<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
+    <e lm="zle"><p><l>najhoršie</l><r>zle<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
     <e lm="veľmi"><p><l>veľmi</l><r>veľmi<s n="adv"/><s n="sint"/></r></p></e>
     <e lm="veľmi"><p><l>väčšmi</l><r>veľmi<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
     <e lm="veľmi"><p><l>najväčšmi</l><r>veľmi<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
+    <e lm="veľa"><p><l>veľa</l><r>veľa<s n="adv"/><s n="sint"/></r></p></e>
+    <e lm="veľa"><p><l>viac</l><r>veľa<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
+    <e lm="veľa"><p><l>najviac</l><r>veľa<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
+    <e lm="veľa" r="LR"><p><l>viacej</l><r>veľa<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
+    <e lm="veľa" r="LR"><p><l>najviacej</l><r>veľa<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
     <e lm="znovu"><i>znovu</i><par n="tu__adv"/></e>
     <e lm="pravdepodobne"><i>pravdepodobne</i><par n="tu__adv"/></e>
     <e lm="predovšetkým"><i>predovšetkým</i><par n="tu__adv"/></e>
-    <e lm="viac"><i>viac</i><par n="tu__adv"/></e>
-    <e lm="viacej"><i>viacej</i><par n="tu__adv"/></e>
     <e lm="vytrvale"><i>vytrvale</i><par n="tu__adv"/></e>
     <e lm="vysoko"><i>vysoko</i><par n="tu__adv"/></e>
     <e lm="tu"><i>tu</i><par n="tu__adv"/></e>
