@@ -79,6 +79,8 @@
     <sdef n="ij"/>
     <sdef n="ppr"/>
     <sdef n="emph"/>
+    <sdef n="lquot"/>
+    <sdef n="rquot"/>
   </sdefs>
   
   <pardefs>
@@ -90,6 +92,21 @@
         </p>
       </e>
     </pardef>
+    <pardef n="quotes">
+      <e>
+        <p>
+          <l>„</l>
+          <r>„<s n="lquot"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>“</l>
+          <r>“<s n="rquot"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="coma">
       <e>
         <p>
@@ -6259,6 +6276,7 @@
     <e lm="slovenský"><i>slovensk</i><par n="slovensk/ý__adj"/></e>
     <e lm="latinský"><i>latinsk</i><par n="slovensk/ý__adj"/></e>
     <e lm="nemecký"><i>nemeck</i><par n="slovensk/ý__adj"/></e>
+    <e lm="český"><i>česk</i><par n="slovensk/ý__adj"/></e>
     <e lm="absolútny"><i>absolútn</i><par n="absolútn/y__adj"/></e>
     <e lm="abstraktný"><i>abstraktn</i><par n="abstraktn/ý__adj"/></e>
     <e lm="pekný"><i>pekn</i><par n="abstraktn/ý__adj"/></e>
@@ -9846,6 +9864,7 @@
     <e><par n="cometa"/></e>
     <e><par n="coma"/></e>
     <e><par n="guionet"/></e>
+    <e><par n="quotes"/></e>
   </section>
   <section id="foreign" type="standard">
     <e lm="and"><i>and</i><par n="ahoj__ij"/></e>
