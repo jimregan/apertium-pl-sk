@@ -7,8 +7,12 @@
   <def-label name="PRE" closed="true">
     <tags-item lemma="pre" tags="pr"/>
   </def-label> 
+  <def-label name="PO" closed="true">
+    <tags-item lemma="po" tags="pr"/>
+  </def-label> 
   <def-label name="GENPR" closed="true">
     <tags-item lemma="do" tags="pr"/>
+    <tags-item lemma="od" tags="pr"/>
     <tags-item lemma="mimo" tags="pr"/>
     <tags-item lemma="z" tags="pr"/>
   </def-label> 
@@ -47,6 +51,11 @@
     <tags-item lemma="prpers" tags="prn.emph.p3.mf.sg.gen"/>
     <tags-item lemma="prpers" tags="prn.emph.p3.f.sg.dat"/>
   </def-label> 
+
+  <def-label name="ADJPO" closed="true">
+    <tags-item tags="adj.po"/>
+  </def-label> 
+
   <def-mult name="PRENEHOEMPHNT" closed="true">  
     <sequence>
       <label-item label="PRE"/>
@@ -84,6 +93,11 @@
   <enforce-after label="PR">
     <label-set>
       <label-item label="P3DETPOS"/>
+    </label-set>
+  </enforce-after>
+  <enforce-after label="PO">
+    <label-set>
+      <label-item label="ADJPO"/>
     </label-set>
   </enforce-after>
 </enforce-rules>
