@@ -10,11 +10,17 @@
   <def-label name="CNJSUB" closed="true">
     <tags-item tags="cnjsub"/>
   </def-label> 
+  <def-label name="IJ">
+    <tags-item tags="ij"/>
+  </def-label> 
+  <def-label name="ADV">
+    <tags-item tags="adv"/>
+    <tags-item tags="adv.sint"/>
+    <tags-item tags="adv.sint.comp"/>
+    <tags-item tags="adv.sint.sup"/>
+  </def-label> 
   <def-label name="PR" closed="true">
     <tags-item tags="pr"/>
-  </def-label> 
-  <def-label name="PRE" closed="true">
-    <tags-item lemma="pre" tags="pr"/>
   </def-label> 
   <def-label name="PO" closed="true">
     <tags-item lemma="po" tags="pr"/>
@@ -106,27 +112,27 @@
     <tags-item tags="adj.po"/>
   </def-label> 
 
-  <def-mult name="PRENEHOEMPHNT" closed="true">  
+  <def-mult name="PRNEHOEMPHNT" closed="true">  
     <sequence>
-      <label-item label="PRE"/>
+      <label-item label="PR"/>
       <tags-item tags="prn.emph.p3.nt.sg.acc"/>
     </sequence>
   </def-mult>
-  <def-mult name="PRENEHOEMPHM" closed="true">  
+  <def-mult name="PRNEHOEMPHM" closed="true">  
     <sequence>
-      <label-item label="PRE"/>
+      <label-item label="PR"/>
       <tags-item tags="prn.emph.p3.m.sg.acc"/>
     </sequence>
   </def-mult>
-  <def-mult name="PRENEHONT" closed="true">  
+  <def-mult name="PRNEHONT" closed="true">  
     <sequence>
-      <label-item label="PRE"/>
+      <label-item label="PR"/>
       <tags-item tags="prn.p3.nt.sg.acc"/>
     </sequence>
   </def-mult>
-  <def-mult name="PRENEHOM" closed="true">  
+  <def-mult name="PRNEHOM" closed="true">  
     <sequence>
-      <label-item label="PRE"/>
+      <label-item label="PR"/>
       <tags-item tags="prn.p3.m.sg.acc"/>
     </sequence>
   </def-mult>
