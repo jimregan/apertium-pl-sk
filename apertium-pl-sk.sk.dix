@@ -7626,6 +7626,9 @@
     <e lm="nad" r="LR"><p><l>nad</l><r>nad<s n="pr"/></r></p></e>
     <e lm="nado" r="LR"><p><l>nado</l><r>nad<s n="pr"/></r></p></e>
     <e lm="nad" r="RL"><p><l><a/>nad</l><r>nad<s n="pr"/></r></p></e>
+    <e lm="skrz" r="LR"><p><l>skrz</l><r>skrz<s n="pr"/></r></p></e>
+    <e lm="skrze" r="LR"><p><l>skrze</l><r>skrz<s n="pr"/></r></p></e>
+    <e lm="skrz" r="RL"><p><l><a/>skrz</l><r>skrz<s n="pr"/></r></p></e>
     <e lm="o"><p><l>o</l><r>o<s n="pr"/></r></p></e>
     <e lm="po"><p><l>po</l><r>po<s n="pr"/></r></p></e>
     <e lm="za"><p><l>za</l><r>za<s n="pr"/></r></p></e>
@@ -7640,7 +7643,6 @@
     <e lm="popod"><p><l>popod</l><r>popod<s n="pr"/></r></p></e>
     <e lm="pri"><p><l>pri</l><r>pri<s n="pr"/></r></p></e>
     <e lm="popri"><p><l>popri</l><r>popri<s n="pr"/></r></p></e>
-    <e lm="skrz"><p><l>skrz</l><r>skrz<s n="pr"/></r></p></e>
     <e lm="spod"><p><l>spod</l><r>spod<s n="pr"/></r></p></e>
     <e lm="sponad"><p><l>sponad</l><r>sponad<s n="pr"/></r></p></e>
     <e lm="proti"><p><l>proti</l><r>proti<s n="pr"/></r></p></e>
