@@ -6551,6 +6551,50 @@
         </p>
       </e>
     </pardef>
+    <pardef n="sa__prn">
+      <e>
+        <p>
+          <l>seba</l>
+          <r>sa<s n="prn"/><s n="ref"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>si</l>
+          <r>sa<s n="prn"/><s n="ref"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sebe</l>
+          <r>sa<s n="prn"/><s n="ref"/><s n="emph"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sa</l>
+          <r>sa<s n="prn"/><s n="ref"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>seba</l>
+          <r>sa<s n="prn"/><s n="ref"/><s n="emph"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sebe</l>
+          <r>sa<s n="prn"/><s n="ref"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sebou</l>
+          <r>sa<s n="prn"/><s n="ref"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
   </pardefs>
   <section id="main" type="standard">
     <e lm="do"><p><l>do</l><r>do<s n="pr"/></r></p></e>
@@ -6611,9 +6655,28 @@
     <e lm="preňho"><p><l>preňho</l><r>pre<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
     <e lm="preňho"><p><l>preňho</l><r>pre<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
     <e lm="preň"><p><l>preň</l><r>pre<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="doňho"><p><l>doňho</l><r>do<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+    <e lm="doňho"><p><l>doňho</l><r>do<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+    <e lm="doň"><p><l>doň</l><r>do<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+    <e lm="oňho"><p><l>oňho</l><r>o<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="oňho"><p><l>oňho</l><r>o<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="oň"><p><l>oň</l><r>o<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="uňho"><p><l>uňho</l><r>u<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+    <e lm="uňho"><p><l>uňho</l><r>u<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+    <e lm="uň"><p><l>uň</l><r>u<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+    <e lm="naňho"><p><l>naňho</l><r>na<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="naňho"><p><l>naňho</l><r>na<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="naň"><p><l>naň</l><r>na<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="zaňho"><p><l>zaňho</l><r>za<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="zaňho"><p><l>zaňho</l><r>za<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="zaň"><p><l>zaň</l><r>za<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="poňho"><p><l>poňho</l><r>po<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="poňho"><p><l>poňho</l><r>po<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="poň"><p><l>poň</l><r>po<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
 
 
     <e><par n="prpers__prn"/></e>
+    <e><par n="sa__prn"/></e>
     <e lm="kto"><i>k</i><par n="k/to__prn"/></e>
     <e lm="čo"><i>č</i><par n="č/o__prn"/></e>
     <e lm="hocikto"><i>hocik</i><par n="niek/to__prn"/></e>
