@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tagger name="slovakian">
 <tagset>
+  <def-label name="CNJCOO" closed="true">
+    <tags-item tags="cnjcoo"/>
+  </def-label> 
+  <def-label name="CNJADV" closed="true">
+    <tags-item tags="cnjadv"/>
+  </def-label> 
+  <def-label name="CNJSUB" closed="true">
+    <tags-item tags="cnjsub"/>
+  </def-label> 
   <def-label name="PR" closed="true">
     <tags-item tags="pr"/>
   </def-label> 
@@ -9,6 +18,9 @@
   </def-label> 
   <def-label name="PO" closed="true">
     <tags-item lemma="po" tags="pr"/>
+  </def-label> 
+  <def-label name="PRCASELESS" closed="true">
+    <tags-item lemma="ako" tags="pr"/>
   </def-label> 
   <def-label name="GENPR" closed="true">
     <tags-item lemma="do" tags="pr"/>
@@ -36,6 +48,7 @@
     <tags-item lemma="proti" tags="pr"/>
     <tags-item lemma="kvôli" tags="pr"/>
     <tags-item lemma="voči" tags="pr"/>
+    <tags-item lemma="vďaka" tags="pr"/>
   </def-label> 
   <def-label name="ACCPR" closed="true">
     <tags-item lemma="pre" tags="pr"/>

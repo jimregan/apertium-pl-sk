@@ -205,7 +205,7 @@
 	</p>
       </e>
     </pardef>
-    <pardef n="viac__cnjadv">
+    <pardef n="preto__cnjadv">
       <e>
         <p>
 	  <l></l>
@@ -7648,6 +7648,7 @@
     <e lm="napriek"><p><l>napriek</l><r>napriek<s n="pr"/></r></p></e>
     <e lm="kvôli"><p><l>kvôli</l><r>kvôli<s n="pr"/></r></p></e>
     <e lm="vôkol"><p><l>vôkol</l><r>vôkol<s n="pr"/></r></p></e>
+    <e lm="vďaka"><p><l>vďaka</l><r>vďaka<s n="pr"/></r></p></e>
     <e lm="okrem"><p><l>okrem</l><r>okrem<s n="pr"/></r></p></e>
     <e lm="okolo"><p><l>okolo</l><r>okolo<s n="pr"/></r></p></e>
     <e lm="cez"><p><l>cez</l><r>cez<s n="pr"/></r></p></e>
@@ -7661,6 +7662,7 @@
     <e lm="poza"><p><l>poza</l><r>poza<s n="pr"/></r></p></e>
     <e lm="spoza"><p><l>spoza</l><r>spoza<s n="pr"/></r></p></e>
     <e lm="mimo"><p><l>mimo</l><r>mimo<s n="pr"/></r></p></e>
+    <e lm="ako"><p><l>ako</l><r>ako<s n="pr"/></r></p></e>
     <e lm="preňho"><p><l>preňho</l><r>pre<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
     <e lm="preňho"><p><l>preňho</l><r>pre<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
     <e lm="preň"><p><l>preň</l><r>pre<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -7726,6 +7728,9 @@
     <e lm="aj"><i>aj</i><par n="a__cnjcoo"/></e>
     <e lm="než"><i>než</i><par n="a__cnjcoo"/></e>
     <e lm="alebo"><i>alebo</i><par n="a__cnjcoo"/></e>
+
+    <e lm="preto"><i>preto</i><par n="preto__cnjadv"/></e>
+    <e lm="pretože"><i>pretože</i><par n="preto__cnjadv"/></e>
 
     <e lm="že"><i>že</i><par n="že__cnjsub"/></e>
     <e lm="až"><i>až</i><par n="že__cnjsub"/></e>

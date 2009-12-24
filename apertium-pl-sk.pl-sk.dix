@@ -107,6 +107,7 @@
     <e><p><l>chcieć<s n="vblex"/></l><r>chcieť<s n="vblex"/></r></p></e>
     <e><p><l>bywać<s n="vblex"/></l><r>bývať<s n="vblex"/></r></p></e>
     <e><p><l>dziękować<s n="vblex"/></l><r>ďakovať<s n="vblex"/></r></p></e>
+    <e><p><l>podziękować<s n="vblex"/></l><r>poďakovať<s n="vblex"/></r></p></e>
     <e><p><l>dawać<s n="vblex"/></l><r>dávať<s n="vblex"/></r></p></e>
     <e><p><l>mówić<s n="vblex"/></l><r>hovoriť<s n="vblex"/></r></p></e>
     <e><p><l>kupować<s n="vblex"/></l><r>kupovať<s n="vblex"/></r></p></e>
@@ -1340,6 +1341,7 @@
     <e><p><l>szlachta<s n="n"/></l><r>šľachta<s n="n"/></r></p></e>
     <e><p><l>uczyć<s n="vblex"/><s n="imperf"/></l><r>učiť<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>w<s n="pr"/></l><r>v<s n="pr"/></r></p></e>
+    <e><p><l>dzięki<s n="pr"/></l><r>vďaka<s n="pr"/></r></p></e>
     <e><p><l>tzw<s n="adv"/></l><r>tzv<s n="adv"/></r></p></e>
     <e><p><l>mimo<s n="pr"/></l><r>mimo<s n="pr"/></r></p></e>
     <e><p><l>inny<s n="det"/></l><r>iný<s n="det"/></r></p></e>
@@ -1600,6 +1602,7 @@
     <e><p><l>akcjonariusz<s n="n"/><s n="mp"/></l><r>akcionár<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>akr<s n="n"/><s n="mi"/></l><r>aker<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>jak<s n="adv"/><s n="itg"/></l><r>ako<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>jako<s n="pr"/></l><r>ako<s n="pr"/></r></p></e>
     <e><p><l>dobranoc<s n="ij"/></l><r>dobrú<b/>noc<s n="ij"/></r></p></e>
     <e><p><l>cześć<s n="ij"/></l><r>ahoj<s n="ij"/></r></p></e>
     <e><p><l>jakby<s n="cnjsub"/></l><r>akoby<s n="cnjsub"/></r></p></e>
