@@ -5401,19 +5401,19 @@
       <e>
         <p>
           <l>buď</l>
-          <r>byť<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+          <r>byť<s n="vbser"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>buďme</l>
-          <r>byť<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r>
+          <r>byť<s n="vbser"/><s n="imp"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>buďte</l>
-          <r>byť<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
+          <r>byť<s n="vbser"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
        </p>
       </e>
     </pardef>
@@ -7647,7 +7647,11 @@
     <e lm="aby"><i>aby</i><par n="že__cnjsub"/></e>
     <e lm="ale"><i>ale</i><par n="že__cnjsub"/></e>
 
+    <e lm="ahoj"><i>ahoj</i><par n="ahoj__ij"/></e>
+    <e lm="dobrú noc"><i>dobrú<b/>noc</i><par n="ahoj__ij"/></e>
+
     <e lm="kde"><i>kde</i><par n="kde__adv"/></e>
+    <e lm="ako"><i>ako</i><par n="kde__adv"/></e>
     <e lm="kedy"><i>kedy</i><par n="kde__adv"/></e>
 
     <e lm="kde"><i>kde</i><par n="kde__rel"/></e>
@@ -7666,6 +7670,7 @@
     <e lm="český"><i>česk</i><par n="slovensk/ý__adj"/></e>
     <e lm="poľský"><i>poľsk</i><par n="slovensk/ý__adj"/></e>
     <e lm="absolútny"><i>absolútn</i><par n="absolútn/y__adj"/></e>
+    <e lm="čierny"><i>čiern</i><par n="absolútn/y__adj"/></e>
     <e lm="abstraktný"><i>abstraktn</i><par n="abstraktn/ý__adj"/></e>
     <e lm="potrebný"><i>potrebn</i><par n="abstraktn/ý__adj"/></e>
     <e lm="pekný"><i>pekn</i><par n="abstraktn/ý__adj"/></e>

@@ -1434,6 +1434,8 @@
     <e><p><l>patologicznie<s n="adv"/></l><r>patologicky<s n="adv"/></r></p></e>
     <e><p><l>zabijać<s n="vblex"/><s n="imperf"/></l><r>zabíjať<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>zabić<s n="vblex"/><s n="perf"/></l><r>zabiť<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>wołać<s n="vblex"/><s n="imperf"/></l><r>volať<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zawołać<s n="vblex"/><s n="perf"/></l><r>zavolať<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>Austria<s n="np"/><s n="top"/><s n="f"/></l><r>Rakúsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Brazylia<s n="np"/><s n="top"/><s n="f"/></l><r>Brazília<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Chiny<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Čína<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -1588,6 +1590,7 @@
     <e><p><l>akacja<s n="n"/><s n="f"/></l><r>akácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>akademia<s n="n"/><s n="f"/></l><r>akadémia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>akademiczny<s n="adj"/></l><r>akademický<s n="adj"/></r></p></e>
+    <e><p><l>czarny<s n="adj"/></l><r>čierny<s n="adj"/></r></p></e>
     <e><p><l>akcelerator<s n="n"/><s n="mi"/></l><r>akcelerátor<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>akcent<s n="n"/><s n="mi"/></l><r>akcent<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>akceptor<s n="n"/><s n="mi"/></l><r>akceptor<s n="n"/><s n="mi"/></r></p></e>
@@ -1597,6 +1600,8 @@
     <e><p><l>akcjonariusz<s n="n"/><s n="mp"/></l><r>akcionár<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>akr<s n="n"/><s n="mi"/></l><r>aker<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>jak<s n="adv"/><s n="itg"/></l><r>ako<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>dobranoc<s n="ij"/></l><r>dobrú<b/>noc<s n="ij"/></r></p></e>
+    <e><p><l>cześć<s n="ij"/></l><r>ahoj<s n="ij"/></r></p></e>
     <e><p><l>jakby<s n="cnjsub"/></l><r>akoby<s n="cnjsub"/></r></p></e>
     <e><p><l>aktówka<s n="n"/><s n="f"/></l><r>aktovka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aktualizacja<s n="n"/><s n="f"/></l><r>aktualizácia<s n="n"/><s n="f"/></r></p></e>
