@@ -59,9 +59,10 @@
     <e><p><l>po<s n="pr"/></l><r>po<s n="pr"/></r></p></e>
     
     <e><p><l>że<s n="cnjsub"/></l><r>že<s n="cnjsub"/></r></p></e>
+    <e><p><l>żeby<s n="cnjsub"/></l><r>žeby<s n="cnjsub"/></r></p></e>
     <e><p><l>by<s n="cnjsub"/></l><r>by<s n="cnjsub"/></r></p></e>
     <e><p><l>aby<s n="cnjsub"/></l><r>aby<s n="cnjsub"/></r></p></e>
-    <e><p><l>ale<s n="cnjsub"/></l><r>ale<s n="cnjsub"/></r></p></e>
+    <e><p><l>ale<s n="cnjcoo"/></l><r>ale<s n="cnjcoo"/></r></p></e>
     
     <e><p><l>zero<s n="num"/></l><r>nula<s n="num"/></r></p></e>
     <e><p><l>jeden<s n="num"/></l><r>jeden<s n="num"/></r></p></e>
@@ -1605,6 +1606,7 @@
     <e><p><l>jako<s n="pr"/></l><r>ako<s n="pr"/></r></p></e>
     <e><p><l>dobranoc<s n="ij"/></l><r>dobrú<b/>noc<s n="ij"/></r></p></e>
     <e><p><l>cześć<s n="ij"/></l><r>ahoj<s n="ij"/></r></p></e>
+    <e><p><l>ach<s n="ij"/></l><r>ach<s n="ij"/></r></p></e>
     <e><p><l>jakby<s n="cnjsub"/></l><r>akoby<s n="cnjsub"/></r></p></e>
     <e><p><l>aktówka<s n="n"/><s n="f"/></l><r>aktovka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aktualizacja<s n="n"/><s n="f"/></l><r>aktualizácia<s n="n"/><s n="f"/></r></p></e>

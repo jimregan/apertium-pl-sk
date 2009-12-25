@@ -180,6 +180,76 @@
         </p>
       </e>
     </pardef>
+
+    <pardef n="ne">
+      <e>
+        <p>
+          <l></l>
+          <r></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ne</l>
+          <r>ne</r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="ne+">
+      <e>
+        <p>
+          <l></l>
+          <r></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ne</l>
+          <r>ne<s n="adv"/><j/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="ne+i">
+      <e>
+        <p>
+          <l>i</l>
+          <r>i</r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nej</l>
+          <r>ne<s n="adv"/><j/>i</r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="nenaj+">
+      <e>
+        <p>
+          <l></l>
+          <r></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ne</l>
+          <r>ne<s n="adv"/><j/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>naj</l>
+          <r>naj<s n="adv"/><j/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nenaj</l>
+          <r>ne<s n="adv"/><j/>naj<s n="adv"/><j/></r>
+        </p>
+      </e>
+    </pardef>
   
     <pardef n="ahoj__ij">
       <e>
@@ -7738,9 +7808,11 @@
     <e lm="až"><i>až</i><par n="že__cnjsub"/></e>
     <e lm="by"><i>by</i><par n="že__cnjsub"/></e>
     <e lm="aby"><i>aby</i><par n="že__cnjsub"/></e>
-    <e lm="ale"><i>ale</i><par n="že__cnjsub"/></e>
+    <e lm="žeby"><i>žeby</i><par n="že__cnjsub"/></e>
+    <e lm="ale"><i>ale</i><par n="že__cnjcoo"/></e>
 
     <e lm="ahoj"><i>ahoj</i><par n="ahoj__ij"/></e>
+    <e lm="ach"><i>ach</i><par n="ahoj__ij"/></e>
     <e lm="dobrú noc"><i>dobrú<b/>noc</i><par n="ahoj__ij"/></e>
 
     <e lm="kde"><i>kde</i><par n="kde__adv"/></e>
@@ -7915,12 +7987,12 @@
     <e lm="patologicky"><i>patologicky</i><par n="tu__adv"/></e>
     <e lm="ešte"><i>ešte</i><par n="tu__adv"/></e>
 
-    <e lm="čítať"><i>čít</i><par n="čít/ať__vblex"/></e>
-    <e lm="volať"><i>vol</i><par n="vol/ať__vblex"/></e>
-    <e lm="hľadať"><i>hľad</i><par n="vol/ať__vblex"/></e>
-    <e lm="mať"><i>m</i><par n="m/ať__vbhaver"/></e>
-    <e lm="robiť"><i>rob</i><par n="rob/iť__vblex"/></e>
-    <e lm="byť"><i/><par n="/byť__vbser"/></e>
+    <e lm="čítať"><par n="ne+"/><i>čít</i><par n="čít/ať__vblex"/></e>
+    <e lm="volať"><par n="ne+"/><i>vol</i><par n="vol/ať__vblex"/></e>
+    <e lm="hľadať"><par n="ne+"/><i>hľad</i><par n="vol/ať__vblex"/></e>
+    <e lm="mať"><par n="ne+"/><i>m</i><par n="m/ať__vbhaver"/></e>
+    <e lm="robiť"><par n="ne+"/><i>rob</i><par n="rob/iť__vblex"/></e>
+    <e lm="byť"><par n="ne+"/><i/><par n="/byť__vbser"/></e>
 
     <e lm="kult"><i>kult</i><par n="narod__n"/></e>
     <e lm="hrdina"><i>hrdin</i><par n="hrdin/a__n"/></e>
