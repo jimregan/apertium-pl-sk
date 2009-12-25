@@ -199,7 +199,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="ahoj__ij">
+    <pardef n="cześć__ij">
       <e>
         <p>
 	  <l></l>
@@ -599,18 +599,35 @@
     <e lm="weń"><p><l>weń</l><r>w<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="sg"/><s n="acc"/></r></p></e>
     <e lm="nań"><p><l>nań</l><r>na<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="sg"/><s n="acc"/></r></p></e>
 
+    <e lm="że"><i>że</i><par n="że__cnjsub"/></e>
+    <e lm="aż"><i>aż</i><par n="że__cnjsub"/></e>
+    <e lm="by"><i>by</i><par n="że__cnjsub"/></e>
+    <e lm="aby"><i>aby</i><par n="że__cnjsub"/></e>
+    <e lm="żeby"><i>żeby</i><par n="że__cnjsub"/></e>
+
+    <e lm="ale"><i>ale</i><par n="i__cnjcoo"/></e>
+
+    <e lm="cześć"><i>cześć</i><par n="cześć__ij"/></e>
+    <e lm="ach"><i>ach</i><par n="cześć__ij"/></e>
+    <e lm="aha"><i>aha</i><par n="cześć__ij"/></e>
+    <e lm="dobranoc"><i>dobranoc</i><par n="cześć__ij"/></e>
+
+    <e lm="gdzie"><i>gdzie</i><par n="gdzie__adv"/></e>
+    <e lm="jak"><i>jak</i><par n="gdzie__adv"/></e>
+    <e lm="kiedy"><i>kiedy</i><par n="gdzie__adv"/></e>
+
     <e lm="dobrze"><p><l>dobrze</l><r>dobrze<s n="adv"/><s n="sint"/></r></p></e>
     <e lm="dobrze"><p><l>lepiej</l><r>dobrze<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
     <e lm="dobrze"><p><l>najlepiej</l><r>dobrze<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
-    <e lm="zle"><p><l>źle</l><r>źle<s n="adv"/><s n="sint"/></r></p></e>
-    <e lm="zle"><p><l>gorzej</l><r>źle<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
-    <e lm="zle"><p><l>najgorzej</l><r>źle<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
-    <e lm="veľmi"><p><l>bardzo</l><r>bardzo<s n="adv"/><s n="sint"/></r></p></e>
-    <e lm="veľmi"><p><l>bardziej</l><r>bardzo<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
-    <e lm="veľmi"><p><l>najbardziej</l><r>bardzo<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
-    <e lm="veľa"><p><l>wiele</l><r>wiele<s n="adv"/><s n="sint"/></r></p></e>
-    <e lm="veľa"><p><l>więcej</l><r>wiele<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
-    <e lm="veľa"><p><l>najwięcej</l><r>wiele<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
+    <e lm="źle"><p><l>źle</l><r>źle<s n="adv"/><s n="sint"/></r></p></e>
+    <e lm="źle"><p><l>gorzej</l><r>źle<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
+    <e lm="źle"><p><l>najgorzej</l><r>źle<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
+    <e lm="bardzo"><p><l>bardzo</l><r>bardzo<s n="adv"/><s n="sint"/></r></p></e>
+    <e lm="bardzo"><p><l>bardziej</l><r>bardzo<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
+    <e lm="bardzo"><p><l>najbardziej</l><r>bardzo<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
+    <e lm="wiele"><p><l>wiele</l><r>wiele<s n="adv"/><s n="sint"/></r></p></e>
+    <e lm="wiele"><p><l>więcej</l><r>wiele<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
+    <e lm="wiele"><p><l>najwięcej</l><r>wiele<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
 
 
     <e lm="Britney"><i>Britney</i><par n="Britney__np"/></e>
@@ -632,13 +649,13 @@
     <e><par n="quotes"/></e>
   </section>
   <section id="foreign" type="standard">
-    <e lm="and"><i>and</i><par n="ahoj__ij"/></e>
-    <e lm="the"><i>the</i><par n="ahoj__ij"/></e>
-    <e lm="this"><i>this</i><par n="ahoj__ij"/></e>
-    <e lm="cite"><i>cite</i><par n="ahoj__ij"/></e>
-    <e lm="br"><i>br</i><par n="ahoj__ij"/></e>
-    <e lm="image"><i>image</i><par n="ahoj__ij"/></e>
-    <e lm="ref"><i>ref</i><par n="ahoj__ij"/></e>
-    <e lm="nbsp"><i>nbsp</i><par n="ahoj__ij"/></e>
+    <e lm="and"><i>and</i><par n="cześć__ij"/></e>
+    <e lm="the"><i>the</i><par n="cześć__ij"/></e>
+    <e lm="this"><i>this</i><par n="cześć__ij"/></e>
+    <e lm="cite"><i>cite</i><par n="cześć__ij"/></e>
+    <e lm="br"><i>br</i><par n="cześć__ij"/></e>
+    <e lm="image"><i>image</i><par n="cześć__ij"/></e>
+    <e lm="ref"><i>ref</i><par n="cześć__ij"/></e>
+    <e lm="nbsp"><i>nbsp</i><par n="cześć__ij"/></e>
   </section>
 </dictionary>

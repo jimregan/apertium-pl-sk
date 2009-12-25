@@ -7800,6 +7800,7 @@
     <e lm="aj"><i>aj</i><par n="a__cnjcoo"/></e>
     <e lm="než"><i>než</i><par n="a__cnjcoo"/></e>
     <e lm="alebo"><i>alebo</i><par n="a__cnjcoo"/></e>
+    <e lm="ale"><i>ale</i><par n="a__cnjcoo"/></e>
 
     <e lm="preto"><i>preto</i><par n="preto__cnjadv"/></e>
     <e lm="pretože"><i>pretože</i><par n="preto__cnjadv"/></e>
@@ -7809,10 +7810,10 @@
     <e lm="by"><i>by</i><par n="že__cnjsub"/></e>
     <e lm="aby"><i>aby</i><par n="že__cnjsub"/></e>
     <e lm="žeby"><i>žeby</i><par n="že__cnjsub"/></e>
-    <e lm="ale"><i>ale</i><par n="že__cnjcoo"/></e>
 
     <e lm="ahoj"><i>ahoj</i><par n="ahoj__ij"/></e>
     <e lm="ach"><i>ach</i><par n="ahoj__ij"/></e>
+    <e lm="aha"><i>aha</i><par n="ahoj__ij"/></e>
     <e lm="dobrú noc"><i>dobrú<b/>noc</i><par n="ahoj__ij"/></e>
 
     <e lm="kde"><i>kde</i><par n="kde__adv"/></e>
