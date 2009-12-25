@@ -584,6 +584,251 @@
         </p>
       </e>
     </pardef>
+
+    <pardef n="PBASE__matka">
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ę</l>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ami</l>
+          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="PBASE__woda">
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ę</l>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ami</l>
+          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="BASE__matka">
+      <e>
+        <p>
+          <l>ce</l>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ce</l>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ek</l>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>k</l>
+          <r></r>
+        </p>
+        <par n="PBASE__matka"/>
+      </e>
+    </pardef>
+    <pardef n="BASE__woda">
+      <e>
+        <p>
+          <l>odzie</l>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>odzie</l>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ód</l>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>od</l>
+          <r></r>
+        </p>
+        <par n="PBASE__woda"/>
+      </e>
+    </pardef>
+    <pardef n="BASE__oda">
+      <e>
+        <p>
+          <l>zie</l>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zie</l>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r></r>
+        </p>
+        <par n="PBASE__woda"/>
+      </e>
+    </pardef>
+    <pardef n="mat/ka__n">
+      <e>
+        <p>
+          <l></l>
+          <r>ka<s n="n"/></r>
+        </p>
+        <par n="BASE__matka"/>
+      </e>
+    </pardef>
+    <pardef n="w/oda__n">
+      <e>
+        <p>
+          <l></l>
+          <r>oda<s n="n"/></r>
+        </p>
+        <par n="BASE__woda"/>
+      </e>
+    </pardef>
+    <pardef n="od/a__n">
+      <e>
+        <p>
+          <l></l>
+          <r>a<s n="n"/></r>
+        </p>
+        <par n="BASE__oda"/>
+      </e>
+    </pardef>
   </pardefs>
   <section id="main" type="standard">
     <e lm="do"><p><l>do</l><r>do<s n="pr"/></r></p></e>
@@ -647,6 +892,10 @@
     <e lm="gdzie"><i>gdzie</i><par n="gdzie__adv"/></e>
     <e lm="jak"><i>jak</i><par n="gdzie__adv"/></e>
     <e lm="kiedy"><i>kiedy</i><par n="gdzie__adv"/></e>
+
+    <e lm="matka"><i>mat</i><par n="mat/ka__n"/></e>
+    <e lm="woda"><i>w</i><par n="w/oda__n"/></e>
+    <e lm="oda"><i>od</i><par n="od/a__n"/></e>
 
     <e lm="dobrze"><p><l>dobrze</l><r>dobrze<s n="adv"/><s n="sint"/></r></p></e>
     <e lm="dobrze"><p><l>lepiej</l><r>dobrze<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
