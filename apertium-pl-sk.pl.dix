@@ -223,6 +223,38 @@
 	</p>
       </e>
     </pardef>
+    <pardef n="by__cnjsub">
+      <e>
+        <p>
+	  <l></l>
+	  <r><s n="cnjsub"/></r>
+	</p>
+      </e>
+      <e>
+        <p>
+	  <l>m</l>
+	  <r><s n="cnjsub"/><j/>być<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+	</p>
+      </e>
+      <e>
+        <p>
+	  <l>ś</l>
+	  <r><s n="cnjsub"/><j/>być<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+	</p>
+      </e>
+      <e>
+        <p>
+	  <l>śmy</l>
+	  <r><s n="cnjsub"/><j/>być<s n="vbser"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+	</p>
+      </e>
+      <e>
+        <p>
+	  <l>ście</l>
+	  <r><s n="cnjsub"/><j/>być<s n="vbser"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+	</p>
+      </e>
+    </pardef>
     <pardef n="preto__cnjadv">
       <e>
         <p>
@@ -601,9 +633,9 @@
 
     <e lm="że"><i>że</i><par n="że__cnjsub"/></e>
     <e lm="aż"><i>aż</i><par n="że__cnjsub"/></e>
-    <e lm="by"><i>by</i><par n="że__cnjsub"/></e>
-    <e lm="aby"><i>aby</i><par n="że__cnjsub"/></e>
-    <e lm="żeby"><i>żeby</i><par n="że__cnjsub"/></e>
+    <e lm="by"><i>by</i><par n="by__cnjsub"/></e>
+    <e lm="aby"><i>aby</i><par n="by__cnjsub"/></e>
+    <e lm="żeby"><i>żeby</i><par n="by__cnjsub"/></e>
 
     <e lm="ale"><i>ale</i><par n="i__cnjcoo"/></e>
 
