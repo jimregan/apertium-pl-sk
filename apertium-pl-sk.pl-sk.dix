@@ -1419,6 +1419,7 @@
     <e><p><l>matematycznie<s n="adv"/></l><r>matematicky<s n="adv"/></r></p></e>
     <e><p><l>mechanicznie<s n="adv"/></l><r>mechanicky<s n="adv"/></r></p></e>
     <e><p><l>międzynarodowo<s n="adv"/></l><r>medzinárodne<s n="adv"/></r></p></e>
+    <e><p><l>narodowo<s n="adv"/></l><r>národne<s n="adv"/></r></p></e>
     <e><p><l>metodologicznie<s n="adv"/></l><r>metodicky<s n="adv"/></r></p></e>
     <e><p><l>miłosiernie<s n="adv"/></l><r>milosrdne<s n="adv"/></r></p></e>
     <e><p><l>nagle<s n="adv"/></l><r>náhle<s n="adv"/></r></p></e>
@@ -1482,7 +1483,9 @@
     <e><p><l>oko<s n="n"/><s n="nt"/></l><r>oko<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>komputer<s n="n"/><s n="mi"/></l><r>počítač<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>bengalski<s n="adj"/></l><r>bengálsky<s n="adj"/></r></p></e>
-    <e><p><l>potrzebny<s n="adj"/></l><r>potrebný"<s n="adj"/></r></p></e>
+    <e><p><l>potrzebny<s n="adj"/></l><r>potrebný<s n="adj"/></r></p></e>
+    <e><p><l>narodowy<s n="adj"/></l><r>národný<s n="adj"/></r></p></e>
+    <e><p><l>międzynarodowy<s n="adj"/></l><r>medzinárodný<s n="adj"/></r></p></e>
     <e><p><l>Benin<s n="np"/><s n="top"/><s n="mi"/></l><r>Benin<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Berlin<s n="np"/><s n="top"/><s n="mi"/></l><r>Berlín<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>beta<s n="n"/><s n="f"/></l><r>beta<s n="n"/><s n="f"/></r></p></e>

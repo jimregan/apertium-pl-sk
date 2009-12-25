@@ -7838,6 +7838,8 @@
     <e lm="čierny"><i>čiern</i><par n="absolútn/y__adj"/></e>
     <e lm="abstraktný"><i>abstraktn</i><par n="abstraktn/ý__adj"/></e>
     <e lm="potrebný"><i>potrebn</i><par n="abstraktn/ý__adj"/></e>
+    <e lm="národný"><i>národn</i><par n="abstraktn/ý__adj"/></e>
+    <e lm="medzinárodný"><i>medzinárodn</i><par n="abstraktn/ý__adj"/></e>
     <e lm="pekný"><i>pekn</i><par n="abstraktn/ý__adj"/></e>
     <e lm="veľký"><i>veľk</i><par n="abstraktn/ý__adj"/></e>
     <e lm="ťažký"><i>ťažk</i><par n="abstraktn/ý__adj"/></e>
@@ -7969,6 +7971,7 @@
     <e lm="matematicky"><i>matematicky</i><par n="tu__adv"/></e>
     <e lm="mechanicky"><i>mechanicky</i><par n="tu__adv"/></e>
     <e lm="medzinárodne"><i>medzinárodne</i><par n="tu__adv"/></e>
+    <e lm="národne"><i>národne</i><par n="tu__adv"/></e>
     <e lm="metodicky"><i>metodicky</i><par n="tu__adv"/></e>
     <e lm="milosrdne"><i>milosrdne</i><par n="tu__adv"/></e>
     <e lm="náhle"><i>náhle</i><par n="tu__adv"/></e>
