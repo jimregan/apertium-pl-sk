@@ -508,6 +508,50 @@
         </p>
       </e>
     </pardef>
+    <pardef n="się__prn">
+      <e>
+        <p>
+          <l>siebie</l>
+          <r>się<s n="prn"/><s n="ref"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>se</l>
+          <r>sa<s n="prn"/><s n="ref"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sobie</l>
+          <r>się<s n="prn"/><s n="ref"/><s n="emph"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>się</l>
+          <r>się<s n="prn"/><s n="ref"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>siebie</l>
+          <r>się<s n="prn"/><s n="ref"/><s n="emph"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sobie</l>
+          <r>się<s n="prn"/><s n="ref"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sobą</l>
+          <r>się<s n="prn"/><s n="ref"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
   </pardefs>
   <section id="main" type="standard">
     <e lm="do"><p><l>do</l><r>do<s n="pr"/></r></p></e>
