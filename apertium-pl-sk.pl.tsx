@@ -13,6 +13,14 @@
   <def-label name="IJ">
     <tags-item tags="ij"/>
   </def-label> 
+  <def-label name="TAKNIEADV">
+    <tags-item lemma="tak" tags="adv"/>
+    <tags-item lemma="nie" tags="adv"/>
+  </def-label> 
+  <def-label name="TAKNIEIJ">
+    <tags-item lemma="tak" tags="ij"/>
+    <tags-item lemma="nie" tags="ij"/>
+  </def-label> 
   <def-label name="ADV">
     <tags-item tags="adv"/>
     <tags-item tags="adv.sint"/>
@@ -41,6 +49,7 @@
     <tags-item lemma="u" tags="pr"/>
     <tags-item lemma="dla" tags="pr"/>
     <tags-item lemma="około" tags="pr"/>
+    <tags-item lemma="podczas" tags="pr"/>
   </def-label> 
   <def-label name="DATPR" closed="true">
     <tags-item lemma="ku" tags="pr"/>
