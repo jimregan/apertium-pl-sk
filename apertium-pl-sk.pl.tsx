@@ -33,6 +33,9 @@
   <def-label name="PO" closed="true">
     <tags-item lemma="po" tags="pr"/>
   </def-label> 
+  <def-label name="VBSER" closed="true">
+    <tags-item lemma="być" tags="vbser"/>
+  </def-label> 
   <def-label name="PRCASELESS" closed="true">
     <tags-item lemma="jako" tags="pr"/>
   </def-label> 
@@ -131,12 +134,26 @@
       <tags-item tags="prn.p3.mp.sg.acc"/>
     </sequence>
   </def-mult>
+  <def-mult name="ADJENCSER" closed="true">  
+    <sequence>
+      <tags-item tags="adj.*"/>
+      <tags-item tags="vbser.pres.*"/>
+    </sequence>
+  </def-mult>
 </tagset>
 
 <forbid>
   <label-sequence>
     <label-item label="PR"/>
     <label-item label="P3PRNNONPR"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="VBSER"/>
+    <label-item label="ADJENCSER"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="PR"/>
+    <label-item label="ADJENCSER"/>
   </label-sequence>
 </forbid>
 
