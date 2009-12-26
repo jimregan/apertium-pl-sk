@@ -5462,6 +5462,192 @@
         </p>
       </e>
     </pardef>
+    <pardef n="je/sť__vblex">
+      <e>
+         <p>
+          <l>sť</l>
+          <r>sť<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>m</l>
+          <r>sť<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>š</l>
+          <r>sť<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>sť<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>me</l>
+          <r>sť<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>te</l>
+          <r>sť<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dia</l>
+          <r>sť<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dol</l>
+          <r>sť<s n="vblex"/><s n="imperf"/><s n="past"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dola</l>
+          <r>sť<s n="vblex"/><s n="imperf"/><s n="past"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dolo</l>
+          <r>sť<s n="vblex"/><s n="imperf"/><s n="past"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>doli</l>
+          <r>sť<s n="vblex"/><s n="imperf"/><s n="past"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dz</l>
+          <r>sť<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dzme</l>
+          <r>sť<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dzte</l>
+          <r>sť<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>den</l>
+          <r>sť<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+       </p>
+       <par n="BASE__bytie"/>
+      </e>
+    </pardef>
+    <pardef n="zje/sť__vblex">
+      <e>
+         <p>
+          <l>sť</l>
+          <r>sť<s n="vblex"/><s n="perf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>m</l>
+          <r>sť<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>š</l>
+          <r>sť<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>sť<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>me</l>
+          <r>sť<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>te</l>
+          <r>sť<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dia</l>
+          <r>sť<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dol</l>
+          <r>sť<s n="vblex"/><s n="perf"/><s n="past"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dola</l>
+          <r>sť<s n="vblex"/><s n="perf"/><s n="past"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dolo</l>
+          <r>sť<s n="vblex"/><s n="perf"/><s n="past"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>doli</l>
+          <r>sť<s n="vblex"/><s n="perf"/><s n="past"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dz</l>
+          <r>sť<s n="vblex"/><s n="perf"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dzme</l>
+          <r>sť<s n="vblex"/><s n="perf"/><s n="imp"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dzte</l>
+          <r>sť<s n="vblex"/><s n="perf"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>den</l>
+          <r>sť<s n="vblex"/><s n="perf"/><s n="ger"/></r>
+       </p>
+       <par n="BASE__bytie"/>
+      </e>
+    </pardef>
 
     <pardef n="m/ať__vbhaver">
       <e>
@@ -8174,6 +8360,8 @@
 
     <e lm="čítať"><par n="ne+"/><i>čít</i><par n="čít/ať__vblex"/></e>
     <e lm="prečítať"><par n="ne+"/><i>prečít</i><par n="prečít/ať__vblex"/></e>
+    <e lm="jesť"><par n="ne+"/><i>je</i><par n="je/sť__vblex"/></e>
+    <e lm="zjesť"><par n="ne+"/><i>zje</i><par n="zje/sť__vblex"/></e>
     <e lm="volať"><par n="ne+"/><i>vol</i><par n="vol/ať__vblex"/></e>
     <e lm="hľadať"><par n="ne+"/><i>hľad</i><par n="vol/ať__vblex"/></e>
     <e lm="mať"><par n="ne+"/><i>m</i><par n="m/ať__vbhaver"/></e>
