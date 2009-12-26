@@ -1110,6 +1110,92 @@
         </p>
       </e>
     </pardef>
+    <pardef n="w/ieś__n">
+      <e>
+        <p>
+          <l>ieś</l>
+          <r>ieś<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>si</l>
+          <r>ieś<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>si</l>
+          <r>ieś<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ieś</l>
+          <r>ieś<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sią</l>
+          <r>ieś<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>si</l>
+          <r>ieś<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>si</l>
+          <r>ieś<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sie</l>
+          <r>ieś<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>si</l>
+          <r>ieś<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>siom</l>
+          <r>ieś<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sie</l>
+          <r>ieś<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>siami</l>
+          <r>ieś<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>siach</l>
+          <r>ieś<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sie</l>
+          <r>ieś<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
 
   </pardefs>
   <section id="main" type="standard">
@@ -1182,6 +1268,7 @@
     <e lm="rzeka"><i>rze</i><par n="rze/ka__n"/></e>
     <e lm="pasta"><i>pa</i><par n="pa/sta__n"/></e>
     <e lm="noc"><i>noc</i><par n="noc__n"/></e>
+    <e lm="wieś"><i>w</i><par n="w/ieś__n"/></e>
 
     <e lm="dobrze"><p><l>dobrze</l><r>dobrze<s n="adv"/><s n="sint"/></r></p></e>
     <e lm="dobrze"><p><l>lepiej</l><r>dobrze<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
@@ -1269,7 +1356,6 @@
     <e lm="czerstwość"><i>czerstwoś</i><par n="miłoś/ć__n"/></e>
     <e lm="czerwiwość"><i>czerwiwoś</i><par n="miłoś/ć__n"/></e>
     <e lm="czerwoność"><i>czerwonoś</i><par n="miłoś/ć__n"/></e>
-    <e lm="cześć"><i>cześ</i><par n="miłoś/ć__n"/></e>
     <e lm="część"><i>częś</i><par n="miłoś/ć__n"/></e>
     <e lm="czeskość"><i>czeskoś</i><par n="miłoś/ć__n"/></e>
     <e lm="częstość"><i>częstoś</i><par n="miłoś/ć__n"/></e>
