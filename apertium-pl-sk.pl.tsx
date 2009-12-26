@@ -53,6 +53,7 @@
     <tags-item lemma="dla" tags="pr"/>
     <tags-item lemma="około" tags="pr"/>
     <tags-item lemma="podczas" tags="pr"/>
+    <tags-item lemma="zamiast" tags="pr"/>
   </def-label> 
   <def-label name="DATPR" closed="true">
     <tags-item lemma="ku" tags="pr"/>

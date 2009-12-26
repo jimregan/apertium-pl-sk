@@ -82,6 +82,8 @@
     <sdef n="lquot"/>
     <sdef n="rquot"/>
     <sdef n="ref"/>
+    <sdef n="pp"/>
+    <sdef n="psv"/>
   </sdefs>
   
   <pardefs>
@@ -5888,6 +5890,21 @@
           <r>iť<s n="vblex"/><s n="imperf"/><s n="past"/><s n="pl"/></r>
         </p>
       </e>
+
+      <e>
+        <p>
+          <l>en</l>
+          <r>iť<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__bytie"/>
+      </e>
+      <e>
+        <p>
+          <l>en</l>
+          <r>iť<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="psv"/></r>
+        </p>
+        <par n="BASE__abstraktný"/>
+      </e>
     </pardef>
     
     <pardef n="/byť__vbser">
@@ -6022,8 +6039,8 @@
         <p>
           <l>byt</l>
           <r>byť<s n="vbser"/><s n="ger"/></r>
-       </p>
-       <par n="BASE__bytie"/>
+        </p>
+        <par n="BASE__bytie"/>
       </e>
     </pardef>
 
