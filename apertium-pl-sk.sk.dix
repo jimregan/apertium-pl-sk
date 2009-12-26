@@ -7415,6 +7415,178 @@
         </p>
       </e>
     </pardef>
+    <pardef n="kame/ň__n">
+      <e>
+        <p>
+          <l>ň</l>
+          <r>ň<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ňa</l>
+          <r>ň<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ňu</l>
+          <r>ň<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ň</l>
+          <r>ň<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ni</l>
+          <r>ň<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ňom</l>
+          <r>ň<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ň</l>
+          <r>ň<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ne</l>
+          <r>ň<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ňov</l>
+          <r>ň<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ňom</l>
+          <r>ň<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ne</l>
+          <r>ň<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ňoch</l>
+          <r>ň<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ňmi</l>
+          <r>ň<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ne</l>
+          <r>ň<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="jele/ň__n">
+      <e>
+        <p>
+          <l>ň</l>
+          <r>ň<s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ňa</l>
+          <r>ň<s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ňovi</l>
+          <r>ň<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ňa</l>
+          <r>ň<s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ňovi</l>
+          <r>ň<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ňom</l>
+          <r>ň<s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ň</l>
+          <r>ň<s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ne</l>
+          <r>ň<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ňov</l>
+          <r>ň<s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ňom</l>
+          <r>ň<s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ňov</l>
+          <r>ň<s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ňoch</l>
+          <r>ň<s n="n"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ňmi</l>
+          <r>ň<s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ne</l>
+          <r>ň<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="stroj/__n">
       <e>
         <p>
@@ -8850,6 +9022,11 @@
     <e lm="hrdina"><i>hrdin</i><par n="hrdin/a__n"/></e>
     <e lm="zámok"><i>zám</i><par n="zám/ok__n"/></e>
     <e lm="rok"><i>rok</i><par n="rok__n"/></e>
+    <e lm="dub"><i>dub</i><par n="dub__n"/></e>
+    <e lm="kláštor"><i>kláštor</i><par n="dub__n"/></e>
+    <e lm="kameň"><i>kame</i><par n="kame/ň__n"/></e>
+    <e lm="jeleň"><i>jele</i><par n="jele/ň__n"/></e>
+    <e lm="raz"><i>r</i><par n="r/az__n"/></e>
     <e lm="pivo"><i>p</i><par n="p/ivo__n"/></e>
     <e lm="sloveso"><i>slov</i><par n="slov/eso__n"/></e>
     <e lm="mesto"><i>m</i><par n="m/esto__n"/></e>
