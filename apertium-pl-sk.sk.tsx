@@ -112,6 +112,17 @@
     <tags-item tags="adj.po"/>
   </def-label> 
 
+  <def-label name="NE" closed="true">
+    <tags-item lemma="ne" tags="adv"/>
+  </def-label> 
+  <def-label name="SERFUT" closed="true">
+    <tags-item lemma="byť" tags="vbser.fut.*"/>
+  </def-label> 
+
+  <def-label name="VBLEXPERF" closed="true">
+    <tags-item tags="vblex.perf.*"/>
+  </def-label> 
+
   <def-mult name="PRNEHOEMPHNT" closed="true">  
     <sequence>
       <label-item label="PR"/>
@@ -136,12 +147,26 @@
       <tags-item tags="prn.p3.m.sg.acc"/>
     </sequence>
   </def-mult>
+  <def-mult name="NESERFUT" closed="true">  
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="SERFUT"/>
+    </sequence>
+  </def-mult>
 </tagset>
 
 <forbid>
   <label-sequence>
     <label-item label="PR"/>
     <label-item label="P3PRNNONPR"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="SERFUT"/>
+    <label-item label="VBLEXPERF"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="NESERFUT"/>
+    <label-item label="VBLEXPERF"/>
   </label-sequence>
 </forbid>
 

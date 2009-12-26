@@ -5290,6 +5290,92 @@
         </p>
       </e>
     </pardef>
+    <pardef n="zavol/ať__vblex">
+      <e>
+         <p>
+          <l>ať</l>
+          <r>ať<s n="vblex"/><s n="perf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ám</l>
+          <r>ať<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>áš</l>
+          <r>ať<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>á</l>
+          <r>ať<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>áme</l>
+          <r>ať<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>áte</l>
+          <r>ať<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ajú</l>
+          <r>ať<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>al</l>
+          <r>ať<s n="vblex"/><s n="perf"/><s n="past"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ala</l>
+          <r>ať<s n="vblex"/><s n="perf"/><s n="past"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>alo</l>
+          <r>ať<s n="vblex"/><s n="perf"/><s n="past"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ali</l>
+          <r>ať<s n="vblex"/><s n="perf"/><s n="past"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>aj</l>
+          <r>ať<s n="vblex"/><s n="perf"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ajme</l>
+          <r>ať<s n="vblex"/><s n="perf"/><s n="imp"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ajte</l>
+          <r>ať<s n="vblex"/><s n="perf"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="organiz/ovať__vblex">
       <e>
          <p>
@@ -6047,6 +6133,15 @@
         </p>
       </e>
       <e><i>iv</i><par n="Neuter_pivo"/></e>
+    </pardef>
+    <pardef n="slov/eso__n">
+      <e>
+        <p>
+          <l>ies</l>
+          <r>eso<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e><i>es</i><par n="Neuter_pivo"/></e>
     </pardef>
     <pardef n="s/lnko__n">
       <e>
@@ -8367,12 +8462,17 @@
     <e lm="mať"><par n="ne+"/><i>m</i><par n="m/ať__vbhaver"/></e>
     <e lm="robiť"><par n="ne+"/><i>rob</i><par n="rob/iť__vblex"/></e>
     <e lm="byť"><par n="ne+"/><i/><par n="/byť__vbser"/></e>
+    <e lm="organizovať"><par n="ne+"/><i>organiz</i><par n="organiz/ovať__vblex"/></e>
+    <e lm="zorganizovať"><par n="ne+"/><i>zorganiz</i><par n="zorganiz/ovať__vblex"/></e>
+    <e lm="absorbovať"><par n="ne+"/><i>absorb</i><par n="organiz/ovať__vblex"/></e>
+    <e lm="absorbovať"><par n="ne+"/><i>absorb</i><par n="zorganiz/ovať__vblex"/></e>
 
     <e lm="kult"><i>kult</i><par n="narod__n"/></e>
     <e lm="hrdina"><i>hrdin</i><par n="hrdin/a__n"/></e>
     <e lm="zámok"><i>zám</i><par n="zám/ok__n"/></e>
     <e lm="rok"><i>rok</i><par n="rok__n"/></e>
     <e lm="pivo"><i>p</i><par n="p/ivo__n"/></e>
+    <e lm="sloveso"><i>slov</i><par n="slov/eso__n"/></e>
     <e lm="mesto"><i>m</i><par n="m/esto__n"/></e>
     <e lm="koryto"><i>kor</i><par n="kor/yto__n"/></e>
     <e lm="narod"><i>narod</i><par n="narod__n"/></e>
