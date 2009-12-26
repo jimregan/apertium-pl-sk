@@ -748,6 +748,33 @@
         <par n="PBASE__matka"/>
       </e>
     </pardef>
+    <pardef n="BASE__rzeka">
+      <e>
+        <p>
+          <l>ce</l>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ce</l>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>k</l>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>k</l>
+          <r></r>
+        </p>
+        <par n="PBASE__matka"/>
+      </e>
+    </pardef>
     <pardef n="BASE__woda">
       <e>
         <p>
@@ -802,6 +829,60 @@
         <par n="PBASE__woda"/>
       </e>
     </pardef>
+    <pardef n="BASE__viagra">
+      <e>
+        <p>
+          <l>ze</l>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ze</l>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r></r>
+        </p>
+        <par n="PBASE__woda"/>
+      </e>
+    </pardef>
+    <pardef n="BASE__pasta">
+      <e>
+        <p>
+          <l>ście</l>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ście</l>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>st</l>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>st</l>
+          <r></r>
+        </p>
+        <par n="PBASE__woda"/>
+      </e>
+    </pardef>
     <pardef n="mat/ka__n">
       <e>
         <p>
@@ -809,6 +890,15 @@
           <r>ka<s n="n"/></r>
         </p>
         <par n="BASE__matka"/>
+      </e>
+    </pardef>
+    <pardef n="rze/ka__n">
+      <e>
+        <p>
+          <l></l>
+          <r>ka<s n="n"/></r>
+        </p>
+        <par n="BASE__rzeka"/>
       </e>
     </pardef>
     <pardef n="w/oda__n">
@@ -829,6 +919,198 @@
         <par n="BASE__oda"/>
       </e>
     </pardef>
+    <pardef n="viagr/a__n">
+      <e>
+        <p>
+          <l></l>
+          <r>a<s n="n"/></r>
+        </p>
+        <par n="BASE__viagra"/>
+      </e>
+    </pardef>
+    <pardef n="pa/sta__n">
+      <e>
+        <p>
+          <l></l>
+          <r>sta<s n="n"/></r>
+        </p>
+        <par n="BASE__pasta"/>
+      </e>
+    </pardef>
+
+    <pardef n="noc__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ami</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="miłoś/ć__n">
+      <e>
+        <p>
+          <l>ć</l>
+          <r>ć<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r>ć<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r>ć<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ć</l>
+          <r>ć<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cią</l>
+          <r>ć<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r>ć<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r>ć<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r>ć<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r>ć<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ciom</l>
+          <r>ć<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r>ć<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ciami</l>
+          <r>ć<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ciach</l>
+          <r>ć<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r>ć<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+
   </pardefs>
   <section id="main" type="standard">
     <e lm="do"><p><l>do</l><r>do<s n="pr"/></r></p></e>
@@ -896,6 +1178,10 @@
     <e lm="matka"><i>mat</i><par n="mat/ka__n"/></e>
     <e lm="woda"><i>w</i><par n="w/oda__n"/></e>
     <e lm="oda"><i>od</i><par n="od/a__n"/></e>
+    <e lm="viagra"><i>viagr</i><par n="viagr/a__n"/></e>
+    <e lm="rzeka"><i>rze</i><par n="rze/ka__n"/></e>
+    <e lm="pasta"><i>pa</i><par n="pa/sta__n"/></e>
+    <e lm="noc"><i>noc</i><par n="noc__n"/></e>
 
     <e lm="dobrze"><p><l>dobrze</l><r>dobrze<s n="adv"/><s n="sint"/></r></p></e>
     <e lm="dobrze"><p><l>lepiej</l><r>dobrze<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
@@ -910,6 +1196,246 @@
     <e lm="wiele"><p><l>więcej</l><r>wiele<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
     <e lm="wiele"><p><l>najwięcej</l><r>wiele<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
 
+    <e lm="absolutność"><i>absolutnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="absurdalność"><i>absurdalnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="adaptabilność"><i>adaptabilnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="adekwatność"><i>adekwatnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="adresowalność"><i>adresowalnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="aerodynamiczność"><i>aerodynamicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="agresywność"><i>agresywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="akademickość"><i>akademickoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="akceptowalność"><i>akceptowalnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="akcyjność"><i>akcyjnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="aktualność"><i>aktualnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="aktywność"><i>aktywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="akuratność"><i>akuratnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="alegoryczność"><i>alegorycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="alkaliczność"><i>alkalicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="alogiczność"><i>alogicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="alternatywność"><i>alternatywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="ambiwalentność"><i>ambiwalentnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="amoralność"><i>amoralnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="amorficzność"><i>amorficznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="anachroniczność"><i>anachronicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="analogiczność"><i>analogicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="anarchiczność"><i>anarchicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="anormalność"><i>anormalnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="apatyczność"><i>apatycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="apodyktyczność"><i>apodyktycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="apolityczność"><i>apolitycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="archaiczność"><i>archaicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="asertywność"><i>asertywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="asocjatywność"><i>asocjatywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="asymetryczność"><i>asymetrycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="asynchroniczność"><i>asynchronicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="atrakcyjność"><i>atrakcyjnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="atypowość"><i>atypowoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="autentyczność"><i>autentycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="automatyczność"><i>automatycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="autonomiczność"><i>autonomicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="autorytatywność"><i>autorytatywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="banalność"><i>banalnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="bezbolesność"><i>bezbolesnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="bezbożność"><i>bezbożnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="bezduszność"><i>bezdusznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="bezideowość"><i>bezideowoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="bezkonfliktowość"><i>bezkonfliktowoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="beznadziejność"><i>beznadziejnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="bezpartyjność"><i>bezpartyjnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="bezpieczność"><i>bezpiecznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="bezprawność"><i>bezprawnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="bezradność"><i>bezradnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="bezsenność"><i>bezsennoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="bezwładność"><i>bezwładnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="białość"><i>białoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="bipolarność"><i>bipolarnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="biurokratyczność"><i>biurokratycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="bojaźliwość"><i>bojaźliwoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="bojowość"><i>bojowoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="brutalność"><i>brutalnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="bujność"><i>bujnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="bystrość"><i>bystroś</i><par n="miłoś/ć__n"/></e>
+    <e lm="cenność"><i>cennoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="ceremonialność"><i>ceremonialnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="charytatywność"><i>charytatywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="chłopskość"><i>chłopskoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="chmurność"><i>chmurnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="chromość"><i>chromoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="chudość"><i>chudoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="chytrość"><i>chytroś</i><par n="miłoś/ć__n"/></e>
+    <e lm="cudność"><i>cudnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="cywilność"><i>cywilnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="czasowość"><i>czasowoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="czerstwość"><i>czerstwoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="czerwiwość"><i>czerwiwoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="czerwoność"><i>czerwonoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="cześć"><i>cześ</i><par n="miłoś/ć__n"/></e>
+    <e lm="część"><i>częś</i><par n="miłoś/ć__n"/></e>
+    <e lm="czeskość"><i>czeskoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="częstość"><i>częstoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="czleneność"><i>czlenenoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="czlenitość"><i>czlenitoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="czujność"><i>czujnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="czułość"><i>czułoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="czynność"><i>czynnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="defensywność"><i>defensywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="definitywność"><i>definitywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="deklaratywność"><i>deklaratywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="dekoratywność"><i>dekoratywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="delikatność"><i>delikatnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="demokratyczność"><i>demokratycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="demoniczność"><i>demonicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="długowieczność"><i>długowiecznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="dobroserdeczność"><i>dobroserdecznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="dogmatyczność"><i>dogmatycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="dojność"><i>dojnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="dostępność"><i>dostępnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="dostojność"><i>dostojnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="dowcipność"><i>dowcipnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="dramatyczność"><i>dramatycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="drobność"><i>drobnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="duchowość"><i>duchowoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="dwojakość"><i>dwojakoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="dworność"><i>dwornoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="dwudzielność"><i>dwudzielnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="dwufazowość"><i>dwufazowoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="dwujęzyczność"><i>dwujęzycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="dwustronność"><i>dwustronnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="dwuznaczność"><i>dwuznacznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="dychawiczność"><i>dychawicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="dynamiczność"><i>dynamicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="dyplomatyczność"><i>dyplomatycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="dysharmoniczność"><i>dysharmonicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="efektność"><i>efektnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="efektywność"><i>efektywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="efemeryczność"><i>efemerycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="egocentryczność"><i>egocentrycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="egzotyczność"><i>egzotycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="ekonomiczność"><i>ekonomicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="ekscentryczność"><i>ekscentrycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="ekskluzywność"><i>ekskluzywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="ekspansywność"><i>ekspansywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="eksplicytność"><i>eksplicytnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="ekspresowość"><i>ekspresowoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="ekspresywność"><i>ekspresywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="ekstatyczność"><i>ekstatycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="ekstensywność"><i>ekstensywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="ekstrawaganckość"><i>ekstrawaganckoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="ekstremalność"><i>ekstremalnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="ekumeniczność"><i>ekumenicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="ekwiwalentność"><i>ekwiwalentnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="elastyczność"><i>elastycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="elementarność"><i>elementarnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="emocjonalność"><i>emocjonalnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="emotywność"><i>emotywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="energiczność"><i>energicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="eteryczność"><i>eterycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="ewidentność"><i>ewidentnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="faktyczność"><i>faktycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="fakultatywność"><i>fakultatywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="familiarność"><i>familiarnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="fantastyczność"><i>fantastycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="fantazyjność"><i>fantazyjnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="fatalność"><i>fatalnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="fazowość"><i>fazowoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="figuratywność"><i>figuratywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="flegmatyczność"><i>flegmatycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="formalność"><i>formalnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="fotogeniczność"><i>fotogenicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="fragmentaryczność"><i>fragmentarycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="frekwencyjność"><i>frekwencyjnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="frywolność"><i>frywolnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="funkcyjność"><i>funkcyjnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="genialność"><i>genialnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="gigantyczność"><i>gigantycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="gładkość"><i>gładkoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="globalność"><i>globalnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="głuchość"><i>głuchoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="godność"><i>godnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="gorliwość"><i>gorliwoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="gotowość"><i>gotowoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="gramatyczność"><i>gramatycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="groteskowość"><i>groteskowoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="harmoniczność"><i>harmonicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="heroiczność"><i>heroicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="heterogeniczność"><i>heterogenicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="hierarchiczność"><i>hierarchicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="historyczność"><i>historycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="homogeniczność"><i>homogenicznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="homoseksualność"><i>homoseksualnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="implicytność"><i>implicytnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="impulsywność"><i>impulsywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="indukcyjność"><i>indukcyjnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="induktywność"><i>induktywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="infekcyjność"><i>infekcyjnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="instruktywność"><i>instruktywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="inteligentność"><i>inteligentnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="intuicyjność"><i>intuicyjnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="inwariantność"><i>inwariantnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="jakość"><i>jakoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="kompetentność"><i>kompetentnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="kompleksowość"><i>kompleksowoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="komunikatywność"><i>komunikatywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="kontradyktoryjność"><i>kontradyktoryjnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="kontrowersyjność"><i>kontrowersyjnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="korozyjność"><i>korozyjnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="kość"><i>koś</i><par n="miłoś/ć__n"/></e>
+    <e lm="kreatywność"><i>kreatywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="krętość"><i>krętoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="krótkość"><i>krótkoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="kulturalność"><i>kulturalnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="łaskawość"><i>łaskawoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="lekkomyślność"><i>lekkomyślnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="lekkość"><i>lekkoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="leniwość"><i>leniwoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="lojalność"><i>lojalnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="lubość"><i>luboś</i><par n="miłoś/ć__n"/></e>
+    <e lm="mądrość"><i>mądroś</i><par n="miłoś/ć__n"/></e>
+    <e lm="marność"><i>marnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="maść"><i>maś</i><par n="miłoś/ć__n"/></e>
+    <e lm="mierność"><i>miernoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="miłość"><i>miłoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="mityczność"><i>mitycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="młodość"><i>młodoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="mnogość"><i>mnogoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="mnogotwárność"><i>mnogotwárnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="moralność"><i>moralnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="możność"><i>możnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="niedbałość"><i>niedbałoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="nielubość"><i>nieluboś</i><par n="miłoś/ć__n"/></e>
+    <e lm="nienawiść"><i>nienawiś</i><par n="miłoś/ć__n"/></e>
+    <e lm="nieprawość"><i>nieprawoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="nieprzyjemność"><i>nieprzyjemnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="nowość"><i>nowoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="obcojęzyczność"><i>obcojęzycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="osobność"><i>osobnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="ostrość"><i>ostroś</i><par n="miłoś/ć__n"/></e>
+    <e lm="paralelność"><i>paralelnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="śmierć"><i>śmier</i><par n="miłoś/ć__n"/></e>
+    <e lm="solidarność"><i>solidarnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="solidność"><i>solidnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="sporność"><i>spornoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="sprawność"><i>sprawnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="stabilność"><i>stabilnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="starość"><i>staroś</i><par n="miłoś/ć__n"/></e>
+    <e lm="starożytność"><i>starożytnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="statyczność"><i>statycznoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="strojność"><i>strojnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="studenckość"><i>studenckoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="suchość"><i>suchoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="sugestywność"><i>sugestywnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="surowość"><i>surowoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="swojskość"><i>swojskoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="twardość"><i>twardoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="wulgarność"><i>wulgarnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="wysokość"><i>wysokoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="zabawność"><i>zabawnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="zadość"><i>zadoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="zamożność"><i>zamożnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="zdatność"><i>zdatnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="zgubność"><i>zgubnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="złość"><i>złoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="zwykłość"><i>zwykłoś</i><par n="miłoś/ć__n"/></e>
 
     <e lm="Britney"><i>Britney</i><par n="Britney__np"/></e>
     <e lm="Lynne"><i>Lynne</i><par n="Britney__np"/></e>
