@@ -332,6 +332,93 @@
       </e>
     </pardef>
 
+    <pardef n="BASE__bytie">
+      <e>
+        <p>
+          <l>ie</l>
+          <r><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ia</l>
+          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iu</l>
+          <r><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>í</l>
+          <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ím</l>
+          <r><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ia</l>
+          <r><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>í</l>
+          <r><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iam</l>
+          <r><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ia</l>
+          <r><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iach</l>
+          <r><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iami</l>
+          <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ia</l>
+          <r><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="k/to__prn">
       <e>
         <p>
@@ -5657,6 +5744,14 @@
           <l>buďte</l>
           <r>byť<s n="vbser"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>byt</l>
+          <r>byť<s n="vbser"/><s n="ger"/></r>
+       </p>
+       <par n="BASE__bytie"/>
       </e>
     </pardef>
 
