@@ -9606,6 +9606,7 @@
     <e lm="nemecký"><i>nemeck</i><par n="slovensk/ý__adj"/></e>
     <e lm="český"><i>česk</i><par n="slovensk/ý__adj"/></e>
     <e lm="poľský"><i>poľsk</i><par n="slovensk/ý__adj"/></e>
+    <e lm="ruský"><i>rusk</i><par n="slovensk/ý__adj"/></e>
     <e lm="ženský"><i>žensk</i><par n="slovensk/ý__adj"/></e>
     <e lm="absolútny"><i>absolútn</i><par n="absolútn/y__adj"/></e>
     <e lm="čierny"><i>čiern</i><par n="absolútn/y__adj"/></e>
@@ -9618,6 +9619,9 @@
     <e lm="ťažký"><i>ťažk</i><par n="abstraktn/ý__adj"/></e>
     <e lm="ľahký"><i>ľahk</i><par n="abstraktn/ý__adj"/></e>
     <e lm="malý"><i>mal</i><par n="abstraktn/ý__adj"/></e>
+    <e lm="nový"><i>nov</i><par n="abstraktn/ý__adj"/></e>
+    <e lm="mnohý"><i>mnoh</i><par n="abstraktn/ý__adj"/></e>
+    <e lm="svetový"><i>svetov</i><par n="abstraktn/ý__adj"/></e>
     <e lm="cudzí"><i>cudz</i><par n="cudz/í__adj"/></e>
 
     <e lm="dobre"><p><l>dobre</l><r>dobre<s n="adv"/><s n="sint"/></r></p></e>
@@ -13382,6 +13386,10 @@
     <e lm="nbsp"><i>nbsp</i><par n="ahoj__ij"/></e>
     <e lm="math"><i>math</i><par n="ahoj__ij"/></e>
     <e lm="sup"><i>sup</i><par n="ahoj__ij"/></e>
+    <e lm="sub"><i>sub</i><par n="ahoj__ij"/></e>
+    <e lm="font"><i>font</i><par n="ahoj__ij"/></e>
     <e lm="book"><i>book</i><par n="ahoj__ij"/></e>
+    <e lm="from"><i>from</i><par n="ahoj__ij"/></e>
+    <e lm="tt"><i>tt</i><par n="ahoj__ij"/></e>
   </section>
 </dictionary>
