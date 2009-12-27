@@ -106,10 +106,12 @@
     <e><p><l>szukać<s n="vblex"/></l><r>hĺadať<s n="vblex"/></r></p></e>
     <e><p><l>jebać<s n="vblex"/></l><r>šukať<s n="vblex"/></r></p></e>
     <e><p><l>chcieć<s n="vblex"/></l><r>chcieť<s n="vblex"/></r></p></e>
-    <e><p><l>bywać<s n="vblex"/></l><r>bývať<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>bywać<s n="vblex"/></l><r>bývať<s n="vblex"/></r></p></e>
+    <e><p><l>mieszkać<s n="vblex"/></l><r>bývať<s n="vblex"/></r></p></e>
     <e><p><l>dziękować<s n="vblex"/></l><r>ďakovať<s n="vblex"/></r></p></e>
     <e><p><l>podziękować<s n="vblex"/></l><r>poďakovať<s n="vblex"/></r></p></e>
     <e><p><l>dawać<s n="vblex"/></l><r>dávať<s n="vblex"/></r></p></e>
+    <e><p><l>dać<s n="vblex"/></l><r>dať<s n="vblex"/></r></p></e>
     <e><p><l>mówić<s n="vblex"/></l><r>hovoriť<s n="vblex"/></r></p></e>
     <e><p><l>powiedzieć<s n="vblex"/></l><r>povedať<s n="vblex"/></r></p></e>
     <e><p><l>zarabiać<s n="vblex"/><s n="imperf"/></l><r>zarábať<s n="vblex"/><s n="imperf"/></r></p></e>
@@ -1473,6 +1475,7 @@
     <e><p><l>każdy<s n="det"/><s n="dem"/></l><r>každý<s n="det"/><s n="dem"/></r></p></e>
     <e><p><l>każdy<s n="prn"/><s n="ind"/></l><r>každý<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>gdzie<s n="adv"/><s n="itg"/></l><r>kde<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>ile<s n="adv"/><s n="itg"/></l><r>kde<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>gdzie<s n="rel"/><s n="adv"/></l><r>kde<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>co<s n="rel"/></l><r>čo<s n="rel"/></r></p></e>
     <e><p><l>gdziekolwiek<s n="adv"/></l><r>kdekoľvek<s n="adv"/></r></p></e>
@@ -1623,6 +1626,8 @@
     <e><p><l>dobranoc<s n="ij"/></l><r>dobrú<b/>noc<s n="ij"/></r></p></e>
     <e><p><l>cześć<s n="ij"/></l><r>ahoj<s n="ij"/></r></p></e>
     <e><p><l>ach<s n="ij"/></l><r>ach<s n="ij"/></r></p></e>
+    <e><p><l>która<b/>godzina<s n="ij"/></l><r>koľko<b/>je<b/>hodín<s n="ij"/></r></p></e>
+    <e r="LR"><p><l>która<b/>jest<b/>godzina<s n="ij"/></l><r>koľko<b/>je<b/>hodín<s n="ij"/></r></p></e>
     <e><p><l>jakby<s n="cnjsub"/></l><r>akoby<s n="cnjsub"/></r></p></e>
     <e><p><l>aktówka<s n="n"/><s n="f"/></l><r>aktovka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aktualizacja<s n="n"/><s n="f"/></l><r>aktualizácia<s n="n"/><s n="f"/></r></p></e>

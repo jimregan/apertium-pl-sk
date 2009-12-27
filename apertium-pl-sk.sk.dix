@@ -5944,19 +5944,19 @@
       </e>
       <e>
         <p>
-          <l>dola</l>
+          <l>dla</l>
           <r>sť<s n="vblex"/><s n="imperf"/><s n="past"/><s n="f"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>dolo</l>
+          <l>dlo</l>
           <r>sť<s n="vblex"/><s n="imperf"/><s n="past"/><s n="nt"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>doli</l>
+          <l>dli</l>
           <r>sť<s n="vblex"/><s n="imperf"/><s n="past"/><s n="pl"/></r>
         </p>
       </e>
@@ -6037,19 +6037,19 @@
       </e>
       <e>
         <p>
-          <l>dola</l>
+          <l>dla</l>
           <r>sť<s n="vblex"/><s n="perf"/><s n="past"/><s n="f"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>dolo</l>
+          <l>dlo</l>
           <r>sť<s n="vblex"/><s n="perf"/><s n="past"/><s n="nt"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>doli</l>
+          <l>dli</l>
           <r>sť<s n="vblex"/><s n="perf"/><s n="past"/><s n="pl"/></r>
         </p>
       </e>
@@ -8876,6 +8876,7 @@
     <e lm="veľa" r="LR"><p><l>viacej</l><r>veľa<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
     <e lm="veľa" r="LR"><p><l>najviacej</l><r>veľa<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
     <e lm="znovu"><i>znovu</i><par n="tu__adv"/></e>
+    <e lm="nie"><i>nie</i><par n="tu__adv"/></e>
     <e lm="pravdepodobne"><i>pravdepodobne</i><par n="tu__adv"/></e>
     <e lm="predovšetkým"><i>predovšetkým</i><par n="tu__adv"/></e>
     <e lm="vytrvale"><i>vytrvale</i><par n="tu__adv"/></e>
