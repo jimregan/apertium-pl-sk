@@ -88,6 +88,7 @@
     <sdef n="act"/>
     <sdef n="impers"/>
     <sdef n="ger"/>
+    <sdef n="vbmod"/>
   </sdefs>
   
   <pardefs>
@@ -8712,6 +8713,14 @@
         </p>
       </e>
     </pardef>
+    <pardef n="možno__vbmod">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="vbmod"/></r>
+        </p>
+      </e>
+    </pardef>
   </pardefs>
   <section id="main" type="standard">
     <e lm="do"><p><l>do</l><r>do<s n="pr"/></r></p></e>
@@ -9047,6 +9056,7 @@
     <e lm="mať"><par n="ne+"/><i>m</i><par n="m/ať__vbhaver"/></e>
     <e lm="robiť"><par n="ne+"/><i>rob</i><par n="rob/iť__vblex"/></e>
     <e lm="byť"><par n="ne+"/><i/><par n="/byť__vbser"/></e>
+    <e lm="možno"><i>možno</i><par n="možno__vbmod"/></e>
     <e lm="organizovať"><par n="ne+"/><i>organiz</i><par n="organiz/ovať__vblex"/></e>
     <e lm="zorganizovať"><par n="ne+"/><i>zorganiz</i><par n="zorganiz/ovať__vblex"/></e>
     <e lm="absorbovať"><par n="ne+"/><i>absorb</i><par n="organiz/ovať__vblex"/></e>
