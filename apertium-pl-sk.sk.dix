@@ -90,6 +90,7 @@
     <sdef n="ger"/>
     <sdef n="vbmod"/>
     <sdef n="sp"/>
+    <sdef n="rom"/>
   </sdefs>
   
   <pardefs>
@@ -1000,8 +1001,8 @@
           <l></l>
           <r>en<s n="prn"/><s n="ind"/></r>
         </p>
+        <par n="BASE__žiaden"/>
       </e>
-      <par n="BASE__žiaden"/>
     </pardef>
     <pardef n="žiad/en__det">
       <e>
@@ -1009,8 +1010,8 @@
           <l></l>
           <r>en<s n="det"/><s n="ind"/></r>
         </p>
+        <par n="BASE__žiaden"/>
       </e>
-      <par n="BASE__žiaden"/>
     </pardef>
     <pardef n="BASE__všetok">
       <e>
@@ -1357,8 +1358,8 @@
           <l></l>
           <r>ok<s n="prn"/><s n="ind"/></r>
         </p>
+        <par n="BASE__všetok"/>
       </e>
-      <par n="BASE__všetok"/>
     </pardef>
     <pardef n="všet/ok__det">
       <e>
@@ -1366,8 +1367,8 @@
           <l></l>
           <r>ok<s n="det"/><s n="ind"/></r>
         </p>
+        <par n="BASE__všetok"/>
       </e>
-      <par n="BASE__všetok"/>
     </pardef>
 
     <pardef n="jed/en__num">
