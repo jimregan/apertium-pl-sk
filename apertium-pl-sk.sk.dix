@@ -7563,6 +7563,15 @@
       </e>
       <e><i>os</i><par n="Feminine_žena"/></e>
     </pardef>
+    <pardef n="šk/ola__n">
+      <e>
+        <p>
+          <l>ôl</l>
+          <r>ola<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e><i>ol</i><par n="Feminine_žena"/></e>
+    </pardef>
     <pardef n="lás/ka__n">
       <e>
         <p>
@@ -7598,6 +7607,15 @@
         </p>
       </e>
       <e><i>v</i><par n="Feminine_žena"/></e>
+    </pardef>
+    <pardef n="voj/na__n">
+      <e>
+        <p>
+          <l>en</l>
+          <r>na<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e><i>n</i><par n="Feminine_žena"/></e>
     </pardef>
     <pardef n="l/aba__n">
       <e>
@@ -9789,6 +9807,7 @@
     <e lm="absorbovať"><par n="ne+"/><i>absorb</i><par n="zorganiz/ovať__vblex"/></e>
 
     <e lm="kult"><i>kult</i><par n="narod__n"/></e>
+    <e lm="okres"><i>okres</i><par n="narod__n"/></e>
     <e lm="hrdina"><i>hrdin</i><par n="hrdin/a__n"/></e>
     <e lm="zámok"><i>zám</i><par n="zám/ok__n"/></e>
     <e lm="rok"><i>rok</i><par n="rok__n"/></e>
@@ -9806,11 +9825,13 @@
     <e lm="august"><i>august</i><par n="narod__n"/></e>
     <e lm="strom"><i>strom</i><par n="narod__n"/></e>
     <e lm="matka"><i>mat</i><par n="mat/ka__n"/></e>
+    <e lm="vojna"><i>voj</i><par n="voj/na__n"/></e>
     <e lm="náuka"><i>náuk</i><par n="náuk/a__n"/></e>
     <e lm="hviezda"><i>hviezd</i><par n="náuk/a__n"/></e>
     <e lm="láska"><i>lás</i><par n="lás/ka__n"/></e>
     <e lm="látka"><i>lát</i><par n="lát/ka__n"/></e>
     <e lm="kosa"><i>k</i><par n="k/osa__n"/></e>
+    <e lm="škola"><i>šk</i><par n="šk/ola__n"/></e>
     <e lm="jednotka"><i>jednot</i><par n="mat/ka__n"/></e>
     <e lm="žena"><i>ž</i><par n="ž/ena__n"/></e>
     <e lm="ulica"><i>ul</i><par n="ul/ica__n"/></e>
