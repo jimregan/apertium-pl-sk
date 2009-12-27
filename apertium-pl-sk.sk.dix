@@ -9627,6 +9627,9 @@
     <e lm="dobre"><p><l>dobre</l><r>dobre<s n="adv"/><s n="sint"/></r></p></e>
     <e lm="dobre"><p><l>lepšie</l><r>dobre<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
     <e lm="dobre"><p><l>najlepšie</l><r>dobre<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
+    <e lm="často"><p><l>často</l><r>často<s n="adv"/><s n="sint"/></r></p></e>
+    <e lm="často"><p><l>častejšie</l><r>často<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
+    <e lm="často"><p><l>najčastejšie</l><r>často<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
     <e lm="zle"><p><l>zle</l><r>zle<s n="adv"/><s n="sint"/></r></p></e>
     <e lm="zle"><p><l>horšie</l><r>zle<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
     <e lm="zle"><p><l>najhoršie</l><r>zle<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
@@ -9696,7 +9699,6 @@
     <e lm="áno"><i>áno</i><par n="tu__adv"/></e>
     <e lm="architektonicky"><i>architektonicky</i><par n="tu__adv"/></e>
     <e lm="bosý"><i>bosý</i><par n="tu__adv"/></e>
-    <e lm="často"><i>často</i><par n="tu__adv"/></e>
     <e lm="čerstvo"><i>čerstvo</i><par n="tu__adv"/></e>
     <e lm="charakteristicky"><i>charakteristicky</i><par n="tu__adv"/></e>
     <e lm="chemicky"><i>chemicky</i><par n="tu__adv"/></e>
