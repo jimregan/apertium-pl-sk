@@ -8696,6 +8696,22 @@
         </p>
       </e>
     </pardef>
+    <pardef n="a__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="sp"/><s n="indecl"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="I__num">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="num"/><s n="rom"/></r>
+        </p>
+      </e>
+    </pardef>
   </pardefs>
   <section id="main" type="standard">
     <e lm="do"><p><l>do</l><r>do<s n="pr"/></r></p></e>
@@ -8824,6 +8840,7 @@
     <e lm="než"><i>než</i><par n="a__cnjcoo"/></e>
     <e lm="alebo"><i>alebo</i><par n="a__cnjcoo"/></e>
     <e lm="ale"><i>ale</i><par n="a__cnjcoo"/></e>
+    <e lm="i"><i>i</i><par n="a__cnjcoo"/></e>
 
     <e lm="preto"><i>preto</i><par n="preto__cnjadv"/></e>
     <e lm="pretože"><i>pretože</i><par n="preto__cnjadv"/></e>
@@ -8888,6 +8905,7 @@
     <e lm="veľa"><p><l>najviac</l><r>veľa<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
     <e lm="veľa" r="LR"><p><l>viacej</l><r>veľa<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
     <e lm="veľa" r="LR"><p><l>najviacej</l><r>veľa<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
+
     <e lm="znovu"><i>znovu</i><par n="tu__adv"/></e>
     <e lm="nie"><i>nie</i><par n="tu__adv"/></e>
     <e lm="pravdepodobne"><i>pravdepodobne</i><par n="tu__adv"/></e>
@@ -8896,6 +8914,8 @@
     <e lm="vysoko"><i>vysoko</i><par n="tu__adv"/></e>
     <e lm="tu"><i>tu</i><par n="tu__adv"/></e>
     <e lm="tzv"><i>tzv</i><par n="tu__adv"/></e>
+    <e lm="napr"><i>napr</i><par n="tu__adv"/></e>
+    <e lm="t. j"><i>t.<b/>j</i><par n="tu__adv"/></e>
     <e lm="často"><i>často</i><par n="tu__adv"/></e>
     <e lm="tam"><i>tam</i><par n="tu__adv"/></e>
     <e lm="už"><i>už</i><par n="tu__adv"/></e>
@@ -12559,6 +12579,57 @@
     <e lm="Mary"><i>Mary</i><par n="Britney__np"/></e>
     <e lm="Keri"><i>Keri</i><par n="Britney__np"/></e>
     <e lm="Jamie"><i>Jamie</i><par n="Britney__np"/></e>
+
+    <e lm="a"><i>a</i><par n="a__n"/></e>
+    <e lm="b"><i>b</i><par n="a__n"/></e>
+    <e lm="c"><i>c</i><par n="a__n"/></e>
+    <e lm="d"><i>d</i><par n="a__n"/></e>
+    <e lm="e"><i>e</i><par n="a__n"/></e>
+    <e lm="f"><i>f</i><par n="a__n"/></e>
+    <e lm="g"><i>g</i><par n="a__n"/></e>
+    <e lm="h"><i>h</i><par n="a__n"/></e>
+    <e lm="i"><i>i</i><par n="a__n"/></e>
+    <e lm="j"><i>j</i><par n="a__n"/></e>
+    <e lm="k"><i>k</i><par n="a__n"/></e>
+    <e lm="l"><i>l</i><par n="a__n"/></e>
+    <e lm="m"><i>m</i><par n="a__n"/></e>
+    <e lm="n"><i>n</i><par n="a__n"/></e>
+    <e lm="o"><i>o</i><par n="a__n"/></e>
+    <e lm="p"><i>p</i><par n="a__n"/></e>
+    <e lm="q"><i>q</i><par n="a__n"/></e>
+    <e lm="r"><i>r</i><par n="a__n"/></e>
+    <e lm="s"><i>s</i><par n="a__n"/></e>
+    <e lm="t"><i>t</i><par n="a__n"/></e>
+    <e lm="u"><i>u</i><par n="a__n"/></e>
+    <e lm="v"><i>v</i><par n="a__n"/></e>
+    <e lm="W"><i>w</i><par n="a__n"/></e>
+    <e lm="x"><i>x</i><par n="a__n"/></e>
+    <e lm="y"><i>y</i><par n="a__n"/></e>
+    <e lm="z"><i>z</i><par n="a__n"/></e>
+    <e lm="I"><i>I</i><par n="I__num"/></e>
+    <e lm="II"><i>II</i><par n="I__num"/></e>
+    <e lm="III"><i>III</i><par n="I__num"/></e>
+    <e lm="IV"><i>IV</i><par n="I__num"/></e>
+    <e lm="V"><i>V</i><par n="I__num"/></e>
+    <e lm="VI"><i>VI</i><par n="I__num"/></e>
+    <e lm="VII"><i>VII</i><par n="I__num"/></e>
+    <e lm="VIII"><i>VIII</i><par n="I__num"/></e>
+    <e lm="IX"><i>IX</i><par n="I__num"/></e>
+    <e lm="X"><i>X</i><par n="I__num"/></e>
+    <e lm="XI"><i>XI</i><par n="I__num"/></e>
+    <e lm="XII"><i>XII</i><par n="I__num"/></e>
+    <e lm="XIII"><i>XIII</i><par n="I__num"/></e>
+    <e lm="XIV"><i>XIV</i><par n="I__num"/></e>
+    <e lm="XV"><i>XV</i><par n="I__num"/></e>
+    <e lm="XVI"><i>XVI</i><par n="I__num"/></e>
+    <e lm="XVII"><i>XVII</i><par n="I__num"/></e>
+    <e lm="XVIII"><i>XVIII</i><par n="I__num"/></e>
+    <e lm="XIX"><i>XIX</i><par n="I__num"/></e>
+    <e lm="XX"><i>XX</i><par n="I__num"/></e>
+    <e lm="C"><i>C</i><par n="I__num"/></e>
+    <e lm="D"><i>D</i><par n="I__num"/></e>
+    <e lm="L"><i>L</i><par n="I__num"/></e>
+    <e lm="M"><i>M</i><par n="I__num"/></e>
   </section>
   <section id="tokens" type="inconditional">
     <e><par n="numeros"/></e>
@@ -12579,5 +12650,8 @@
     <e lm="image"><i>image</i><par n="ahoj__ij"/></e>
     <e lm="ref"><i>ref</i><par n="ahoj__ij"/></e>
     <e lm="nbsp"><i>nbsp</i><par n="ahoj__ij"/></e>
+    <e lm="math"><i>math</i><par n="ahoj__ij"/></e>
+    <e lm="sup"><i>sup</i><par n="ahoj__ij"/></e>
+    <e lm="book"><i>book</i><par n="ahoj__ij"/></e>
   </section>
 </dictionary>
