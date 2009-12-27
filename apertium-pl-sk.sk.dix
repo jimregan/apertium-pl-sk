@@ -6796,7 +6796,7 @@
       </e>
       <e>
         <p>
-          <l>ám</l>
+          <l>am</l>
           <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
@@ -6837,6 +6837,15 @@
       </e>
       <e><i>en</i><par n="Feminine_žena"/></e>
     </pardef>
+    <pardef n="k/osa__n">
+      <e>
+        <p>
+          <l>ôs</l>
+          <r>osa<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e><i>os</i><par n="Feminine_žena"/></e>
+    </pardef>
     <pardef n="lás/ka__n">
       <e>
         <p>
@@ -6844,7 +6853,7 @@
           <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
-      <e><i>k</i><par n="Feminine_žena"/></e>
+      <e><i>k</i><par n="Feminine_latka"/></e>
     </pardef>
     <pardef n="lát/ka__n">
       <e>
@@ -6862,7 +6871,7 @@
           <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
-      <e><i></i><par n="Feminine_žena"/></e>
+      <e><i></i><par n="Feminine_latka"/></e>
     </pardef>
     <pardef n="húž/va__n">
       <e>
@@ -8717,6 +8726,7 @@
     <e lm="za"><p><l>za</l><r>za<s n="pr"/></r></p></e>
     <e lm="až do"><p><l>až<b/>do</l><r>až<b/>do<s n="pr"/></r></p></e>
     <e lm="počas"><p><l>počas</l><r>počas<s n="pr"/></r></p></e>
+    <e lm="bez"><p><l>bez</l><r>bez<s n="pr"/></r></p></e>
     <e lm="u"><p><l>u</l><r>u<s n="pr"/></r></p></e>
     <e lm="pre"><p><l>pre</l><r>pre<s n="pr"/></r></p></e>
     <e lm="pred" r="LR"><p><l>pred</l><r>pred<s n="pr"/></r></p></e>
@@ -8827,6 +8837,8 @@
     <e lm="ahoj"><i>ahoj</i><par n="ahoj__ij"/></e>
     <e lm="ach"><i>ach</i><par n="ahoj__ij"/></e>
     <e lm="aha"><i>aha</i><par n="ahoj__ij"/></e>
+    <e lm="hej"><i>hej</i><par n="ahoj__ij"/></e>
+    <e lm="ó"><i>ó</i><par n="ahoj__ij"/></e>
     <e lm="dobrú noc"><i>dobrú<b/>noc</i><par n="ahoj__ij"/></e>
 
     <e lm="kde"><i>kde</i><par n="kde__adv"/></e>
@@ -8848,6 +8860,7 @@
     <e lm="nemecký"><i>nemeck</i><par n="slovensk/ý__adj"/></e>
     <e lm="český"><i>česk</i><par n="slovensk/ý__adj"/></e>
     <e lm="poľský"><i>poľsk</i><par n="slovensk/ý__adj"/></e>
+    <e lm="ženský"><i>žensk</i><par n="slovensk/ý__adj"/></e>
     <e lm="absolútny"><i>absolútn</i><par n="absolútn/y__adj"/></e>
     <e lm="čierny"><i>čiern</i><par n="absolútn/y__adj"/></e>
     <e lm="abstraktný"><i>abstraktn</i><par n="abstraktn/ý__adj"/></e>
@@ -9037,6 +9050,11 @@
     <e lm="august"><i>august</i><par n="narod__n"/></e>
     <e lm="strom"><i>strom</i><par n="narod__n"/></e>
     <e lm="matka"><i>mat</i><par n="mat/ka__n"/></e>
+    <e lm="náuka"><i>náuk</i><par n="náuk/a__n"/></e>
+    <e lm="hviezda"><i>hviezd</i><par n="náuk/a__n"/></e>
+    <e lm="láska"><i>lás</i><par n="lás/ka__n"/></e>
+    <e lm="látka"><i>lát</i><par n="lát/ka__n"/></e>
+    <e lm="kosa"><i>k</i><par n="k/osa__n"/></e>
     <e lm="jednotka"><i>jednot</i><par n="mat/ka__n"/></e>
     <e lm="žena"><i>ž</i><par n="ž/ena__n"/></e>
     <e lm="ulica"><i>ul</i><par n="ul/ica__n"/></e>
