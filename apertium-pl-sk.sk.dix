@@ -9827,6 +9827,16 @@
     <e lm="stôl"><i>st</i><par n="st/ôl__n"/></e>
     <e lm="slnko"><i>s</i><par n="s/lnko__n"/></e>
     <e lm="šialenstvo"><i>šialenst</i><par n="šialenst/vo__n"/></e>
+    <e lm="kráľovstvo"><i>kráľovstv</i><par n="šialenst/vo__n"/></e>
+    <e lm="obyvateľstvo"><i>obyvateľstv</i><par n="šialenst/vo__n"/></e>
+    <e lm="množstvo"><i>množstv</i><par n="šialenst/vo__n"/></e>
+    <e lm="dedičstvo"><i>dedičstv</i><par n="šialenst/vo__n"/></e>
+    <e lm="panstvo"><i>panstv</i><par n="šialenst/vo__n"/></e>
+    <e lm="detstvo"><i>detstv</i><par n="šialenst/vo__n"/></e>
+    <e lm="vydavateľstvo"><i>vydavateľstv</i><par n="šialenst/vo__n"/></e>
+    <e lm="náboženstvo"><i>náboženstv</i><par n="šialenst/vo__n"/></e>
+    <e lm="vojvodstvo"><i>vojvodstv</i><par n="šialenst/vo__n"/></e>
+    <e lm="mužstvo"><i>mužstv</i><par n="šialenst/vo__n"/></e>
     
     <e lm="abnormálnosť"><i>abnormálnos</i><par n="kos/ť__n"/></e>
     <e lm="absolútnosť"><i>absolútnos</i><par n="kos/ť__n"/></e>
