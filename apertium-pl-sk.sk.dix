@@ -10590,6 +10590,104 @@
         <par n="F_žena"/>
       </e>
     </pardef>
+    <pardef n="vnu/k__n">
+      <e>
+        <p>
+          <l>k</l>
+          <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ka</l>
+          <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kovi</l>
+          <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ka</l>
+          <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kovi</l>
+          <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kom</l>
+          <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>kovia</l>
+          <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kov</l>
+          <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kom</l>
+          <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kov</l>
+          <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>koch</l>
+          <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kmi</l>
+          <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="vnu/k__n_m+f">
+      <e>
+        <par n="vnu/k__n"/>
+      </e>
+      <e>
+        <p>
+          <l>čiek</l>
+          <r>k<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čk</l>
+          <r>k<s n="n"/></r>
+        </p>
+        <par n="F_žena"/>
+      </e>
+    </pardef>
     <pardef n="kame/ň__n">
       <e>
         <p>
@@ -12287,6 +12385,7 @@
     <e lm="august"><i>august</i><par n="narod__n"/></e>
     <e lm="strom"><i>strom</i><par n="narod__n"/></e>
     <e lm="manžel"><i>manžel</i><par n="manžel__n_m+f"/></e>
+    <e lm="vnuk"><i>vnu</i><par n="vnu/k__n_m+f"/></e>
     <e lm="matka"><i>mat</i><par n="mat/ka__n"/></e>
     <e lm="vojna"><i>voj</i><par n="voj/na__n"/></e>
     <e lm="náuka"><i>náuk</i><par n="náuk/a__n"/></e>
