@@ -9721,72 +9721,81 @@
       </e>
       <e><i>lnc</i><par n="Neuter_srdce"/></e>
     </pardef>
-    <pardef n="Feminine_žena">
+    <pardef n="F_žena">
       <e>
         <p>
           <l>a</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>y</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>u</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ou</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>y</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ám</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+          <r><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>y</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ách</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ami</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
+      </e>
+    </pardef>
+    <pardef n="Feminine_žena">
+      <e>
+        <p>
+          <l></l>
+          <r>a<s n="n"/></r>
+        </p>
+        <par n="F_žena"/>
       </e>
     </pardef>
     <pardef n="Feminine_latka">
@@ -9937,6 +9946,15 @@
         </p>
       </e>
       <e><i>n</i><par n="Feminine_žena"/></e>
+    </pardef>
+    <pardef n="far/ba__n">
+      <e>
+        <p>
+          <l>ieb</l>
+          <r>ba<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e><i>b</i><par n="Feminine_žena"/></e>
     </pardef>
     <pardef n="l/aba__n">
       <e>
@@ -10478,6 +10496,98 @@
           <l>mi</l>
           <r><s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
         </p>
+      </e>
+    </pardef>
+    <pardef n="manžel__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ovi</l>
+          <r><s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ovi</l>
+          <r><s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r><s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ia</l>
+          <r><s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ov</l>
+          <r><s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r><s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ov</l>
+          <r><s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>och</l>
+          <r><s n="n"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>mi</l>
+          <r><s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="manžel__n_m+f">
+      <e>
+        <par n="manžel__n"/>
+      </e>
+      <e>
+        <p>
+          <l>iek</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>k</l>
+          <r><s n="n"/></r>
+        </p>
+        <par n="F_žena"/>
       </e>
     </pardef>
     <pardef n="kame/ň__n">
@@ -12176,6 +12286,7 @@
     <e lm="júl"><i>júl</i><par n="narod__n"/></e>
     <e lm="august"><i>august</i><par n="narod__n"/></e>
     <e lm="strom"><i>strom</i><par n="narod__n"/></e>
+    <e lm="manžel"><i>manžel</i><par n="manžel__n_m+f"/></e>
     <e lm="matka"><i>mat</i><par n="mat/ka__n"/></e>
     <e lm="vojna"><i>voj</i><par n="voj/na__n"/></e>
     <e lm="náuka"><i>náuk</i><par n="náuk/a__n"/></e>
@@ -12187,6 +12298,7 @@
     <e lm="jednotka"><i>jednot</i><par n="mat/ka__n"/></e>
     <e lm="žena"><i>ž</i><par n="ž/ena__n"/></e>
     <e lm="ulica"><i>ul</i><par n="ul/ica__n"/></e>
+    <e lm="farba"><i>far</i><par n="far/ba__n"/></e>
     <e lm="dlaň"><i>dla</i><par n="dla/ň__n"/></e>
     <e lm="kosť"><i>kos</i><par n="kos/ť__n"/></e>
     <e lm="smrť"><i>smr</i><par n="kos/ť__n"/></e>
