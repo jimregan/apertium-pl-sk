@@ -46,6 +46,7 @@
     <tags-item lemma="vôkol" tags="pr"/>
     <tags-item lemma="okolo" tags="pr"/>
     <tags-item lemma="za" tags="pr"/>
+    <tags-item lemma="podľa" tags="pr"/>
   </def-label> 
   <def-label name="DATPR" closed="true">
     <tags-item lemma="k" tags="pr"/>

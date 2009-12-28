@@ -64,6 +64,7 @@
     <e><p><l>aby<s n="cnjsub"/></l><r>aby<s n="cnjsub"/></r></p></e>
     <e><p><l>ale<s n="cnjcoo"/></l><r>ale<s n="cnjcoo"/></r></p></e>
     <e><p><l>bo<s n="cnjadv"/></l><r>lebo<s n="cnjadv"/></r></p></e>
+    <e><p><l>jednak<s n="cnjadv"/></l><r>však<s n="cnjadv"/></r></p></e>
     <e><p><l>dlatego<s n="cnjadv"/></l><r>preto<s n="cnjadv"/></r></p></e>
     <e><p><l>dlatego<b/>że<s n="cnjadv"/></l><r>pretože<s n="cnjadv"/></r></p></e>
     
@@ -1138,6 +1139,7 @@
 <e><p><l>żorżeta<s n="n"/></l><r>žoržet<s n="n"/></r></p></e>
 <e><p><l>znowu<s n="adv"/></l><r>znovu<s n="adv"/></r></p></e>
 <e r="LR"><p><l>znów<s n="adv"/></l><r>znovu<s n="adv"/></r></p></e>
+<e><p><l>zwłaszcza<s n="adv"/></l><r>najmä<s n="adv"/></r></p></e>
 <e><p><l>na<b/>przykład<s n="adv"/></l><r>napríklad<s n="adv"/></r></p></e>
 <e><p><l>wytrwale<s n="adv"/></l><r>vytrvale<s n="adv"/></r></p></e>
 <e><p><l>wysoki<s n="adj"/><s n="sint"/></l><r>vysoký<s n="adj"/><s n="sint"/></r></p></e>

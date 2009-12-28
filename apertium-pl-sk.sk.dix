@@ -10480,6 +10480,7 @@
     <e lm="poza"><p><l>poza</l><r>poza<s n="pr"/></r></p></e>
     <e lm="spoza"><p><l>spoza</l><r>spoza<s n="pr"/></r></p></e>
     <e lm="mimo"><p><l>mimo</l><r>mimo<s n="pr"/></r></p></e>
+    <e lm="podľa"><p><l>podľa</l><r>podľa<s n="pr"/></r></p></e>
     <e lm="ako"><p><l>ako</l><r>ako<s n="pr"/></r></p></e>
     <e lm="preňho"><p><l>preňho</l><r>pre<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
     <e lm="preňho"><p><l>preňho</l><r>pre<s n="pr"/><j/>prpers<s n="prn"/><s n="emph"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -10558,6 +10559,7 @@
     <e lm="preto"><i>preto</i><par n="preto__cnjadv"/></e>
     <e lm="pretože"><i>pretože</i><par n="preto__cnjadv"/></e>
     <e lm="lebo"><i>lebo</i><par n="preto__cnjadv"/></e>
+    <e lm="však"><i>však</i><par n="preto__cnjadv"/></e>
 
     <e lm="že"><i>že</i><par n="že__cnjsub"/></e>
     <e lm="až"><i>až</i><par n="že__cnjsub"/></e>
@@ -10629,6 +10631,8 @@
     <e lm="veľa" r="LR"><p><l>najviacej</l><r>veľa<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
 
     <e lm="znovu"><i>znovu</i><par n="tu__adv"/></e>
+    <e lm="najmä"><i>najmä</i><par n="tu__adv"/></e>
+    <e lm="tak"><i>tak</i><par n="tu__adv"/></e>
     <e lm="nie"><i>nie</i><par n="tu__adv"/></e>
     <e lm="pravdepodobne"><i>pravdepodobne</i><par n="tu__adv"/></e>
     <e lm="predovšetkým"><i>predovšetkým</i><par n="tu__adv"/></e>
