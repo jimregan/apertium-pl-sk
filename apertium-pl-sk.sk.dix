@@ -9875,6 +9875,21 @@
       </e>
       <e><i>k</i><par n="Feminine_žena"/></e>
     </pardef>
+    <pardef n="sest/ra__n">
+      <e>
+        <p>
+          <l>ier</l>
+          <r>ra<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ár</l>
+          <r>ra<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e><i>r</i><par n="Feminine_žena"/></e>
+    </pardef>
     <pardef n="ž/ena__n">
       <e>
         <p>
@@ -12387,6 +12402,7 @@
     <e lm="manžel"><i>manžel</i><par n="manžel__n_m+f"/></e>
     <e lm="vnuk"><i>vnu</i><par n="vnu/k__n_m+f"/></e>
     <e lm="matka"><i>mat</i><par n="mat/ka__n"/></e>
+    <e lm="sestra"><i>sest</i><par n="sest/ra__n"/></e>
     <e lm="vojna"><i>voj</i><par n="voj/na__n"/></e>
     <e lm="náuka"><i>náuk</i><par n="náuk/a__n"/></e>
     <e lm="hviezda"><i>hviezd</i><par n="náuk/a__n"/></e>
