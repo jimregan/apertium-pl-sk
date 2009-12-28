@@ -1481,6 +1481,8 @@
     <e><p><l>każdy<s n="det"/><s n="dem"/></l><r>každý<s n="det"/><s n="dem"/></r></p></e>
     <e><p><l>każdy<s n="prn"/><s n="ind"/></l><r>každý<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>gdzie<s n="adv"/><s n="itg"/></l><r>kde<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>czy<s n="adv"/><s n="itg"/></l><r>či<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>czy<s n="cnjcoo"/></l><r>či<s n="cnjcoo"/></r></p></e>
     <e><p><l>ile<s n="adv"/><s n="itg"/></l><r>kde<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>gdzie<s n="rel"/><s n="adv"/></l><r>kde<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>co<s n="rel"/></l><r>čo<s n="rel"/></r></p></e>

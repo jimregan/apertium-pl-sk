@@ -10553,6 +10553,7 @@
     <e lm="alebo"><i>alebo</i><par n="a__cnjcoo"/></e>
     <e lm="ale"><i>ale</i><par n="a__cnjcoo"/></e>
     <e lm="i"><i>i</i><par n="a__cnjcoo"/></e>
+    <e lm="či"><i>či</i><par n="a__cnjcoo"/></e>
 
     <e lm="preto"><i>preto</i><par n="preto__cnjadv"/></e>
     <e lm="pretože"><i>pretože</i><par n="preto__cnjadv"/></e>
@@ -10574,6 +10575,7 @@
     <e lm="kde"><i>kde</i><par n="kde__adv"/></e>
     <e lm="ako"><i>ako</i><par n="kde__adv"/></e>
     <e lm="kedy"><i>kedy</i><par n="kde__adv"/></e>
+    <e lm="či"><i>či</i><par n="kde__adv"/></e>
 
     <e lm="kde"><i>kde</i><par n="kde__rel"/></e>
     <e lm="čo"><i>čo</i><par n="čo__rel"/></e>
