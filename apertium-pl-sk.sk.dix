@@ -11220,6 +11220,9 @@
     <e lm="žiaden"><i>žiad</i><par n="žiad/en__prn"/></e>
     <e lm="sám"><i></i><par n="sám__prn"/></e>
     <e lm="taký"><i>tak</i><par n="tak/ý__det"/></e>
+    <e lm="istý"><i>ist</i><par n="tak/ý__det"/></e>
+    <e lm="onaký"><i>onak</i><par n="tak/ý__det"/></e>
+    <e lm="každý"><i>každ</i><par n="tak/ý__det"/></e>
     <e lm="niektorý"><i>niektor</i><par n="in/ý__det"/></e>
     <e lm="niektorý"><i>niektor</i><par n="in/ý__prn"/></e>
     <e lm="prvý"><i>prv</i><par n="prv/ý__det"/></e>
