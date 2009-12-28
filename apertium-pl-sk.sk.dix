@@ -10560,6 +10560,7 @@
     <e lm="pretože"><i>pretože</i><par n="preto__cnjadv"/></e>
     <e lm="lebo"><i>lebo</i><par n="preto__cnjadv"/></e>
     <e lm="však"><i>však</i><par n="preto__cnjadv"/></e>
+    <e lm="ak"><i>ak</i><par n="preto__cnjadv"/></e>
 
     <e lm="že"><i>že</i><par n="že__cnjsub"/></e>
     <e lm="až"><i>až</i><par n="že__cnjsub"/></e>
@@ -10784,6 +10785,7 @@
 
     <e lm="kult"><i>kult</i><par n="narod__n"/></e>
     <e lm="okres"><i>okres</i><par n="narod__n"/></e>
+    <e lm="plyn"><i>plyn</i><par n="narod__n"/></e>
     <e lm="hrdina"><i>hrdin</i><par n="hrdin/a__n"/></e>
     <e lm="zámok"><i>zám</i><par n="zám/ok__n"/></e>
     <e lm="rok"><i>rok</i><par n="rok__n"/></e>

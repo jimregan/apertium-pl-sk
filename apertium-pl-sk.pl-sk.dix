@@ -65,6 +65,7 @@
     <e><p><l>ale<s n="cnjcoo"/></l><r>ale<s n="cnjcoo"/></r></p></e>
     <e><p><l>bo<s n="cnjadv"/></l><r>lebo<s n="cnjadv"/></r></p></e>
     <e><p><l>jednak<s n="cnjadv"/></l><r>však<s n="cnjadv"/></r></p></e>
+    <e><p><l>jeśli<s n="cnjadv"/></l><r>ak<s n="cnjadv"/></r></p></e>
     <e><p><l>dlatego<s n="cnjadv"/></l><r>preto<s n="cnjadv"/></r></p></e>
     <e><p><l>dlatego<b/>że<s n="cnjadv"/></l><r>pretože<s n="cnjadv"/></r></p></e>
     
@@ -138,6 +139,7 @@
     <e><p><l>jodła<s n="n"/><s n="f"/></l><r>jedľa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>piwo<s n="n"/><s n="nt"/></l><r>pivo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>czasownik<s n="n"/><s n="mi"/></l><r>sloveso<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>gaz<s n="n"/><s n="mi"/></l><r>plyn<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>słońce<s n="n"/><s n="nt"/></l><r>slnko<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>słońce<s n="n"/><s n="nt"/></l><r>slnce<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>krzesło<s n="n"/><s n="nt"/></l><r>kreslo<s n="n"/><s n="nt"/></r></p></e>
