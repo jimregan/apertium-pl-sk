@@ -1013,6 +1013,346 @@
         <par n="BASE__žiaden"/>
       </e>
     </pardef>
+    <pardef n="sám__prn">
+      <e>
+        <p>
+          <l>sám</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sám</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sama</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samo</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samého</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samého</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samej</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samého</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samému</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samému</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samej</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samému</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+         <p>
+          <l>samého</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sám</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samu</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samo</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samým</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samým</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samou</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samým</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samom</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samom</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samej</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samom</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sám</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sám</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sama</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samo</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <!-- Plurals -->
+      <e>
+        <p>
+          <l>sami</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samy</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samy</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samy</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samých</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samých</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samých</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samých</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samým</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samým</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samým</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samým</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samých</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samy</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samy</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samy</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samými</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samými</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samými</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samými</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samých</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samých</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samých</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samých</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sami</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samy</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samy</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>samy</l>
+          <r>sám<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="BASE__všetok">
       <e>
         <p>
@@ -10199,6 +10539,7 @@
     <e lm="všetok"><i>všet</i><par n="všet/ok__prn"/></e>
     <e lm="žiaden"><i>žiad</i><par n="žiad/en__det"/></e>
     <e lm="žiaden"><i>žiad</i><par n="žiad/en__prn"/></e>
+    <e lm="sám"><i></i><par n="sám__prn"/></e>
     <e lm="taký"><i>tak</i><par n="tak/ý__det"/></e>
     <e lm="niektorý"><i>niektor</i><par n="in/ý__det"/></e>
     <e lm="niektorý"><i>niektor</i><par n="in/ý__prn"/></e>
