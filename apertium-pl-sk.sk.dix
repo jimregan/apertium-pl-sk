@@ -7488,6 +7488,127 @@
         <par n="BASE__súci"/>
       </e>
     </pardef>
+    <pardef n="st/áť__vblex">
+      <e>
+         <p>
+          <l>áť</l>
+          <r>áť<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ojím</l>
+          <r>áť<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ojíš</l>
+          <r>áť<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ojí</l>
+          <r>áť<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ojíme</l>
+          <r>áť<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>í
+        <p>
+          <l>ojíte</l>
+          <r>áť<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>á
+          <l>oja</l>
+          <r>áť<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ál</l>
+          <r>dieť<s n="vblex"/><s n="imperf"/><s n="past"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ála</l>
+          <r>áť<s n="vblex"/><s n="imperf"/><s n="past"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>álo</l>
+          <r>áť<s n="vblex"/><s n="imperf"/><s n="past"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>áli</l>
+          <r>áť<s n="vblex"/><s n="imperf"/><s n="past"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>oj</l>
+          <r>áť<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ojme</l>
+          <r>áť<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ojte</l>
+          <r>áť<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>át</l>
+          <r>áť<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__bytie"/>
+      </e>
+      <e>
+        <p>
+          <l>án</l>
+          <r>áť<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="psv"/></r>
+        </p>
+        <par n="BASE__abstraktný"/>
+      </e>
+      <e>
+        <p>
+          <l>áno</l>
+          <r>áť<s n="vblex"/><s n="imperf"/><s n="impers"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ojac</l>
+          <r>áť<s n="vblex"/><s n="imperf"/><s n="adv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ojac</l>
+          <r>áť<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="act"/></r>
+        </p>
+        <par n="BASE__súci"/>
+      </e>
+    </pardef>
 
     <pardef n="/byť__vbser">
       <e>
