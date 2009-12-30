@@ -12701,6 +12701,8 @@
     <e lm="generovať"><par n="ne+"/><i>gener</i><par n="organiz/ovať__vblex"/></e>
     <e lm="aberovať"><par n="ne+"/><i>aber</i><par n="organiz/ovať__vblex"/></e>
     <e lm="aberovať"><par n="ne+"/><i>aber</i><par n="zorganiz/ovať__vblex"/></e>
+    <e lm="budovať"><par n="ne+"/><i>bud</i><par n="organiz/ovať__vblex"/></e>
+    <e lm="vybudovať"><par n="ne+"/><i>vybud</i><par n="zorganiz/ovať__vblex"/></e>
 
     <e lm="kult"><i>kult</i><par n="narod__n"/></e>
     <e lm="okres"><i>okres</i><par n="narod__n"/></e>
