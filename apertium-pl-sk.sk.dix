@@ -11341,6 +11341,80 @@
         </p>
       </e>
     </pardef>
+    <pardef n="mesiac__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r><s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ov</l>
+          <r><s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r><s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>och</l>
+          <r><s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>mi</l>
+          <r><s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="rok__n">
       <e>
         <p>
@@ -12625,6 +12699,8 @@
     <e lm="absorbovať"><par n="ne+"/><i>absorb</i><par n="zorganiz/ovať__vblex"/></e>
     <e lm="existovať"><par n="ne+"/><i>exist</i><par n="organiz/ovať__vblex"/></e>
     <e lm="generovať"><par n="ne+"/><i>gener</i><par n="organiz/ovať__vblex"/></e>
+    <e lm="aberovať"><par n="ne+"/><i>aber</i><par n="organiz/ovať__vblex"/></e>
+    <e lm="aberovať"><par n="ne+"/><i>aber</i><par n="zorganiz/ovať__vblex"/></e>
 
     <e lm="kult"><i>kult</i><par n="narod__n"/></e>
     <e lm="okres"><i>okres</i><par n="narod__n"/></e>
@@ -12633,6 +12709,7 @@
     <e lm="zámok"><i>zám</i><par n="zám/ok__n"/></e>
     <e lm="rok"><i>rok</i><par n="rok__n"/></e>
     <e lm="dub"><i>dub</i><par n="dub__n"/></e>
+    <e lm="mesiac"><i>mesiac</i><par n="mesiac__n"/></e>
     <e lm="kláštor"><i>kláštor</i><par n="dub__n"/></e>
     <e lm="kameň"><i>kame</i><par n="kame/ň__n"/></e>
     <e lm="jeleň"><i>jele</i><par n="jele/ň__n"/></e>
@@ -12661,6 +12738,7 @@
     <e lm="ulica"><i>ul</i><par n="ul/ica__n"/></e>
     <e lm="farba"><i>far</i><par n="far/ba__n"/></e>
     <e lm="dlaň"><i>dla</i><par n="dla/ň__n"/></e>
+    <e lm="jeseň"><i>jese</i><par n="dla/ň__n"/></e>
     <e lm="kosť"><i>kos</i><par n="kos/ť__n"/></e>
     <e lm="smrť"><i>smr</i><par n="kos/ť__n"/></e>
     <e lm="chlap"><i>chlap</i><par n="chlap/__n"/></e>
@@ -15692,6 +15770,9 @@
     <e lm="Portugalsko"><i>Portugalsk</i><par n="Chorvátsk/o__np"/></e>
     <e lm="Rusko"><i>Rusk</i><par n="Chorvátsk/o__np"/></e>
     <e lm="Rumunsko"><i>Rumunsk</i><par n="Chorvátsk/o__np"/></e>
+    <e lm="Anglicko"><i>Anglick</i><par n="Chorvátsk/o__np"/></e>
+    <e lm="Holandsko"><i>Holandsk</i><par n="Chorvátsk/o__np"/></e>
+    <e lm="Nemecko"><i>Nemeck</i><par n="Chorvátsk/o__np"/></e>
     <e lm="Slovensko"><i>Slovensk</i><par n="Chorvátsk/o__np"/></e>
     <e lm="Andalúzia"><i>Andalúz</i><par n="Gamb/ia__np"/></e>
     <e lm="Astúria"><i>Astúr</i><par n="Gamb/ia__np"/></e>
