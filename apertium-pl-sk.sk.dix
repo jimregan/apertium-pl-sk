@@ -9550,6 +9550,76 @@
         <par n="BASE__súci"/>
       </e>
     </pardef>
+    <pardef n="m/ôcť__vbmod">
+      <e>
+         <p>
+          <l>ôcť</l>
+          <r>ôcť<s n="vbmod"/><s n="inf"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>ôžem</l>
+          <r>ôcť<s n="vbmod"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ôžeš</l>
+          <r>ôcť<s n="vbmod"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ôže</l>
+          <r>ôcť<s n="vbmod"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ôžeme</l>
+          <r>ieť<s n="vbmod"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ôžete</l>
+          <r>ieť<s n="vbmod"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ôžu</l>
+          <r>ieť<s n="vbmod"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>ohol</l>
+          <r>ôcť<s n="vbmod"/><s n="past"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ohla</l>
+          <r>ôcť<s n="vbmod"/><s n="past"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ohlo</l>
+          <r>ôcť<s n="vbmod"/><s n="past"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ohli</l>
+          <r>ôcť<s n="vbmod"/><s n="past"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="/byť__vbser">
       <e>
@@ -12692,6 +12762,7 @@
     <e lm="piť"><par n="ne+"/><i>pi</i><par n="pi/ť__vblex"/></e>
     <e lm="byť"><par n="ne+"/><i/><par n="/byť__vbser"/></e>
     <e lm="musieť"><par n="ne+"/><i>mus</i><par n="mus/ieť__vbmod"/></e>
+    <e lm="môcť"><par n="ne+"/><i>m</i><par n="m/ôcť__vbmod"/></e>
     <e lm="možno"><i>možno</i><par n="možno__vbmod"/></e>
     <e lm="organizovať"><par n="ne+"/><i>organiz</i><par n="organiz/ovať__vblex"/></e>
     <e lm="zorganizovať"><par n="ne+"/><i>zorganiz</i><par n="zorganiz/ovať__vblex"/></e>
