@@ -57,6 +57,9 @@
     <e><p><l>o<s n="pr"/></l><r>o<s n="pr"/></r></p></e>
     <e><p><l>za<s n="pr"/></l><r>za<s n="pr"/></r></p></e>
     <e><p><l>po<s n="pr"/></l><r>po<s n="pr"/></r></p></e>
+    <e><p><l>według<s n="pr"/></l><r>podľa<s n="pr"/></r></p></e>
+    <e><p><l>przeciw<s n="pr"/></l><r>proti<s n="pr"/></r></p></e>
+    <e i="yes"><p><l>w<b/>przeciwieństwie<b/>do<s n="pr"/></l><r>v<b/>rozpore<b/>s<s n="pr"/></r></p></e>
     
     <e><p><l>że<s n="cnjsub"/></l><r>že<s n="cnjsub"/></r></p></e>
     <e><p><l>żeby<s n="cnjsub"/></l><r>žeby<s n="cnjsub"/></r></p></e>
@@ -109,7 +112,10 @@
     <e><p><l>otworzyć<s n="vblex"/></l><r>otvoriť<s n="vblex"/></r></p></e>
     <e><p><l>przedłużyć<s n="vblex"/></l><r>predĺžiť<s n="vblex"/></r></p></e>
     <e><p><l>szukać<s n="vblex"/></l><r>hĺadať<s n="vblex"/></r></p></e>
-    <e><p><l>jebać<s n="vblex"/></l><r>šukať<s n="vblex"/></r></p></e>
+    <e><p><l>jebać<s n="vblex"/></l><r>jebať<s n="vblex"/></r></p></e>
+    <e><p><l>ruchać<s n="vblex"/></l><r>šukať<s n="vblex"/></r></p></e>
+    <e><p><l>kłamać<s n="vblex"/></l><r>klamať<s n="vblex"/></r></p></e>
+    <e><p><l>pływać<s n="vblex"/></l><r>plávať<s n="vblex"/></r></p></e>
     <e><p><l>chcieć<s n="vblex"/></l><r>chcieť<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>bywać<s n="vblex"/></l><r>bývať<s n="vblex"/></r></p></e>
     <e><p><l>mieszkać<s n="vblex"/></l><r>bývať<s n="vblex"/></r></p></e>
@@ -138,8 +144,12 @@
     <e><p><l>jednostka<s n="n"/><s n="f"/></l><r>jednotka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>jodła<s n="n"/><s n="f"/></l><r>jedľa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>piwo<s n="n"/><s n="nt"/></l><r>pivo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>pompa<s n="n"/><s n="f"/></l><r>čerpadlo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>miejsce<s n="n"/><s n="nt"/></l><r>miesto<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>czasownik<s n="n"/><s n="mi"/></l><r>sloveso<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>gaz<s n="n"/><s n="mi"/></l><r>plyn<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>płyn<s n="n"/><s n="mi"/></l><r>tekutina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cel<s n="n"/><s n="mi"/></l><r>cieľ<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>słońce<s n="n"/><s n="nt"/></l><r>slnko<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>słońce<s n="n"/><s n="nt"/></l><r>slnce<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>krzesło<s n="n"/><s n="nt"/></l><r>kreslo<s n="n"/><s n="nt"/></r></p></e>
@@ -1296,6 +1306,9 @@
     <e><p><l>dwieście<s n="num"/></l><r>dvesto<s n="num"/></r></p></e>
     <e><p><l>dylatacja<s n="n"/><s n="f"/></l><r>dilatácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dyktator<s n="n"/><s n="mp"/></l><r>diktátor<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>bohater<s n="n"/><s n="mp"/></l><r>hrdina<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>językoznawca<s n="n"/><s n="mp"/></l><r>jazykovedec<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>jedynka<s n="n"/><s n="f"/></l><r>jednotka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dyferencjał<s n="n"/><s n="mi"/></l><r>diferenciál<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>dychać<s n="vblex"/></l><r>dýchať<s n="vblex"/></r></p></e>
     <e><p><l>dwustronnie<s n="adv"/></l><r>dvojstranne<s n="adv"/></r></p></e>
@@ -1547,6 +1560,7 @@
     <e><p><l>bliski<s n="adj"/><s n="sint"/></l><r>blízky<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>brat<s n="n"/><s n="mp"/></l><r>brat<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>brać<s n="vblex"/></l><r>brať<s n="vblex"/></r></p></e>
+    <e><p><l>wziąć<s n="vblex"/></l><r>vziať<s n="vblex"/></r></p></e>
     <e><p><l>bractwo<s n="n"/><s n="nt"/></l><r>bratstvo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>brazylijski<s n="adj"/></l><r>brazílsky<s n="adj"/></r></p></e>
     <e><p><l>brzydki<s n="adj"/></l><r>bridký<s n="adj"/></r></p></e>
