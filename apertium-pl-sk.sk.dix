@@ -10858,6 +10858,44 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Bratislav/a__np">
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ou</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="dla/ň__n">
       <e>
@@ -12840,6 +12878,8 @@
     <e lm="červený"><i>červen</i><par n="abstraktn/ý__adj"/></e>
     <e lm="dlhý"><i>dlh</i><par n="dlh/ý__adj"/></e>
     <e lm="dlhý"><p><l>dlhš</l><r>dlhý</r></p><par n="vyšš/í__adj"/></e>
+    <e lm="drahý"><i>drah</i><par n="dlh/ý__adj"/></e>
+    <e lm="drahý"><p><l>dražš</l><r>drahý</r></p><par n="vyšš/í__adj"/></e>
     <e lm="dnešný"><i>dnešn</i><par n="abstraktn/ý__adj"/></e>
     <e lm="dobrý"><i>dobr</i><par n="abstraktn/ý__adj"/></e>
     <e lm="veľký"><i>veľk</i><par n="abstraktn/ý__adj"/></e>
@@ -16109,6 +16149,7 @@
     <e lm="Holandsko"><i>Holandsk</i><par n="Chorvátsk/o__np"/></e>
     <e lm="Nemecko"><i>Nemeck</i><par n="Chorvátsk/o__np"/></e>
     <e lm="Slovensko"><i>Slovensk</i><par n="Chorvátsk/o__np"/></e>
+    <e lm="Bratislava"><i>Bratislav</i><par n="Bratislav/a__np"/></e>
     <e lm="Andalúzia"><i>Andalúz</i><par n="Gamb/ia__np"/></e>
     <e lm="Astúria"><i>Astúr</i><par n="Gamb/ia__np"/></e>
     <e lm="Asýria"><i>Asýr</i><par n="Gamb/ia__np"/></e>

@@ -130,6 +130,7 @@
     <e><p><l>absorbować<s n="vblex"/><s n="imperf"/></l><r>absorbovať<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>zaabsorbować<s n="vblex"/><s n="perf"/></l><r>absorbovať<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>kupować<s n="vblex"/></l><r>kupovať<s n="vblex"/></r></p></e>
+    <e><p><l>kupić<s n="vblex"/></l><r>kúpiť<s n="vblex"/></r></p></e>
     <e><p><l>robić<s n="vblex"/><s n="imperf"/></l><r>robiť<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>zrobić<s n="vblex"/><s n="perf"/></l><r>urobiť<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>organizować<s n="vblex"/><s n="imperf"/></l><r>organizovať<s n="vblex"/><s n="imperf"/></r></p></e>
@@ -140,13 +141,20 @@
     <e><p><l>wyciągać<s n="vblex"/></l><r>vytiahnuť<s n="vblex"/></r></p></e>
     <e><p><l>związać<s n="vblex"/></l><r>zviazať<s n="vblex"/></r></p></e>
     <e><p><l>spać<s n="vblex"/><s n="imperf"/></l><r>spať<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zaspać<s n="vblex"/><s n="perf"/></l><r>zaspať<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>matka<s n="n"/><s n="f"/></l><r>matka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>córka<s n="n"/><s n="f"/></l><r>dcéra<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>córa<s n="n"/><s n="f"/></l><r>dcéra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>jednostka<s n="n"/><s n="f"/></l><r>jednotka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>jodła<s n="n"/><s n="f"/></l><r>jedľa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kurwa<s n="n"/><s n="f"/></l><r>kurva<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>piwo<s n="n"/><s n="nt"/></l><r>pivo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>samochód<s n="n"/><s n="mi"/></l><r>auto<s n="n"/><s n="nt"/></r></p></e>
+    <e r="LR"><p><l>auto<s n="n"/><s n="nt"/></l><r>auto<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pompa<s n="n"/><s n="f"/></l><r>čerpadlo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>miejsce<s n="n"/><s n="nt"/></l><r>miesto<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>czasownik<s n="n"/><s n="mi"/></l><r>sloveso<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kilometr<s n="n"/><s n="mi"/></l><r>kilometer<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>gaz<s n="n"/><s n="mi"/></l><r>plyn<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>płyn<s n="n"/><s n="mi"/></l><r>tekutina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cel<s n="n"/><s n="mi"/></l><r>cieľ<s n="n"/><s n="mi"/></r></p></e>
@@ -1148,6 +1156,7 @@
     <e><p><l>wokalizacja<s n="n"/><s n="f"/></l><r>vokalizácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wulgaryzacja<s n="n"/><s n="f"/></l><r>vulgarizácia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>zręczny<s n="adj"/></l><r>zručný<s n="adj"/></r></p></e>
+<e><p><l>drogi<s n="adj"/><s n="sint"/></l><r>drahý<s n="adj"/><s n="sint"/></r></p></e>
 <e><p><l>żorżeta<s n="n"/></l><r>žoržet<s n="n"/></r></p></e>
 <e><p><l>znowu<s n="adv"/></l><r>znovu<s n="adv"/></r></p></e>
 <e r="LR"><p><l>znów<s n="adv"/></l><r>znovu<s n="adv"/></r></p></e>
