@@ -83,6 +83,8 @@
     <e><p><l>osiem<s n="num"/></l><r>osem<s n="num"/></r></p></e>
     <e><p><l>dziewięć<s n="num"/></l><r>deväť<s n="num"/></r></p></e>
     <e><p><l>dziesięć<s n="num"/></l><r>desať<s n="num"/></r></p></e>
+    <e><p><l>tydzień<s n="n"/><s n="mi"/></l><r>týždeň<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dzień<s n="n"/><s n="mi"/></l><r>deň<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>styczeń<s n="n"/><s n="mi"/></l><r>január<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>luty<s n="n"/><s n="mi"/></l><r>február<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>marzec<s n="n"/><s n="mi"/></l><r>marec<s n="n"/><s n="mi"/></r></p></e>
