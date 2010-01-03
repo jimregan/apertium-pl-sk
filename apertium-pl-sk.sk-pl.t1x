@@ -15,6 +15,17 @@
      <cat-item tags="vblex.perf.past"/>
      <cat-item tags="vblex.perf.past.*"/>
   </def-cat>
+  <def-cat n="bytpast">
+     <cat-item lemma="byť" tags="vbser.past"/>
+     <cat-item lemma="byť" tags="vbser.past.*"/>
+  </def-cat>
+  <def-cat n="bytpres">
+     <cat-item lemma="byť" tags="vbser.pres"/>
+     <cat-item lemma="byť" tags="vbser.pres.*"/>
+  </def-cat>
+  <def-cat n="by">
+     <cat-item lemma="by" tags="cnjsub"/>
+  </def-cat>
   <def-cat n="prn">
      <cat-item tags="prn.*"/>
   </def-cat>
@@ -41,6 +52,10 @@
 
   <def-attr n="a_prp">
      <attr-item tags="pr"/>
+  </def-attr>
+
+  <def-attr n="a_vrb">
+     <attr-item tags="vblex"/>
   </def-attr>
 
   <def-attr n="a_adj">
@@ -78,6 +93,11 @@
      <attr-item tags="p1"/>
      <attr-item tags="p2"/>
      <attr-item tags="p3"/>
+  </def-attr>
+
+  <def-attr n="asp">
+     <attr-item tags="perf"/>
+     <attr-item tags="imperf"/>
   </def-attr>
 
   <def-attr n="nbr">
@@ -160,31 +180,124 @@
      </action>
   </rule>
 
-  <rule>
+<!-- Reguły czasownikowe -->
+
+  <rule comment="čítal -> czytał">
      <pattern>
-       <pattern-item n="vblex"/>
+       <pattern-item n="verbpast"/>
      </pattern>
      <action>
        <out>
          <chunk name="verb" case="caseFirstWord">
            <tags>
              <tag><lit-tag v="SV"/></tag>
-              <tag><clip pos="1" side="tl" part="tns"/></tag>
-              <tag><clip pos="1" side="tl" part="prs"/></tag>
+              <tag><clip pos="1" side="tl" part="asp"/></tag>
+              <tag><lit-tag v="past"/></tag>
+              <tag><lit-tag v="PD"/></tag>
+              <tag><clip pos="1" side="tl" part="gen"/></tag>
               <tag><clip pos="1" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_vrb"/>
-              <clip pos="1" side="tl" part="tns"/>
-              <clip pos="1" side="tl" part="prs"/>
-              <clip pos="1" side="tl" part="nbr"/>
+              <clip pos="1" side="tl" part="asp" link-to="2"/>
+              <clip pos="1" side="tl" part="tns" link-to="3"/>
+              <lit-tag v="4"/>
+              <clip pos="1" side="tl" part="gen" link-to="5"/>
+              <clip pos="1" side="tl" part="nbr" link-to="6"/>
             </lu>
           </chunk>
         </out>
      </action>
   </rule>
-
+  <rule comment="čítal som -> czytałem">
+     <pattern>
+       <pattern-item n="verbpast"/>
+       <pattern-item n="bytpres"/>
+     </pattern>
+     <action>
+       <out>
+         <chunk name="verb" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="asp"/></tag>
+              <tag><lit-tag v="past"/></tag>
+              <tag><clip pos="2" side="tl" part="prs"/></tag>
+              <tag><clip pos="1" side="tl" part="gen"/></tag>
+              <tag><clip pos="2" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_vrb"/>
+              <clip pos="1" side="tl" part="asp" link-to="2"/>
+              <clip pos="1" side="tl" part="tns" link-to="3"/>
+              <clip pos="2" side="tl" part="prs" link-to="4"/>
+              <clip pos="1" side="tl" part="gen" link-to="5"/>
+              <clip pos="2" side="tl" part="nbr" link-to="6"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+  <rule comment="som čítal -> czytałem">
+     <pattern>
+       <pattern-item n="bytpres"/>
+       <pattern-item n="verbpast"/>
+     </pattern>
+     <action>
+       <out>
+         <chunk name="verb" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="2" side="tl" part="asp"/></tag>
+              <tag><lit-tag v="past"/></tag>
+              <tag><clip pos="1" side="tl" part="prs"/></tag>
+              <tag><clip pos="2" side="tl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_vrb"/>
+              <clip pos="2" side="tl" part="asp" link-to="2"/>
+              <clip pos="2" side="tl" part="tns" link-to="3"/>
+              <clip pos="1" side="tl" part="prs" link-to="4"/>
+              <clip pos="2" side="tl" part="gen" link-to="5"/>
+              <clip pos="1" side="tl" part="nbr" link-to="6"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+  <rule comment="čítal by som -> czytałbym">
+     <pattern>
+       <pattern-item n="verbpast"/>
+       <pattern-item n="by"/>
+       <pattern-item n="bytpres"/>
+     </pattern>
+     <action>
+       <out>
+         <chunk name="verb" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="asp"/></tag>
+              <tag><lit-tag v="cni"/></tag>
+              <tag><clip pos="3" side="tl" part="prs"/></tag>
+              <tag><clip pos="1" side="tl" part="gen"/></tag>
+              <tag><clip pos="3" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_vrb"/>
+              <clip pos="1" side="tl" part="asp" link-to="2"/>
+              <clip pos="1" side="tl" part="tns" link-to="3"/>
+              <clip pos="3" side="tl" part="prs" link-to="4"/>
+              <clip pos="1" side="tl" part="gen" link-to="5"/>
+              <clip pos="3" side="tl" part="nbr" link-to="6"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
 
 </section-rules>
 
