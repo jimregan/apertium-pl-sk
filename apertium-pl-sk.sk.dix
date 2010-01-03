@@ -7261,6 +7261,15 @@
         <par n="BASE__cudzí"/>
       </e>
     </pardef>
+    <pardef n="najvyšš/í__adj">
+      <e>
+         <p>
+          <l></l>
+          <r><s n="adj"/><s n="sint"/><s n="sup"/></r>
+        </p>
+        <par n="BASE__cudzí"/>
+      </e>
+    </pardef>
 
     <pardef n="slovensk/ý__adj">
       <e>
@@ -13032,11 +13041,12 @@
     <e lm="červený"><i>červen</i><par n="abstraktn/ý__adj"/></e>
     <e lm="dlhý"><i>dlh</i><par n="dlh/ý__adj"/></e>
     <e lm="dlhý"><p><l>dlhš</l><r>dlhý</r></p><par n="vyšš/í__adj"/></e>
+    <e lm="dlhý"><p><l>najdlhš</l><r>dlhý</r></p><par n="najvyšš/í__adj"/></e>
     <e lm="drahý"><i>drah</i><par n="dlh/ý__adj"/></e>
     <e lm="drahý"><p><l>dražš</l><r>drahý</r></p><par n="vyšš/í__adj"/></e>
+    <e lm="drahý"><p><l>najdražš</l><r>drahý</r></p><par n="najvyšš/í__adj"/></e>
     <e lm="dnešný"><i>dnešn</i><par n="abstraktn/ý__adj"/></e>
     <e lm="dobrý"><i>dobr</i><par n="abstraktn/ý__adj"/></e>
-    <e lm="veľký"><i>veľk</i><par n="abstraktn/ý__adj"/></e>
     <e lm="ťažký"><i>ťažk</i><par n="abstraktn/ý__adj"/></e>
     <e lm="ľahký"><i>ľahk</i><par n="abstraktn/ý__adj"/></e>
     <e lm="malý"><i>mal</i><par n="abstraktn/ý__adj"/></e>
@@ -13046,8 +13056,10 @@
     <e lm="vodný"><i>vodn</i><par n="abstraktn/ý__adj"/></e>
     <e lm="veľký"><i>veľk</i><par n="dlh/ý__adj"/></e>
     <e lm="veľký"><p><l>väčš</l><r>veľký</r></p><par n="vyšš/í__adj"/></e>
+    <e lm="veľký"><p><l>najväčš</l><r>veľký</r></p><par n="najvyšš/í__adj"/></e>
     <e lm="vysoký"><i>vysok</i><par n="dlh/ý__adj"/></e>
     <e lm="vysoký"><p><l>vyšš</l><r>vysoký</r></p><par n="vyšš/í__adj"/></e>
+    <e lm="vysoký"><p><l>najvyšš</l><r>vysoký</r></p><par n="najvyšš/í__adj"/></e>
     <e lm="svetový"><i>svetov</i><par n="abstraktn/ý__adj"/></e>
     <e lm="cudzí"><i>cudz</i><par n="cudz/í__adj"/></e>
 
