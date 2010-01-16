@@ -502,6 +502,82 @@
         </p>
       </e>
     </pardef>
+    <pardef n="k/tokolwiek__prn">
+      <e>
+        <p>
+          <l>tokolwiek</l>
+          <r>tokolwiek<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ogokolwiek</l>
+          <r>tokolwiek<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>omukolwiek</l>
+          <r>tokolwiek<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ogokolwiek</l>
+          <r>tokolwiek<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>imkolwiek</l>
+          <r>tokolwiek<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>imkolwiek</l>
+          <r>tokolwiek<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="k/to_bądź__prn">
+      <e>
+        <p>
+          <l>to<b/>bądź</l>
+          <r>to<b/>bądź<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ogo<b/>bądź</l>
+          <r>to<b/>bądź<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>omu<b/>bądź</l>
+          <r>to<b/>bądź<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ogo<b/>bądź</l>
+          <r>to<b/>bądź<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>im<b/>bądź</l>
+          <r>to<b/>bądź<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>im<b/>bądź</l>
+          <r>to<b/>bądź<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="c/oś__prn">
       <e>
         <p>
@@ -540,6 +616,82 @@
         </p>
       </e>
     </pardef>
+    <pardef n="c/okolwiek__prn">
+      <e>
+        <p>
+          <l>okolwiek</l>
+          <r>okolwiek<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zegokolwiek</l>
+          <r>okolwiek<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zemukolwiek</l>
+          <r>okolwiek<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>okolwiek</l>
+          <r>okolwiek<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zymkolwiek</l>
+          <r>okolwiek<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zymkolwiek</l>
+          <r>okolwiek<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="c/o_bądź__prn">
+      <e>
+        <p>
+          <l>o<b/>bądź</l>
+          <r>o<b/>bądź<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zego<b/>bądź</l>
+          <r>o<b/>bądź<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zemu<b/>bądź</l>
+          <r>o<b/>bądź<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o<b/>bądź</l>
+          <r>o<b/>bądź<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zym<b/>bądź</l>
+          <r>o<b/>bądź<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zym<b/>bądź</l>
+          <r>o<b/>bądź<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="się__prn">
       <e>
         <p>
@@ -547,13 +699,19 @@
           <r>się<s n="prn"/><s n="ref"/><s n="gen"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>se</l>
           <r>sa<s n="prn"/><s n="ref"/><s n="dat"/></r>
         </p>
       </e>
       <e>
+        <p>
+          <l>sobie</l>
+          <r>się<s n="prn"/><s n="ref"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="RL">
         <p>
           <l>sobie</l>
           <r>się<s n="prn"/><s n="ref"/><s n="emph"/><s n="dat"/></r>
