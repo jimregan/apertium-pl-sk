@@ -24,7 +24,9 @@
     <sdef n="f"/>
     <sdef n="nt"/>
     <sdef n="mf"/>
+    <sdef n="nm"/>
     <sdef n="n"/>
+    <sdef n="acr"/>
     <sdef n="np"/>
     <sdef n="hyd"/>
     <sdef n="top"/>
@@ -2692,6 +2694,21 @@
         </p>
       </e>
     </pardef>
+    <pardef n="dob/ry__adj">
+      <e>
+        <p>
+          <l>ry</l>
+          <r><s n="adj"/></r>
+        </p>
+        <par n="BASE__dobry"/>
+      </e>
+      <e>
+        <p>
+          <l>ro</l>
+          <r><s n="adj"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
 
 
     <pardef n="PBASE__mp_pl">
@@ -3769,6 +3786,24 @@
     <e lm="żeby"><i>żeby</i><par n="by__cnjsub"/></e>
 
     <e lm="ale"><i>ale</i><par n="i__cnjcoo"/></e>
+    <e lm="i"><i>i</i><par n="i__cnjcoo"/></e>
+    <e lm="a"><i>a</i><par n="i__cnjcoo"/></e>
+    <e lm="oraz"><i>oraz</i><par n="i__cnjcoo"/></e>
+    <e lm="albo"><i>albo</i><par n="i__cnjcoo"/></e>
+
+    <e lm="jej"><i>jej</i><par n="jej__det"/></e>
+    <e lm="jego"><i>jego</i><par n="jej__det"/></e>
+    <e lm="ich"><i>ich</i><par n="jej__det"/></e>
+    <e lm="pierwszy"><i>pierw</i><par n="pierw/szy__det"/></e>
+    <e lm="drugi"><i>dru</i><par n="dru/gi__det"/></e>
+    <e lm="trzeci"><i>trzec</i><par n="trzec/i__det"/></e>
+
+    <e lm="dobry"><i>dob</i><par n="dob/ry__adj"/></e>
+    <e lm="dobry"><p><l>lep</l><r>dobry</r></p><par n="lep/szy__adj"/></e>
+    <e lm="dobry"><p><l>najlep</l><r>dobry</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="drogi"><i>dro</i><par n="dro/gi__adj"/></e>
+    <e lm="drogi"><p><l>droż</l><r>drogi</r></p><par n="lep/szy__adj"/></e>
+    <e lm="drogi"><p><l>najdroż</l><r>drogi</r></p><par n="najlep/szy__adj"/></e>
 
     <e lm="cześć"><i>cześć</i><par n="cześć__ij"/></e>
     <e lm="ach"><i>ach</i><par n="cześć__ij"/></e>
