@@ -2383,6 +2383,111 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__czwarty">
+      <e>
+        <p>
+          <l>t</l>
+          <r></r>
+        </p>
+        <par n="PBASE__pierwszy"/>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="BASE__szósty">
+      <e>
+        <p>
+          <l>st</l>
+          <r></r>
+        </p>
+        <par n="PBASE__pierwszy"/>
+      </e>
+      <e>
+        <p>
+          <l>ści</l>
+          <r><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ści</l>
+          <r><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="BASE__ósmy">
+      <e>
+        <p>
+          <l></l>
+          <r></r>
+        </p>
+        <par n="PBASE__pierwszy"/>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="czwar/ty__det">
+      <e>
+        <p>
+          <l></l>
+          <r>ty<s n="det"/><s n="ord"/></r>
+        </p>
+        <par n="BASE__czwarty"/>
+      </e>
+    </pardef>
+    <pardef n="szó/sty__det">
+      <e>
+        <p>
+          <l></l>
+          <r>sty<s n="det"/><s n="ord"/></r>
+        </p>
+        <par n="BASE__szósty"/>
+      </e>
+    </pardef>
+    <pardef n="ósm/y__det">
+      <e>
+        <p>
+          <l></l>
+          <r>y<s n="det"/><s n="ord"/></r>
+        </p>
+        <par n="BASE__ósmy"/>
+      </e>
+    </pardef>
+    <pardef n="czy/sty__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>sty<s n="adj"/><s n="sint"/></r>
+        </p>
+        <par n="BASE__szósty"/>
+      </e>
+      <e>
+        <p>
+          <l>sto</l>
+          <r>sty<s n="adj"/><s n="sint"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="PBASE__mp_pl">
       <e c="Regular nominal plurals">
@@ -3471,6 +3576,10 @@
     <e lm="pierwszy"><i>pierw</i><par n="pierw/szy__det"/></e>
     <e lm="drugi"><i>dru</i><par n="dru/gi__det"/></e>
     <e lm="trzeci"><i>trzec</i><par n="trzec/i__det"/></e>
+    <e lm="czwarty"><i>czwar</i><par n="czwar/ty__det"/></e>
+    <e lm="piąty"><i>pią</i><par n="czwar/ty__det"/></e>
+    <e lm="szósty"><i>szó</i><par n="szó/sty__det"/></e>
+    <e lm="ósmy"><i>ósm</i><par n="ósm/y__det"/></e>
 
     <e lm="dobry"><i>dob</i><par n="dob/ry__adj"/></e>
     <e lm="dobry"><p><l>lep</l><r>dobry</r></p><par n="lep/szy__adj"/></e>
@@ -3487,6 +3596,9 @@
     <e lm="zły"><i></i><par n="/zły__adj"/></e>
     <e lm="zły"><p><l>gor</l><r>zły</r></p><par n="lep/szy__adj"/></e>
     <e lm="zły"><p><l>najgor</l><r>zły</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="czysty"><i>czy</i><par n="czy/sty__adj"/></e>
+    <e lm="czysty"><p><l>czyst</l><r>czysty</r></p><par n="lep/szy__adj"/></e>
+    <e lm="czysty"><p><l>najczyst</l><r>czysty</r></p><par n="najlep/szy__adj"/></e>
 
     <e lm="dorosły"><i>doro</i><par n="doro/sły__adj"/></e>
 
