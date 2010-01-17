@@ -3611,7 +3611,7 @@
     <e lm="osiemsetny"><i>osiemsetn</i><par n="ósm/y__det"/></e>
     <e lm="dziewięćsetny"><i>dziewięćsetn</i><par n="ósm/y__det"/></e>
     <e lm="tysięczny"><i>tysięczn</i><par n="ósm/y__det"/></e>
-    <e lm="tysiączny"><i>tysiączn</i><par n="ósm/y__det"/></e>
+    <e lm="tysiączny" r="LR"><p><l>tysiączn</l><r>tysięczn</r></p><par n="ósm/y__det"/></e>
     <e lm="dwutysięczny"><i>dwutysięczn</i><par n="ósm/y__det"/></e>
     <e lm="dwutysiączny" r="LR"><p><l>dwutysiączn</l><r>dwutysięczn</r></p><par n="ósm/y__det"/></e>
     <e lm="dwóchtysięczny" r="LR"><p><l>dwóchtysięczn</l><r>dwutysięczn</r></p><par n="ósm/y__det"/></e>
@@ -3624,6 +3624,18 @@
     <e lm="czterotysiączny" r="LR"><p><l>czterotysiączn</l><r>czterotysięczn</r></p><par n="ósm/y__det"/></e>
     <e lm="czterechtysięczny" r="LR"><p><l>czterechtysięczn</l><r>czterotysięczn</r></p><par n="ósm/y__det"/></e>
     <e lm="czterechtysiączny" r="LR"><p><l>czterechtysiączn</l><r>czterotysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="pięciotysięczny"><i>pięciotysięczn</i><par n="ósm/y__det"/></e>
+    <e lm="pięciotysiączny" r="LR"><p><l>pięciotysiączn</l><r>pięciotysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="pięćtysięczny" r="LR"><p><l>pięćtysięczn</l><r>pięciotysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="pięćtysiączny" r="LR"><p><l>pięćtysiączn</l><r>pięciotysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="sześciotysięczny"><i>sześciotysięczn</i><par n="ósm/y__det"/></e>
+    <e lm="sześciotysiączny" r="LR"><p><l>sześciotysiączn</l><r>sześciotysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="sześćtysięczny" r="LR"><p><l>sześćtysięczn</l><r>sześciotysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="sześćtysiączny" r="LR"><p><l>sześćtysiączn</l><r>sześciotysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="siedmiotysięczny"><i>siedmiotysięczn</i><par n="ósm/y__det"/></e>
+    <e lm="siedmiotysiączny" r="LR"><p><l>siedmiotysiączn</l><r>siedmiotysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="siedemtysięczny" r="LR"><p><l>siedemtysięczn</l><r>siedmiotysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="siedemtysiączny" r="LR"><p><l>siedemtysiączn</l><r>siedmiotysięczn</r></p><par n="ósm/y__det"/></e>
     <!-- Numeric -->
     <e><re>[0-9]+</re><par n="pierw/szy__det"/></e>
     <e><re>[0-9]+</re><par n="dru/gi__det"/></e>
