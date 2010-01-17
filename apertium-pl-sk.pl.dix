@@ -3604,6 +3604,12 @@
     <e lm="setny"><i>setn</i><par n="ósm/y__det"/></e>
     <e lm="dwusetny"><i>dwusetn</i><par n="ósm/y__det"/></e>
     <e lm="trzechsetny"><i>trzechsetn</i><par n="ósm/y__det"/></e>
+    <e lm="czterechsetny"><i>czterechsetn</i><par n="ósm/y__det"/></e>
+    <e lm="pięćsetny"><i>pięćsetn</i><par n="ósm/y__det"/></e>
+    <e lm="sześćsetny"><i>sześćsetn</i><par n="ósm/y__det"/></e>
+    <e lm="siedemsetny"><i>siedemsetn</i><par n="ósm/y__det"/></e>
+    <e lm="osiemsetny"><i>osiemsetn</i><par n="ósm/y__det"/></e>
+    <e lm="dziewięćsetny"><i>dziewięćsetn</i><par n="ósm/y__det"/></e>
     <!-- Numeric -->
     <e><re>[0-9]+</re><par n="pierw/szy__det"/></e>
     <e><re>[0-9]+</re><par n="dru/gi__det"/></e>
