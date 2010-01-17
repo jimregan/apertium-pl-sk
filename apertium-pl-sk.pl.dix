@@ -3588,6 +3588,12 @@
     <e><re>[0-9]+</re><i>c</i><par n="trzec/i__det"/></e>
     <e><re>[0-9]+</re><i>m</i><par n="ósm/y__det"/></e>
     <e><re>[0-9]+</re><i>n</i><par n="ósm/y__det"/></e>
+    <e><re>[0-9]+</re><i>-</i><par n="pierw/szy__det"/></e>
+    <e><re>[0-9]+</re><i>-</i><par n="dru/gi__det"/></e>
+    <e><re>[0-9]+</re><i>-</i><par n="czwar/ty__det"/></e>
+    <e><re>[0-9]+</re><i>-c</i><par n="trzec/i__det"/></e>
+    <e><re>[0-9]+</re><i>-m</i><par n="ósm/y__det"/></e>
+    <e><re>[0-9]+</re><i>-n</i><par n="ósm/y__det"/></e>
 
 
     <e lm="dobry"><i>dob</i><par n="dob/ry__adj"/></e>
