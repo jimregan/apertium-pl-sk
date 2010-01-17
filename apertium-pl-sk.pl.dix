@@ -3613,11 +3613,17 @@
     <e lm="tysięczny"><i>tysięczn</i><par n="ósm/y__det"/></e>
     <e lm="tysiączny"><i>tysiączn</i><par n="ósm/y__det"/></e>
     <e lm="dwutysięczny"><i>dwutysięczn</i><par n="ósm/y__det"/></e>
-    <e lm="dwutysiączny"><i>dwutysiączn</i><par n="ósm/y__det"/></e>
+    <e lm="dwutysiączny" r="LR"><p><l>dwutysiączn</l><r>dwutysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="dwóchtysięczny" r="LR"><p><l>dwóchtysięczn</l><r>dwutysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="dwóchtysiączny" r="LR"><p><l>dwóchtysiączn</l><r>dwutysięczn</r></p><par n="ósm/y__det"/></e>
     <e lm="trzytysięczny"><i>trzytysięczn</i><par n="ósm/y__det"/></e>
-    <e lm="trzytysiączny"><i>trzytysiączn</i><par n="ósm/y__det"/></e>
-    <e lm="trzechtysięczny"><i>trzechtysięczn</i><par n="ósm/y__det"/></e>
-    <e lm="trzechtysiączny"><i>trzechtysiączn</i><par n="ósm/y__det"/></e>
+    <e lm="trzytysiączny" r="LR"><p><l>trzytysiączn</l><r>trzytysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="trzechtysięczny" r="LR"><p><l>trzechtysięczn</l><r>trzytysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="trzechtysiączny" r="LR"><p><l>trzechtysiączn</l><r>trzytysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="czterotysięczny"><i>czterotysięczn</i><par n="ósm/y__det"/></e>
+    <e lm="czterotysiączny" r="LR"><p><l>czterotysiączn</l><r>czterotysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="czterechtysięczny" r="LR"><p><l>czterechtysięczn</l><r>czterotysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="czterechtysiączny" r="LR"><p><l>czterechtysiączn</l><r>czterotysięczn</r></p><par n="ósm/y__det"/></e>
     <!-- Numeric -->
     <e><re>[0-9]+</re><par n="pierw/szy__det"/></e>
     <e><re>[0-9]+</re><par n="dru/gi__det"/></e>
