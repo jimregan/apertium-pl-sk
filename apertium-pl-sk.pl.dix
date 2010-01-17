@@ -2697,15 +2697,15 @@
     <pardef n="dob/ry__adj">
       <e>
         <p>
-          <l>ry</l>
-          <r><s n="adj"/></r>
+          <l></l>
+          <r>ry<s n="adj"/><s n="sint"/></r>
         </p>
         <par n="BASE__dobry"/>
       </e>
       <e>
         <p>
           <l>ro</l>
-          <r><s n="adj"/><s n="cpd"/></r>
+          <r>ry<s n="adj"/><s n="sint"/><s n="cpd"/></r>
         </p>
       </e>
     </pardef>
