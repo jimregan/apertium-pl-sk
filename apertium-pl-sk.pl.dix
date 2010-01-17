@@ -3582,12 +3582,12 @@
     <e lm="ósmy"><i>ósm</i><par n="ósm/y__det"/></e>
     <e lm="setny"><i>setn</i><par n="ósm/y__det"/></e>
     <!-- Numeric -->
-    <e><re>[0-9]+</re><par n="pierw/szy__ord"/></e>
-    <e><re>[0-9]+</re><par n="dru/gi__ord"/></e>
-    <e><re>[0-9]+</re><par n="czwar/ty__ord"/></e>
-    <e><re>[0-9]+</re><i>c</i><par n="trzec/i__ord"/></e>
-    <e><re>[0-9]+</re><i>m</i><par n="ósm/y__ord"/></e>
-    <e><re>[0-9]+</re><i>n</i><par n="ósm/y__ord"/></e>
+    <e><re>[0-9]+</re><par n="pierw/szy__det"/></e>
+    <e><re>[0-9]+</re><par n="dru/gi__det"/></e>
+    <e><re>[0-9]+</re><par n="czwar/ty__det"/></e>
+    <e><re>[0-9]+</re><i>c</i><par n="trzec/i__det"/></e>
+    <e><re>[0-9]+</re><i>m</i><par n="ósm/y__det"/></e>
+    <e><re>[0-9]+</re><i>n</i><par n="ósm/y__det"/></e>
 
 
     <e lm="dobry"><i>dob</i><par n="dob/ry__adj"/></e>
