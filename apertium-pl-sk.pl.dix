@@ -3580,6 +3580,15 @@
     <e lm="piąty"><i>pią</i><par n="czwar/ty__det"/></e>
     <e lm="szósty"><i>szó</i><par n="szó/sty__det"/></e>
     <e lm="ósmy"><i>ósm</i><par n="ósm/y__det"/></e>
+    <e lm="setny"><i>setn</i><par n="ósm/y__det"/></e>
+    <!-- Numeric -->
+    <e><re>[0-9]+</re><par n="pierw/szy__ord"/></e>
+    <e><re>[0-9]+</re><par n="dru/gi__ord"/></e>
+    <e><re>[0-9]+</re><par n="czwar/ty__ord"/></e>
+    <e><re>[0-9]+</re><i>c</i><par n="trzec/i__ord"/></e>
+    <e><re>[0-9]+</re><i>m</i><par n="ósm/y__ord"/></e>
+    <e><re>[0-9]+</re><i>n</i><par n="ósm/y__ord"/></e>
+
 
     <e lm="dobry"><i>dob</i><par n="dob/ry__adj"/></e>
     <e lm="dobry"><p><l>lep</l><r>dobry</r></p><par n="lep/szy__adj"/></e>
