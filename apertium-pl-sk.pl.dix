@@ -3573,14 +3573,37 @@
     <e lm="jej"><i>jej</i><par n="jej__det"/></e>
     <e lm="jego"><i>jego</i><par n="jej__det"/></e>
     <e lm="ich"><i>ich</i><par n="jej__det"/></e>
+
     <e lm="pierwszy"><i>pierw</i><par n="pierw/szy__det"/></e>
     <e lm="drugi"><i>dru</i><par n="dru/gi__det"/></e>
     <e lm="trzeci"><i>trzec</i><par n="trzec/i__det"/></e>
     <e lm="czwarty"><i>czwar</i><par n="czwar/ty__det"/></e>
     <e lm="piąty"><i>pią</i><par n="czwar/ty__det"/></e>
     <e lm="szósty"><i>szó</i><par n="szó/sty__det"/></e>
+    <e lm="siódmy"><i>siódm</i><par n="ósm/y__det"/></e>
     <e lm="ósmy"><i>ósm</i><par n="ósm/y__det"/></e>
+    <e lm="dziewiąty"><i>dziewią</i><par n="czwar/ty__det"/></e>
+    <e lm="dziesiąty"><i>dziesią</i><par n="czwar/ty__det"/></e>
+    <e lm="jedenasty"><i>jedena</i><par n="szó/sty__det"/></e>
+    <e lm="dwunasty"><i>dwuna</i><par n="szó/sty__det"/></e>
+    <e lm="trzynasty"><i>trzyna</i><par n="szó/sty__det"/></e>
+    <e lm="czternasty"><i>czterna</i><par n="szó/sty__det"/></e>
+    <e lm="piętnasty"><i>piętna</i><par n="szó/sty__det"/></e>
+    <e lm="szesnasty"><i>szesna</i><par n="szó/sty__det"/></e>
+    <e lm="siedemnasty"><i>siedemna</i><par n="szó/sty__det"/></e>
+    <e lm="osiemnasty"><i>osiemna</i><par n="szó/sty__det"/></e>
+    <e lm="dziewiętnasty"><i>dziewiętna</i><par n="szó/sty__det"/></e>
+    <e lm="dwudziesty"><i>dwudzie</i><par n="szó/sty__det"/></e>
+    <e lm="trzydziesty"><i>trzydzie</i><par n="szó/sty__det"/></e>
+    <e lm="czterdziesty"><i>czterdzie</i><par n="szó/sty__det"/></e>
+    <e lm="pięćdziesiąty"><i>pięćdziesią</i><par n="czwar/ty__det"/></e>
+    <e lm="sześćdziesiąty"><i>sześćdziesią</i><par n="czwar/ty__det"/></e>
+    <e lm="siedemdziesiąty"><i>siedemdziesią</i><par n="czwar/ty__det"/></e>
+    <e lm="osiemdziesiąty"><i>osiemdziesią</i><par n="czwar/ty__det"/></e>
+    <e lm="dziewięćdziesiąty"><i>dziewięćdziesią</i><par n="czwar/ty__det"/></e>
     <e lm="setny"><i>setn</i><par n="ósm/y__det"/></e>
+    <e lm="dwusetny"><i>dwusetn</i><par n="ósm/y__det"/></e>
+    <e lm="trzechsetny"><i>trzechsetn</i><par n="ósm/y__det"/></e>
     <!-- Numeric -->
     <e><re>[0-9]+</re><par n="pierw/szy__det"/></e>
     <e><re>[0-9]+</re><par n="dru/gi__det"/></e>
