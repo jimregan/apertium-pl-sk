@@ -3790,6 +3790,7 @@
     <e lm="a"><i>a</i><par n="i__cnjcoo"/></e>
     <e lm="oraz"><i>oraz</i><par n="i__cnjcoo"/></e>
     <e lm="albo"><i>albo</i><par n="i__cnjcoo"/></e>
+    <e lm="czy"><i>czy</i><par n="i__cnjcoo"/></e>
 
     <e lm="jej"><i>jej</i><par n="jej__det"/></e>
     <e lm="jego"><i>jego</i><par n="jej__det"/></e>
@@ -3813,6 +3814,7 @@
     <e lm="gdzie"><i>gdzie</i><par n="gdzie__adv"/></e>
     <e lm="jak"><i>jak</i><par n="gdzie__adv"/></e>
     <e lm="kiedy"><i>kiedy</i><par n="gdzie__adv"/></e>
+    <e lm="czy"><i>czy</i><par n="gdzie__adv"/></e>
 
     <e lm="matka"><i>mat</i><par n="mat/ka__n"/></e>
     <e lm="woda"><i>w</i><par n="w/oda__n"/></e>
