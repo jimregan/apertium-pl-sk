@@ -2347,6 +2347,42 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__dorosły">
+      <e>
+        <p>
+          <l>sł</l>
+          <r></r>
+        </p>
+        <par n="PBASE__pierwszy"/>
+      </e>
+      <e>
+        <p>
+          <l>śli</l>
+          <r><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śli</l>
+          <r><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="doro/sły__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>sły<s n="adj"/></r>
+        </p>
+        <par n="BASE__dorosły"/>
+      </e>
+      <e>
+        <p>
+          <l>sło</l>
+          <r>sły<s n="adj"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="PBASE__mp_pl">
       <e c="Regular nominal plurals">
@@ -3451,6 +3487,8 @@
     <e lm="zły"><i></i><par n="/zły__adj"/></e>
     <e lm="zły"><p><l>gor</l><r>zły</r></p><par n="lep/szy__adj"/></e>
     <e lm="zły"><p><l>najgor</l><r>zły</r></p><par n="najlep/szy__adj"/></e>
+
+    <e lm="dorosły"><i>doro</i><par n="doro/sły__adj"/></e>
 
     <e lm="cześć"><i>cześć</i><par n="cześć__ij"/></e>
     <e lm="ach"><i>ach</i><par n="cześć__ij"/></e>
