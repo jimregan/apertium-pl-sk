@@ -3610,6 +3610,14 @@
     <e lm="siedemsetny"><i>siedemsetn</i><par n="ósm/y__det"/></e>
     <e lm="osiemsetny"><i>osiemsetn</i><par n="ósm/y__det"/></e>
     <e lm="dziewięćsetny"><i>dziewięćsetn</i><par n="ósm/y__det"/></e>
+    <e lm="tysięczny"><i>tysięczn</i><par n="ósm/y__det"/></e>
+    <e lm="tysiączny"><i>tysiączn</i><par n="ósm/y__det"/></e>
+    <e lm="dwutysięczny"><i>dwutysięczn</i><par n="ósm/y__det"/></e>
+    <e lm="dwutysiączny"><i>dwutysiączn</i><par n="ósm/y__det"/></e>
+    <e lm="trzytysięczny"><i>trzytysięczn</i><par n="ósm/y__det"/></e>
+    <e lm="trzytysiączny"><i>trzytysiączn</i><par n="ósm/y__det"/></e>
+    <e lm="trzechtysięczny"><i>trzechtysięczn</i><par n="ósm/y__det"/></e>
+    <e lm="trzechtysiączny"><i>trzechtysiączn</i><par n="ósm/y__det"/></e>
     <!-- Numeric -->
     <e><re>[0-9]+</re><par n="pierw/szy__det"/></e>
     <e><re>[0-9]+</re><par n="dru/gi__det"/></e>
