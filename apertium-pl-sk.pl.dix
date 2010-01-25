@@ -3636,6 +3636,10 @@
     <e lm="siedmiotysiączny" r="LR"><p><l>siedmiotysiączn</l><r>siedmiotysięczn</r></p><par n="ósm/y__det"/></e>
     <e lm="siedemtysięczny" r="LR"><p><l>siedemtysięczn</l><r>siedmiotysięczn</r></p><par n="ósm/y__det"/></e>
     <e lm="siedemtysiączny" r="LR"><p><l>siedemtysiączn</l><r>siedmiotysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="ośmiotysięczny"><i>ośmiotysięczn</i><par n="ósm/y__det"/></e>
+    <e lm="ośmiotysiączny" r="LR"><p><l>ośmiotysiączn</l><r>ośmiotysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="osiemtysięczny" r="LR"><p><l>osiemtysięczn</l><r>osiemiotysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="osiemtysiączny" r="LR"><p><l>osiemtysiączn</l><r>osiemiotysięczn</r></p><par n="ósm/y__det"/></e>
     <!-- Numeric -->
     <e><re>[0-9]+</re><par n="pierw/szy__det"/></e>
     <e><re>[0-9]+</re><par n="dru/gi__det"/></e>
