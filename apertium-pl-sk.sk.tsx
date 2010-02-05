@@ -31,7 +31,7 @@
   <def-label name="GENPR" closed="true">
     <tags-item lemma="do" tags="pr"/>
     <tags-item lemma="od" tags="pr"/>
-    <tags-item lemma="až od" tags="pr"/>
+    <tags-item lemma="až do" tags="pr"/>
     <tags-item lemma="mimo" tags="pr"/>
     <tags-item lemma="z" tags="pr"/>
     <tags-item lemma="bez" tags="pr"/>
