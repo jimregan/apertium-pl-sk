@@ -4,7 +4,7 @@
 	Sections: 1
 	Entries: 25803
 	Sdefs: 14
-	Paradigms: 890
+	Paradigms: 891
 	Last processed by: apertium-dixtools -standard equiv-paradigms sk-nouns.dix sk-nouns
 -->
 <dictionary>
@@ -2331,7 +2331,6 @@
         <l>ic</l>
         <r>ica<s n="n"/></r>
       </p>
-    <!-- mostn/ica__SG' was replaced -->
         <par n="estetizáci/a__SG"/> 
     </e>
     <e>
@@ -11846,7 +11845,6 @@
         <l>aun</l>
         <r>auna<s n="n"/></r>
       </p>
-    <!-- f/auna__SG' was replaced -->
         <par n="vyvýšenin/ka__SG"/> 
     </e>
     <e>
@@ -11854,7 +11852,6 @@
         <l>aun</l>
         <r>auna<s n="n"/></r>
       </p>
-    <!-- f/auna__PL' was replaced -->
         <par n="vyvýšenin/ka__PL"/> 
     </e>
     </pardef>
@@ -11870,7 +11867,6 @@
         <l></l>
         <r>a<s n="n"/></r>
       </p>
-    <!-- kaťuš/a__SG' was replaced -->
         <par n="estetizáci/a__SG"/> 
     </e>
     <e>
@@ -11878,53 +11874,10 @@
         <l></l>
         <r>a<s n="n"/></r>
       </p>
-    <!-- kaťuš/a__PL' was replaced -->
         <par n="mostn/ica__PL"/> 
     </e>
     </pardef>
     <pardef n="škrid/la__n">
-    <e>
-      <p>
-        <l>ly</l>
-        <r>la<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>le</l>
-        <r>la<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>lu</l>
-        <r>la<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>le</l>
-        <r>la<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>la</l>
-        <r>la<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>lou</l>
-        <r>la<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>la</l>
-        <r>la<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-      </p>
-    </e>
     <e>
       <p>
         <l>iel</l>
@@ -11933,125 +11886,57 @@
     </e>
     <e>
       <p>
-        <l>lám</l>
-        <r>la<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        <l>l</l>
+        <r>la<s n="n"/></r>
       </p>
+        <par n="vyvýšenin/ka__SG"/> 
     </e>
     <e>
       <p>
-        <l>ly</l>
-        <r>la<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        <l>l</l>
+        <r>la<s n="n"/></r>
       </p>
-    </e>
-    <e>
-      <p>
-        <l>lách</l>
-        <r>la<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ly</l>
-        <r>la<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>lami</l>
-        <r>la<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ly</l>
-        <r>la<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-      </p>
+        <par n="vyvýšenin/ka__PL"/> 
     </e>
     </pardef>
-    <pardef n="Jarm/ila__n">
-    <e>
-      <p>
-        <l>ily</l>
-        <r>ila<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ile</l>
-        <r>ila<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ilu</l>
-        <r>ila<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ile</l>
-        <r>ila<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ila</l>
-        <r>ila<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ilou</l>
-        <r>ila<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ila</l>
-        <r>ila<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-      </p>
-    </e>
+    <pardef n="BASE__sila">
     <e>
       <p>
         <l>íl</l>
-        <r>ila<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        <r><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
     <e>
       <p>
-        <l>ilám</l>
-        <r>ila<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        <l>il</l>
+        <r></r>
       </p>
+        <par n="vyvýšenin/ka__SG"/> 
     </e>
     <e>
       <p>
-        <l>ily</l>
-        <r>ila<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        <l>il</l>
+        <r></r>
       </p>
+        <par n="vyvýšenin/ka__PL"/> 
     </e>
+    </pardef>
+    <pardef n="s/ila__n">
     <e>
       <p>
-        <l>ilách</l>
-        <r>ila<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        <l></l>
+        <r>il<s n="n"/></r>
       </p>
+        <par n="BASE__sila"/> 
     </e>
+    </pardef>
+    <pardef n="Jarm/ila__np">
     <e>
       <p>
-        <l>ily</l>
-        <r>ila<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        <l></l>
+        <r>il<s n="np"/><s n="ant"/></r>
       </p>
-    </e>
-    <e>
-      <p>
-        <l>ilami</l>
-        <r>ila<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ily</l>
-        <r>ila<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-      </p>
+        <par n="BASE__sila"/> 
     </e>
     </pardef>
     <pardef n="str/uma__n">
@@ -12484,47 +12369,47 @@
       </p>
     </e>
     </pardef>
-    <pardef n="Bystric/a__n">
+    <pardef n="Bystric/a__np">
     <e>
       <p>
         <l>a</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>e</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>i</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>u</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ou</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>i</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>a</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r>
       </p>
     </e>
     </pardef>
@@ -12834,89 +12719,89 @@
       </p>
     </e>
     </pardef>
-    <pardef n="t/ea__n">
+    <pardef n="t/eta__n">
     <e>
       <p>
         <l>ety</l>
-        <r>ea<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        <r>eta<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ete</l>
-        <r>ea<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        <r>eta<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>etu</l>
-        <r>ea<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        <r>eta<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ete</l>
-        <r>ea<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        <r>eta<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>eta</l>
-        <r>ea<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        <r>eta<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>etou</l>
-        <r>ea<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        <r>eta<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>eta</l>
-        <r>ea<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        <r>eta<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>iet</l>
-        <r>ea<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        <r>eta<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>etám</l>
-        <r>ea<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        <r>eta<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ety</l>
-        <r>ea<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        <r>eta<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>etách</l>
-        <r>ea<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        <r>eta<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ety</l>
-        <r>ea<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        <r>eta<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>etami</l>
-        <r>ea<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        <r>eta<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ety</l>
-        <r>ea<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        <r>eta<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
     </pardef>
@@ -13220,89 +13105,89 @@
       </p>
     </e>
     </pardef>
-    <pardef n="b/aa__n">
+    <pardef n="b/aba__n">
     <e>
       <p>
         <l>aby</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        <r>aba<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>abe</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        <r>aba<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>abu</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        <r>aba<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>abe</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        <r>aba<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>aba</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        <r>aba<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>abou</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        <r>aba<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>aba</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        <r>aba<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>áb</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        <r>aba<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>abám</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        <r>aba<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>aby</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        <r>aba<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>abách</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        <r>aba<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>aby</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        <r>aba<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>abami</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        <r>aba<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>aby</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        <r>aba<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
     </pardef>
@@ -17259,92 +17144,6 @@
       <p>
         <l>afy</l>
         <r>afa<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-      </p>
-    </e>
-    </pardef>
-    <pardef n="l/aba__n">
-    <e>
-      <p>
-        <l>aby</l>
-        <r>aba<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>abe</l>
-        <r>aba<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>abu</l>
-        <r>aba<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>abe</l>
-        <r>aba<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>aba</l>
-        <r>aba<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>abou</l>
-        <r>aba<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>aba</l>
-        <r>aba<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>áb</l>
-        <r>aba<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>abám</l>
-        <r>aba<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>aby</l>
-        <r>aba<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>abách</l>
-        <r>aba<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>aby</l>
-        <r>aba<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>abami</l>
-        <r>aba<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>aby</l>
-        <r>aba<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
     </pardef>
@@ -78764,9 +78563,6 @@
     </pardef>
   </pardefs>
   <section id="main" type="standard">
-    <!-- ******************************
-          group n
-      ****************************** -->
     <e lm="oko"><i></i><par n="/oko__n"/></e>
     <e lm="Ida"><i></i><par n="/Ida__n"/></e>
     <e lm="osa"><i></i><par n="k/osa__n"/></e>
@@ -78844,12 +78640,12 @@
     <e lm="Arnold"><i>Arnold</i><par n="ťuťmáčik__n"/></e>
     <e lm="Arpád"><i>Arpád</i><par n="ťuťmáčik__n"/></e>
     <e lm="Artfórum"><i>Artfór</i><par n="sedatív/um__n"/></e>
-    <e lm="Arábia"><i>Arábi</i><par n="Bystric/a__n"/></e>
+    <e lm="Arábia"><i>Arábi</i><par n="Bystric/a__np"/></e>
     <e lm="Atény"><i>Atén</i><par n="Grenadín/y__n"/></e>
     <e lm="Augustín"><i>Augustín</i><par n="ťuťmáčik__n"/></e>
     <e lm="Aurel"><i>Aurel</i><par n="ťuťmáčik__n"/></e>
     <e lm="Aurélia"><i>Auréli</i><par n="estetizáci/a__n"/></e>
-    <e lm="Austrália"><i>Austráli</i><par n="Bystric/a__n"/></e>
+    <e lm="Austrália"><i>Austráli</i><par n="Bystric/a__np"/></e>
     <e lm="Azerbajdžan"><i>Azerbajdžan</i><par n="Amsterdam__n"/></e>
     <e lm="Aziat"><i>Aziat</i><par n="národniar__n"/></e>
     <e lm="Billa"><i>B</i><par n="B/illa__n"/></e>
@@ -78887,14 +78683,14 @@
     <e lm="Bodva"><i>Bodv</i><par n="vrm/a__n"/></e>
     <e lm="Bohdana"><i>Bohd</i><par n="sebaochr/ana__n"/></e>
     <e lm="Bohdan"><i>Bohdan</i><par n="ťuťmáčik__n"/></e>
-    <e lm="Bohumila"><i>Bohum</i><par n="Jarm/ila__n"/></e>
+    <e lm="Bohumila"><i>Bohum</i><par n="Jarm/ila__np"/></e>
     <e lm="Bohumil"><i>Bohumil</i><par n="ťuťmáčik__n"/></e>
     <e lm="Bohumír"><i>Bohumír</i><par n="ťuťmáčik__n"/></e>
     <e lm="Bohuslava"><i>Bohusl</i><par n="Ľubosl/ava__n"/></e>
     <e lm="Bohuslav"><i>Bohuslav</i><par n="ťuťmáčik__n"/></e>
     <e lm="Bohuš"><i>Bohuš</i><par n="ťuťmáčik__n"/></e>
     <e lm="Boleslav"><i>Boleslav</i><par n="ťuťmáčik__n"/></e>
-    <e lm="Bolívia"><i>Bolívi</i><par n="Bystric/a__n"/></e>
+    <e lm="Bolívia"><i>Bolívi</i><par n="Bystric/a__np"/></e>
     <e lm="Bonifác"><i>Bonifác</i><par n="ťuťmáčik__n"/></e>
     <e lm="Boris"><i>Boris</i><par n="ťuťmáčik__n"/></e>
     <e lm="Bosna"><i>Bosn</i><par n="vrm/a__n"/></e>
@@ -78905,11 +78701,11 @@
     <e lm="Branislav"><i>Branislav</i><par n="ťuťmáčik__n"/></e>
     <e lm="Bratislava"><i>Bratislav</i><par n="vrm/a__n"/></e>
     <e lm="Bratislavčan"><i>Bratislavčan</i><par n="Bratislavčan__n"/></e>
-    <e lm="Brazília"><i>Brazíli</i><par n="Bystric/a__n"/></e>
+    <e lm="Brazília"><i>Brazíli</i><par n="Bystric/a__np"/></e>
     <e lm="Brezno"><i>Brezn</i><par n="Brezn/o__n"/></e>
     <e lm="Brigita"><i>Brig</i><par n="stabil/ita__n"/></e>
     <e lm="Brit"><i>Brit</i><par n="národniar__n"/></e>
-    <e lm="Británia"><i>Británi</i><par n="Bystric/a__n"/></e>
+    <e lm="Británia"><i>Británi</i><par n="Bystric/a__np"/></e>
     <e lm="Brno"><i>Brn</i><par n="Brezn/o__n"/></e>
     <e lm="Bronislava"><i>Bronisl</i><par n="Ľubosl/ava__n"/></e>
     <e lm="Brunej"><i>Brunej</i><par n="Uruguaj__n"/></e>
@@ -78920,7 +78716,7 @@
     <e lm="Burkina"><i>Burkin</i><par n="vrm/a__n"/></e>
     <e lm="Burundi"><i>Burundi</i><par n="Chile__n"/></e>
     <e lm="Bush"><i>Bush</i><par n="ťuťmáčik__n"/></e>
-    <e lm="Bystrica"><i>Bystric</i><par n="Bystric/a__n"/></e>
+    <e lm="Bystrica"><i>Bystric</i><par n="Bystric/a__np"/></e>
     <e lm="Bystrík"><i>Bystrík</i><par n="ťuťmáčik__n"/></e>
     <e lm="Cecília"><i>Cecíli</i><par n="estetizáci/a__n"/></e>
     <e lm="Chile"><i>Chile</i><par n="Chile__n"/></e>
@@ -78945,7 +78741,7 @@
     <e lm="Dezider"><i>Dezider</i><par n="ťuťmáčik__n"/></e>
     <e lm="Diana"><i>Di</i><par n="sebaochr/ana__n"/></e>
     <e lm="Dionýz"><i>Dionýz</i><par n="ťuťmáčik__n"/></e>
-    <e lm="Dobromila"><i>Dobrom</i><par n="Jarm/ila__n"/></e>
+    <e lm="Dobromila"><i>Dobrom</i><par n="Jarm/ila__np"/></e>
     <e lm="Dobroslava"><i>Dobrosl</i><par n="Ľubosl/ava__n"/></e>
     <e lm="Dobroslav"><i>Dobroslav</i><par n="ťuťmáčik__n"/></e>
     <e lm="Dominika"><i>Domin</i><par n="kal/ika__n"/></e>
@@ -78956,7 +78752,7 @@
     <e lm="Drahoslava"><i>Drahosl</i><par n="Ľubosl/ava__n"/></e>
     <e lm="Drahoslav"><i>Drahoslav</i><par n="ťuťmáčik__n"/></e>
     <e lm="Dublin"><i>Dublin</i><par n="Amsterdam__n"/></e>
-    <e lm="Dubnica"><i>Dubnic</i><par n="Bystric/a__n"/></e>
+    <e lm="Dubnica"><i>Dubnic</i><par n="Bystric/a__np"/></e>
     <e lm="Dudváh"><i>Dudváh</i><par n="Dudváh__n"/></e>
     <e lm="Dukla"><i>Dukl</i><par n="vrm/a__n"/></e>
     <e lm="Dunaj"><i>Dunaj</i><par n="Uruguaj__n"/></e>
@@ -78990,11 +78786,11 @@
     <e lm="Estera"><i>Est</i><par n="sek/era__n"/></e>
     <e lm="Estónsko"><i>Estónsk</i><par n="Španielsk/o__n"/></e>
     <e lm="Etela"><i>Etel</i><par n="úžin/a__n"/></e>
-    <e lm="Etiópia"><i>Etiópi</i><par n="Bystric/a__n"/></e>
+    <e lm="Etiópia"><i>Etiópi</i><par n="Bystric/a__np"/></e>
     <e lm="Eugen"><i>Eugen</i><par n="ťuťmáčik__n"/></e>
     <e lm="Eugénia"><i>Eugéni</i><par n="estetizáci/a__n"/></e>
     <e lm="Euklides"><i>Euklid</i><par n="Euklid/es__n"/></e>
-    <e lm="Eurázia"><i>Eurázi</i><par n="Bystric/a__n"/></e>
+    <e lm="Eurázia"><i>Eurázi</i><par n="Bystric/a__np"/></e>
     <e lm="Európa"><i>Európ</i><par n="vrm/a__n"/></e>
     <e lm="Eva"><i>Ev</i><par n="úžin/a__n"/></e>
     <e lm="Ezechiel"><i>Ezechiel</i><par n="ťuťmáčik__n"/></e>
@@ -79020,7 +78816,7 @@
     <e lm="Gabriel"><i>Gabriel</i><par n="ťuťmáčik__n"/></e>
     <e lm="Galina"><i>Gal</i><par n="liehov/ina__n"/></e>
     <e lm="Galanta"><i>Galant</i><par n="vrm/a__n"/></e>
-    <e lm="Gambia"><i>Gambi</i><par n="Bystric/a__n"/></e>
+    <e lm="Gambia"><i>Gambi</i><par n="Bystric/a__np"/></e>
     <e lm="Gašpar"><i>Gašpar</i><par n="ťuťmáčik__n"/></e>
     <e lm="Gejza"><i>Gejz</i><par n="radc/a__n"/></e>
     <e lm="George"><i>Georg</i><par n="Georg/e__n"/></e>
@@ -79060,9 +78856,9 @@
     <e lm="Ignác"><i>Ignác</i><par n="ťuťmáčik__n"/></e>
     <e lm="Igor"><i>Igor</i><par n="ťuťmáčik__n"/></e>
     <e lm="Imrich"><i>Imrich</i><par n="ťuťmáčik__n"/></e>
-    <e lm="India"><i>Indi</i><par n="Bystric/a__n"/></e>
+    <e lm="India"><i>Indi</i><par n="Bystric/a__np"/></e>
     <e lm="Indián"><i>Indián</i><par n="národniar__n"/></e>
-    <e lm="Indonézia"><i>Indonézi</i><par n="Bystric/a__n"/></e>
+    <e lm="Indonézia"><i>Indonézi</i><par n="Bystric/a__np"/></e>
     <e lm="Ingrida"><i>Ingr</i><par n="sínuso/ida__n"/></e>
     <e lm="Inter"><i>Inter</i><par n="Inter__n"/></e>
     <e lm="Ipeľ"><i>Ip</i><par n="Ip/eľ__n"/></e>
@@ -79086,7 +78882,7 @@
     <e lm="Jano"><i>Jan</i><par n="Fic/o__n"/></e>
     <e lm="Jan"><i>Jan</i><par n="ťuťmáčik__n"/></e>
     <e lm="Japonsko"><i>Japonsk</i><par n="Španielsk/o__n"/></e>
-    <e lm="Jarmila"><i>Jarm</i><par n="Jarm/ila__n"/></e>
+    <e lm="Jarmila"><i>Jarm</i><par n="Jarm/ila__np"/></e>
     <e lm="Jarolím"><i>Jarolím</i><par n="ťuťmáčik__n"/></e>
     <e lm="Jaromír"><i>Jaromír</i><par n="ťuťmáčik__n"/></e>
     <e lm="Jaroslava"><i>Jarosl</i><par n="Ľubosl/ava__n"/></e>
@@ -79112,8 +78908,8 @@
     <e lm="Júlia"><i>Júli</i><par n="estetizáci/a__n"/></e>
     <e lm="Július"><i>Július</i><par n="ťuťmáčik__n"/></e>
     <e lm="Kain"><i>Kain</i><par n="ťuťmáčik__n"/></e>
-    <e lm="Kamila"><i>Kam</i><par n="Jarm/ila__n"/></e>
-    <e lm="Kambodža"><i>Kambodž</i><par n="Bystric/a__n"/></e>
+    <e lm="Kamila"><i>Kam</i><par n="Jarm/ila__np"/></e>
+    <e lm="Kambodža"><i>Kambodž</i><par n="Bystric/a__np"/></e>
     <e lm="Kamerun"><i>Kamerun</i><par n="Amsterdam__n"/></e>
     <e lm="Kamil"><i>Kamil</i><par n="ťuťmáčik__n"/></e>
     <e lm="Kanada"><i>Kanad</i><par n="vrm/a__n"/></e>
@@ -79136,7 +78932,7 @@
     <e lm="Kocúrkovo"><i>Kocúrkov</i><par n="nonet/o__n"/></e>
     <e lm="Kodaň"><i>Koda</i><par n="Koda/ň__n"/></e>
     <e lm="Koloman"><i>Koloman</i><par n="ťuťmáčik__n"/></e>
-    <e lm="Kolumbia"><i>Kolumbi</i><par n="Bystric/a__n"/></e>
+    <e lm="Kolumbia"><i>Kolumbi</i><par n="Bystric/a__np"/></e>
     <e lm="Komory"><i>Komor</i><par n="Kapverd/y__n"/></e>
     <e lm="Kongo"><i>Kong</i><par n="Španielsk/o__n"/></e>
     <e lm="Konštantín"><i>Konštantín</i><par n="ťuťmáčik__n"/></e>
@@ -79148,13 +78944,13 @@
     <e lm="Kristián"><i>Kristián</i><par n="ťuťmáčik__n"/></e>
     <e lm="Kristína"><i>Kristín</i><par n="sál/a__n"/></e>
     <e lm="Krištof"><i>Krištof</i><par n="ťuťmáčik__n"/></e>
-    <e lm="Krupinica"><i>Krupinic</i><par n="Bystric/a__n"/></e>
+    <e lm="Krupinica"><i>Krupinic</i><par n="Bystric/a__np"/></e>
     <e lm="Králové"><i>Králové</i><par n="Králové__n"/></e>
     <e lm="Kuba"><i>Kub</i><par n="vrm/a__n"/></e>
     <e lm="Kuvajt"><i>Kuvajt</i><par n="Amsterdam__n"/></e>
     <e lm="Kvetoslava"><i>Kvetosl</i><par n="Ľubosl/ava__n"/></e>
     <e lm="Kysuce"><i>Kys</i><par n="Kys/uce__n"/></e>
-    <e lm="Kysuca"><i>Kysuc</i><par n="Bystric/a__n"/></e>
+    <e lm="Kysuca"><i>Kysuc</i><par n="Bystric/a__np"/></e>
     <e lm="Laura"><i>L</i><par n="L/aura__n"/></e>
     <e lm="Linda"><i>L</i><par n="L/inda__n"/></e>
     <e lm="Lujza"><i>L</i><par n="L/ujza__n"/></e>
@@ -79163,7 +78959,7 @@
     <e lm="Ladislav"><i>Ladislav</i><par n="ťuťmáčik__n"/></e>
     <e lm="Lanka"><i>Lank</i><par n="vrm/a__n"/></e>
     <e lm="Laos"><i>Laos</i><par n="Amsterdam__n"/></e>
-    <e lm="Latorica"><i>Latoric</i><par n="Bystric/a__n"/></e>
+    <e lm="Latorica"><i>Latoric</i><par n="Bystric/a__np"/></e>
     <e lm="Lea"><i>Le</i><par n="ide/a__n"/></e>
     <e lm="Lenka"><i>Len</i><par n="vyvýšenin/ka__n"/></e>
     <e lm="Leonard"><i>Leonard</i><par n="ťuťmáčik__n"/></e>
@@ -79175,7 +78971,7 @@
     <e lm="Libanon"><i>Libanon</i><par n="Amsterdam__n"/></e>
     <e lm="Liberec"><i>Liber</i><par n="Hnil/ec__n"/></e>
     <e lm="Libuša"><i>Libuš</i><par n="estetizáci/a__n"/></e>
-    <e lm="Libéria"><i>Libéri</i><par n="Bystric/a__n"/></e>
+    <e lm="Libéria"><i>Libéri</i><par n="Bystric/a__np"/></e>
     <e lm="Lichtenštajnsko"><i>Lichtenštajnsk</i><par n="Španielsk/o__n"/></e>
     <e lm="Lisabon"><i>Lisabon</i><par n="Amsterdam__n"/></e>
     <e lm="Litva"><i>Litv</i><par n="vrm/a__n"/></e>
@@ -79194,7 +78990,7 @@
     <e lm="Madagaskar"><i>Madagaskar</i><par n="Amsterdam__n"/></e>
     <e lm="Madrid"><i>Madrid</i><par n="Amsterdam__n"/></e>
     <e lm="Magdaléna"><i>Magdalén</i><par n="sál/a__n"/></e>
-    <e lm="Malajzia"><i>Malajzi</i><par n="Bystric/a__n"/></e>
+    <e lm="Malajzia"><i>Malajzi</i><par n="Bystric/a__np"/></e>
     <e lm="Malawi"><i>Malawi</i><par n="Chile__n"/></e>
     <e lm="Maldivy"><i>Mald</i><par n="Mald/ivy__n"/></e>
     <e lm="Mali"><i>Mali</i><par n="Chile__n"/></e>
@@ -79216,7 +79012,7 @@
     <e lm="Matilda"><i>Mat</i><par n="H/ilda__n"/></e>
     <e lm="Matej"><i>Matej</i><par n="ťuťmáčik__n"/></e>
     <e lm="Matúš"><i>Matúš</i><par n="ťuťmáčik__n"/></e>
-    <e lm="Mauretánia"><i>Mauretáni</i><par n="Bystric/a__n"/></e>
+    <e lm="Mauretánia"><i>Mauretáni</i><par n="Bystric/a__np"/></e>
     <e lm="Maurícius"><i>Mauríci</i><par n="Mauríci/us__n"/></e>
     <e lm="Maurítius"><i>Mauríti</i><par n="Mauríci/us__n"/></e>
     <e lm="Maximilián"><i>Maximilián</i><par n="ťuťmáčik__n"/></e>
@@ -79229,7 +79025,7 @@
     <e lm="Michaela"><i>Michael</i><par n="úžin/a__n"/></e>
     <e lm="Michal"><i>Michal</i><par n="ťuťmáčik__n"/></e>
     <e lm="Microsoft"><i>Microsoft</i><par n="Amsterdam__n"/></e>
-    <e lm="Mikronézia"><i>Mikronézi</i><par n="Bystric/a__n"/></e>
+    <e lm="Mikronézia"><i>Mikronézi</i><par n="Bystric/a__np"/></e>
     <e lm="Mikuláš"><i>Mikuláš</i><par n="ťuťmáčik__n"/></e>
     <e lm="Milica"><i>Mil</i><par n="mostn/ica__n"/></e>
     <e lm="Milada"><i>Mil</i><par n="zv/ada__n"/></e>
@@ -79260,7 +79056,7 @@
     <e lm="Nina"><i>N</i><par n="liehov/ina__n"/></e>
     <e lm="Nora"><i>N</i><par n="rebarb/ora__n"/></e>
     <e lm="Nadežda"><i>Nadežd</i><par n="úžin/a__n"/></e>
-    <e lm="Namíbia"><i>Namíbi</i><par n="Bystric/a__n"/></e>
+    <e lm="Namíbia"><i>Namíbi</i><par n="Bystric/a__np"/></e>
     <e lm="Nataša"><i>Nat</i><par n="Nat/aša__n"/></e>
     <e lm="Natália"><i>Natáli</i><par n="estetizáci/a__n"/></e>
     <e lm="Nauru"><i>Nauru</i><par n="Chile__n"/></e>
@@ -79269,10 +79065,10 @@
     <e lm="Nepál"><i>Nepál</i><par n="Amsterdam__n"/></e>
     <e lm="Nevis"><i>Nevis</i><par n="Amsterdam__n"/></e>
     <e lm="Niger"><i>Niger</i><par n="Inter__n"/></e>
-    <e lm="Nigéria"><i>Nigéri</i><par n="Bystric/a__n"/></e>
+    <e lm="Nigéria"><i>Nigéri</i><par n="Bystric/a__np"/></e>
     <e lm="Nikaragua"><i>Nikaragu</i><par n="vrm/a__n"/></e>
     <e lm="Nikola"><i>Nikol</i><par n="úžin/a__n"/></e>
-    <e lm="Nikózia"><i>Nikózi</i><par n="Bystric/a__n"/></e>
+    <e lm="Nikózia"><i>Nikózi</i><par n="Bystric/a__np"/></e>
     <e lm="Nitra"><i>Nitr</i><par n="vrm/a__n"/></e>
     <e lm="Norbert"><i>Norbert</i><par n="ťuťmáčik__n"/></e>
     <e lm="Nórsko"><i>Nórsk</i><par n="Španielsk/o__n"/></e>
@@ -79324,7 +79120,7 @@
     <e lm="Praha"><i>Prah</i><par n="vrm/a__n"/></e>
     <e lm="Pravoslav"><i>Pravoslav</i><par n="ťuťmáčik__n"/></e>
     <e lm="Prešov"><i>Prešov</i><par n="Egypt__n"/></e>
-    <e lm="Prievidza"><i>Prievidz</i><par n="Bystric/a__n"/></e>
+    <e lm="Prievidza"><i>Prievidz</i><par n="Bystric/a__np"/></e>
     <e lm="Prokop"><i>Prokop</i><par n="ťuťmáčik__n"/></e>
     <e lm="Pyrrhos"><i>Pyrrh</i><par n="Pyrrh/os__n"/></e>
     <e lm="Pytagoras"><i>Pytagor</i><par n="Pytagor/as__n"/></e>
@@ -79399,14 +79195,14 @@
     <e lm="Svetozár"><i>Svetozár</i><par n="ťuťmáčik__n"/></e>
     <e lm="Svätopluk"><i>Svätopluk</i><par n="ťuťmáčik__n"/></e>
     <e lm="Sára"><i>Sár</i><par n="sál/a__n"/></e>
-    <e lm="Sýria"><i>Sýri</i><par n="Bystric/a__n"/></e>
+    <e lm="Sýria"><i>Sýri</i><par n="Bystric/a__np"/></e>
     <e lm="Tadeáš"><i>Tadeáš</i><par n="ťuťmáčik__n"/></e>
     <e lm="Tadžikistan"><i>Tadžikistan</i><par n="Amsterdam__n"/></e>
     <e lm="Taliansko"><i>Taliansk</i><par n="Španielsk/o__n"/></e>
     <e lm="Tallinn"><i>Tallinn</i><par n="Egypt__n"/></e>
     <e lm="Tamara"><i>Tam</i><par n="kap/ara__n"/></e>
     <e lm="Tantalus"><i>Tantal</i><par n="Tantal/us__n"/></e>
-    <e lm="Tanzánia"><i>Tanzáni</i><par n="Bystric/a__n"/></e>
+    <e lm="Tanzánia"><i>Tanzáni</i><par n="Bystric/a__np"/></e>
     <e lm="Tatiana"><i>Tati</i><par n="sebaochr/ana__n"/></e>
     <e lm="Tatran"><i>Tatran</i><par n="Amsterdam__n"/></e>
     <e lm="Teodor"><i>Teodor</i><par n="ťuťmáčik__n"/></e>
@@ -79490,7 +79286,7 @@
     <e lm="Zora"><i>Z</i><par n="rebarb/ora__n"/></e>
     <e lm="Zita"><i>Z</i><par n="stabil/ita__n"/></e>
     <e lm="Zair"><i>Zair</i><par n="Amsterdam__n"/></e>
-    <e lm="Zambia"><i>Zambi</i><par n="Bystric/a__n"/></e>
+    <e lm="Zambia"><i>Zambi</i><par n="Bystric/a__np"/></e>
     <e lm="Zdenka"><i>Zden</i><par n="vyvýšenin/ka__n"/></e>
     <e lm="Zdenko"><i>Zdenk</i><par n="smejk/o__n"/></e>
     <e lm="Zem"><i>Zem</i><par n="chatrč__n"/></e>
@@ -80130,7 +79926,7 @@
     <e lm="brko"><i>b</i><par n="b/rko__n"/></e>
     <e lm="banka"><i>b</i><par n="b/anka__n"/></e>
     <e lm="baza"><i>b</i><par n="b/aza__n"/></e>
-    <e lm="baba"><i>b</i><par n="b/aa__n"/></e>
+    <e lm="baba"><i>b</i><par n="b/aba__n"/></e>
     <e lm="brzda"><i>b</i><par n="b/rzda__n"/></e>
     <e lm="beta"><i>b</i><par n="rol/eta__n"/></e>
     <e lm="blcha"><i>b</i><par n="b/lcha__n"/></e>
@@ -82159,7 +81955,7 @@
     <e lm="dištancia"><i>dištanci</i><par n="estetizáci/a__n"/></e>
     <e lm="dištinkcia"><i>dištinkci</i><par n="estetizáci/a__n"/></e>
     <e lm="dištrikt"><i>dištrikt</i><par n="balast__n"/></e>
-    <e lm="dlaba"><i>dl</i><par n="l/aba__n"/></e>
+    <e lm="dlaba"><i>dl</i><par n="b/aba__n"/></e>
     <e lm="dlaha"><i>dl</i><par n="dl/aha__n"/></e>
     <e lm="dlapa"><i>dl</i><par n="kan/apa__n"/></e>
     <e lm="dlaň"><i>dla</i><par n="zbra/ň__n"/></e>
@@ -83430,7 +83226,7 @@
     <e lm="fliačky"><i>fliačk</i><par n="požitk/y__n"/></e>
     <e lm="flintička"><i>flintič</i><par n="vyvýšenin/ka__n"/></e>
     <e lm="flirt"><i>flirt</i><par n="balast__n"/></e>
-    <e lm="flotila"><i>flot</i><par n="Jarm/ila__n"/></e>
+    <e lm="flotila"><i>flot</i><par n="s/ila__n"/></e>
     <e lm="flox"><i>flox</i><par n="balast__n"/></e>
     <e lm="fluidum"><i>flu</i><par n="flu/idum__n"/></e>
     <e lm="fluktuantka"><i>fluktuant</i><par n="vyvýšenin/ka__n"/></e>
@@ -83908,7 +83704,7 @@
     <e lm="gondolier"><i>gondolier</i><par n="národniar__n"/></e>
     <e lm="gong"><i>gong</i><par n="podtlak__n"/></e>
     <e lm="goniometria"><i>goniometri</i><par n="estetizáci/a__n"/></e>
-    <e lm="gorila"><i>gor</i><par n="Jarm/ila__n"/></e>
+    <e lm="gorila"><i>gor</i><par n="s/ila__n"/></e>
     <e lm="goral"><i>goral</i><par n="národniar__n"/></e>
     <e lm="gotika"><i>got</i><par n="kal/ika__n"/></e>
     <e lm="grapa"><i>gr</i><par n="kan/apa__n"/></e>
@@ -85446,7 +85242,7 @@
     <e lm="jezuita"><i>jezuit</i><par n="antisemit/a__n"/></e>
     <e lm="ježura"><i>jež</i><par n="j/ura__n"/></e>
     <e lm="jež"><i>jež</i><par n="roháč__n"/></e>
-    <e lm="ježibaba"><i>ježib</i><par n="l/aba__n"/></e>
+    <e lm="ježibaba"><i>ježib</i><par n="b/aba__n"/></e>
     <e lm="ježko"><i>ježk</i><par n="mac/o__n"/></e>
     <e lm="ježohlav"><i>ježohlav</i><par n="balast__n"/></e>
     <e lm="ježovka"><i>ježov</i><par n="vyvýšenin/ka__n"/></e>
@@ -86167,7 +85963,7 @@
     <e lm="kohútisko"><i>kohútisk</i><par n="chudáčisk/o__n"/></e>
     <e lm="kojenec"><i>kojen</i><par n="oškliv/ec__n"/></e>
     <e lm="kojot"><i>kojot</i><par n="červiačik__n"/></e>
-    <e lm="kokila"><i>kok</i><par n="Jarm/ila__n"/></e>
+    <e lm="kokila"><i>kok</i><par n="s/ila__n"/></e>
     <e lm="kokarda"><i>kok</i><par n="avantg/arda__n"/></e>
     <e lm="koketa"><i>kok</i><par n="rol/eta__n"/></e>
     <e lm="kokus"><i>kok</i><par n="kok/us__n"/></e>
@@ -87355,7 +87151,7 @@
     <e lm="lišta"><i>l</i><par n="l/išta__n"/></e>
     <e lm="lata"><i>l</i><par n="l/ata__n"/></e>
     <e lm="luna"><i>l</i><par n="l/una__n"/></e>
-    <e lm="laba"><i>l</i><par n="l/aba__n"/></e>
+    <e lm="laba"><i>l</i><par n="b/aba__n"/></e>
     <e lm="lajda"><i>l</i><par n="l/ajda__n"/></e>
     <e lm="liga"><i>l</i><par n="extral/iga__n"/></e>
     <e lm="lama"><i>l</i><par n="g/ama__n"/></e>
@@ -93455,7 +93251,7 @@
     <e lm="porušovateľ"><i>porušovate</i><par n="cestovate/ľ__n"/></e>
     <e lm="poryv"><i>poryv</i><par n="balast__n"/></e>
     <e lm="porážka"><i>poráž</i><par n="ľahtikár/ka__n"/></e>
-    <e lm="posila"><i>pos</i><par n="Jarm/ila__n"/></e>
+    <e lm="posila"><i>pos</i><par n="s/ila__n"/></e>
     <e lm="posol"><i>pos</i><par n="pos/ol__n"/></e>
     <e lm="posadnutosť"><i>posadnutos</i><par n="ošúchanos/ť__n"/></e>
     <e lm="poschodie"><i>poschod</i><par n="ohodnoten/ie__n"/></e>
@@ -93875,7 +93671,7 @@
     <e lm="prarodičia"><i>prarodič</i><par n="prarodič/ia__n"/></e>
     <e lm="prarodič"><i>prarodič</i><par n="Bratislavčan__n"/></e>
     <e lm="prasa"><i>pras</i><par n="pras/a__n"/></e>
-    <e lm="prasila"><i>pras</i><par n="Jarm/ila__n"/></e>
+    <e lm="prasila"><i>pras</i><par n="s/ila__n"/></e>
     <e lm="prasacina"><i>prasac</i><par n="liehov/ina__n"/></e>
     <e lm="prasačinec"><i>prasačin</i><par n="meš/ec__n"/></e>
     <e lm="prasačník"><i>prasačník</i><par n="plevník__n"/></e>
@@ -94213,7 +94009,7 @@
     <e lm="prerušovač"><i>prerušovač</i><par n="pridržiavač__n"/></e>
     <e lm="prerážač"><i>prerážač</i><par n="napínač__n"/></e>
     <e lm="prerývanosť"><i>prerývanos</i><par n="ošúchanos/ť__n"/></e>
-    <e lm="presila"><i>pres</i><par n="Jarm/ila__n"/></e>
+    <e lm="presila"><i>pres</i><par n="s/ila__n"/></e>
     <e lm="preso"><i>pres</i><par n="zemiačnisk/o__n"/></e>
     <e lm="presadenie"><i>presaden</i><par n="ohodnoten/ie__n"/></e>
     <e lm="presadzovanie"><i>presadzovan</i><par n="ohodnoten/ie__n"/></e>
@@ -96361,7 +96157,7 @@
     <e lm="socha"><i>s</i><par n="s/ocha__n"/></e>
     <e lm="sauna"><i>s</i><par n="f/auna__n"/></e>
     <e lm="sekta"><i>s</i><par n="s/ekta__n"/></e>
-    <e lm="sila"><i>s</i><par n="Jarm/ila__n"/></e>
+    <e lm="sila"><i>s</i><par n="s/ila__n"/></e>
     <e lm="samba"><i>s</i><par n="g/amba__n"/></e>
     <e lm="sada"><i>s</i><par n="zv/ada__n"/></e>
     <e lm="slza"><i>s</i><par n="s/lza__n"/></e>
@@ -98771,7 +98567,7 @@
     <e lm="tilda"><i>t</i><par n="H/ilda__n"/></e>
     <e lm="tuba"><i>t</i><par n="zh/uba__n"/></e>
     <e lm="tma"><i>t</i><par n="šel/ma__n"/></e>
-    <e lm="teta"><i>t</i><par n="t/ea__n"/></e>
+    <e lm="teta"><i>t</i><par n="t/eta__n"/></e>
     <e lm="tuha"><i>t</i><par n="koť/uha__n"/></e>
     <e lm="tajga"><i>t</i><par n="t/ajga__n"/></e>
     <e lm="trlo"><i>t</i><par n="t/rlo__n"/></e>
@@ -100137,7 +99933,7 @@
     <e lm="vlha"><i>v</i><par n="v/lha__n"/></e>
     <e lm="veta"><i>v</i><par n="rol/eta__n"/></e>
     <e lm="veda"><i>v</i><par n="rez/eda__n"/></e>
-    <e lm="vila"><i>v</i><par n="Jarm/ila__n"/></e>
+    <e lm="vila"><i>v</i><par n="s/ila__n"/></e>
     <e lm="vlna"><i>v</i><par n="mikrov/lna__n"/></e>
     <e lm="vina"><i>v</i><par n="liehov/ina__n"/></e>
     <e lm="versta"><i>v</i><par n="v/ersta__n"/></e>
@@ -102698,7 +102494,7 @@
     <e lm="zľaknutosť"><i>zľaknutos</i><par n="ošúchanos/ť__n"/></e>
     <e lm="zľutovanie"><i>zľutovan</i><par n="ohodnoten/ie__n"/></e>
     <e lm="zženštilosť"><i>zženštilos</i><par n="ošúchanos/ť__n"/></e>
-    <e lm="Ázia"><i>Ázi</i><par n="Bystric/a__n"/></e>
+    <e lm="Ázia"><i>Ázi</i><par n="Bystric/a__np"/></e>
     <e lm="Írsko"><i>Írsk</i><par n="Španielsk/o__n"/></e>
     <e lm="Ústí"><i>Ústí</i><par n="Chile__n"/></e>
     <e lm="ár"><i>ár</i><par n="tuš__n"/></e>
@@ -103142,7 +102938,7 @@
     <e lm="činorodosť"><i>činorodos</i><par n="ošúchanos/ť__n"/></e>
     <e lm="činovať"><i>činova</i><par n="päs/ť__n"/></e>
     <e lm="činovník"><i>činovní</i><par n="spoluúčastní/k__n"/></e>
-    <e lm="činčila"><i>činč</i><par n="Jarm/ila__n"/></e>
+    <e lm="činčila"><i>činč</i><par n="s/ila__n"/></e>
     <e lm="činžiak"><i>činžiak</i><par n="piknik__n"/></e>
     <e lm="čipka"><i>čip</i><par n="vyvýšenin/ka__n"/></e>
     <e lm="čip"><i>čip</i><par n="balast__n"/></e>
@@ -103278,8 +103074,8 @@
     <e lm="Ľuboslav"><i>Ľuboslav</i><par n="ťuťmáčik__n"/></e>
     <e lm="Ľuboš"><i>Ľuboš</i><par n="ťuťmáčik__n"/></e>
     <e lm="Ľubľana"><i>Ľubľan</i><par n="vrm/a__n"/></e>
-    <e lm="Ľudmila"><i>Ľudm</i><par n="Jarm/ila__n"/></e>
-    <e lm="Ľudomila"><i>Ľudom</i><par n="Jarm/ila__n"/></e>
+    <e lm="Ľudmila"><i>Ľudm</i><par n="Jarm/ila__np"/></e>
+    <e lm="Ľudomila"><i>Ľudom</i><par n="Jarm/ila__np"/></e>
     <e lm="Ľudomil"><i>Ľudomil</i><par n="ťuťmáčik__n"/></e>
     <e lm="Ľudovít"><i>Ľudovít</i><par n="ťuťmáčik__n"/></e>
     <e lm="ľad"><i>ľad</i><par n="balast__n"/></e>
@@ -104296,7 +104092,7 @@
     <e lm="žula"><i>ž</i><par n="preamb/ula__n"/></e>
     <e lm="župa"><i>ž</i><par n="ž/upa__n"/></e>
     <e lm="žena"><i>ž</i><par n="odm/ena__n"/></e>
-    <e lm="žila"><i>ž</i><par n="Jarm/ila__n"/></e>
+    <e lm="žila"><i>ž</i><par n="s/ila__n"/></e>
     <e lm="žaba"><i>ž</i><par n="ž/aba__n"/></e>
     <e lm="žľaza"><i>ž</i><par n="ž/ľaza__n"/></e>
     <e lm="žumpa"><i>ž</i><par n="šk/umpa__n"/></e>
@@ -104321,7 +104117,7 @@
     <e lm="žaloba"><i>žal</i><par n="dlž/oba__n"/></e>
     <e lm="žalm"><i>žalm</i><par n="výskum__n"/></e>
     <e lm="žalmista"><i>žalmist</i><par n="esejist/a__n"/></e>
-    <e lm="žalobaba"><i>žalob</i><par n="l/aba__n"/></e>
+    <e lm="žalobaba"><i>žalob</i><par n="b/aba__n"/></e>
     <e lm="žalobca"><i>žalobc</i><par n="radc/a__n"/></e>
     <e lm="žalobkyňa"><i>žalobk</i><par n="letk/yňa__n"/></e>
     <e lm="žalobnica"><i>žalobn</i><par n="mostn/ica__n"/></e>
