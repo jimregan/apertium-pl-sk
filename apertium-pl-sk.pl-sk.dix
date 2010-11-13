@@ -1,50 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dictionary>
-  <alphabet/>
-  <sdefs>
-    <sdef n="cnjcoo"/>
-    <sdef n="cnjsub"/>
-    <sdef n="num"/>
-    <sdef n="n"/>
-    <sdef n="m"/>
-    <sdef n="ma"/>
-    <sdef n="mi"/>
-    <sdef n="mp"/>
-    <sdef n="f"/>
-    <sdef n="nt"/>
-    <sdef n="sg"/>
-    <sdef n="pl"/>
-    <sdef n="np"/>
-    <sdef n="top"/>
-    <sdef n="adj"/>
-    <sdef n="adv"/>
-    <sdef n="sint"/>
-    <sdef n="pr"/>
-    <sdef n="vblex"/>
-    <sdef n="imperf"/>
-    <sdef n="perf"/>
-    <sdef n="vbser"/>
-    <sdef n="vbhaver"/>
-    <sdef n="nom"/>
-    <sdef n="gen"/>
-    <sdef n="dat"/>
-    <sdef n="acc"/>
-    <sdef n="ins"/>
-    <sdef n="loc"/>
-    <sdef n="voc"/>
-    <sdef n="det"/>
-    <sdef n="prn"/>
-    <sdef n="itg"/>
-    <sdef n="ind"/>
-    <sdef n="dem"/>
-    <sdef n="ant"/>
-    <sdef n="rel"/>
-    <sdef n="indecl"/>
-    <sdef n="an"/>
-    <sdef n="cnjadv"/>
-    <sdef n="ij"/>
-  </sdefs>
+<!--
+	Dictionary:
+	Sections: 2
+	Entries: 2463
+	Sdefs: 41
+	Last processed by: apertium-dixtools fix -standard apertium-pl-sk.pl-sk.dix apertium-pl-sk.pl-sk.dix.out
 
+-->
+<dictionary>
+  <alphabet></alphabet>
+  <sdefs>
+    <sdef n="cnjcoo" /> 
+    <sdef n="cnjsub" /> 
+    <sdef n="num" /> 
+    <sdef n="n" /> 
+    <sdef n="m" /> 
+    <sdef n="ma" /> 
+    <sdef n="mi" /> 
+    <sdef n="mp" /> 
+    <sdef n="f" /> 
+    <sdef n="nt" /> 
+    <sdef n="sg" /> 
+    <sdef n="pl" /> 
+    <sdef n="np" /> 
+    <sdef n="top" /> 
+    <sdef n="adj" /> 
+    <sdef n="adv" /> 
+    <sdef n="sint" /> 
+    <sdef n="pr" /> 
+    <sdef n="vblex" /> 
+    <sdef n="imperf" /> 
+    <sdef n="perf" /> 
+    <sdef n="vbser" /> 
+    <sdef n="vbhaver" /> 
+    <sdef n="nom" /> 
+    <sdef n="gen" /> 
+    <sdef n="dat" /> 
+    <sdef n="acc" /> 
+    <sdef n="ins" /> 
+    <sdef n="loc" /> 
+    <sdef n="voc" /> 
+    <sdef n="det" /> 
+    <sdef n="prn" /> 
+    <sdef n="itg" /> 
+    <sdef n="ind" /> 
+    <sdef n="dem" /> 
+    <sdef n="ant" /> 
+    <sdef n="rel" /> 
+    <sdef n="indecl" /> 
+    <sdef n="an" /> 
+    <sdef n="cnjadv" /> 
+    <sdef n="ij" /> 
+  </sdefs>
   <section id="main" type="standard">
     <e><p><l>w<s n="pr"/></l><r>v<s n="pr"/></r></p></e>
     <e><p><l>ku<s n="pr"/></l><r>k<s n="pr"/></r></p></e>
@@ -332,7 +339,7 @@
     <e><p><l>fotogeniczność<s n="n"/><s n="f"/></l><r>fotogenickosť<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fragmentaryczność<s n="n"/><s n="f"/></l><r>fragmentárnosť<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>frekwencyjność<s n="n"/><s n="f"/></l><r>frekventovanosť<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>frygidność <s n="n"/><s n="f"/></l><r>frigidnosť<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>frygidność<s n="n"/><s n="f"/></l><r>frigidnosť<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>frywolność<s n="n"/><s n="f"/></l><r>frivolnosť<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>funkcyjność<s n="n"/><s n="f"/></l><r>funkčnosť<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>genialność<s n="n"/><s n="f"/></l><r>geniálnosť<s n="n"/><s n="f"/></r></p></e>
@@ -1157,80 +1164,79 @@
     <e><p><l>wiwisekcja<s n="n"/><s n="f"/></l><r>vivisekcia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wokalizacja<s n="n"/><s n="f"/></l><r>vokalizácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wulgaryzacja<s n="n"/><s n="f"/></l><r>vulgarizácia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>zręczny<s n="adj"/></l><r>zručný<s n="adj"/></r></p></e>
-<e><p><l>drogi<s n="adj"/><s n="sint"/></l><r>drahý<s n="adj"/><s n="sint"/></r></p></e>
-<e><p><l>żorżeta<s n="n"/></l><r>žoržet<s n="n"/></r></p></e>
-<e><p><l>znowu<s n="adv"/></l><r>znovu<s n="adv"/></r></p></e>
-<e r="LR"><p><l>znów<s n="adv"/></l><r>znovu<s n="adv"/></r></p></e>
-<e><p><l>zwłaszcza<s n="adv"/></l><r>najmä<s n="adv"/></r></p></e>
-<e><p><l>na<b/>przykład<s n="adv"/></l><r>napríklad<s n="adv"/></r></p></e>
-<e><p><l>wytrwale<s n="adv"/></l><r>vytrvale<s n="adv"/></r></p></e>
-<e><p><l>wysoki<s n="adj"/><s n="sint"/></l><r>vysoký<s n="adj"/><s n="sint"/></r></p></e>
-<e><p><l>wysoko<s n="adv"/><s n="sint"/></l><r>vysoko<s n="adv"/><s n="sint"/></r></p></e>
-<e><p><l>wyraz<s n="n"/></l><r>výraz<s n="n"/></r></p></e>
-<e><p><l>raz<s n="n"/></l><r>raz<s n="n"/></r></p></e>
-<e><p><l>jeleń<s n="n"/></l><r>jeleň<s n="n"/></r></p></e>
-<e><p><l>kamień<s n="n"/></l><r>kameň<s n="n"/></r></p></e>
-<e><p><l>klasztor<s n="n"/></l><r>kláštor<s n="n"/></r></p></e>
-<e><p><l>traktor<s n="n"/></l><r>traktor<s n="n"/></r></p></e>
-<e><p><l>transporter<s n="n"/></l><r>transportér<s n="n"/></r></p></e>
-<e><p><l>trener<s n="n"/></l><r>tréner<s n="n"/></r></p></e>
-<e><p><l>targ<s n="n"/></l><r>trh<s n="n"/></r></p></e>
-<e><p><l>triumf<s n="n"/></l><r>triumf<s n="n"/></r></p></e>
-<e><p><l>trójbój<s n="n"/></l><r>trojboj<s n="n"/></r></p></e>
-<e><p><l>trójka<s n="n"/></l><r>trojka<s n="n"/></r></p></e>
-<e><p><l>tron<s n="n"/></l><r>trón<s n="n"/></r></p></e>
-<e><p><l>cierpki<s n="adj"/></l><r>trpký<s n="adj"/></r></p></e>
-<e><p><l>tu<s n="adv"/></l><r>tu<s n="adv"/></r></p></e>
-<e><p><l>tłuszcz<s n="n"/></l><r>tuk<s n="n"/></r></p></e>
-<e><p><l>twarz<s n="n"/></l><r>tvár<s n="n"/></r></p></e>
-<e><p><l>twierdzenie<s n="n"/></l><r>tvrdenie<s n="n"/></r></p></e>
-<e><p><l>twardość<s n="n"/></l><r>tvrdosť<s n="n"/></r></p></e>
-<e><p><l>twardy<s n="adj"/></l><r>tvrdý<s n="adj"/></r></p></e>
-<e><p><l>szok<s n="n"/></l><r>šok<s n="n"/></r></p></e>
-<e><p><l>sól<s n="n"/></l><r>soľ<s n="n"/></r></p></e>
-<e><p><l>sonda<s n="n"/></l><r>sonda<s n="n"/></r></p></e>
-<e><p><l>sonet<s n="n"/></l><r>sonet<s n="n"/></r></p></e>
-<e><p><l>somatyczny<s n="adj"/></l><r>somatický<s n="adj"/></r></p></e>
-<e><p><l>sopran<s n="n"/></l><r>soprán<s n="n"/></r></p></e>
-<e><p><l>asortyment<s n="n"/></l><r>sortiment<s n="n"/></r></p></e>
-<e><p><l>sosna<s n="n"/></l><r>sosna<s n="n"/></r></p></e>
-<e><p><l>sowa<s n="n"/></l><r>sova<s n="n"/></r></p></e>
-<e><p><l>szelak<s n="n"/></l><r>šelak<s n="n"/></r></p></e>
-<e><p><l>sielanka<s n="n"/></l><r>selanka<s n="n"/></r></p></e>
-<e><p><l>semafor<s n="n"/></l><r>semafor<s n="n"/></r></p></e>
-<e><p><l>seminarium<s n="n"/></l><r>seminár<s n="n"/></r></p></e>
-<e><p><l>półfinał<s n="n"/></l><r>semifinále<s n="n"/></r></p></e>
-<e><p><l>sen<s n="n"/></l><r>sen<s n="n"/></r></p></e>
-<e><p><l>senator<s n="n"/></l><r>senátor<s n="n"/></r></p></e>
-<e><p><l>senatorski<s n="adj"/></l><r>senátorský<s n="adj"/></r></p></e>
-<e><p><l>kanapka<s n="n"/></l><r>sendvič<s n="n"/></r></p></e>
-<e><p><l>siano<s n="n"/></l><r>seno<s n="n"/></r></p></e>
-<e><p><l>senat<s n="n"/></l><r>senát<s n="n"/></r></p></e>
-<e><p><l>senior<s n="n"/></l><r>senior<s n="n"/></r></p></e>
-<e><p><l>serenada<s n="n"/></l><r>serenáda<s n="n"/></r></p></e>
-<e><p><l>seria<s n="n"/></l><r>seriál<s n="n"/></r></p></e>
-<e><p><l>szeryf<s n="n"/></l><r>šerif<s n="n"/></r></p></e>
-<e><p><l>serwer<s n="n"/></l><r>server<s n="n"/></r></p></e>
-<e><p><l>serwis<s n="n"/></l><r>servis<s n="n"/></r></p></e>
-<e><p><l>sierżant<s n="n"/></l><r>seržant<s n="n"/></r></p></e>
-<e><p><l>sześć<s n="num"/></l><r>šesť<s n="num"/></r></p></e>
-<e><p><l>szesnaście<s n="num"/></l><r>šestnásť<s n="num"/></r></p></e>
-<e><p><l>siostra<s n="n"/></l><r>sestra<s n="n"/></r></p></e>
-<e><p><l>szew<s n="n"/></l><r>šev<s n="n"/></r></p></e>
-<e><p><l>szarlatan<s n="n"/></l><r>šarlatán<s n="n"/></r></p></e>
-<e><p><l>szata<s n="n"/></l><r>šat<s n="n"/></r></p></e>
-<e><p><l>szatan<s n="n"/></l><r>satan<s n="n"/></r></p></e>
-<e><p><l>satanizm<s n="n"/></l><r>satanizmus<s n="n"/></r></p></e>
-<e><p><l>szatański<s n="adj"/></l><r>satanský<s n="adj"/></r></p></e>
-<e r="LR"><p><l>sataniczny<s n="adj"/></l><r>satanský<s n="adj"/></r></p></e>
-<e><p><l>satelita<s n="n"/></l><r>satelit<s n="n"/></r></p></e>
-<e><p><l>satyryk<s n="n"/></l><r>satirik<s n="n"/></r></p></e>
-<e><p><l>szatnia<s n="n"/></l><r>šatňa<s n="n"/></r></p></e>
-<e><p><l>klucz<s n="n"/></l><r>kľúč<s n="n"/></r></p></e>
-<e><p><l>krew<s n="n"/></l><r>krv<s n="n"/></r></p></e>
-<e><p><l>gwiazda<s n="n"/></l><r>hviezda<s n="n"/></r></p></e>
-<e><p><l>organizm<s n="n"/></l><r>organizmus<s n="n"/></r></p></e>
+    <e><p><l>zręczny<s n="adj"/></l><r>zručný<s n="adj"/></r></p></e>
+    <e><p><l>drogi<s n="adj"/><s n="sint"/></l><r>drahý<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>żorżeta<s n="n"/></l><r>žoržet<s n="n"/></r></p></e>
+    <e><p><l>znowu<s n="adv"/></l><r>znovu<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>znów<s n="adv"/></l><r>znovu<s n="adv"/></r></p></e>
+    <e><p><l>zwłaszcza<s n="adv"/></l><r>najmä<s n="adv"/></r></p></e>
+    <e><p><l>na<b/>przykład<s n="adv"/></l><r>napríklad<s n="adv"/></r></p></e>
+    <e><p><l>wytrwale<s n="adv"/></l><r>vytrvale<s n="adv"/></r></p></e>
+    <e><p><l>wysoki<s n="adj"/><s n="sint"/></l><r>vysoký<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>wysoko<s n="adv"/><s n="sint"/></l><r>vysoko<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>wyraz<s n="n"/></l><r>výraz<s n="n"/></r></p></e>
+    <e><p><l>raz<s n="n"/></l><r>raz<s n="n"/></r></p></e>
+    <e><p><l>jeleń<s n="n"/></l><r>jeleň<s n="n"/></r></p></e>
+    <e><p><l>kamień<s n="n"/></l><r>kameň<s n="n"/></r></p></e>
+    <e><p><l>klasztor<s n="n"/></l><r>kláštor<s n="n"/></r></p></e>
+    <e><p><l>traktor<s n="n"/></l><r>traktor<s n="n"/></r></p></e>
+    <e><p><l>transporter<s n="n"/></l><r>transportér<s n="n"/></r></p></e>
+    <e><p><l>trener<s n="n"/></l><r>tréner<s n="n"/></r></p></e>
+    <e><p><l>targ<s n="n"/></l><r>trh<s n="n"/></r></p></e>
+    <e><p><l>triumf<s n="n"/></l><r>triumf<s n="n"/></r></p></e>
+    <e><p><l>trójbój<s n="n"/></l><r>trojboj<s n="n"/></r></p></e>
+    <e><p><l>trójka<s n="n"/></l><r>trojka<s n="n"/></r></p></e>
+    <e><p><l>tron<s n="n"/></l><r>trón<s n="n"/></r></p></e>
+    <e><p><l>cierpki<s n="adj"/></l><r>trpký<s n="adj"/></r></p></e>
+    <e><p><l>tu<s n="adv"/></l><r>tu<s n="adv"/></r></p></e>
+    <e><p><l>tłuszcz<s n="n"/></l><r>tuk<s n="n"/></r></p></e>
+    <e><p><l>twarz<s n="n"/></l><r>tvár<s n="n"/></r></p></e>
+    <e><p><l>twierdzenie<s n="n"/></l><r>tvrdenie<s n="n"/></r></p></e>
+    <e><p><l>twardość<s n="n"/></l><r>tvrdosť<s n="n"/></r></p></e>
+    <e><p><l>twardy<s n="adj"/></l><r>tvrdý<s n="adj"/></r></p></e>
+    <e><p><l>szok<s n="n"/></l><r>šok<s n="n"/></r></p></e>
+    <e><p><l>sól<s n="n"/></l><r>soľ<s n="n"/></r></p></e>
+    <e><p><l>sonda<s n="n"/></l><r>sonda<s n="n"/></r></p></e>
+    <e><p><l>sonet<s n="n"/></l><r>sonet<s n="n"/></r></p></e>
+    <e><p><l>somatyczny<s n="adj"/></l><r>somatický<s n="adj"/></r></p></e>
+    <e><p><l>sopran<s n="n"/></l><r>soprán<s n="n"/></r></p></e>
+    <e><p><l>asortyment<s n="n"/></l><r>sortiment<s n="n"/></r></p></e>
+    <e><p><l>sosna<s n="n"/></l><r>sosna<s n="n"/></r></p></e>
+    <e><p><l>sowa<s n="n"/></l><r>sova<s n="n"/></r></p></e>
+    <e><p><l>szelak<s n="n"/></l><r>šelak<s n="n"/></r></p></e>
+    <e><p><l>sielanka<s n="n"/></l><r>selanka<s n="n"/></r></p></e>
+    <e><p><l>semafor<s n="n"/></l><r>semafor<s n="n"/></r></p></e>
+    <e><p><l>seminarium<s n="n"/></l><r>seminár<s n="n"/></r></p></e>
+    <e><p><l>półfinał<s n="n"/></l><r>semifinále<s n="n"/></r></p></e>
+    <e><p><l>sen<s n="n"/></l><r>sen<s n="n"/></r></p></e>
+    <e><p><l>senator<s n="n"/></l><r>senátor<s n="n"/></r></p></e>
+    <e><p><l>senatorski<s n="adj"/></l><r>senátorský<s n="adj"/></r></p></e>
+    <e><p><l>kanapka<s n="n"/></l><r>sendvič<s n="n"/></r></p></e>
+    <e><p><l>siano<s n="n"/></l><r>seno<s n="n"/></r></p></e>
+    <e><p><l>senat<s n="n"/></l><r>senát<s n="n"/></r></p></e>
+    <e><p><l>senior<s n="n"/></l><r>senior<s n="n"/></r></p></e>
+    <e><p><l>serenada<s n="n"/></l><r>serenáda<s n="n"/></r></p></e>
+    <e><p><l>seria<s n="n"/></l><r>seriál<s n="n"/></r></p></e>
+    <e><p><l>szeryf<s n="n"/></l><r>šerif<s n="n"/></r></p></e>
+    <e><p><l>serwer<s n="n"/></l><r>server<s n="n"/></r></p></e>
+    <e><p><l>serwis<s n="n"/></l><r>servis<s n="n"/></r></p></e>
+    <e><p><l>sierżant<s n="n"/></l><r>seržant<s n="n"/></r></p></e>
+    <e><p><l>szesnaście<s n="num"/></l><r>šestnásť<s n="num"/></r></p></e>
+    <e><p><l>siostra<s n="n"/></l><r>sestra<s n="n"/></r></p></e>
+    <e><p><l>szew<s n="n"/></l><r>šev<s n="n"/></r></p></e>
+    <e><p><l>szarlatan<s n="n"/></l><r>šarlatán<s n="n"/></r></p></e>
+    <e><p><l>szata<s n="n"/></l><r>šat<s n="n"/></r></p></e>
+    <e><p><l>szatan<s n="n"/></l><r>satan<s n="n"/></r></p></e>
+    <e><p><l>satanizm<s n="n"/></l><r>satanizmus<s n="n"/></r></p></e>
+    <e><p><l>szatański<s n="adj"/></l><r>satanský<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>sataniczny<s n="adj"/></l><r>satanský<s n="adj"/></r></p></e>
+    <e><p><l>satelita<s n="n"/></l><r>satelit<s n="n"/></r></p></e>
+    <e><p><l>satyryk<s n="n"/></l><r>satirik<s n="n"/></r></p></e>
+    <e><p><l>szatnia<s n="n"/></l><r>šatňa<s n="n"/></r></p></e>
+    <e><p><l>klucz<s n="n"/></l><r>kľúč<s n="n"/></r></p></e>
+    <e><p><l>krew<s n="n"/></l><r>krv<s n="n"/></r></p></e>
+    <e><p><l>gwiazda<s n="n"/></l><r>hviezda<s n="n"/></r></p></e>
+    <e><p><l>organizm<s n="n"/></l><r>organizmus<s n="n"/></r></p></e>
 
     <e><p><l>kraj<b/>bratysławski<s n="n"/><s n="mi"/></l><r>Bratislavský<b/>kraj<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>kraj<b/>bańskobystrzycki<s n="n"/><s n="mi"/></l><r>Banskobystrický<b/>kraj<s n="n"/><s n="mi"/></r></p></e>
@@ -1315,7 +1321,6 @@
     <e><p><l>dwadzieścia<s n="num"/></l><r>dvadsať<s n="num"/></r></p></e>
     <e><p><l>dwanaście<s n="num"/></l><r>dvanásť<s n="num"/></r></p></e>
     <e><p><l>dwieście<s n="num"/></l><r>dvesto<s n="num"/></r></p></e>
-    <e><p><l>dylatacja<s n="n"/><s n="f"/></l><r>dilatácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dyktator<s n="n"/><s n="mp"/></l><r>diktátor<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>bohater<s n="n"/><s n="mp"/></l><r>hrdina<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>językoznawca<s n="n"/><s n="mp"/></l><r>jazykovedec<s n="n"/><s n="ma"/></r></p></e>
@@ -1325,10 +1330,7 @@
     <e><p><l>dwustronnie<s n="adv"/></l><r>dvojstranne<s n="adv"/></r></p></e>
     <e><p><l>dwoisty<s n="adj"/></l><r>dvojitý<s n="adj"/></r></p></e>
     <e><p><l>dyscyplina<s n="n"/><s n="f"/></l><r>disciplína<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>dysfunkcja<s n="n"/><s n="f"/></l><r>dysfunkcia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dysharmonijny<s n="adj"/></l><r>disharmonický<s n="adj"/></r></p></e>
-    <e><p><l>dystrybucja<s n="n"/><s n="f"/></l><r>distribúcia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>dyskwalifikacja<s n="n"/><s n="f"/></l><r>diskvalifikácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dyskwalifikować<s n="vblex"/></l><r>diskvalifikovať<s n="vblex"/></r></p></e>
     <e><p><l>dynamit<s n="n"/><s n="mi"/></l><r>dynamit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>dynastyczny<s n="adj"/></l><r>dynastický<s n="adj"/></r></p></e>
@@ -1350,7 +1352,6 @@
     <e><p><l>elektroskop<s n="n"/><s n="mi"/></l><r>elektroskop<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>elektrostatyka<s n="n"/><s n="f"/></l><r>elektrostatika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>elektrycznie<s n="adv"/></l><r>elektricky<s n="adv"/></r></p></e>
-    <e><p><l>elektryfikacja<s n="n"/><s n="f"/></l><r>elektrifikácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>skóra<s n="n"/><s n="f"/></l><r>koža<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>diament<s n="n"/><s n="mi"/></l><r>diamant<s n="n"/><s n="mi"/></r></p></e>
@@ -1360,13 +1361,11 @@
     <e><p><l>Węgry<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Maďarsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Wielka<b/>Brytania<s n="np"/><s n="top"/><s n="f"/></l><r>Veľka<b/>Británia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Włochy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Taliansko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
-    <e><p><l>siedem<s n="num"/></l><r>sedem<s n="num"/></r></p></e>
     <e><p><l>siedemdziesiąt<s n="num"/></l><r>sedemdesiat<s n="num"/></r></p></e>
     <e><p><l>siedemnaście<s n="num"/></l><r>sedemnásť<s n="num"/></r></p></e>
     <e><p><l>siedemset<s n="num"/></l><r>sedemsto<s n="num"/></r></p></e>
     <e><p><l>siedzieć<s n="vblex"/></l><r>sedieť<s n="vblex"/></r></p></e>
     <e><p><l>sekretarz<s n="n"/><s n="mp"/></l><r>sekretár<s n="n"/><s n="ma"/></r></p></e>
-    <e><p><l>sekwencja<s n="n"/><s n="f"/></l><r>sekvencia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sekwencyjny<s n="adj"/></l><r>sekvenčný<s n="adj"/></r></p></e>
     <e><p><l>selektywny<s n="adj"/></l><r>selektívny<s n="adj"/></r></p></e>
     <e><p><l>smutny<s n="adj"/></l><r>smutný<s n="adj"/></r></p></e>
@@ -1375,8 +1374,6 @@
     <e><p><l>sto<s n="num"/></l><r>sto<s n="num"/></r></p></e>
     <e><p><l>strasznie<s n="adv"/></l><r>strašne<s n="adv"/></r></p></e>
     <e><p><l>straszny<s n="adj"/></l><r>strašný<s n="adj"/></r></p></e>
-    <e><p><l>sześć<s n="num"/></l><r>šesť<s n="num"/></r></p></e>
-    <e><p><l>szesnaście<s n="num"/></l><r>šestnásť<s n="num"/></r></p></e>
     <e><p><l>sześćset<s n="num"/></l><r>šesťsto<s n="num"/></r></p></e>
     <e><p><l>szaleniec<s n="n"/><s n="mp"/></l><r>šialenec<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>szaleństwo<s n="n"/><s n="nt"/></l><r>šialenstvo<s n="n"/><s n="nt"/></r></p></e>
@@ -1386,7 +1383,6 @@
     <e><p><l>szkoła<s n="n"/><s n="f"/></l><r>škola<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>szlachta<s n="n"/></l><r>šľachta<s n="n"/></r></p></e>
     <e><p><l>uczyć<s n="vblex"/><s n="imperf"/></l><r>učiť<s n="vblex"/><s n="imperf"/></r></p></e>
-    <e><p><l>w<s n="pr"/></l><r>v<s n="pr"/></r></p></e>
     <e><p><l>dzięki<s n="pr"/></l><r>vďaka<s n="pr"/></r></p></e>
     <e><p><l>zamiast<s n="pr"/></l><r>miesto<s n="pr"/></r></p></e>
     <e><p><l>tzw<s n="adv"/></l><r>tzv<s n="adv"/></r></p></e>
@@ -1425,9 +1421,6 @@
     <e><p><l>tymczasowo<s n="adv"/></l><r>dočasne<s n="adv"/></r></p></e>
     <e><p><l>konsekwentnie<s n="adv"/></l><r>dôsledne<s n="adv"/></r></p></e>
     <e><p><l>dosłownie<s n="adv"/></l><r>doslova<s n="adv"/></r></p></e>
-    <e><p><l>dwustronnie<s n="adv"/></l><r>dvojstranne<s n="adv"/></r></p></e>
-    <e><p><l>elektrycznie<s n="adv"/></l><r>elektricky<s n="adv"/></r></p></e>
-    <e><p><l>elektromagnetycznie<s n="adv"/></l><r>elektromagneticky<s n="adv"/></r></p></e>
     <e><p><l>empirycznie<s n="adv"/></l><r>empiricky<s n="adv"/></r></p></e>
     <e><p><l>energicznie<s n="adv"/></l><r>energicky<s n="adv"/></r></p></e>
     <e><p><l>epizodycznie<s n="adv"/></l><r>epizodicky<s n="adv"/></r></p></e>
@@ -1493,7 +1486,6 @@
     <e><p><l>Brazylia<s n="np"/><s n="top"/><s n="f"/></l><r>Brazília<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Chiny<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Čína<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Czechy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Česko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
-    <e><p><l>Grecja<s n="np"/><s n="top"/><s n="f"/></l><r>Grécko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Hiszpania<s n="np"/><s n="top"/><s n="f"/></l><r>Španielsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Niemcy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Nemecko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Polska<s n="np"/><s n="top"/><s n="f"/></l><r>Poľsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
@@ -1521,17 +1513,15 @@
     <e><p><l>tam<s n="adv"/></l><r>tam<s n="adv"/></r></p></e>
     <e><p><l>koniec<s n="n"/><s n="mi"/></l><r>koniec<s n="n"/><s n="mi"/></r></p></e>
 <!--    <e><p><l>weekend<s n="n"/><s n="mi"/></l><r>koniec<b/>týždňa<s n="n"/><s n="mi"/></r></p></e> -->
-    <e><p><l>na<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
+
     <e><p><l>na<b/>naszej<b/>stronie<s n="adv"/></l><r>na<b/>našej<b/>strane<s n="adv"/></r></p></e>
     <e><p><l>na<b/>wieki<b/>wieków<s n="adv"/></l><r>na<b/>veky<b/>vekov<s n="adv"/></r></p></e>
-    <e><p><l>od<s n="pr"/></l><r>od<s n="pr"/></r></p></e>
     <e><p><l>podczas<s n="pr"/></l><r>počas<s n="pr"/></r></p></e>
     <e><p><l>od<b/>domu<b/>do<b/>domu<s n="adv"/></l><r>od<b/>domu<b/>k<b/>domu<s n="adv"/></r></p></e>
     <e><p><l>od<b/>głowy<b/>do<b/>stóp<s n="adv"/></l><r>od<b/>hlavy<b/>po<b/>päty<s n="adv"/></r></p></e>
     <e><p><l>od<b/>wybrzeża<b/>do<b/>wybrzeża<s n="adv"/></l><r>od<b/>pobrežia<b/>k<b/>pobrežiu<s n="adv"/></r></p></e>
     <e><p><l>od<b/>ściany<b/>do<b/>ściany<s n="adv"/></l><r>od<b/>steny<b/>k<b/>stene<s n="adv"/></r></p></e>
     <e><p><l>od<b/>początku<b/>do<b/>końca<s n="adv"/></l><r>od<b/>začiatku<b/>do<b/>konca<s n="adv"/></r></p></e>
-    <e><p><l>okno<s n="n"/><s n="nt"/></l><r>okno<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>oko<s n="n"/><s n="nt"/></l><r>oko<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>komputer<s n="n"/><s n="mi"/></l><r>počítač<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>bengalski<s n="adj"/></l><r>bengálsky<s n="adj"/></r></p></e>
@@ -1544,7 +1534,6 @@
     <e><p><l>beton<s n="n"/><s n="mi"/></l><r>betón<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>zamek<s n="n"/><s n="mi"/></l><r>zámok<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>smok<s n="n"/><s n="ma"/></l><r>drak<s n="n"/><s n="ma"/></r></p></e>
-    <e><p><l>beton<s n="n"/><s n="mi"/></l><r>betón<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>betonowanie<s n="adv"/></l><r>betónovanie<s n="adv"/></r></p></e>
     <e><p><l>ponad<s n="pr"/></l><r>ponad<s n="pr"/></r></p></e>
     <e><p><l>bez<s n="pr"/></l><r>bez<s n="pr"/></r></p></e>
@@ -1573,7 +1562,6 @@
     <e><p><l>brać<s n="vblex"/></l><r>brať<s n="vblex"/></r></p></e>
     <e><p><l>wziąć<s n="vblex"/></l><r>vziať<s n="vblex"/></r></p></e>
     <e><p><l>bractwo<s n="n"/><s n="nt"/></l><r>bratstvo<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>brazylijski<s n="adj"/></l><r>brazílsky<s n="adj"/></r></p></e>
     <e><p><l>brzydki<s n="adj"/></l><r>bridký<s n="adj"/></r></p></e>
     <e><p><l>eliminować<s n="vblex"/></l><r>eliminovať<s n="vblex"/></r></p></e>
     <e><p><l>e-mail<s n="n"/><s n="mi"/></l><r>e-mail<s n="n"/><s n="mi"/></r></p></e>
@@ -1581,22 +1569,16 @@
     <e><p><l>emir<s n="n"/><s n="ma"/></l><r>emir<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>emisja<s n="n"/><s n="f"/></l><r>emisia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>emitować<s n="vblex"/></l><r>emitovať<s n="vblex"/></r></p></e>
-    <e><p><l>emulacja<s n="n"/><s n="f"/></l><r>emulácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>emulator<s n="n"/><s n="mi"/></l><r>emulátor<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>encyklopedia<s n="n"/><s n="f"/></l><r>encyklopédia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>energiczny<s n="adj"/></l><r>energický<s n="adj"/></r></p></e>
     <e><p><l>entuzjazm<s n="n"/><s n="mi"/></l><r>entuziazmus<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>enumeracja<s n="n"/><s n="f"/></l><r>enumerácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>eon<s n="n"/><s n="mi"/></l><r>eón<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>erekcja<s n="n"/><s n="f"/></l><r>erekcia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Erytrea<s n="np"/><s n="top"/><s n="f"/></l><r>Eritrea<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>esencja<s n="n"/><s n="f"/></l><r>esencia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>eskalacja<s n="n"/><s n="f"/></l><r>eskalácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>estetyczny<s n="adj"/></l><r>estetický<s n="adj"/></r></p></e>
     <e><p><l>estoński<s n="adj"/></l><r>estónsky<s n="adj"/></r></p></e>
     <e><p><l>a<s n="cnjcoo"/></l><r>a<s n="cnjcoo"/></r></p></e>
     <e><p><l>niż<s n="cnjcoo"/></l><r>než<s n="cnjcoo"/></r></p></e>
-    <e><p><l>absencja<s n="n"/><s n="f"/></l><r>absencia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>absynt<s n="n"/><s n="mi"/></l><r>absint<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>abecadło<s n="n"/><s n="nt"/></l><r>abeceda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>abchaski<s n="adj"/></l><r>abcházsky<s n="adj"/></r></p></e>
@@ -1610,15 +1592,11 @@
     <e><p><l>absurdalny<s n="adj"/></l><r>absurdný<s n="adj"/></r></p></e>
     <e><p><l>alfabetyczny<s n="adj"/></l><r>abecedný<s n="adj"/></r></p></e>
     <e><p><l>aczkolwiek<s n="adv"/></l><r>ačkoľvek<s n="adv"/></r></p></e>
-    <e><p><l>adaptacja<s n="n"/><s n="f"/></l><r>adaptácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>adaptywny<s n="adj"/></l><r>adaptívny<s n="adj"/></r></p></e>
     <e><p><l>afekt<s n="n"/><s n="mi"/></l><r>afekt<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>adaptować<s n="vblex"/></l><r>adaptovať<s n="vblex"/></r></p></e>
-    <e><p><l>adekwatność<s n="n"/><s n="f"/></l><r>adekvátnosť<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>adekwatny<s n="adj"/></l><r>adekvátny<s n="adj"/></r></p></e>
-    <e><p><l>addycja<s n="n"/><s n="f"/></l><r>adícia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>administrator<s n="n"/><s n="mp"/></l><r>administrátor<s n="n"/><s n="ma"/></r></p></e>
-    <e><p><l>adopcja<s n="n"/><s n="f"/></l><r>adopcia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>adoptowanie<s n="n"/><s n="nt"/></l><r>adoptovanie<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>adoptować<s n="vblex"/></l><r>adoptovať<s n="vblex"/></r></p></e>
     <e><p><l>adres<s n="n"/><s n="mi"/></l><r>adresa<s n="n"/><s n="f"/></r></p></e>
@@ -1646,7 +1624,6 @@
     <e><p><l>agitować<s n="vblex"/></l><r>agitovať<s n="vblex"/></r></p></e>
     <e><p><l>agregować<s n="vblex"/></l><r>agregovať<s n="vblex"/></r></p></e>
     <e><p><l>agronomia<s n="n"/><s n="f"/></l><r>agronómia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>akacja<s n="n"/><s n="f"/></l><r>akácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>akademia<s n="n"/><s n="f"/></l><r>akadémia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>akademiczny<s n="adj"/></l><r>akademický<s n="adj"/></r></p></e>
     <e><p><l>czarny<s n="adj"/></l><r>čierny<s n="adj"/></r></p></e>
@@ -1655,7 +1632,6 @@
     <e><p><l>akceptor<s n="n"/><s n="mi"/></l><r>akceptor<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>akceptowanie<s n="n"/><s n="nt"/></l><r>akceptovanie<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>akceptować<s n="vblex"/></l><r>akceptovať<s n="vblex"/></r></p></e>
-    <e><p><l>akcja<s n="n"/><s n="f"/></l><r>akcia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>akcjonariusz<s n="n"/><s n="mp"/></l><r>akcionár<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>akr<s n="n"/><s n="mi"/></l><r>aker<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>jak<s n="adv"/><s n="itg"/></l><r>ako<s n="adv"/><s n="itg"/></r></p></e>
@@ -1667,7 +1643,6 @@
     <e r="LR"><p><l>która<b/>jest<b/>godzina<s n="ij"/></l><r>koľko<b/>je<b/>hodín<s n="ij"/></r></p></e>
     <e><p><l>jakby<s n="cnjsub"/></l><r>akoby<s n="cnjsub"/></r></p></e>
     <e><p><l>aktówka<s n="n"/><s n="f"/></l><r>aktovka<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>aktualizacja<s n="n"/><s n="f"/></l><r>aktualizácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aktywista<s n="n"/></l><r>aktivista<s n="n"/></r></p></e>
     <e><p><l>akwamaryn<s n="n"/><s n="mi"/></l><r>akvamarín<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>aktualizować<s n="vblex"/></l><r>aktualizovať<s n="vblex"/></r></p></e>
@@ -1688,7 +1663,6 @@
     <e><p><l>którykolwiek<s n="det"/><s n="ind"/></l><r>ktorýkoľvek<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>alabastrowy<s n="adj"/></l><r>alabastrový<s n="adj"/></r></p></e>
     <e><p><l>łaciński<s n="adj"/></l><r>latinský<s n="adj"/></r></p></e>
-    <e><p><l>czeski<s n="adj"/></l><r>český<s n="adj"/></r></p></e>
     <e><p><l>alarm<s n="n"/><s n="mi"/></l><r>alarm<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>alarmować<s n="vblex"/></l><r>alarmovať<s n="vblex"/></r></p></e>
     <e><p><l>ale<s n="cnjsub"/></l><r>ale<s n="cnjsub"/></r></p></e>
@@ -1707,7 +1681,6 @@
     <e><p><l>alternatywny<s n="adj"/></l><r>alternatívny<s n="adj"/></r></p></e>
     <e><p><l>alternować<s n="vblex"/></l><r>alternovať<s n="vblex"/></r></p></e>
     <e><p><l>aluminium<s n="n"/></l><r>alumínium<s n="n"/></r></p></e>
-    <e><p><l>ambicja<s n="n"/><s n="f"/></l><r>ambícia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>amen<s n="n"/><s n="mi"/></l><r>amen<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>amerykański<s n="adj"/></l><r>americký<s n="adj"/></r></p></e>
     <e><p><l>analiza<s n="n"/><s n="f"/></l><r>analýza<s n="n"/><s n="f"/></r></p></e>
@@ -1715,7 +1688,6 @@
     <e><p><l>amerykanizm<s n="n"/><s n="mi"/></l><r>amerikanizmus<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>ametystowy<s n="adj"/></l><r>ametystový<s n="adj"/></r></p></e>
     <e><p><l>amharski<s n="adj"/></l><r>amharský<s n="adj"/></r></p></e>
-    <e><p><l>amortyzacja<s n="n"/><s n="f"/></l><r>amortizácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>amper<s n="n"/><s n="mi"/></l><r>ampér<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>analogiczny<s n="adj"/></l><r>analogický<s n="adj"/></r></p></e>
     <e><p><l>analizować<s n="vblex"/></l><r>analyzovať<s n="vblex"/></r></p></e>
@@ -1730,8 +1702,6 @@
     <e><p><l>już<s n="adv"/></l><r>už<s n="adv"/></r></p></e>
     <e><p><l>ciężki<s n="adj"/></l><r>ťažký<s n="adj"/></r></p></e>
     <e><p><l>lekki<s n="adj"/></l><r>ľahký<s n="adj"/></r></p></e>
-    <e><p><l>niemiecki<s n="adj"/></l><r>nemecký<s n="adj"/></r></p></e>
-    <e><p><l>animacja<s n="n"/><s n="f"/></l><r>animácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>anno<b/>Domini<s n="adv"/></l><r>anno<b/>Domini<s n="adv"/></r></p></e>
     <e><p><l>prawdopodobnie<s n="adv"/></l><r>pravdepodobne<s n="adv"/></r></p></e>
     <e><p><l>przede<b/>wszystkim<s n="adv"/></l><r>predovšetkým<s n="adv"/></r></p></e>
@@ -1743,7 +1713,6 @@
     <e><p><l>apelować<s n="vblex"/></l><r>apelovať<s n="vblex"/></r></p></e>
     <e><p><l>aplauz<s n="n"/><s n="mi"/></l><r>aplauz<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>aplet<s n="n"/><s n="mi"/></l><r>aplet<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>aplikacja<s n="n"/><s n="f"/></l><r>aplikácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aplikować<s n="vblex"/></l><r>aplikovať<s n="vblex"/></r></p></e>
     <e><p><l>apostrof<s n="n"/><s n="mi"/></l><r>apostrof<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>aproksymować<s n="vblex"/></l><r>aproximovať<s n="vblex"/></r></p></e>
@@ -1751,12 +1720,9 @@
     <e><p><l>arendować<s n="vblex"/></l><r>árendovať<s n="vblex"/></r></p></e>
     <e><p><l>Argentyna<s n="np"/><s n="top"/><s n="f"/></l><r>Argentína<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>argument<s n="n"/><s n="mi"/></l><r>argument<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>argumentacja<s n="n"/><s n="f"/></l><r>argumentácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>argumentować<s n="vblex"/></l><r>argumentovať<s n="vblex"/></r></p></e>
-    <e><p><l>archeologia<s n="n"/><s n="f"/></l><r>archeológia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>archeolog<s n="n"/><s n="mp"/></l><r>archeológ<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>architekt<s n="n"/><s n="mp"/></l><r>architekt<s n="n"/><s n="ma"/></r></p></e>
-    <e><p><l>architektura<s n="n"/><s n="f"/></l><r>architektúra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>archiwa<s n="n"/><s n="mi"/></l><r>archív<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>archiwalny<s n="adj"/></l><r>archývny<s n="adj"/></r></p></e>
     <e><p><l>Arizona<s n="np"/><s n="top"/><s n="f"/></l><r>Arizona<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -1764,7 +1730,6 @@
     <e><p><l>arogancki<s n="adj"/></l><r>arogantný<s n="adj"/></r></p></e>
     <e><p><l>asfaltowy<s n="adj"/></l><r>asfaltový<s n="adj"/></r></p></e>
     <e><p><l>asystent<s n="n"/><s n="mp"/></l><r>asistent<s n="n"/><s n="ma"/></r></p></e>
-    <e><p><l>asocjacja<s n="n"/><s n="f"/></l><r>asociácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asparagus<s n="n"/><s n="mi"/></l><r>asparágus<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>aspekt<s n="n"/><s n="mi"/></l><r>aspekt<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>aspiryn<s n="n"/><s n="mi"/></l><r>aspirín<s n="n"/><s n="mi"/></r></p></e>
@@ -1788,7 +1753,6 @@
     <e><p><l>atelier<s n="n"/><s n="nt"/></l><r>ateliér<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Ateny<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Atény<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>atest<s n="n"/><s n="mi"/></l><r>atest<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>atestacja<s n="n"/><s n="f"/></l><r>atestácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Atlantyk<s n="np"/><s n="top"/><s n="mi"/></l><r>Atlantik<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>atlas<s n="n"/><s n="mi"/></l><r>atlas<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>atletyczny<s n="adj"/></l><r>atletický<s n="adj"/></r></p></e>
@@ -1798,7 +1762,6 @@
     <e><p><l>atol<s n="n"/><s n="mi"/></l><r>atol<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>atom<s n="n"/><s n="mi"/></l><r>atóm<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>atomowy<s n="adj"/></l><r>atómový<s n="adj"/></r></p></e>
-    <e><p><l>atrakcja<s n="n"/><s n="f"/></l><r>atrakcia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>atrakcyjny<s n="adj"/></l><r>atraktívny<s n="adj"/></r></p></e>
     <e><p><l>atramentowy<s n="adj"/></l><r>atramentový<s n="adj"/></r></p></e>
     <e><p><l>atrybut<s n="n"/><s n="mi"/></l><r>atribút<s n="n"/><s n="mi"/></r></p></e>
@@ -1809,7 +1772,6 @@
     <e><p><l>audiowizualny<s n="adj"/></l><r>audiovizuálny<s n="adj"/></r></p></e>
     <e><p><l>audyt<s n="n"/><s n="mi"/></l><r>audit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>audytor<s n="n"/><s n="mp"/></l><r>auditor<s n="n"/><s n="ma"/></r></p></e>
-    <e><p><l>aukcja<s n="n"/><s n="f"/></l><r>aukcia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>australijski<s n="adj"/></l><r>austrálsky<s n="adj"/></r></p></e>
     <e><p><l>autentyczny<s n="adj"/></l><r>autentický<s n="adj"/></r></p></e>
     <e><p><l>autobiograficzny<s n="adj"/></l><r>autobiografický<s n="adj"/></r></p></e>
@@ -1817,12 +1779,10 @@
     <e><p><l>autobusiarz<s n="n"/><s n="mp"/></l><r>autobusár<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>autobusowy<s n="adj"/></l><r>autobusový<s n="adj"/></r></p></e>
     <e><p><l>automatyczny<s n="adj"/></l><r>automaticky<s n="adj"/></r></p></e>
-    <e><p><l>automatyzacja<s n="n"/><s n="f"/></l><r>automatizácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>automatyzowanie<s n="adv"/></l><r>automatizovane<s n="adv"/></r></p></e>
     <e><p><l>automatyzować<s n="vblex"/></l><r>automatizovať<s n="vblex"/></r></p></e>
     <e><p><l>autopilot<s n="n"/><s n="mi"/></l><r>autopilot<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>autoportret<s n="n"/><s n="mi"/></l><r>autoportrét<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>autoryzacja<s n="n"/><s n="f"/></l><r>autorizácia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>prawo<b/>autorskie<s n="n"/><s n="nt"/></l><r>autorské<b/>právo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>autorski<s n="adj"/></l><r>autorský<s n="adj"/></r></p></e>
     <e><p><l>autoserwis<s n="n"/><s n="mi"/></l><r>autoservis<s n="n"/><s n="mi"/></r></p></e>
@@ -1868,7 +1828,6 @@
     <e><p><l>dystrybutor<s n="n"/><s n="mp"/></l><r>distribútor<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>dysydent<s n="n"/><s n="mp"/></l><r>disident<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>dyplom<s n="n"/><s n="mi"/></l><r>diplom<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>dyplomacja<s n="n"/><s n="f"/></l><r>diplomacia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dyplomata<s n="n"/><s n="mp"/></l><r>diplomat<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>elektrotechnik<s n="n"/><s n="mp"/></l><r>elektrotechnik<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>Anglik<s n="n"/><s n="mp"/></l><r>Angličan<s n="n"/><s n="ma"/></r></p></e>
@@ -1932,7 +1891,6 @@
     <e c="sp."><p><l>autopsja<s n="n"/><s n="f"/></l><r>autopsia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>autotypia<s n="n"/><s n="f"/></l><r>autotypia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>awersja<s n="n"/><s n="f"/></l><r>averzia<s n="n"/><s n="f"/></r></p></e>
-    <e c="sp."><p><l>Azja<s n="np"/><s n="top"/><s n="f"/></l><r>Ázia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>bakteria<s n="n"/><s n="f"/></l><r>baktéria<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>bakteriologia<s n="n"/><s n="f"/></l><r>bakteriológia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>balneologia<s n="n"/><s n="f"/></l><r>balneológia<s n="n"/><s n="f"/></r></p></e>
@@ -1993,7 +1951,6 @@
     <e c="sp."><p><l>ergonomia<s n="n"/><s n="f"/></l><r>ergonómia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>erozja<s n="n"/><s n="f"/></l><r>erózia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>eschatologia<s n="n"/><s n="f"/></l><r>eschatológia<s n="n"/><s n="f"/></r></p></e>
-    <e c="sp."><p><l>Etiopia<s n="np"/><s n="top"/><s n="f"/></l><r>Etiópia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>etnografia<s n="n"/><s n="f"/></l><r>etnografia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>etnologia<s n="n"/><s n="f"/></l><r>etnológia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>etymologia<s n="n"/><s n="f"/></l><r>etymológia<s n="n"/><s n="f"/></r></p></e>
@@ -2007,7 +1964,6 @@
     <e c="sp."><p><l>fantazja<s n="n"/><s n="f"/></l><r>fantázia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>fantasmagoria<s n="n"/><s n="f"/></l><r>fantazmagória<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>farmakologia<s n="n"/><s n="f"/></l><r>farmakológia<s n="n"/><s n="f"/></r></p></e>
-    <e c="sp."><p><l>Fenicja<s n="np"/><s n="top"/><s n="f"/></l><r>Fenícia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>Filadelfia<s n="np"/><s n="top"/><s n="f"/></l><r>Filadelfia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>filantropia<s n="n"/><s n="f"/></l><r>filantropia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>filatelia<s n="n"/><s n="f"/></l><r>filatelia<s n="n"/><s n="f"/></r></p></e>
@@ -2015,7 +1971,6 @@
     <e c="sp."><p><l>filologia<s n="n"/><s n="f"/></l><r>filológia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>filozofia<s n="n"/><s n="f"/></l><r>filozofia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>fleksja<s n="n"/><s n="f"/></l><r>flexia<s n="n"/><s n="f"/></r></p></e>
-    <e c="sp."><p><l>Florencja<s n="np"/><s n="top"/><s n="f"/></l><r>Florencia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>fobia<s n="n"/><s n="f"/></l><r>fóbia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>foniatria<s n="n"/><s n="f"/></l><r>foniatria<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>fonologia<s n="n"/><s n="f"/></l><r>fonológia<s n="n"/><s n="f"/></r></p></e>
@@ -2104,7 +2059,6 @@
     <e c="sp."><p><l>antropocentryzm<s n="n"/><s n="mi"/></l><r>antropocentrizmus<s n="n"/><s n="mi"/></r></p></e>
     <e c="sp."><p><l>archaizm<s n="n"/><s n="mi"/></l><r>archaizmus<s n="n"/><s n="mi"/></r></p></e>
     <e c="sp."><p><l>ascetyzm<s n="n"/><s n="mi"/></l><r>asketizmus<s n="n"/><s n="mi"/></r></p></e>
-    <e c="sp."><p><l>astygmatyzm<s n="n"/><s n="mi"/></l><r>astigmatizmus<s n="n"/><s n="mi"/></r></p></e>
     <e c="sp."><p><l>atawizm<s n="n"/><s n="mi"/></l><r>atavizmus<s n="n"/><s n="mi"/></r></p></e>
     <e c="sp."><p><l>ateizm<s n="n"/><s n="mi"/></l><r>ateizmus<s n="n"/><s n="mi"/></r></p></e>
     <e c="sp."><p><l>atomizm<s n="n"/><s n="mi"/></l><r>atomizmus<s n="n"/><s n="mi"/></r></p></e>
@@ -2145,7 +2099,6 @@
     <e c="sp."><p><l>elektromagnetyzm<s n="n"/><s n="mi"/></l><r>elektromagnetizmus<s n="n"/><s n="mi"/></r></p></e>
     <e c="sp."><p><l>empiriokrytycyzm<s n="n"/><s n="mi"/></l><r>empiriokriticizmus<s n="n"/><s n="mi"/></r></p></e>
     <e c="sp."><p><l>empiryzm<s n="n"/><s n="mi"/></l><r>empirizmus<s n="n"/><s n="mi"/></r></p></e>
-    <e c="sp."><p><l>entuzjazm<s n="n"/><s n="mi"/></l><r>entuziazmus<s n="n"/><s n="mi"/></r></p></e>
     <e c="sp."><p><l>eufemizm<s n="n"/><s n="mi"/></l><r>eufemizmus<s n="n"/><s n="mi"/></r></p></e>
     <e c="sp."><p><l>europeizm<s n="n"/><s n="mi"/></l><r>europeizmus<s n="n"/><s n="mi"/></r></p></e>
     <e c="sp."><p><l>eurosceptycyzm<s n="n"/><s n="mi"/></l><r>euroskepticizmus<s n="n"/><s n="mi"/></r></p></e>
@@ -2539,115 +2492,27 @@
     <e c="sp."><p><l>kserografia<s n="n"/><s n="f"/></l><r>xerografia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>Zambia<s n="np"/><s n="top"/><s n="f"/></l><r>Zambia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>zoologia<s n="n"/><s n="f"/></l><r>zoológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>alergia<s n="n"/><s n="f"/></r><r>alergia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>alergologia<s n="n"/><s n="f"/></r><r>alergológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>analogia<s n="n"/><s n="f"/></r><r>analógia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>anestezjologia<s n="n"/><s n="f"/></r><r>anestéziológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>antologia<s n="n"/><s n="f"/></r><r>antológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>antropologia<s n="n"/><s n="f"/></r><r>antropológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>apologia<s n="n"/><s n="f"/></r><r>apológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>archeologia<s n="n"/><s n="f"/></r><r>archeológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>astrologia<s n="n"/><s n="f"/></r><r>astrológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>bakteriologia<s n="n"/><s n="f"/></r><r>bakteriológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>bioenergia<s n="n"/><s n="f"/></r><r>bioenergia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>biologia<s n="n"/><s n="f"/></r><r>biológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>biometeorologia<s n="n"/><s n="f"/></r><r>biometeorológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>biotechnologia<s n="n"/><s n="f"/></r><r>biotechnológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>chirurgia<s n="n"/><s n="f"/></r><r>chirurgia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>chronologia<s n="n"/><s n="f"/></r><r>chronológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>cytologia<s n="n"/><s n="f"/></r><r>cytológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>defektologia<s n="n"/><s n="f"/></r><r>defektológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>demagogia<s n="n"/><s n="f"/></r><r>demagógia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>dermatologia<s n="n"/><s n="f"/></r><r>dermatológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>dialektologia<s n="n"/><s n="f"/></r><r>dialektológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>dramaturgia<s n="n"/><s n="f"/></r><r>dramaturgia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>egiptologia<s n="n"/><s n="f"/></r><r>egyptológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>ekologia<s n="n"/><s n="f"/></r><r>ekológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>elegia<s n="n"/><s n="f"/></r><r>elégia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>endokrynologia<s n="n"/><s n="f"/></r><r>endokrinológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>energia<s n="n"/><s n="f"/></r><r>energia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>entomologia<s n="n"/><s n="f"/></r><r>entomológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>epidemiologia<s n="n"/><s n="f"/></r><r>epidemiológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>eschatologia<s n="n"/><s n="f"/></r><r>eschatológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>etnologia<s n="n"/><s n="f"/></r><r>etnológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>etymologia<s n="n"/><s n="f"/></r><r>etymológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>farmakologia<s n="n"/><s n="f"/></r><r>farmakológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>filologia<s n="n"/><s n="f"/></r><r>filológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>fonologia<s n="n"/><s n="f"/></r><r>fonológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>frazeologia<s n="n"/><s n="f"/></r><r>frazeológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>futurologia<s n="n"/><s n="f"/></r><r>futurológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>fizjologia<s n="n"/><s n="f"/></r><r>fyziológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>genealogia<s n="n"/><s n="f"/></r><r>genealógia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>geologia<s n="n"/><s n="f"/></r><r>geológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>gerontologia<s n="n"/><s n="f"/></r><r>gerontológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>gnozeologia<s n="n"/><s n="f"/></r><r>gnozeológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>grafologia<s n="n"/><s n="f"/></r><r>grafológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>ginekologia<s n="n"/><s n="f"/></r><r>gynekológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>helmintologia<s n="n"/><s n="f"/></r><r>helmintológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>hematologia<s n="n"/><s n="f"/></r><r>hematológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>histologia<s n="n"/><s n="f"/></r><r>histológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>hydrologia<s n="n"/><s n="f"/></r><r>hydrológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>hydrometeorologia<s n="n"/><s n="f"/></r><r>hydrometeorológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>ichtiologia<s n="n"/><s n="f"/></r><r>ichtyológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>ideologia<s n="n"/><s n="f"/></r><r>ideológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>immunologia<s n="n"/><s n="f"/></r><r>imunológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>kardiologia<s n="n"/><s n="f"/></r><r>kardiológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>kulturologia<s n="n"/><s n="f"/></r><r>kulturológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>kynologia<s n="n"/><s n="f"/></r><r>kynológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>leksykologia<s n="n"/><s n="f"/></r><r>lexikológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>liturgia<s n="n"/><s n="f"/></r><r>liturgia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>loggia<s n="n"/><s n="f"/></r><r>loggia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>legia<s n="n"/><s n="f"/></r><r>légia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>metalurgia<s n="n"/><s n="f"/></r><r>metalurgia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>meteorologia<s n="n"/><s n="f"/></r><r>meteorológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>metodologia<s n="n"/><s n="f"/></r><r>metodológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>metrologia<s n="n"/><s n="f"/></r><r>metrológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>mikrobiologia<s n="n"/><s n="f"/></r><r>mikrobiológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>mineralogia<s n="n"/><s n="f"/></r><r>mineralógia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>morfologia<s n="n"/><s n="f"/></r><r>morfológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>muzeologia<s n="n"/><s n="f"/></r><r>muzeológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>muzykologia<s n="n"/><s n="f"/></r><r>muzikológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>mykologia<s n="n"/><s n="f"/></r><r>mykológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>mitologia<s n="n"/><s n="f"/></r><r>mytológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>magia<s n="n"/><s n="f"/></r><r>mágia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>neuralgia<s n="n"/><s n="f"/></r><r>neuralgia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>neurologia<s n="n"/><s n="f"/></r><r>neurológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>nostalgia<s n="n"/><s n="f"/></r><r>nostalgia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>onkologia<s n="n"/><s n="f"/></r><r>onkológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>ontologia<s n="n"/><s n="f"/></r><r>ontológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>orgia<s n="n"/><s n="f"/></r><r>orgia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>ornitologia<s n="n"/><s n="f"/></r><r>ornitológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>paleontologia<s n="n"/><s n="f"/></r><r>paleontológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>paraplegia<s n="n"/><s n="f"/></r><r>paraplégia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>patologia<s n="n"/><s n="f"/></r><r>patológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>pedologia<s n="n"/><s n="f"/></r><r>pedológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>politologia<s n="n"/><s n="f"/></r><r>politológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>pomologia<s n="n"/><s n="f"/></r><r>pomológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>psychologia<s n="n"/><s n="f"/></r><r>psychológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>radiologia<s n="n"/><s n="f"/></r><r>rádiológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>rentgenologia<s n="n"/><s n="f"/></r><r>röntgenológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>seksuologia<s n="n"/><s n="f"/></r><r>sexuológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>sinologia<s n="n"/><s n="f"/></r><r>sinológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>socjologia<s n="n"/><s n="f"/></r><r>sociológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>somatologia<s n="n"/><s n="f"/></r><r>somatológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>speleologia<s n="n"/><s n="f"/></r><r>speleológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>stomatologia<s n="n"/><s n="f"/></r><r>stomatológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>strategia<s n="n"/><s n="f"/></r><r>stratégia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>synergia<s n="n"/><s n="f"/></r><r>synergia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>tautologia<s n="n"/><s n="f"/></r><r>tautológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>teatrologia<s n="n"/><s n="f"/></r><r>teatrológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>technologia<s n="n"/><s n="f"/></r><r>technológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>teologia<s n="n"/><s n="f"/></r><r>teológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>terminologia<s n="n"/><s n="f"/></r><r>terminológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>tekstologia<s n="n"/><s n="f"/></r><r>textológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>transfuzjologia<s n="n"/><s n="f"/></r><r>transfúziológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>traumatologia<s n="n"/><s n="f"/></r><r>traumatológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>trylogia<s n="n"/><s n="f"/></r><r>trilógia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>typologia<s n="n"/><s n="f"/></r><r>typológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>ufologia<s n="n"/><s n="f"/></r><r>ufológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>urologia<s n="n"/><s n="f"/></r><r>urológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>wirologia<s n="n"/><s n="f"/></r><r>virológia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>zoologia<s n="n"/><s n="f"/></r><r>zoológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alergologia<s n="n"/><s n="f"/></l><r>alergológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>antologia<s n="n"/><s n="f"/></l><r>antológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bioenergia<s n="n"/><s n="f"/></l><r>bioenergia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biometeorologia<s n="n"/><s n="f"/></l><r>biometeorológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>endokrynologia<s n="n"/><s n="f"/></l><r>endokrinológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fizjologia<s n="n"/><s n="f"/></l><r>fyziológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kulturologia<s n="n"/><s n="f"/></l><r>kulturológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>meteorologia<s n="n"/><s n="f"/></l><r>meteorológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>orgia<s n="n"/><s n="f"/></l><r>orgia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>paraplegia<s n="n"/><s n="f"/></l><r>paraplégia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>politologia<s n="n"/><s n="f"/></l><r>politológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rentgenologia<s n="n"/><s n="f"/></l><r>röntgenológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>seksuologia<s n="n"/><s n="f"/></l><r>sexuológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sinologia<s n="n"/><s n="f"/></l><r>sinológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>somatologia<s n="n"/><s n="f"/></l><r>somatológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>synergia<s n="n"/><s n="f"/></l><r>synergia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>teatrologia<s n="n"/><s n="f"/></l><r>teatrológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tekstologia<s n="n"/><s n="f"/></l><r>textológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>transfuzjologia<s n="n"/><s n="f"/></l><r>transfúziológia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>trylogia<s n="n"/><s n="f"/></l><r>trilógia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ufologia<s n="n"/><s n="f"/></l><r>ufológia<s n="n"/><s n="f"/></r></p></e>
 
     <e><i>Britney<s n="np"/></i></e>
     <e><i>Lynne<s n="np"/></i></e>
@@ -2667,4 +2532,3 @@
     <e><i>br<s n="ij"/></i></e>
   </section>
 </dictionary>
-
