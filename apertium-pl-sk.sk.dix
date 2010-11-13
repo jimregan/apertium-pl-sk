@@ -4,7 +4,7 @@
 	Sections: 3
 	Entries: 3973
 	Sdefs: 78
-	Paradigms: 160
+	Paradigms: 163
 	Last processed by: apertium-dixtools fix -standard apertium-pl-sk.sk.dix.out apertium-pl-sk.sk.dix
 -->
 <dictionary>
@@ -10795,78 +10795,82 @@
         <par n="Feminine_idea"/> 
     </e>
     </pardef>
-    <pardef n="aukc/ia__n">
-    <e>
-      <p>
-        <l>a</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>e</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>i</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>u</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>i</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ou</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>e</l>
-        <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>í</l>
-        <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
-      </p>
-    </e>
+    <pardef n="PBASE__akcia__PL">
     <e>
       <p>
         <l>ám</l>
-        <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        <r><s n="f"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>e</l>
-        <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        <r><s n="f"/><s n="pl"/><s n="acc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ách</l>
-        <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        <r><s n="f"/><s n="pl"/><s n="loc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>e</l>
+        <r><s n="f"/><s n="pl"/><s n="voc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ami</l>
-        <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        <r><s n="f"/><s n="pl"/><s n="ins"/></r>
       </p>
+    </e>
+    <e>
+      <p>
+        <l>e</l>
+        <r><s n="f"/><s n="pl"/><s n="nom"/></r>
+      </p>
+    </e>
+    </pardef>
+    <pardef n="BASE__akcia">
+    <e>
+      <p>
+        <l>í</l>
+        <r><s n="f"/><s n="pl"/><s n="gen"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l></l>
+        <r></r>
+      </p>
+        <par n="BASE__Gambia"/> 
+    </e>
+    <e>
+      <p>
+        <l></l>
+        <r></r>
+      </p>
+        <par n="PBASE__akcia__PL"/> 
+    </e>
+    </pardef>
+    <pardef n="akci/a__n">
+    <e>
+      <p>
+        <l></l>
+        <r>a<s n="n"/></r>
+      </p>
+        <par n="BASE__akcia"/> 
+    </e>
+    </pardef>
+    <pardef n="Alojzi/a__np">
+    <e>
+      <p>
+        <l></l>
+        <r>a<s n="np"/><s n="ant"/></r>
+      </p>
+        <par n="BASE__akcia"/> 
     </e>
     </pardef>
     <pardef n="krv__n">
