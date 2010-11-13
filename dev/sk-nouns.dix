@@ -4,7 +4,7 @@
 	Sections: 1
 	Entries: 25803
 	Sdefs: 14
-	Paradigms: 885
+	Paradigms: 886
 	Last processed by: apertium-dixtools -standard equiv-paradigms sk-nouns.dix sk-nouns
 -->
 <dictionary>
@@ -425,7 +425,6 @@
         <l>k</l>
         <r>ka<s n="n"/></r>
       </p>
-    <!-- dos/ka__SG' was replaced -->
         <par n="vyvýšenin/ka__SG"/> 
     </e>
     <e>
@@ -433,7 +432,6 @@
         <l>k</l>
         <r>ka<s n="n"/></r>
       </p>
-    <!-- dos/ka__PL' was replaced -->
         <par n="vyvýšenin/ka__PL"/> 
     </e>
     </pardef>
@@ -5011,6 +5009,92 @@
       </p>
     </e>
     </pardef>
+    <pardef n="esejist/a__n">
+    <e>
+      <p>
+        <l>u</l>
+        <r>a<s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ovi</l>
+        <r>a<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>u</l>
+        <r>a<s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ovi</l>
+        <r>a<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>a</l>
+        <r>a<s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>om</l>
+        <r>a<s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>a</l>
+        <r>a<s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ov</l>
+        <r>a<s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>om</l>
+        <r>a<s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ov</l>
+        <r>a<s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>och</l>
+        <r>a<s n="n"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>i</l>
+        <r>a<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ami</l>
+        <r>a<s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>i</l>
+        <r>a<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+      </p>
+    </e>
+    </pardef>
     <pardef n="kal/ika__n">
     <e>
       <p>
@@ -7564,132 +7648,26 @@
     <pardef n="ťaž/ba__n">
     <e>
       <p>
-        <l>by</l>
-        <r>ba<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>be</l>
-        <r>ba<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>bu</l>
-        <r>ba<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>be</l>
-        <r>ba<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ba</l>
-        <r>ba<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>bou</l>
-        <r>ba<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ba</l>
-        <r>ba<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
         <l>ieb</l>
         <r>ba<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
     <e>
       <p>
-        <l>bám</l>
-        <r>ba<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        <l>b</l>
+        <r>ba<s n="n"/></r>
       </p>
+        <par n="vyvýšenin/ka__PL"/> 
     </e>
     <e>
       <p>
-        <l>by</l>
-        <r>ba<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        <l>b</l>
+        <r>ba<s n="n"/></r>
       </p>
-    </e>
-    <e>
-      <p>
-        <l>bách</l>
-        <r>ba<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>by</l>
-        <r>ba<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>bami</l>
-        <r>ba<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>by</l>
-        <r>ba<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-      </p>
+        <par n="vyvýšenin/ka__SG"/> 
     </e>
     </pardef>
     <pardef n="rol/eta__n">
-    <e>
-      <p>
-        <l>ety</l>
-        <r>eta<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ete</l>
-        <r>eta<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>etu</l>
-        <r>eta<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ete</l>
-        <r>eta<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>eta</l>
-        <r>eta<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>etou</l>
-        <r>eta<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>eta</l>
-        <r>eta<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-      </p>
-    </e>
     <e>
       <p>
         <l>iet</l>
@@ -7698,84 +7676,20 @@
     </e>
     <e>
       <p>
-        <l>etám</l>
-        <r>eta<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        <l>et</l>
+        <r>eta<s n="n"/></r>
       </p>
+        <par n="vyvýšenin/ka__PL"/> 
     </e>
     <e>
       <p>
-        <l>ety</l>
-        <r>eta<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        <l>et</l>
+        <r>eta<s n="n"/></r>
       </p>
-    </e>
-    <e>
-      <p>
-        <l>etách</l>
-        <r>eta<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ety</l>
-        <r>eta<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>etami</l>
-        <r>eta<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ety</l>
-        <r>eta<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-      </p>
+        <par n="vyvýšenin/ka__SG"/> 
     </e>
     </pardef>
     <pardef n="úžin/a__n">
-    <e>
-      <p>
-        <l>y</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>e</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>u</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>e</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>a</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ou</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>a</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-      </p>
-    </e>
     <e>
       <p>
         <l></l>
@@ -7784,170 +7698,20 @@
     </e>
     <e>
       <p>
-        <l>ám</l>
-        <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        <l></l>
+        <r>a<s n="n"/></r>
       </p>
+        <par n="vyvýšenin/ka__PL"/> 
     </e>
     <e>
       <p>
-        <l>y</l>
-        <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        <l></l>
+        <r>a<s n="n"/></r>
       </p>
-    </e>
-    <e>
-      <p>
-        <l>ách</l>
-        <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>y</l>
-        <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ami</l>
-        <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>y</l>
-        <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-      </p>
-    </e>
-    </pardef>
-    <pardef n="esejist/a__n">
-    <e>
-      <p>
-        <l>u</l>
-        <r>a<s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ovi</l>
-        <r>a<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>u</l>
-        <r>a<s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ovi</l>
-        <r>a<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>a</l>
-        <r>a<s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>om</l>
-        <r>a<s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>a</l>
-        <r>a<s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ov</l>
-        <r>a<s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>om</l>
-        <r>a<s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ov</l>
-        <r>a<s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>och</l>
-        <r>a<s n="n"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>i</l>
-        <r>a<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ami</l>
-        <r>a<s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>i</l>
-        <r>a<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
-      </p>
+        <par n="vyvýšenin/ka__SG"/> 
     </e>
     </pardef>
     <pardef n="ver/anda__n">
-    <e>
-      <p>
-        <l>andy</l>
-        <r>anda<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ande</l>
-        <r>anda<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>andu</l>
-        <r>anda<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ande</l>
-        <r>anda<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>anda</l>
-        <r>anda<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>andou</l>
-        <r>anda<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>anda</l>
-        <r>anda<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-      </p>
-    </e>
     <e>
       <p>
         <l>ánd</l>
@@ -7956,84 +7720,20 @@
     </e>
     <e>
       <p>
-        <l>andám</l>
-        <r>anda<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        <l>and</l>
+        <r>anda<s n="n"/></r>
       </p>
+        <par n="vyvýšenin/ka__PL"/> 
     </e>
     <e>
       <p>
-        <l>andy</l>
-        <r>anda<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        <l>and</l>
+        <r>anda<s n="n"/></r>
       </p>
-    </e>
-    <e>
-      <p>
-        <l>andách</l>
-        <r>anda<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>andy</l>
-        <r>anda<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>andami</l>
-        <r>anda<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>andy</l>
-        <r>anda<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-      </p>
+        <par n="vyvýšenin/ka__SG"/> 
     </e>
     </pardef>
     <pardef n="rebarb/ora__n">
-    <e>
-      <p>
-        <l>ory</l>
-        <r>ora<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ore</l>
-        <r>ora<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>oru</l>
-        <r>ora<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ore</l>
-        <r>ora<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ora</l>
-        <r>ora<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>orou</l>
-        <r>ora<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ora</l>
-        <r>ora<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-      </p>
-    </e>
     <e>
       <p>
         <l>ôr</l>
@@ -8042,295 +7742,61 @@
     </e>
     <e>
       <p>
-        <l>orám</l>
-        <r>ora<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        <l>or</l>
+        <r>ora<s n="n"/></r>
       </p>
+        <par n="vyvýšenin/ka__PL"/> 
     </e>
     <e>
       <p>
-        <l>ory</l>
-        <r>ora<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        <l>or</l>
+        <r>ora<s n="n"/></r>
       </p>
-    </e>
-    <e>
-      <p>
-        <l>orách</l>
-        <r>ora<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ory</l>
-        <r>ora<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>orami</l>
-        <r>ora<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ory</l>
-        <r>ora<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-      </p>
+        <par n="vyvýšenin/ka__SG"/> 
     </e>
     </pardef>
     <pardef n="p/uma__n">
     <e>
       <p>
-        <l>umy</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ume</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umu</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ume</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>uma</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umou</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>uma</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
         <l>úm</l>
         <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
     <e>
       <p>
-        <l>umám</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        <l>um</l>
+        <r>uma<s n="n"/></r>
       </p>
+        <par n="vyvýšenin/ka__PL"/> 
     </e>
     <e>
       <p>
-        <l>umy</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        <l>um</l>
+        <r>uma<s n="n"/></r>
       </p>
+        <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <e>
-      <p>
-        <l>umách</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umy</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umami</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umy</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-      </p>
-    </e>
-    <!-- Below is content of a subsequent definition of p/uma__n -->
-    <e>
-      <p>
-        <l>umpy</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umpe</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umpu</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umpe</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umpa</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umpou</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umpa</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-      </p>
-    </e>
+    </pardef>
+    <pardef n="p/umpa__n">
     <e>
       <p>
         <l>úmp</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        <r>umpa<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
     <e>
       <p>
-        <l>umpám</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        <l>ump</l>
+        <r>umpa<s n="n"/></r>
       </p>
+        <par n="vyvýšenin/ka__PL"/> 
     </e>
     <e>
       <p>
-        <l>umpy</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        <l>ump</l>
+        <r>umpa<s n="n"/></r>
       </p>
-    </e>
-    <e>
-      <p>
-        <l>umpách</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umpy</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umpami</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umpy</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-      </p>
-    </e>
-    <!-- Below is content of a subsequent definition of p/uma__n -->
-    <e>
-      <p>
-        <l>umy</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ume</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umu</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ume</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>uma</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umou</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>uma</l>
-        <r>uma<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>úm</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umám</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umy</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umách</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umy</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umami</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>umy</l>
-        <r>uma<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-      </p>
+        <par n="vyvýšenin/ka__SG"/> 
     </e>
     </pardef>
     <pardef n="antisemit/a__n">
@@ -32493,7 +31959,7 @@
       <p>
         <l>ez</l>
         <r>eza<s n="n"/></r>
-      </p><!-- br/eza__PL' was replaced -->
+      </p>
         <par n="vyvýšenin/ka__PL"/> 
     </e>
     </pardef>
@@ -79507,9 +78973,6 @@
     </pardef>
   </pardefs>
   <section id="main" type="standard">
-    <!-- ******************************
-          group n
-      ****************************** -->
     <e lm="oko"><i></i><par n="/oko__n"/></e>
     <e lm="Ida"><i></i><par n="/Ida__n"/></e>
     <e lm="osa"><i></i><par n="k/osa__n"/></e>
@@ -87962,7 +87425,7 @@
     <e lm="kybernetika"><i>kybernet</i><par n="kal/ika__n"/></e>
     <e lm="kybernetik"><i>kyberneti</i><par n="spoluúčastní/k__n"/></e>
     <e lm="kybernetička"><i>kybernetič</i><par n="vyvýšenin/ka__n"/></e>
-    <e lm="kyd"><i>kyd</i><!-- kyd__n' was replaced --><par n="mušt__n"/></e>
+    <e lm="kyd"><i>kyd</i><par n="mušt__n"/></e>
     <e lm="kyj"><i>kyj</i><par n="pridržiavač__n"/></e>
     <e lm="kyjak"><i>kyjak</i><par n="plevník__n"/></e>
     <e lm="kyjanica"><i>kyjan</i><par n="mostn/ica__n"/></e>
@@ -92474,7 +91937,7 @@
     <e lm="peha"><i>p</i><par n="n/eha__n"/></e>
     <e lm="pauza"><i>p</i><par n="k/auza__n"/></e>
     <e lm="pasta"><i>p</i><par n="om/asta__n"/></e>
-    <e lm="pumpa"><i>p</i><par n="p/uma__n"/></e>
+    <e lm="pumpa"><i>p</i><par n="p/umpa__n"/></e>
     <e lm="päta"><i>p</i><par n="p/äta__n"/></e>
     <e lm="pošta"><i>p</i><par n="p/ošta__n"/></e>
     <e lm="pomsta"><i>p</i><par n="p/omsta__n"/></e>
@@ -95756,7 +95219,7 @@
     <e lm="puchor"><i>puch</i><par n="puch/or__n"/></e>
     <e lm="pudlo"><i>pud</i><par n="ovíjad/lo__n"/></e>
     <e lm="pudel"><i>pud</i><par n="pud/el__n"/></e>
-    <e lm="pud"><i>pud</i><!-- kyd__n' was replaced --><par n="mušt__n"/></e>
+    <e lm="pud"><i>pud</i><par n="mušt__n"/></e>
     <e lm="pudilár"><i>pudilár</i><par n="pridržiavač__n"/></e>
     <e lm="puding"><i>puding</i><par n="podtlak__n"/></e>
     <e lm="pudlík"><i>pudlík</i><par n="červiačik__n"/></e>
@@ -95932,7 +95395,7 @@
     <e lm="pínia"><i>píni</i><par n="estetizáci/a__n"/></e>
     <e lm="pípadlo"><i>pípad</i><par n="ovíjad/lo__n"/></e>
     <e lm="pípeť"><i>pípe</i><par n="pípe/ť__n"/></e>
-    <e lm="pírsing"><i>pírsing</i><!-- zvyk__n' was replaced --><par n="zisk__n"/></e>
+    <e lm="pírsing"><i>pírsing</i><par n="zisk__n"/></e>
     <e lm="písmo"><i>pís</i><par n="pís/mo__n"/></e>
     <e lm="písadlo"><i>písad</i><par n="ovíjad/lo__n"/></e>
     <e lm="písanka"><i>písan</i><par n="vyvýšenin/ka__n"/></e>
@@ -103106,7 +102569,7 @@
     <e lm="zvukár"><i>zvukár</i><par n="národniar__n"/></e>
     <e lm="zvučka"><i>zvuč</i><par n="vyvýšenin/ka__n"/></e>
     <e lm="zvučnosť"><i>zvučnos</i><par n="ošúchanos/ť__n"/></e>
-    <e lm="zvyk"><i>zvyk</i><!-- zvyk__n' was replaced --><par n="zisk__n"/></e>
+    <e lm="zvyk"><i>zvyk</i><par n="zisk__n"/></e>
     <e lm="zvyklosť"><i>zvyklos</i><par n="ošúchanos/ť__n"/></e>
     <e lm="zvykoslovie"><i>zvykoslov</i><par n="ohodnoten/ie__n"/></e>
     <e lm="zvyčajnosť"><i>zvyčajnos</i><par n="ošúchanos/ť__n"/></e>
