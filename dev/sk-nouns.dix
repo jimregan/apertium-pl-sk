@@ -4,7 +4,7 @@
 	Sections: 1
 	Entries: 25803
 	Sdefs: 14
-	Paradigms: 886
+	Paradigms: 890
 	Last processed by: apertium-dixtools -standard equiv-paradigms sk-nouns.dix sk-nouns
 -->
 <dictionary>
@@ -353,48 +353,6 @@
     <pardef n="štrám/ka__n">
     <e>
       <p>
-        <l>ka</l>
-        <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ky</l>
-        <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ke</l>
-        <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ku</l>
-        <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>kou</l>
-        <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ke</l>
-        <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ka</l>
-        <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
         <l>iek</l>
         <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
@@ -405,6 +363,13 @@
         <r>ka<s n="n"/></r>
       </p>
         <par n="ľahtikár/ka__PL"/> 
+    </e>
+    <e>
+      <p>
+        <l>k</l>
+        <r>ka<s n="n"/></r>
+      </p>
+        <par n="štrám/ka__n"/> 
     </e>
     </pardef>
     <pardef n="dos/ka__n">
@@ -539,83 +504,110 @@
         <par n="estetizáci/a__PL"/> 
     </e>
     </pardef>
+    <pardef n="PBASE__rusnák__SG">
+    <e>
+      <p>
+        <l>a</l>
+        <r><s n="ma"/><s n="sg"/><s n="gen"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ovi</l>
+        <r><s n="ma"/><s n="sg"/><s n="dat"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>a</l>
+        <r><s n="ma"/><s n="sg"/><s n="acc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>om</l>
+        <r><s n="ma"/><s n="sg"/><s n="ins"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ovi</l>
+        <r><s n="ma"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+    </pardef>
+    <pardef n="BASE__rusnák__SG">
+    <e>
+      <p>
+        <l></l>
+        <r><s n="ma"/><s n="sg"/><s n="nom"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l></l>
+        <r><s n="ma"/><s n="sg"/><s n="voc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l></l>
+        <r></r>
+      </p>
+        <par n="PBASE__rusnák__SG"/> 
+    </e>
+    </pardef>
+    <pardef n="PBASE__rusnák__PL">
+    <e>
+      <p>
+        <l>ov</l>
+        <r><s n="ma"/><s n="pl"/><s n="gen"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>om</l>
+        <r><s n="ma"/><s n="pl"/><s n="dat"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ov</l>
+        <r><s n="ma"/><s n="pl"/><s n="acc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>mi</l>
+        <r><s n="ma"/><s n="pl"/><s n="ins"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>och</l>
+        <r><s n="ma"/><s n="pl"/><s n="loc"/></r>
+      </p>
+    </e>
+    </pardef>
     <pardef n="spoluúčastní/k__n">
     <e>
       <p>
         <l>k</l>
-        <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        <r>k<s n="n"/></r>
       </p>
-    </e>
-    <e>
-      <p>
-        <l>ka</l>
-        <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>kovi</l>
-        <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ka</l>
-        <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>kom</l>
-        <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>kovi</l>
-        <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
-      </p>
+        <par n="BASE__rusnák__SG"/> 
     </e>
     <e>
       <p>
         <l>k</l>
-        <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        <r>k<s n="n"/></r>
       </p>
+        <par n="PBASE__rusnák__PL"/> 
     </e>
     <e>
       <p>
         <l>ci</l>
         <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>kov</l>
-        <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>kom</l>
-        <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>kov</l>
-        <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>kmi</l>
-        <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>koch</l>
-        <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
     <e>
@@ -629,79 +621,21 @@
     <e>
       <p>
         <l>k</l>
-        <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        <r>k<s n="n"/></r>
       </p>
-    </e>
-    <e>
-      <p>
-        <l>ka</l>
-        <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>kovi</l>
-        <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ka</l>
-        <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>kom</l>
-        <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>kovi</l>
-        <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
-      </p>
+        <par n="BASE__rusnák__SG"/> 
     </e>
     <e>
       <p>
         <l>k</l>
-        <r>k<s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        <r>k<s n="n"/></r>
       </p>
-    </e>
-    <e>
-      <p>
-        <l>kov</l>
-        <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>kom</l>
-        <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>kov</l>
-        <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>koch</l>
-        <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
-      </p>
+        <par n="PBASE__rusnák__PL"/> 
     </e>
     <e>
       <p>
         <l>ci</l>
         <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>kmi</l>
-        <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
     <e>
@@ -714,6 +648,12 @@
       <p>
         <l>kovia</l>
         <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>kovia</l>
+        <r>k<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
       </p>
     </e>
     </pardef>
@@ -2341,49 +2281,45 @@
       </p>
     </e>
     </pardef>
+    <pardef n="mostn/ica__PL">
+    <e>
+      <p>
+        <l>iam</l>
+        <r><s n="f"/><s n="pl"/><s n="dat"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>e</l>
+        <r><s n="f"/><s n="pl"/><s n="acc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>iach</l>
+        <r><s n="f"/><s n="pl"/><s n="loc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>e</l>
+        <r><s n="f"/><s n="pl"/><s n="voc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ami</l>
+        <r><s n="f"/><s n="pl"/><s n="ins"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>e</l>
+        <r><s n="f"/><s n="pl"/><s n="nom"/></r>
+      </p>
+    </e>
+    </pardef>
     <pardef n="mostn/ica__n">
-    <e>
-      <p>
-        <l>ice</l>
-        <r>ica<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ici</l>
-        <r>ica<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>icu</l>
-        <r>ica<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ici</l>
-        <r>ica<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ica</l>
-        <r>ica<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>icou</l>
-        <r>ica<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ica</l>
-        <r>ica<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-      </p>
-    </e>
     <e>
       <p>
         <l>íc</l>
@@ -2392,39 +2328,18 @@
     </e>
     <e>
       <p>
-        <l>iciam</l>
-        <r>ica<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        <l>ic</l>
+        <r>ica<s n="n"/></r>
       </p>
+    <!-- mostn/ica__SG' was replaced -->
+        <par n="estetizáci/a__SG"/> 
     </e>
     <e>
       <p>
-        <l>ice</l>
-        <r>ica<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        <l>ic</l>
+        <r>ica<s n="n"/></r>
       </p>
-    </e>
-    <e>
-      <p>
-        <l>iciach</l>
-        <r>ica<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ice</l>
-        <r>ica<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>icami</l>
-        <r>ica<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ice</l>
-        <r>ica<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-      </p>
+        <par n="mostn/ica__PL"/> 
     </e>
     </pardef>
     <pardef n="ošúchanos/ť__n">
@@ -11922,132 +11837,28 @@
     <pardef n="f/auna__n">
     <e>
       <p>
-        <l>auny</l>
-        <r>auna<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>aune</l>
-        <r>auna<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>aunu</l>
-        <r>auna<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>aune</l>
-        <r>auna<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>auna</l>
-        <r>auna<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>aunou</l>
-        <r>auna<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>auna</l>
-        <r>auna<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
         <l>áun</l>
         <r>auna<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
     <e>
       <p>
-        <l>aunám</l>
-        <r>auna<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        <l>aun</l>
+        <r>auna<s n="n"/></r>
       </p>
+    <!-- f/auna__SG' was replaced -->
+        <par n="vyvýšenin/ka__SG"/> 
     </e>
     <e>
       <p>
-        <l>auny</l>
-        <r>auna<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        <l>aun</l>
+        <r>auna<s n="n"/></r>
       </p>
-    </e>
-    <e>
-      <p>
-        <l>aunách</l>
-        <r>auna<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>auny</l>
-        <r>auna<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>aunami</l>
-        <r>auna<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>auny</l>
-        <r>auna<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-      </p>
+    <!-- f/auna__PL' was replaced -->
+        <par n="vyvýšenin/ka__PL"/> 
     </e>
     </pardef>
     <pardef n="kaťuš/a__n">
-    <e>
-      <p>
-        <l>e</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>i</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>u</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>i</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>a</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ou</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>a</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-      </p>
-    </e>
     <e>
       <p>
         <l>í</l>
@@ -12056,39 +11867,19 @@
     </e>
     <e>
       <p>
-        <l>iam</l>
-        <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        <l></l>
+        <r>a<s n="n"/></r>
       </p>
+    <!-- kaťuš/a__SG' was replaced -->
+        <par n="estetizáci/a__SG"/> 
     </e>
     <e>
       <p>
-        <l>e</l>
-        <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        <l></l>
+        <r>a<s n="n"/></r>
       </p>
-    </e>
-    <e>
-      <p>
-        <l>iach</l>
-        <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>e</l>
-        <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ami</l>
-        <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>e</l>
-        <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-      </p>
+    <!-- kaťuš/a__PL' was replaced -->
+        <par n="mostn/ica__PL"/> 
     </e>
     </pardef>
     <pardef n="škrid/la__n">
@@ -12696,6 +12487,12 @@
     <pardef n="Bystric/a__n">
     <e>
       <p>
+        <l>a</l>
+        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
         <l>e</l>
         <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
       </p>
@@ -12714,6 +12511,12 @@
     </e>
     <e>
       <p>
+        <l>ou</l>
+        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
         <l>i</l>
         <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
       </p>
@@ -12722,18 +12525,6 @@
       <p>
         <l>a</l>
         <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ou</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>a</l>
-        <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
     </pardef>
@@ -78973,6 +78764,9 @@
     </pardef>
   </pardefs>
   <section id="main" type="standard">
+    <!-- ******************************
+          group n
+      ****************************** -->
     <e lm="oko"><i></i><par n="/oko__n"/></e>
     <e lm="Ida"><i></i><par n="/Ida__n"/></e>
     <e lm="osa"><i></i><par n="k/osa__n"/></e>
