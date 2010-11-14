@@ -5,7 +5,7 @@
 	Entries: 25740
 	Sdefs: 14
 	Paradigms: 928
-	Last processed by: apertium-dixtools sort -standard tmp2 sk-nouns.dix
+	Last processed by: apertium-dixtools sort -standard tmp2 sk-nounstmp
 -->
 <dictionary>
   <alphabet></alphabet>
@@ -16579,7 +16579,7 @@
     <pardef n="frajer/ina__n">
     <e>
       <p>
-        <l>íb</l>
+        <l>ín</l>
         <r>ina<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
@@ -20869,48 +20869,55 @@
         <par n="vyvýšenin/ka__SG"/> 
     </e>
     </pardef>
-    <pardef n="b/oma__n">
+    <pardef n="b/omba__n">
     <e>
       <p>
         <l>ômb</l>
-        <r>oma<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        <r>omba<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ombám</l>
-        <r>oma<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        <r>omba<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>omby</l>
-        <r>oma<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        <r>omba<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ombách</l>
-        <r>oma<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        <r>omba<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>omby</l>
-        <r>oma<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        <r>omba<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ombami</l>
-        <r>oma<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        <r>omba<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>omby</l>
-        <r>oma<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        <r>omba<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
       </p>
+    </e>
+    <e>
+      <p>
+        <l>omb</l>
+        <r>omba<s n="n"/></r>
+      </p>
+        <par n="vyvýšenin/ka__SG"/> 
     </e>
     </pardef>
     <pardef n="b/uksa__n">
@@ -68359,6 +68366,15 @@
         <r>omba<s n="n"/></r>
       </p>
         <par n="vyvýšenin/ka__SG"/> 
+    </e>
+    </pardef>
+    <pardef n="">
+    <e>
+      <p>
+        <l></l>
+        <r>ť<s n="n"/></r>
+      </p>
+        <par n=""/> 
     </e>
     </pardef>
   </pardefs>
