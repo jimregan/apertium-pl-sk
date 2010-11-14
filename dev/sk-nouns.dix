@@ -4,7 +4,7 @@
 	Sections: 1
 	Entries: 25740
 	Sdefs: 14
-	Paradigms: 928
+	Paradigms: 923
 	Last processed by: apertium-dixtools sort -standard tmp2 sk-nounstmp
 -->
 <dictionary>
@@ -33114,6 +33114,24 @@
     <pardef n="dierisk/o__n">
     <e>
       <p>
+        <l>o</l>
+        <r>o<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>o</l>
+        <r>o<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>o</l>
+        <r>o<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
         <l>a</l>
         <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
       </p>
@@ -43243,8 +43261,6 @@
       </p>
     </e>
     </pardef>
-    <pardef n="Budapeš/ť__n">
-    </pardef>
     <pardef n="agronóm__n">
     <e>
       <p>
@@ -43964,6 +43980,48 @@
     </e>
     </pardef>
     <pardef n="/česť__n">
+    <e>
+      <p>
+        <l>cti</l>
+        <r>česť<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>cti</l>
+        <r>česť<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>česť</l>
+        <r>česť<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>cti</l>
+        <r>česť<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>česť</l>
+        <r>česť<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>cťou</l>
+        <r>česť<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>česť</l>
+        <r>česť<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+      </p>
+    </e>
     <e>
       <p>
         <l>ctí</l>
@@ -44746,6 +44804,48 @@
       <p>
         <l>e</l>
         <r><s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>e</l>
+        <r><s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>i</l>
+        <r><s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l></l>
+        <r><s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>i</l>
+        <r><s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l></l>
+        <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ou</l>
+        <r><s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l></l>
+        <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
     <e>
@@ -46152,8 +46252,6 @@
         <r>iptum<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
-    </pardef>
-    <pardef n="Vied/eň__n">
     </pardef>
     <pardef n="makrokozm/os__n">
     <e>
@@ -55680,15 +55778,6 @@
       </p>
     </e>
     </pardef>
-    <pardef n="Koda/ň__n">
-    <e>
-      <p>
-        <l></l>
-        <r>ň<s n="n"/></r>
-      </p>
-        <par n="Koda/ň__BASESG"/> 
-    </e>
-    </pardef>
     <pardef n="fíč/er__n">
     <e>
       <p>
@@ -56243,6 +56332,72 @@
     </e>
     </pardef>
     <pardef n="/lesť__n">
+    <e>
+      <p>
+        <l>lesti</l>
+        <r>lesť<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ľsti</l>
+        <r>lesť<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>lesti</l>
+        <r>lesť<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ľsti</l>
+        <r>lesť<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>lesť</l>
+        <r>lesť<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>lesti</l>
+        <r>lesť<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ľsti</l>
+        <r>lesť<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>lesť</l>
+        <r>lesť<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>lesťou</l>
+        <r>lesť<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ľsťou</l>
+        <r>lesť<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>lesť</l>
+        <r>lesť<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+      </p>
+    </e>
     <e>
       <p>
         <l>lestí</l>
@@ -57762,6 +57917,48 @@
     </e>
     </pardef>
     <pardef n="Piešťan/y__n">
+    <e>
+      <p>
+        <l></l>
+        <r>y<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>om</l>
+        <r>y<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>y</l>
+        <r>y<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>och</l>
+        <r>y<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>y</l>
+        <r>y<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>mi</l>
+        <r>y<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>y</l>
+        <r>y<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+      </p>
+    </e>
     </pardef>
     <pardef n="asparág/us__n">
     <e>
@@ -59064,15 +59261,6 @@
       </p>
     </e>
     </pardef>
-    <pardef n="Senic__n">
-    <e>
-      <p>
-        <l></l>
-        <r>a<s n="n"/></r>
-      </p>
-        <par n="BASE__Gambia"/> 
-    </e>
-    </pardef>
     <pardef n="fliačik/y__n">
     <e>
       <p>
@@ -59821,6 +60009,12 @@
     </e>
     </pardef>
     <pardef n="počesť__n">
+    <e>
+      <p>
+        <l></l>
+        <r><s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+      </p>
+    </e>
     </pardef>
     <pardef n="vala/ch__n">
     <e>
@@ -68368,17 +68562,14 @@
         <par n="vyvýšenin/ka__SG"/> 
     </e>
     </pardef>
-    <pardef n="">
-    <e>
-      <p>
-        <l></l>
-        <r>ť<s n="n"/></r>
-      </p>
-        <par n=""/> 
-    </e>
-    </pardef>
   </pardefs>
   <section id="main" type="standard">
+    <!-- ******************************
+          group n
+      ****************************** -->
+    <!-- ******************************
+          group n
+      ****************************** -->
     <e lm="oko"><i></i><par n="/oko__n"/></e>
     <e lm="Ida"><i></i><par n="/Ida__n"/></e>
     <e lm="osa"><i></i><par n="k/osa__n"/></e>
@@ -94113,6 +94304,12 @@
     <e lm="žĺtok"><i>žĺt</i><par n="orieš/ok__n"/></e>
     <e lm="žľab"><i>žľab</i><par n="balast__n"/></e>
     <e lm="žŕdka"><i>žŕd</i><par n="ľahtikár/ka__n"/></e>
+    <!-- ******************************
+          group np
+      ****************************** -->
+    <!-- ******************************
+          group np
+      ****************************** -->
     <e lm="Bohumila"><i>Bohum</i><par n="Jarm/ila__np"/></e>
     <e lm="Dobromila"><i>Dobrom</i><par n="Jarm/ila__np"/></e>
     <e lm="Jarmila"><i>Jarm</i><par n="Jarm/ila__np"/></e>

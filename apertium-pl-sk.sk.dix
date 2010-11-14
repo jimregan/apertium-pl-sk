@@ -418,6 +418,56 @@
       </p>
     </e>
     </pardef>
+<pardef n="BASE__Budapešť">
+  <e>       <p><l>ť</l>         <r><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>ti</l>        <r><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ti</l>        <r><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e>       <p><l>ť</l>         <r><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>ťou</l>       <r><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
+  <e>       <p><l>ti</l>        <r><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
+  <e>       <p><l>ť</l>         <r><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+</pardef>
+<pardef n="BASE__Viedeň">
+  <e>       <p><l>ne</l>        <r><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ni</l>        <r><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e>       <p><l>eň</l>        <r><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>ni</l>        <r><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
+  <e>       <p><l>eň</l>        <r><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+  <e>       <p><l>ňou</l>       <r><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
+  <e>       <p><l>eň</l>        <r><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+</pardef>
+<pardef n="BASE__Kodaň">
+  <e>       <p><l>ne</l>        <r><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>ni</l>        <r><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e>       <p><l>ň</l>         <r><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>ni</l>        <r><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
+  <e>       <p><l>ň</l>         <r><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+  <e>       <p><l>ňou</l>       <r><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
+  <e>       <p><l>ň</l>         <r><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+</pardef>
+<pardef n="BASE__Eritrea">
+  <e>       <p><l>a</l>         <r><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>y</l>         <r><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e>       <p><l>i</l>         <r><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e>       <p><l>u</l>         <r><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>ou</l>        <r><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
+  <e>       <p><l>i</l>         <r><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
+  <e>       <p><l>a</l>         <r><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+</pardef>
+
+<pardef n="Budapeš/ť__np">
+  <e>       <p><l></l>         <r>ť<s n="np"/><s n="top"/></r></p><par n="BASE__Budapešť"/></e>
+</pardef>
+<pardef n="Vied/eň__np">
+  <e>       <p><l></l>         <r>eň<s n="np"/><s n="top"/></r></p><par n="BASE__Viedeň"/></e>
+</pardef>
+<pardef n="Koda/ň__np">
+  <e>       <p><l></l>         <r>ň<s n="np"/><s n="top"/></r></p><par n="BASE__Kodaň"/></e>
+</pardef>
+<pardef n="Eritre/a__np">
+  <e>       <p><l></l>         <r>a<s n="np"/><s n="top"/></r></p><par n="BASE__Eritrea"/></e>
+</pardef>
+
     <pardef n="k/to__prn">
     <e>
       <p>
@@ -16958,6 +17008,12 @@
     <e lm="Tanzánia"><i>Tanzáni</i><par n="Gambi/a__np"/></e>
     <e lm="Zambia"><i>Zambi</i><par n="Gambi/a__np"/></e>
     <e lm="Ázia"><i>Ázi</i><par n="Gambi/a__np"/></e>
+    <e lm="Senica"><i>Senic</i><par n="Gambi/a__np"/></e>
+    <e lm="Plzeň"><i>Plz</i><par n="Vied/eň__np"/></e>
+    <e lm="Viedeň"><i>Vied</i><par n="Vied/eň__np"/></e>
+    <e lm="Budapešť"><i>Budapeš</i><par n="Budapeš/ť__np"/></e>
+    <e lm="Kodaň"><i>Koda</i><par n="Koda/ň__np"/></e>
+
     <!-- ******************************
           group(s) with only one element
       ****************************** -->
