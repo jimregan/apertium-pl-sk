@@ -9116,95 +9116,95 @@
       </p>
     </e>
     </pardef>
-    <pardef n="m/aa__n">
+    <pardef n="m/ama__n">
     <e>
       <p>
         <l>amy</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        <r>ama<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ame</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        <r>ama<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>amu</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        <r>ama<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ame</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        <r>ama<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ama</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        <r>ama<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ami</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        <r>ama<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>amou</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        <r>ama<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ama</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        <r>ama<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ám</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        <r>ama<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>amám</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        <r>ama<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>amy</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        <r>ama<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>amách</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        <r>ama<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>amy</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        <r>ama<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>amami</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        <r>ama<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>amy</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        <r>ama<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
     </pardef>
@@ -22754,89 +22754,89 @@
       </p>
     </e>
     </pardef>
-    <pardef n="c/ia__n">
+    <pardef n="c/ica__n">
     <e>
       <p>
         <l>ice</l>
-        <r>ia<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        <r>ica<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ici</l>
-        <r>ia<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        <r>ica<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>icu</l>
-        <r>ia<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        <r>ica<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ici</l>
-        <r>ia<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        <r>ica<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ica</l>
-        <r>ia<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        <r>ica<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>icou</l>
-        <r>ia<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        <r>ica<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ica</l>
-        <r>ia<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        <r>ica<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>íc</l>
-        <r>ia<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        <r>ica<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>iciam</l>
-        <r>ia<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        <r>ica<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ice</l>
-        <r>ia<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        <r>ica<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>iciach</l>
-        <r>ia<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        <r>ica<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ice</l>
-        <r>ia<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        <r>ica<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>icami</l>
-        <r>ia<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        <r>ica<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ice</l>
-        <r>ia<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        <r>ica<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
     </pardef>
@@ -25266,89 +25266,89 @@
       </p>
     </e>
     </pardef>
-    <pardef n="p/aa__n">
+    <pardef n="p/apa__n">
     <e>
       <p>
         <l>apy</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        <r>apa<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ape</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        <r>apa<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>apu</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        <r>apa<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>ape</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        <r>apa<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>apa</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        <r>apa<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>apou</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        <r>apa<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>apa</l>
-        <r>aa<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        <r>apa<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>áp</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        <r>apa<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>apám</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        <r>apa<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>apy</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        <r>apa<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>apách</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        <r>apa<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>apy</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        <r>apa<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>apami</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        <r>apa<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
     <e>
       <p>
         <l>apy</l>
-        <r>aa<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        <r>apa<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
     </pardef>
@@ -80791,7 +80791,7 @@
     <e lm="cena"><i>c</i><par n="odm/ena__n"/></e>
     <e lm="cysta"><i>c</i><par n="c/ysta__n"/></e>
     <e lm="cesta"><i>c</i><par n="c/esta__n"/></e>
-    <e lm="cica"><i>c</i><par n="c/ia__n"/></e>
+    <e lm="cica"><i>c</i><par n="c/ica__n"/></e>
     <e lm="celta"><i>c</i><par n="c/elta__n"/></e>
     <e lm="cela"><i>c</i><par n="m/ela__n"/></e>
     <e lm="cesto"><i>c</i><par n="c/esto__n"/></e>
@@ -87804,7 +87804,7 @@
     <e lm="mena"><i>m</i><par n="odm/ena__n"/></e>
     <e lm="mucha"><i>m</i><par n="dev/ucha__n"/></e>
     <e lm="mrva"><i>m</i><par n="b/rva__n"/></e>
-    <e lm="mama"><i>m</i><par n="m/aa__n"/></e>
+    <e lm="mama"><i>m</i><par n="m/ama__n"/></e>
     <e lm="masa"><i>m</i><par n="m/asa__n"/></e>
     <e lm="mela"><i>m</i><par n="m/ela__n"/></e>
     <e lm="myrta"><i>m</i><par n="m/yrta__n"/></e>
@@ -91507,7 +91507,7 @@
     <e lm="piga"><i>p</i><par n="extral/iga__n"/></e>
     <e lm="pera"><i>p</i><par n="p/era__n"/></e>
     <e lm="piča"><i>p</i><par n="p/iča__n"/></e>
-    <e lm="papa"><i>p</i><par n="p/aa__n"/></e>
+    <e lm="papa"><i>p</i><par n="p/apa__n"/></e>
     <e lm="puto"><i>p</i><par n="p/uto__n"/></e>
     <e lm="proso"><i>p</i><par n="p/roso__n"/></e>
     <e lm="pivo"><i>p</i><par n="krm/ivo__n"/></e>
