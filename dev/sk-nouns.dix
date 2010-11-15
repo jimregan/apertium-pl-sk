@@ -1661,7 +1661,7 @@
       <p>
         <l>k</l>
         <r>ka<s n="n"/></r>
-      </p><!-- vyvýšenin/ka__PL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     <e>
@@ -1683,7 +1683,7 @@
       <p>
         <l>k</l>
         <r>ka<s n="n"/></r>
-      </p><!-- ľahtikár/ka__PL' was replaced -->
+      </p>
         <par n="súhr/a__BASEPL"/> 
     </e>
     <e>
@@ -1712,7 +1712,7 @@
       <p>
         <l>k</l>
         <r>ka<s n="n"/></r>
-      </p><!-- vyvýšenin/ka__PL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -1740,7 +1740,7 @@
       <p>
         <l>k</l>
         <r>ka<s n="n"/></r>
-      </p><!-- vyvýšenin/ka__PL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -1755,7 +1755,7 @@
       <p>
         <l>k</l>
         <r>ka<s n="n"/></r>
-      </p><!-- ľahtikár/ka__PL' was replaced -->
+      </p>
         <par n="súhr/a__BASEPL"/> 
     </e>
     <e>
@@ -1790,7 +1790,7 @@
       <p>
         <l>k</l>
         <r>ka<s n="n"/></r>
-      </p><!-- vyvýšenin/ka__PL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -1900,7 +1900,7 @@
       <p>
         <l></l>
         <r></r>
-      </p><!-- PBASE__akcia__PL' was replaced -->
+      </p>
         <par n="kader__BASEPL"/> 
     </e>
     </pardef>
@@ -3717,7 +3717,7 @@
       <p>
         <l>ic</l>
         <r>ica<s n="n"/></r>
-      </p><!-- mostn/ica__PL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -3770,12 +3770,11 @@
         <r>ť<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of ošúchanos/ť__n -->
     <e>
       <p>
         <l></l>
         <r>ť<s n="n"/></r>
-      </p><!-- ošúchanos/ť__BASEPL' was replaced -->
+      </p>
         <par n="pamä/ti__BASEPL"/> 
     </e>
     </pardef>
@@ -3828,7 +3827,6 @@
         <r>ť<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of hrs/ť__n -->
     <e>
       <p>
         <l></l>
@@ -3886,12 +3884,11 @@
         <r>ť<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of päs/ť__n -->
     <e>
       <p>
         <l></l>
         <r>ť<s n="n"/></r>
-      </p><!-- päs/ť__BASEPL' was replaced -->
+      </p>
         <par n="hrs/ť__BASEPL"/> 
     </e>
     </pardef>
@@ -6319,12 +6316,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of kal/ika__n -->
     <e>
       <p>
         <l>ik</l>
         <r>ika<s n="n"/></r>
-      </p><!-- kalik/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6342,12 +6338,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of spoluobyvate/ľka__n -->
     <e>
       <p>
         <l>ľk</l>
         <r>ľka<s n="n"/></r>
-      </p><!-- spoluobyvateľk/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6365,12 +6360,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of pom/lka__n -->
     <e>
       <p>
         <l>lk</l>
         <r>lka<s n="n"/></r>
-      </p><!-- pomlk/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6388,12 +6382,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of m/uka__n -->
     <e>
       <p>
         <l>uk</l>
         <r>uka<s n="n"/></r>
-      </p><!-- muk/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6411,12 +6404,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of reb/eka__n -->
     <e>
       <p>
         <l>ek</l>
         <r>eka<s n="n"/></r>
-      </p><!-- rebek/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6440,12 +6432,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of b/anka__n -->
     <e>
       <p>
         <l>ank</l>
         <r>anka<s n="n"/></r>
-      </p><!-- bank/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6463,12 +6454,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of lo/ďka__n -->
     <e>
       <p>
         <l>ďk</l>
         <r>ďka<s n="n"/></r>
-      </p><!-- loďk/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6486,12 +6476,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of st/oka__n -->
     <e>
       <p>
         <l>ok</l>
         <r>oka<s n="n"/></r>
-      </p><!-- stok/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6509,12 +6498,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of str/aka__n -->
     <e>
       <p>
         <l>ak</l>
         <r>aka<s n="n"/></r>
-      </p><!-- strak/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6532,12 +6520,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of pä/ťka__n -->
     <e>
       <p>
         <l>ťk</l>
         <r>ťka<s n="n"/></r>
-      </p><!-- päťk/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6555,12 +6542,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of v/ďaka__n -->
     <e>
       <p>
         <l>ďak</l>
         <r>ďaka<s n="n"/></r>
-      </p><!-- vďak/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6578,12 +6564,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of mot/yka__n -->
     <e>
       <p>
         <l>yk</l>
         <r>yka<s n="n"/></r>
-      </p><!-- motyk/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6601,12 +6586,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of datab/anka__n -->
     <e>
       <p>
         <l>ank</l>
         <r>anka<s n="n"/></r>
-      </p><!-- databank/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6624,7 +6608,6 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of rakij/a__n -->
     <e>
       <p>
         <l></l>
@@ -6647,12 +6630,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of liehov/ina__n -->
     <e>
       <p>
         <l>in</l>
         <r>ina<s n="n"/></r>
-      </p><!-- liehovin/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6670,12 +6652,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of preamb/ula__n -->
     <e>
       <p>
         <l>ul</l>
         <r>ula<s n="n"/></r>
-      </p><!-- preambul/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6693,12 +6674,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of k/ofa__n -->
     <e>
       <p>
         <l>of</l>
         <r>ofa<s n="n"/></r>
-      </p><!-- kof/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6722,12 +6702,11 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of g/uľa__n -->
     <e>
       <p>
         <l>u</l>
         <r>uľa<s n="n"/></r>
-      </p><!-- gu/ľa__BASEPL' was replaced -->
+      </p>
         <par n="by/ľa__BASEPL"/> 
     </e>
     </pardef>
@@ -6745,12 +6724,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of sál/a__n -->
     <e>
       <p>
         <l></l>
         <r>a<s n="n"/></r>
-      </p><!-- sál/a__BASEPL' was replaced -->
+      </p>
         <par n="súhr/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6777,12 +6755,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of zv/ada__n -->
     <e>
       <p>
         <l>ad</l>
         <r>ada<s n="n"/></r>
-      </p><!-- zvad/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6800,12 +6777,11 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of letk/yňa__n -->
     <e>
       <p>
         <l>y</l>
         <r>yňa<s n="n"/></r>
-      </p><!-- letky/ňa__BASEPL' was replaced -->
+      </p>
         <par n="sa/ne__BASEPL"/> 
     </e>
     </pardef>
@@ -6823,12 +6799,11 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of korč/uľa__n -->
     <e>
       <p>
         <l>u</l>
         <r>uľa<s n="n"/></r>
-      </p><!-- korču/ľa__BASEPL' was replaced -->
+      </p>
         <par n="by/ľa__BASEPL"/> 
     </e>
     </pardef>
@@ -6846,12 +6821,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of odm/ena__n -->
     <e>
       <p>
         <l>en</l>
         <r>ena<s n="n"/></r>
-      </p><!-- odmen/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6869,12 +6843,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of koť/uha__n -->
     <e>
       <p>
         <l>uh</l>
         <r>uha<s n="n"/></r>
-      </p><!-- koťuh/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6892,12 +6865,11 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of prášnic/a__n -->
     <e>
       <p>
         <l></l>
         <r>a<s n="n"/></r>
-      </p><!-- prášnic/a__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6915,12 +6887,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of dl/aha__n -->
     <e>
       <p>
         <l>ah</l>
         <r>aha<s n="n"/></r>
-      </p><!-- dlah/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6938,12 +6909,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of stabil/ita__n -->
     <e>
       <p>
         <l>it</l>
         <r>ita<s n="n"/></r>
-      </p><!-- stabilit/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6961,12 +6931,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of ol/iva__n -->
     <e>
       <p>
         <l>iv</l>
         <r>iva<s n="n"/></r>
-      </p><!-- oliv/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -6984,12 +6953,11 @@
       </p>
         <par n="kapuc/ňa__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of kapuc/ňa__n -->
     <e>
       <p>
         <l></l>
         <r>ňa<s n="n"/></r>
-      </p><!-- kapuc/ňa__BASEPL' was replaced -->
+      </p>
         <par n="sa/ne__BASEPL"/> 
     </e>
     </pardef>
@@ -7004,7 +6972,7 @@
       <p>
         <l>b</l>
         <r>ba<s n="n"/></r>
-      </p><!-- vyvýšenin/ka__PL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     <e>
@@ -7026,7 +6994,7 @@
       <p>
         <l>et</l>
         <r>eta<s n="n"/></r>
-      </p><!-- vyvýšenin/ka__PL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     <e>
@@ -7048,7 +7016,7 @@
       <p>
         <l></l>
         <r>a<s n="n"/></r>
-      </p><!-- vyvýšenin/ka__PL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     <e>
@@ -7070,7 +7038,7 @@
       <p>
         <l>and</l>
         <r>anda<s n="n"/></r>
-      </p><!-- vyvýšenin/ka__PL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     <e>
@@ -7092,7 +7060,7 @@
       <p>
         <l>or</l>
         <r>ora<s n="n"/></r>
-      </p><!-- vyvýšenin/ka__PL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     <e>
@@ -7114,7 +7082,7 @@
       <p>
         <l>um</l>
         <r>uma<s n="n"/></r>
-      </p><!-- vyvýšenin/ka__PL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     <e>
@@ -7136,7 +7104,7 @@
       <p>
         <l>ump</l>
         <r>umpa<s n="n"/></r>
-      </p><!-- vyvýšenin/ka__PL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     <e>
@@ -7247,12 +7215,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of lak/ota__n -->
     <e>
       <p>
         <l>ot</l>
         <r>ota<s n="n"/></r>
-      </p><!-- lakot/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -7356,12 +7323,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of bzdo/cha__n -->
     <e>
       <p>
         <l>ch</l>
         <r>cha<s n="n"/></r>
-      </p><!-- bzdoch/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -7379,12 +7345,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of sebaochr/ana__n -->
     <e>
       <p>
         <l>an</l>
         <r>ana<s n="n"/></r>
-      </p><!-- sebaochran/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -7402,12 +7367,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of j/achta__n -->
     <e>
       <p>
         <l>acht</l>
         <r>achta<s n="n"/></r>
-      </p><!-- jacht/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -7425,12 +7389,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of ž/aba__n -->
     <e>
       <p>
         <l>ab</l>
         <r>aba<s n="n"/></r>
-      </p><!-- žab/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -7448,12 +7411,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of Ľubosl/ava__n -->
     <e>
       <p>
         <l>av</l>
         <r>ava<s n="n"/></r>
-      </p><!-- Ľuboslav/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -7471,12 +7433,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of dev/ucha__n -->
     <e>
       <p>
         <l>uch</l>
         <r>ucha<s n="n"/></r>
-      </p><!-- devuch/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -7494,12 +7455,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of škv/rna__n -->
     <e>
       <p>
         <l>rn</l>
         <r>rna<s n="n"/></r>
-      </p><!-- škvrn/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -7645,12 +7605,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of /alpa__n -->
     <e>
       <p>
         <l>alp</l>
         <r>alpa<s n="n"/></r>
-      </p><!-- alp/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -7668,12 +7627,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of l/ata__n -->
     <e>
       <p>
         <l>at</l>
         <r>ata<s n="n"/></r>
-      </p><!-- lat/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -7691,12 +7649,11 @@
       </p>
         <par n="BASE__Eritrea"/> 
     </e>
-    <!-- Below is content of a subsequent definition of ide/a__n -->
     <e>
       <p>
         <l></l>
         <r>a<s n="n"/></r>
-      </p><!-- ide/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -7714,12 +7671,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of doh/oda__n -->
     <e>
       <p>
         <l>od</l>
         <r>oda<s n="n"/></r>
-      </p><!-- dohod/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -7737,7 +7693,6 @@
       </p>
         <par n="m/ama__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of m/ama__n -->
     <e>
       <p>
         <l>a</l>
@@ -7760,12 +7715,11 @@
       </p>
         <par n="drumb/ľa__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of drumb/ľa__n -->
     <e>
       <p>
         <l></l>
         <r>ľa<s n="n"/></r>
-      </p><!-- drumb/ľa__BASEPL' was replaced -->
+      </p>
         <par n="by/ľa__BASEPL"/> 
     </e>
     </pardef>
@@ -7783,12 +7737,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of šel/ma__n -->
     <e>
       <p>
         <l>m</l>
         <r>ma<s n="n"/></r>
-      </p><!-- šelm/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -7806,12 +7759,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of c/ysta__n -->
     <e>
       <p>
         <l>yst</l>
         <r>ysta<s n="n"/></r>
-      </p><!-- cyst/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -7829,12 +7781,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of kan/apa__n -->
     <e>
       <p>
         <l>ap</l>
         <r>apa<s n="n"/></r>
-      </p><!-- kanap/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -7852,12 +7803,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of alo/a__n -->
     <e>
       <p>
         <l></l>
         <r>a<s n="n"/></r>
-      </p><!-- alo/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -7875,12 +7825,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of rez/eda__n -->
     <e>
       <p>
         <l>ed</l>
         <r>eda<s n="n"/></r>
-      </p><!-- rezed/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -7898,12 +7847,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of ostr/oha__n -->
     <e>
       <p>
         <l>oh</l>
         <r>oha<s n="n"/></r>
-      </p><!-- ostroh/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -7921,12 +7869,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of lich/va__n -->
     <e>
       <p>
         <l>v</l>
         <r>va<s n="n"/></r>
-      </p><!-- lichv/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8030,7 +7977,6 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of rozopr/a__n -->
     <e>
       <p>
         <l></l>
@@ -8053,12 +7999,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of man/na__n -->
     <e>
       <p>
         <l>n</l>
         <r>na<s n="n"/></r>
-      </p><!-- mann/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8076,12 +8021,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of ch/yba__n -->
     <e>
       <p>
         <l>yb</l>
         <r>yba<s n="n"/></r>
-      </p><!-- chyb/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8099,12 +8043,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of podag/ra__n -->
     <e>
       <p>
         <l>r</l>
         <r>ra<s n="n"/></r>
-      </p><!-- podagr/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8122,12 +8065,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of š/ľapa__n -->
     <e>
       <p>
         <l>ľap</l>
         <r>ľapa<s n="n"/></r>
-      </p><!-- šľap/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8145,12 +8087,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of dlž/oba__n -->
     <e>
       <p>
         <l>ob</l>
         <r>oba<s n="n"/></r>
-      </p><!-- dlžob/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8168,12 +8109,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of sínuso/ida__n -->
     <e>
       <p>
         <l>id</l>
         <r>ida<s n="n"/></r>
-      </p><!-- sínusoid/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8191,12 +8131,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of s/alva__n -->
     <e>
       <p>
         <l>alv</l>
         <r>alva<s n="n"/></r>
-      </p><!-- salv/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8214,12 +8153,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of pr/avda__n -->
     <e>
       <p>
         <l>avd</l>
         <r>avda<s n="n"/></r>
-      </p><!-- pravd/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8237,12 +8175,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of č/rta__n -->
     <e>
       <p>
         <l>rt</l>
         <r>rta<s n="n"/></r>
-      </p><!-- črt/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8260,12 +8197,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of eurošk/ola__n -->
     <e>
       <p>
         <l>ol</l>
         <r>ola<s n="n"/></r>
-      </p><!-- euroškol/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8283,12 +8219,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of leg/enda__n -->
     <e>
       <p>
         <l>end</l>
         <r>enda<s n="n"/></r>
-      </p><!-- legend/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8306,12 +8241,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of kl/ipsa__n -->
     <e>
       <p>
         <l>ips</l>
         <r>ipsa<s n="n"/></r>
-      </p><!-- klips/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8329,12 +8263,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of m/asa__n -->
     <e>
       <p>
         <l>as</l>
         <r>asa<s n="n"/></r>
-      </p><!-- mas/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8352,12 +8285,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of dišp/uta__n -->
     <e>
       <p>
         <l>ut</l>
         <r>uta<s n="n"/></r>
-      </p><!-- dišput/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8375,12 +8307,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of ma/ľba__n -->
     <e>
       <p>
         <l>ľb</l>
         <r>ľba<s n="n"/></r>
-      </p><!-- maľb/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8398,12 +8329,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of sek/era__n -->
     <e>
       <p>
         <l>er</l>
         <r>era<s n="n"/></r>
-      </p><!-- seker/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8421,12 +8351,11 @@
       </p>
         <par n="kapuc/ňa__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of štôl/ňa__n -->
     <e>
       <p>
         <l></l>
         <r>ňa<s n="n"/></r>
-      </p><!-- štôl/ňa__BASEPL' was replaced -->
+      </p>
         <par n="chlebár/eň__BASEPL"/> 
     </e>
     </pardef>
@@ -8444,12 +8373,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of pot/opa__n -->
     <e>
       <p>
         <l>op</l>
         <r>opa<s n="n"/></r>
-      </p><!-- potop/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8467,12 +8395,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of j/unta__n -->
     <e>
       <p>
         <l>unt</l>
         <r>unta<s n="n"/></r>
-      </p><!-- junt/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8490,12 +8417,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of gar/azda__n -->
     <e>
       <p>
         <l>azd</l>
         <r>azda<s n="n"/></r>
-      </p><!-- garazd/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8519,7 +8445,6 @@
       </p>
         <par n="drumb/ľa__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of rachét/ľa__n -->
     <e>
       <p>
         <l></l>
@@ -8546,7 +8471,7 @@
       <p>
         <l>aun</l>
         <r>auna<s n="n"/></r>
-      </p><!-- vyvýšenin/ka__PL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8568,7 +8493,7 @@
       <p>
         <l></l>
         <r>a<s n="n"/></r>
-      </p><!-- mostn/ica__PL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8590,7 +8515,7 @@
       <p>
         <l>l</l>
         <r>la<s n="n"/></r>
-      </p><!-- vyvýšenin/ka__PL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8612,7 +8537,7 @@
       <p>
         <l>il</l>
         <r></r>
-      </p><!-- vyvýšenin/ka__PL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8648,12 +8573,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of str/uma__n -->
     <e>
       <p>
         <l>um</l>
         <r>uma<s n="n"/></r>
-      </p><!-- strum/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8671,12 +8595,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of /ťava__n -->
     <e>
       <p>
         <l>ťav</l>
         <r>ťava<s n="n"/></r>
-      </p><!-- ťav/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8694,12 +8617,11 @@
       </p>
         <par n="drumb/ľa__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of polokoš/eľa__n -->
     <e>
       <p>
         <l>e</l>
         <r>eľa<s n="n"/></r>
-      </p><!-- polokoše/ľa__BASEPL' was replaced -->
+      </p>
         <par n="by/ľa__BASEPL"/> 
     </e>
     </pardef>
@@ -8717,12 +8639,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of pen/alta__n -->
     <e>
       <p>
         <l>alt</l>
         <r>alta<s n="n"/></r>
-      </p><!-- penalt/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8740,12 +8661,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of č/apta__n -->
     <e>
       <p>
         <l>apt</l>
         <r>apta<s n="n"/></r>
-      </p><!-- čapt/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8769,12 +8689,11 @@
       </p>
         <par n="kapuc/ňa__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of viš/ňa__n -->
     <e>
       <p>
         <l></l>
         <r>ňa<s n="n"/></r>
-      </p><!-- viš/ňa__BASEPL' was replaced -->
+      </p>
         <par n="sa/ne__BASEPL"/> 
     </e>
     </pardef>
@@ -8920,12 +8839,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of sk/ala__n -->
     <e>
       <p>
         <l>al</l>
         <r>ala<s n="n"/></r>
-      </p><!-- skal/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8943,12 +8861,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of t/eta__n -->
     <e>
       <p>
         <l>et</l>
         <r>eta<s n="n"/></r>
-      </p><!-- tet/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -8966,12 +8883,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of extral/iga__n -->
     <e>
       <p>
         <l>ig</l>
         <r>iga<s n="n"/></r>
-      </p><!-- extralig/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9117,12 +9033,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of k/osa__n -->
     <e>
       <p>
         <l>os</l>
         <r>osa<s n="n"/></r>
-      </p><!-- kos/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9140,12 +9055,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of b/aba__n -->
     <e>
       <p>
         <l>ab</l>
         <r>aba<s n="n"/></r>
-      </p><!-- bab/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9163,12 +9077,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of f/alda__n -->
     <e>
       <p>
         <l>ald</l>
         <r>alda<s n="n"/></r>
-      </p><!-- fald/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9192,12 +9105,11 @@
       </p>
         <par n="drumb/ľa__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of ríbez/ľa__n -->
     <e>
       <p>
         <l></l>
         <r>ľa<s n="n"/></r>
-      </p><!-- ríbez/ľa__BASEPL' was replaced -->
+      </p>
         <par n="by/ľa__BASEPL"/> 
     </e>
     </pardef>
@@ -9215,12 +9127,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of nezd/oba__n -->
     <e>
       <p>
         <l>ob</l>
         <r>oba<s n="n"/></r>
-      </p><!-- nezdob/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9238,12 +9149,11 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of pap/uča__n -->
     <e>
       <p>
         <l>uč</l>
         <r>uča<s n="n"/></r>
-      </p><!-- papuč/a__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9267,12 +9177,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of ih/la__n -->
     <e>
       <p>
         <l>l</l>
         <r>la<s n="n"/></r>
-      </p><!-- ihl/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9299,12 +9208,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of str/unga__n -->
     <e>
       <p>
         <l>ung</l>
         <r>unga<s n="n"/></r>
-      </p><!-- strung/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9328,12 +9236,11 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of oskor/uša__n -->
     <e>
       <p>
         <l>uš</l>
         <r>uša<s n="n"/></r>
-      </p><!-- oskoruš/a__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9351,12 +9258,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of apokal/ypsa__n -->
     <e>
       <p>
         <l>yps</l>
         <r>ypsa<s n="n"/></r>
-      </p><!-- apokalyps/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9460,12 +9366,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of pask/uda__n -->
     <e>
       <p>
         <l>ud</l>
         <r>uda<s n="n"/></r>
-      </p><!-- paskud/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9483,12 +9388,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of m/ela__n -->
     <e>
       <p>
         <l>el</l>
         <r>ela<s n="n"/></r>
-      </p><!-- mel/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9506,12 +9410,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of j/ura__n -->
     <e>
       <p>
         <l>ur</l>
         <r>ura<s n="n"/></r>
-      </p><!-- jur/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9529,12 +9432,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of /ťapa__n -->
     <e>
       <p>
         <l>ťap</l>
         <r>ťapa<s n="n"/></r>
-      </p><!-- ťap/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9558,12 +9460,11 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of k/aša__n -->
     <e>
       <p>
         <l>aš</l>
         <r>aša<s n="n"/></r>
-      </p><!-- kaš/a__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9581,12 +9482,11 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of Dáš/a__n -->
     <e>
       <p>
         <l></l>
         <r>a<s n="n"/></r>
-      </p><!-- Dáš/a__BASEPL' was replaced -->
+      </p>
         <par n="rakij/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9696,12 +9596,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of om/asta__n -->
     <e>
       <p>
         <l>ast</l>
         <r>asta<s n="n"/></r>
-      </p><!-- omast/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9763,12 +9662,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of kr/ivda__n -->
     <e>
       <p>
         <l>ivd</l>
         <r>ivda<s n="n"/></r>
-      </p><!-- krivd/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9786,12 +9684,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of prep/ona__n -->
     <e>
       <p>
         <l>on</l>
         <r>ona<s n="n"/></r>
-      </p><!-- prepon/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9809,12 +9706,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of kob/yla__n -->
     <e>
       <p>
         <l>yl</l>
         <r>yla<s n="n"/></r>
-      </p><!-- kobyl/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9832,12 +9728,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of avantg/arda__n -->
     <e>
       <p>
         <l>ard</l>
         <r>arda<s n="n"/></r>
-      </p><!-- avantgard/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9855,12 +9750,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of samolieč/ba__n -->
     <e>
       <p>
         <l>b</l>
         <r>ba<s n="n"/></r>
-      </p><!-- samoliečb/a__BASEPL' was replaced -->
+      </p>
         <par n="súhr/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9878,12 +9772,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of zh/uba__n -->
     <e>
       <p>
         <l>ub</l>
         <r>uba<s n="n"/></r>
-      </p><!-- zhub/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9907,7 +9800,6 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of g/uča__n -->
     <e>
       <p>
         <l>uč</l>
@@ -9930,12 +9822,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of nepl/echa__n -->
     <e>
       <p>
         <l>ech</l>
         <r>echa<s n="n"/></r>
-      </p><!-- neplech/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9953,12 +9844,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of g/amba__n -->
     <e>
       <p>
         <l>amb</l>
         <r>amba<s n="n"/></r>
-      </p><!-- gamb/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9976,12 +9866,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of kr/ysa__n -->
     <e>
       <p>
         <l>ys</l>
         <r>ysa<s n="n"/></r>
-      </p><!-- krys/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -9999,12 +9888,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of cer/uza__n -->
     <e>
       <p>
         <l>uz</l>
         <r>uza<s n="n"/></r>
-      </p><!-- ceruz/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10022,12 +9910,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of kap/ara__n -->
     <e>
       <p>
         <l>ar</l>
         <r>ara<s n="n"/></r>
-      </p><!-- kapar/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10131,12 +10018,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of pl/eva__n -->
     <e>
       <p>
         <l>ev</l>
         <r>eva<s n="n"/></r>
-      </p><!-- plev/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10240,12 +10126,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of v/lha__n -->
     <e>
       <p>
         <l>lh</l>
         <r>lha<s n="n"/></r>
-      </p><!-- vlh/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10349,12 +10234,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of c/esta__n -->
     <e>
       <p>
         <l>est</l>
         <r>esta<s n="n"/></r>
-      </p><!-- cest/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10372,12 +10256,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of l/una__n -->
     <e>
       <p>
         <l>un</l>
         <r>una<s n="n"/></r>
-      </p><!-- lun/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10395,12 +10278,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of p/izza__n -->
     <e>
       <p>
         <l>izz</l>
         <r>izza<s n="n"/></r>
-      </p><!-- pizz/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10424,7 +10306,6 @@
       </p>
         <par n="reg/ula__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of reg/ula__n -->
     <e>
       <p>
         <l>ul</l>
@@ -10447,12 +10328,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of se/ansa__n -->
     <e>
       <p>
         <l>ans</l>
         <r>ansa<s n="n"/></r>
-      </p><!-- seans/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10470,12 +10350,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of j/urta__n -->
     <e>
       <p>
         <l>urt</l>
         <r>urta<s n="n"/></r>
-      </p><!-- jurt/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10493,12 +10372,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of mikrov/lna__n -->
     <e>
       <p>
         <l>ln</l>
         <r>lna<s n="n"/></r>
-      </p><!-- mikrovln/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10522,12 +10400,11 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of h/rča__n -->
     <e>
       <p>
         <l>rč</l>
         <r>rča<s n="n"/></r>
-      </p><!-- hrč/a__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10545,12 +10422,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of sk/yva__n -->
     <e>
       <p>
         <l>yv</l>
         <r>yva<s n="n"/></r>
-      </p><!-- skyv/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10568,12 +10444,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of par/afa__n -->
     <e>
       <p>
         <l>af</l>
         <r>afa<s n="n"/></r>
-      </p><!-- paraf/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10591,12 +10466,11 @@
       </p>
         <par n="kapuc/ňa__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of vládky/ňa__n -->
     <e>
       <p>
         <l></l>
         <r>ňa<s n="n"/></r>
-      </p><!-- vládky/ňa__BASEPL' was replaced -->
+      </p>
         <par n="sa/ne__BASEPL"/> 
     </e>
     </pardef>
@@ -10614,12 +10488,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of rovnoš/ata__n -->
     <e>
       <p>
         <l>at</l>
         <r>ata<s n="n"/></r>
-      </p><!-- rovnošat/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10637,12 +10510,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of l/ajda__n -->
     <e>
       <p>
         <l>ajd</l>
         <r>ajda<s n="n"/></r>
-      </p><!-- lajd/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10660,12 +10532,11 @@
       </p>
         <par n="drumb/ľa__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of blahovô/ľa__n -->
     <e>
       <p>
         <l></l>
         <r>ľa<s n="n"/></r>
-      </p><!-- blahovô/ľa__BASEPL' was replaced -->
+      </p>
         <par n="dia/ľ__BASEPL"/> 
     </e>
     </pardef>
@@ -10683,12 +10554,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of g/ama__n -->
     <e>
       <p>
         <l>am</l>
         <r>ama<s n="n"/></r>
-      </p><!-- gam/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10706,12 +10576,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of ž/ľaza__n -->
     <e>
       <p>
         <l>ľaz</l>
         <r>ľaza<s n="n"/></r>
-      </p><!-- žľaz/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10729,12 +10598,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of b/rva__n -->
     <e>
       <p>
         <l>rv</l>
         <r>rva<s n="n"/></r>
-      </p><!-- brv/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10752,12 +10620,11 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of f/ľaša__n -->
     <e>
       <p>
         <l>ľaš</l>
         <r>ľaša<s n="n"/></r>
-      </p><!-- fľaš/a__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10775,12 +10642,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of lang/usta__n -->
     <e>
       <p>
         <l>ust</l>
         <r>usta<s n="n"/></r>
-      </p><!-- langust/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10926,12 +10792,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of kol/iba__n -->
     <e>
       <p>
         <l>ib</l>
         <r>iba<s n="n"/></r>
-      </p><!-- kolib/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10949,12 +10814,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of kr/yha__n -->
     <e>
       <p>
         <l>yh</l>
         <r>yha<s n="n"/></r>
-      </p><!-- kryh/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10972,12 +10836,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of sf/inga__n -->
     <e>
       <p>
         <l>ing</l>
         <r>inga<s n="n"/></r>
-      </p><!-- sfing/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -10995,12 +10858,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of r/ampa__n -->
     <e>
       <p>
         <l>amp</l>
         <r>ampa<s n="n"/></r>
-      </p><!-- ramp/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11018,12 +10880,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of z/ľava__n -->
     <e>
       <p>
         <l>ľav</l>
         <r>ľava<s n="n"/></r>
-      </p><!-- zľav/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11041,12 +10902,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of adr/esa__n -->
     <e>
       <p>
         <l>es</l>
         <r>esa<s n="n"/></r>
-      </p><!-- adres/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11156,7 +11016,6 @@
       </p>
         <par n="drumb/ľa__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of b/yľa__n -->
     <e>
       <p>
         <l>y</l>
@@ -11179,12 +11038,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of ž/upa__n -->
     <e>
       <p>
         <l>up</l>
         <r>upa<s n="n"/></r>
-      </p><!-- žup/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11202,12 +11060,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of sp/arta__n -->
     <e>
       <p>
         <l>art</l>
         <r>arta<s n="n"/></r>
-      </p><!-- spart/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11313,12 +11170,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of b/ašta__n -->
     <e>
       <p>
         <l>ašt</l>
         <r>ašta<s n="n"/></r>
-      </p><!-- bašt/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11336,12 +11192,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of kul/isa__n -->
     <e>
       <p>
         <l>is</l>
         <r>isa<s n="n"/></r>
-      </p><!-- kulis/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11359,12 +11214,11 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of ov/ca__n -->
     <e>
       <p>
         <l>c</l>
         <r>ca<s n="n"/></r>
-      </p><!-- ovc/a__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11382,12 +11236,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of d/oga__n -->
     <e>
       <p>
         <l>og</l>
         <r>oga<s n="n"/></r>
-      </p><!-- dog/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11405,12 +11258,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of pl/enta__n -->
     <e>
       <p>
         <l>ent</l>
         <r>enta<s n="n"/></r>
-      </p><!-- plent/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11556,12 +11408,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of sept/ima__n -->
     <e>
       <p>
         <l>im</l>
         <r>ima<s n="n"/></r>
-      </p><!-- septim/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11579,12 +11430,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of m/yrta__n -->
     <e>
       <p>
         <l>yrt</l>
         <r>yrta<s n="n"/></r>
-      </p><!-- myrt/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11602,12 +11452,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of p/octa__n -->
     <e>
       <p>
         <l>oct</l>
         <r>octa<s n="n"/></r>
-      </p><!-- poct/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11625,12 +11474,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of fl/auta__n -->
     <e>
       <p>
         <l>aut</l>
         <r>auta<s n="n"/></r>
-      </p><!-- flaut/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11648,12 +11496,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of m/äta__n -->
     <e>
       <p>
         <l>ät</l>
         <r>äta<s n="n"/></r>
-      </p><!-- mät/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11671,12 +11518,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of f/ajta__n -->
     <e>
       <p>
         <l>ajt</l>
         <r>ajta<s n="n"/></r>
-      </p><!-- fajt/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11694,12 +11540,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of pr/ilba__n -->
     <e>
       <p>
         <l>ilb</l>
         <r>ilba<s n="n"/></r>
-      </p><!-- prilb/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11717,12 +11562,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of čr/emcha__n -->
     <e>
       <p>
         <l>emch</l>
         <r>emcha<s n="n"/></r>
-      </p><!-- čremch/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11740,12 +11584,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of kot/rba__n -->
     <e>
       <p>
         <l>rb</l>
         <r>rba<s n="n"/></r>
-      </p><!-- kotrb/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11769,12 +11612,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of pan/va__n -->
     <e>
       <p>
         <l>v</l>
         <r>va<s n="n"/></r>
-      </p><!-- panv/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11792,12 +11634,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of bratovr/ažda__n -->
     <e>
       <p>
         <l>ažd</l>
         <r>ažda<s n="n"/></r>
-      </p><!-- bratovražd/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11815,12 +11656,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of po/ľana__n -->
     <e>
       <p>
         <l>ľan</l>
         <r>ľana<s n="n"/></r>
-      </p><!-- poľan/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11844,12 +11684,11 @@
       </p>
         <par n="kapuc/ňa__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of sv/iňa__n -->
     <e>
       <p>
         <l>i</l>
         <r>iňa<s n="n"/></r>
-      </p><!-- svi/ňa__BASEPL' was replaced -->
+      </p>
         <par n="sa/ne__BASEPL"/> 
     </e>
     </pardef>
@@ -11867,12 +11706,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of s/ocha__n -->
     <e>
       <p>
         <l>och</l>
         <r>ocha<s n="n"/></r>
-      </p><!-- soch/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11890,12 +11728,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of kr/ypta__n -->
     <e>
       <p>
         <l>ypt</l>
         <r>ypta<s n="n"/></r>
-      </p><!-- krypt/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11913,12 +11750,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of pačm/aga__n -->
     <e>
       <p>
         <l>ag</l>
         <r>aga<s n="n"/></r>
-      </p><!-- pačmag/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11936,12 +11772,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of b/urza__n -->
     <e>
       <p>
         <l>urz</l>
         <r>urza<s n="n"/></r>
-      </p><!-- burz/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11965,12 +11800,11 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of /čaša__n -->
     <e>
       <p>
         <l>čaš</l>
         <r>čaša<s n="n"/></r>
-      </p><!-- čaš/a__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -11994,7 +11828,6 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of súh/ra__n -->
     <e>
       <p>
         <l>r</l>
@@ -12145,12 +11978,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of š/anta__n -->
     <e>
       <p>
         <l>ant</l>
         <r>anta<s n="n"/></r>
-      </p><!-- šant/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12168,12 +12000,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of p/usa__n -->
     <e>
       <p>
         <l>us</l>
         <r>usa<s n="n"/></r>
-      </p><!-- pus/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12191,12 +12022,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of par/ipa__n -->
     <e>
       <p>
         <l>ip</l>
         <r>ipa<s n="n"/></r>
-      </p><!-- parip/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12214,12 +12044,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of konop/a__n -->
     <e>
       <p>
         <l></l>
         <r>a<s n="n"/></r>
-      </p><!-- konop/a__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12237,7 +12066,6 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of žb/rnda__n -->
     <e>
       <p>
         <l>rnd</l>
@@ -12346,12 +12174,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of m/zda__n -->
     <e>
       <p>
         <l>zd</l>
         <r>zda<s n="n"/></r>
-      </p><!-- mzd/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12369,12 +12196,11 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of on/uca__n -->
     <e>
       <p>
         <l>uc</l>
         <r>uca<s n="n"/></r>
-      </p><!-- onuc/a__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12398,12 +12224,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of buch/ta__n -->
     <e>
       <p>
         <l>t</l>
         <r>ta<s n="n"/></r>
-      </p><!-- bucht/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12421,12 +12246,11 @@
       </p>
         <par n="kapuc/ňa__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of rí/ňa__n -->
     <e>
       <p>
         <l></l>
         <r>ňa<s n="n"/></r>
-      </p><!-- rí/ňa__BASEPL' was replaced -->
+      </p>
         <par n="chlebár/eň__BASEPL"/> 
     </e>
     </pardef>
@@ -12444,12 +12268,11 @@
       </p>
         <par n="drumb/ľa__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of mí/ľa__n -->
     <e>
       <p>
         <l></l>
         <r>ľa<s n="n"/></r>
-      </p><!-- mí/ľa__BASEPL' was replaced -->
+      </p>
         <par n="dia/ľ__BASEPL"/> 
     </e>
     </pardef>
@@ -12467,12 +12290,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of sp/rcha__n -->
     <e>
       <p>
         <l>rch</l>
         <r>rcha<s n="n"/></r>
-      </p><!-- sprch/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12490,12 +12312,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of š/ľacha__n -->
     <e>
       <p>
         <l>ľach</l>
         <r>ľacha<s n="n"/></r>
-      </p><!-- šľach/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12597,12 +12418,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of k/ura__n -->
     <e>
       <p>
         <l>ur</l>
         <r>ura<s n="n"/></r>
-      </p><!-- kur/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12620,12 +12440,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of šk/umpa__n -->
     <e>
       <p>
         <l>ump</l>
         <r>umpa<s n="n"/></r>
-      </p><!-- škump/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12643,12 +12462,11 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of c/ica__n -->
     <e>
       <p>
         <l>ic</l>
         <r>ica<s n="n"/></r>
-      </p><!-- cic/a__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12666,12 +12484,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of k/oza__n -->
     <e>
       <p>
         <l>oz</l>
         <r>oza<s n="n"/></r>
-      </p><!-- koz/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12689,12 +12506,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of frajer/ina__n -->
     <e>
       <p>
         <l>in</l>
         <r>ina<s n="n"/></r>
-      </p><!-- frajerin/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12718,12 +12534,11 @@
       </p>
         <par n="drumb/ľa__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of m/rľa__n -->
     <e>
       <p>
         <l>r</l>
         <r>rľa<s n="n"/></r>
-      </p><!-- mr/ľa__BASEPL' was replaced -->
+      </p>
         <par n="by/ľa__BASEPL"/> 
     </e>
     </pardef>
@@ -12741,12 +12556,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of c/elta__n -->
     <e>
       <p>
         <l>elt</l>
         <r>elta<s n="n"/></r>
-      </p><!-- celt/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12764,12 +12578,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of z/ora__n -->
     <e>
       <p>
         <l>or</l>
         <r>ora<s n="n"/></r>
-      </p><!-- zor/a__BASEPL' was replaced -->
+      </p>
         <par n="kader__BASEPL"/> 
     </e>
     </pardef>
@@ -12787,12 +12600,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of s/lza__n -->
     <e>
       <p>
         <l>lz</l>
         <r>lza<s n="n"/></r>
-      </p><!-- slz/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12810,12 +12622,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of almuž/na__n -->
     <e>
       <p>
         <l>n</l>
         <r>na<s n="n"/></r>
-      </p><!-- almužn/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12833,12 +12644,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of pahr/eba__n -->
     <e>
       <p>
         <l>eb</l>
         <r>eba<s n="n"/></r>
-      </p><!-- pahreb/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12856,12 +12666,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of bu/ľva__n -->
     <e>
       <p>
         <l>ľv</l>
         <r>ľva<s n="n"/></r>
-      </p><!-- buľv/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12879,12 +12688,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of čv/arga__n -->
     <e>
       <p>
         <l>arg</l>
         <r>arga<s n="n"/></r>
-      </p><!-- čvarg/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12902,12 +12710,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of ch/abzda__n -->
     <e>
       <p>
         <l>abzd</l>
         <r>abzda<s n="n"/></r>
-      </p><!-- chabzd/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12925,12 +12732,11 @@
       </p>
         <par n="drumb/ľa__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of fak/ľa__n -->
     <e>
       <p>
         <l></l>
         <r>ľa<s n="n"/></r>
-      </p><!-- fak/ľa__BASEPL' was replaced -->
+      </p>
         <par n="by/ľa__BASEPL"/> 
     </e>
     </pardef>
@@ -12948,12 +12754,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of rak/yta__n -->
     <e>
       <p>
         <l>yt</l>
         <r>yta<s n="n"/></r>
-      </p><!-- rakyt/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12971,12 +12776,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of šr/auba__n -->
     <e>
       <p>
         <l>aub</l>
         <r>auba<s n="n"/></r>
-      </p><!-- šraub/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -12994,12 +12798,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of h/anba__n -->
     <e>
       <p>
         <l>anb</l>
         <r>anba<s n="n"/></r>
-      </p><!-- hanb/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13017,12 +12820,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of h/orda__n -->
     <e>
       <p>
         <l>ord</l>
         <r>orda<s n="n"/></r>
-      </p><!-- hord/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13040,12 +12842,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of šl/ichta__n -->
     <e>
       <p>
         <l>icht</l>
         <r>ichta<s n="n"/></r>
-      </p><!-- šlicht/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13063,12 +12864,11 @@
       </p>
         <par n="kaps/ula__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of kaps/ula__n -->
     <e>
       <p>
         <l>ul</l>
         <r>ula<s n="n"/></r>
-      </p><!-- kapsul/a__BASEPL' was replaced -->
+      </p>
         <par n="regul/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13086,12 +12886,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of tar/ifa__n -->
     <e>
       <p>
         <l>if</l>
         <r>ifa<s n="n"/></r>
-      </p><!-- tarif/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13115,12 +12914,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of p/era__n -->
     <e>
       <p>
         <l>er</l>
         <r>era<s n="n"/></r>
-      </p><!-- per/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13144,12 +12942,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of sest/ra__n -->
     <e>
       <p>
         <l>r</l>
         <r>ra<s n="n"/></r>
-      </p><!-- sestr/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13167,12 +12964,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of t/axa__n -->
     <e>
       <p>
         <l>ax</l>
         <r>axa<s n="n"/></r>
-      </p><!-- tax/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13190,12 +12986,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of r/epa__n -->
     <e>
       <p>
         <l>ep</l>
         <r>epa<s n="n"/></r>
-      </p><!-- rep/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13219,12 +13014,11 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of p/iča__n -->
     <e>
       <p>
         <l>ič</l>
         <r>iča<s n="n"/></r>
-      </p><!-- pič/a__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13242,12 +13036,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of n/afta__n -->
     <e>
       <p>
         <l>aft</l>
         <r>afta<s n="n"/></r>
-      </p><!-- naft/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13265,12 +13058,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of f/inta__n -->
     <e>
       <p>
         <l>int</l>
         <r>inta<s n="n"/></r>
-      </p><!-- fint/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13294,12 +13086,11 @@
       </p>
         <par n="drumb/ľa__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of hom/oľa__n -->
     <e>
       <p>
         <l>o</l>
         <r>oľa<s n="n"/></r>
-      </p><!-- homo/ľa__BASEPL' was replaced -->
+      </p>
         <par n="by/ľa__BASEPL"/> 
     </e>
     </pardef>
@@ -13361,12 +13152,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of č/ara__n -->
     <e>
       <p>
         <l>ar</l>
         <r>ara<s n="n"/></r>
-      </p><!-- čar/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13384,12 +13174,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of sek/unda__n -->
     <e>
       <p>
         <l>und</l>
         <r>unda<s n="n"/></r>
-      </p><!-- sekund/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13407,12 +13196,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of v/ersta__n -->
     <e>
       <p>
         <l>erst</l>
         <r>ersta<s n="n"/></r>
-      </p><!-- verst/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13445,12 +13233,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of výz/va__n -->
     <e>
       <p>
         <l>v</l>
         <r>va<s n="n"/></r>
-      </p><!-- výzv/a__BASEPL' was replaced -->
+      </p>
         <par n="súhr/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13468,12 +13255,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of t/ajga__n -->
     <e>
       <p>
         <l>ajg</l>
         <r>ajga<s n="n"/></r>
-      </p><!-- tajg/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13491,12 +13277,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of k/ľampa__n -->
     <e>
       <p>
         <l>ľamp</l>
         <r>ľampa<s n="n"/></r>
-      </p><!-- kľamp/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13514,12 +13299,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of l/opta__n -->
     <e>
       <p>
         <l>opt</l>
         <r>opta<s n="n"/></r>
-      </p><!-- lopt/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13621,12 +13405,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of druž/ba__n -->
     <e>
       <p>
         <l>b</l>
         <r>ba<s n="n"/></r>
-      </p><!-- družb/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13644,12 +13427,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of k/auza__n -->
     <e>
       <p>
         <l>auz</l>
         <r>auza<s n="n"/></r>
-      </p><!-- kauz/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13667,12 +13449,11 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of pap/rča__n -->
     <e>
       <p>
         <l>rč</l>
         <r>rča<s n="n"/></r>
-      </p><!-- paprč/a__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13690,12 +13471,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of sod/oma__n -->
     <e>
       <p>
         <l>om</l>
         <r>oma<s n="n"/></r>
-      </p><!-- sodom/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13713,12 +13493,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of h/arfa__n -->
     <e>
       <p>
         <l>arf</l>
         <r>arfa<s n="n"/></r>
-      </p><!-- harf/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13736,12 +13515,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of H/ilda__n -->
     <e>
       <p>
         <l>ild</l>
         <r>ilda<s n="n"/></r>
-      </p><!-- Hild/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13759,12 +13537,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of n/eha__n -->
     <e>
       <p>
         <l>eh</l>
         <r>eha<s n="n"/></r>
-      </p><!-- neh/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13782,12 +13559,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of v/yza__n -->
     <e>
       <p>
         <l>yz</l>
         <r>yza<s n="n"/></r>
-      </p><!-- vyz/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13805,12 +13581,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of k/efa__n -->
     <e>
       <p>
         <l>ef</l>
         <r>efa<s n="n"/></r>
-      </p><!-- kef/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13828,12 +13603,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of l/ymfa__n -->
     <e>
       <p>
         <l>ymf</l>
         <r>ymfa<s n="n"/></r>
-      </p><!-- lymf/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13851,12 +13625,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of L/aura__n -->
     <e>
       <p>
         <l>aur</l>
         <r>aura<s n="n"/></r>
-      </p><!-- Laur/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13874,12 +13647,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of b/rzda__n -->
     <e>
       <p>
         <l>rzd</l>
         <r>rzda<s n="n"/></r>
-      </p><!-- brzd/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13941,12 +13713,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of l/imba__n -->
     <e>
       <p>
         <l>imb</l>
         <r>imba<s n="n"/></r>
-      </p><!-- limb/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -13964,12 +13735,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of r/umba__n -->
     <e>
       <p>
         <l>umb</l>
         <r>umba<s n="n"/></r>
-      </p><!-- rumb/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14031,12 +13801,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of j/uchta__n -->
     <e>
       <p>
         <l>ucht</l>
         <r>uchta<s n="n"/></r>
-      </p><!-- jucht/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14054,12 +13823,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of oč/ista__n -->
     <e>
       <p>
         <l>ist</l>
         <r>ista<s n="n"/></r>
-      </p><!-- očist/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14077,12 +13845,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of b/aza__n -->
     <e>
       <p>
         <l>az</l>
         <r>aza<s n="n"/></r>
-      </p><!-- baz/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14100,12 +13867,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of harab/urda__n -->
     <e>
       <p>
         <l>urd</l>
         <r>urda<s n="n"/></r>
-      </p><!-- haraburd/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14129,12 +13895,11 @@
       </p>
         <par n="reg/ula__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of rol/a__n -->
     <e>
       <p>
         <l></l>
         <r>a<s n="n"/></r>
-      </p><!-- rol/a__BASEPL' was replaced -->
+      </p>
         <par n="regul/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14152,12 +13917,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of /Ida__n -->
     <e>
       <p>
         <l>Id</l>
         <r>Ida<s n="n"/></r>
-      </p><!-- Id/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14175,12 +13939,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of sexb/omba__n -->
     <e>
       <p>
         <l>omb</l>
         <r>omba<s n="n"/></r>
-      </p><!-- sexbomb/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14207,12 +13970,11 @@
       </p>
         <par n="kapuc/ňa__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of skr/iňa__n -->
     <e>
       <p>
         <l>i</l>
         <r>iňa<s n="n"/></r>
-      </p><!-- skri/ňa__BASEPL' was replaced -->
+      </p>
         <par n="sa/ne__BASEPL"/> 
     </e>
     </pardef>
@@ -14230,12 +13992,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of L/inda__n -->
     <e>
       <p>
         <l>ind</l>
         <r>inda<s n="n"/></r>
-      </p><!-- Lind/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14253,12 +14014,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of jahň/ada__n -->
     <e>
       <p>
         <l>ad</l>
         <r>ada<s n="n"/></r>
-      </p><!-- jahňad/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14276,12 +14036,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of pap/acha__n -->
     <e>
       <p>
         <l>ach</l>
         <r>acha<s n="n"/></r>
-      </p><!-- papach/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14299,12 +14058,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of b/lcha__n -->
     <e>
       <p>
         <l>lch</l>
         <r>lcha<s n="n"/></r>
-      </p><!-- blch/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14322,16 +14080,13 @@
       </p>
         <par n="ka/ďa__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of ka/ďa__n -->
     <e>
       <p>
         <l></l>
         <r>ďa<s n="n"/></r>
-      </p><!-- ka/ďa__BASEPL' was replaced -->
+      </p>
         <par n="mla/ď__BASEPL"/> 
     </e>
-    </pardef>
-    <pardef n="Eritre/a__n">
     </pardef>
     <pardef n="krst/ňa__n">
     <e>
@@ -14603,12 +14358,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of tr/auma__n -->
     <e>
       <p>
         <l>aum</l>
         <r>auma<s n="n"/></r>
-      </p><!-- traum/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14626,12 +14380,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of O/ľga__n -->
     <e>
       <p>
         <l>ľg</l>
         <r>ľga<s n="n"/></r>
-      </p><!-- Oľg/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14649,12 +14402,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of l/išta__n -->
     <e>
       <p>
         <l>išt</l>
         <r>išta<s n="n"/></r>
-      </p><!-- lišt/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14756,12 +14508,11 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of paš/a__n -->
     <e>
       <p>
         <l></l>
         <r>a<s n="n"/></r>
-      </p><!-- paš/a__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14785,12 +14536,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of nu/ansa__n -->
     <e>
       <p>
         <l>ans</l>
         <r>ansa<s n="n"/></r>
-      </p><!-- nuans/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14808,12 +14558,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of šp/ajza__n -->
     <e>
       <p>
         <l>ajz</l>
         <r>ajza<s n="n"/></r>
-      </p><!-- špajz/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14831,12 +14580,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of sat/ira__n -->
     <e>
       <p>
         <l>ir</l>
         <r>ira<s n="n"/></r>
-      </p><!-- satir/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14860,12 +14608,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of kar/ta__n -->
     <e>
       <p>
         <l>t</l>
         <r>ta<s n="n"/></r>
-      </p><!-- kart/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14883,12 +14630,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of f/iga__n -->
     <e>
       <p>
         <l>ig</l>
         <r>iga<s n="n"/></r>
-      </p><!-- fig/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14906,12 +14652,11 @@
       </p>
         <par n="reg/ula__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of žiar/a__n -->
     <e>
       <p>
         <l></l>
         <r>a<s n="n"/></r>
-      </p><!-- žiar/a__BASEPL' was replaced -->
+      </p>
         <par n="rakij/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14929,12 +14674,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of /archa__n -->
     <e>
       <p>
         <l>arch</l>
         <r>archa<s n="n"/></r>
-      </p><!-- arch/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14952,13 +14696,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of b/omba__n -->
-    <!-- Below is content of a subsequent definition of b/omba__n -->
     <e>
       <p>
         <l>omb</l>
         <r>omba<s n="n"/></r>
-      </p><!-- bomb/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -14976,12 +14718,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of b/uksa__n -->
     <e>
       <p>
         <l>uks</l>
         <r>uksa<s n="n"/></r>
-      </p><!-- buks/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15005,12 +14746,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of p/äta__n -->
     <e>
       <p>
         <l>ät</l>
         <r>äta<s n="n"/></r>
-      </p><!-- pät/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15028,12 +14768,11 @@
       </p>
         <par n="BASE__Gambia"/> 
     </e>
-    <!-- Below is content of a subsequent definition of Nat/aša__n -->
     <e>
       <p>
         <l>aš</l>
         <r>aša<s n="n"/></r>
-      </p><!-- Nataš/a__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15051,12 +14790,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of fi/ala__n -->
     <e>
       <p>
         <l>al</l>
         <r>ala<s n="n"/></r>
-      </p><!-- fial/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15074,12 +14812,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of p/ošta__n -->
     <e>
       <p>
         <l>ošt</l>
         <r>ošta<s n="n"/></r>
-      </p><!-- pošt/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15097,12 +14834,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of /uzda__n -->
     <e>
       <p>
         <l>uzd</l>
         <r>uzda<s n="n"/></r>
-      </p><!-- uzd/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15120,12 +14856,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of fak/ulta__n -->
     <e>
       <p>
         <l>ult</l>
         <r>ulta<s n="n"/></r>
-      </p><!-- fakult/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15143,12 +14878,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of k/ompa__n -->
     <e>
       <p>
         <l>omp</l>
         <r>ompa<s n="n"/></r>
-      </p><!-- komp/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15424,12 +15158,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of zml/uva__n -->
     <e>
       <p>
         <l>uv</l>
         <r>uva<s n="n"/></r>
-      </p><!-- zmluv/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15447,12 +15180,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of L/ujza__n -->
     <e>
       <p>
         <l>ujz</l>
         <r>ujza<s n="n"/></r>
-      </p><!-- Lujz/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15470,12 +15202,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of /aula__n -->
     <e>
       <p>
         <l>aul</l>
         <r>aula<s n="n"/></r>
-      </p><!-- aul/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15499,12 +15230,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of š/achta__n -->
     <e>
       <p>
         <l>acht</l>
         <r>achta<s n="n"/></r>
-      </p><!-- šacht/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15647,7 +15377,7 @@
       <p>
         <l>n</l>
         <r>na<s n="n"/></r>
-      </p><!-- vyvýšenin/ka__PL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     <e>
@@ -15669,7 +15399,7 @@
       <p>
         <l>ez</l>
         <r>eza<s n="n"/></r>
-      </p><!-- vyvýšenin/ka__PL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     <e>
@@ -15694,12 +15424,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of B/illa__n -->
     <e>
       <p>
         <l>ill</l>
         <r>illa<s n="n"/></r>
-      </p><!-- Bill/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15717,12 +15446,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of s/ekta__n -->
     <e>
       <p>
         <l>ekt</l>
         <r>ekta<s n="n"/></r>
-      </p><!-- sekt/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15740,12 +15468,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of /ťarcha__n -->
     <e>
       <p>
         <l>ťarch</l>
         <r>ťarcha<s n="n"/></r>
-      </p><!-- ťarch/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15763,12 +15490,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of v/alcha__n -->
     <e>
       <p>
         <l>alch</l>
         <r>alcha<s n="n"/></r>
-      </p><!-- valch/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15786,12 +15512,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of fr/onta__n -->
     <e>
       <p>
         <l>ont</l>
         <r>onta<s n="n"/></r>
-      </p><!-- front/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15809,12 +15534,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of kn/iha__n -->
     <e>
       <p>
         <l>ih</l>
         <r>iha<s n="n"/></r>
-      </p><!-- knih/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15832,12 +15556,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of p/omsta__n -->
     <e>
       <p>
         <l>omst</l>
         <r>omsta<s n="n"/></r>
-      </p><!-- pomst/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15870,12 +15593,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of k/apsa__n -->
     <e>
       <p>
         <l>aps</l>
         <r>apsa<s n="n"/></r>
-      </p><!-- kaps/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -15899,12 +15621,11 @@
       </p>
         <par n="reg/ula__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of bar/la__n -->
     <e>
       <p>
         <l>l</l>
         <r>la<s n="n"/></r>
-      </p><!-- barl/a__BASEPL' was replaced -->
+      </p>
         <par n="regul/a__BASEPL"/> 
     </e>
     </pardef>
@@ -16087,12 +15808,11 @@
         <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of insígni/e__n -->
     <e>
       <p>
         <l></l>
         <r>e<s n="n"/></r>
-      </p><!-- insígni/e__BASEPL' was replaced -->
+      </p>
         <par n="kader__BASEPL"/> 
     </e>
     </pardef>
@@ -16579,7 +16299,6 @@
         <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of klieš/te__n -->
     <e>
       <p>
         <l></l>
@@ -16981,12 +16700,11 @@
         <r>le<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of jas/le__n -->
     <e>
       <p>
         <l></l>
         <r>le<s n="n"/></r>
-      </p><!-- jas/le__BASEPL' was replaced -->
+      </p>
         <par n="by/ľa__BASEPL"/> 
     </e>
     </pardef>
@@ -17269,12 +16987,11 @@
         <r>ice<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of kvasn/ice__n -->
     <e>
       <p>
         <l>ic</l>
         <r>ice<s n="n"/></r>
-      </p><!-- kvasnic/e__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -17285,12 +17002,11 @@
         <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of zvlač/e__n -->
     <e>
       <p>
         <l></l>
         <r>e<s n="n"/></r>
-      </p><!-- zvlač/e__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -17301,12 +17017,11 @@
         <r>ne<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of kiah/ne__n -->
     <e>
       <p>
         <l></l>
         <r>ne<s n="n"/></r>
-      </p><!-- kiah/ne__BASEPL' was replaced -->
+      </p>
         <par n="chlebár/eň__BASEPL"/> 
     </e>
     </pardef>
@@ -17317,12 +17032,11 @@
         <r>uce<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of Kys/uce__n -->
     <e>
       <p>
         <l>uc</l>
         <r>uce<s n="n"/></r>
-      </p><!-- Kysuc/e__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -17621,12 +17335,11 @@
         <r>yje<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of pom/yje__n -->
     <e>
       <p>
         <l>yj</l>
         <r>yje<s n="n"/></r>
-      </p><!-- pomyj/e__BASEPL' was replaced -->
+      </p>
         <par n="rakij/a__BASEPL"/> 
     </e>
     </pardef>
@@ -17811,12 +17524,11 @@
         <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of liac/e__n -->
     <e>
       <p>
         <l></l>
         <r>e<s n="n"/></r>
-      </p><!-- liac/e__BASEPL' was replaced -->
+      </p>
         <par n="rakij/a__BASEPL"/> 
     </e>
     </pardef>
@@ -17827,12 +17539,11 @@
         <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of ga/te__n -->
     <e>
       <p>
         <l></l>
         <r>te<s n="n"/></r>
-      </p><!-- ga/te__BASEPL' was replaced -->
+      </p>
         <par n="hrs/ť__BASEPL"/> 
     </e>
     </pardef>
@@ -17894,7 +17605,6 @@
       </p>
         <par n="revu/e__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of revu/e__n -->
     <e>
       <p>
         <l>e</l>
@@ -18088,12 +17798,11 @@
         <r>re<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of žiab/re__n -->
     <e>
       <p>
         <l>r</l>
         <r>re<s n="n"/></r>
-      </p><!-- žiabr/e__BASEPL' was replaced -->
+      </p>
         <par n="rakij/a__BASEPL"/> 
     </e>
     </pardef>
@@ -18104,12 +17813,11 @@
         <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of Vianoc/e__n -->
     <e>
       <p>
         <l></l>
         <r>e<s n="n"/></r>
-      </p><!-- Vianoc/e__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -18126,7 +17834,6 @@
         <r>ere<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of dv/ere__n -->
     <e>
       <p>
         <l>er</l>
@@ -18192,7 +17899,6 @@
         <r>ne<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of sa/ne__n -->
     <e>
       <p>
         <l></l>
@@ -27155,7 +26861,6 @@
       </p>
         <par n="chlebár/eň__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of chlebár/eň__n -->
     <e>
       <p>
         <l></l>
@@ -27786,12 +27491,11 @@
       </p>
         <par n="beznádej__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of beznádej__n -->
     <e>
       <p>
         <l></l>
         <r><s n="n"/></r>
-      </p><!-- beznádej__BASEPL' was replaced -->
+      </p>
         <par n="rakij/a__BASEPL"/> 
     </e>
     </pardef>
@@ -27802,12 +27506,11 @@
         <r>ky<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of zrkadlov/ky__n -->
     <e>
       <p>
         <l>k</l>
         <r>ky<s n="n"/></r>
-      </p><!-- zrkadlovk/y__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -28255,12 +27958,11 @@
       </p>
         <par n="beznádej__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of chatrč__n -->
     <e>
       <p>
         <l></l>
         <r><s n="n"/></r>
-      </p><!-- chatrč__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -30535,12 +30237,11 @@
         <r>ky<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of sán/ky__n -->
     <e>
       <p>
         <l>k</l>
         <r>ky<s n="n"/></r>
-      </p><!-- sánk/y__BASEPL' was replaced -->
+      </p>
         <par n="súhr/a__BASEPL"/> 
     </e>
     </pardef>
@@ -31748,7 +31449,6 @@
       </p>
         <par n="obuv__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of obuv__n -->
     <e>
       <p>
         <l></l>
@@ -31764,12 +31464,11 @@
         <r>y<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of Grenadín/y__n -->
     <e>
       <p>
         <l></l>
         <r>y<s n="n"/></r>
-      </p><!-- Grenadín/y__BASEPL' was replaced -->
+      </p>
         <par n="súhr/a__BASEPL"/> 
     </e>
     </pardef>
@@ -32259,12 +31958,11 @@
       </p>
         <par n="pamä/ť__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of pamä/ť__n -->
     <e>
       <p>
         <l></l>
         <r>ť<s n="n"/></r>
-      </p><!-- pamä/ť__BASEPL' was replaced -->
+      </p>
         <par n="hrs/ť__BASEPL"/> 
     </e>
     </pardef>
@@ -33056,12 +32754,11 @@
       </p>
         <par n="Koda/ň__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of zbra/ň__n -->
     <e>
       <p>
         <l></l>
         <r>ň<s n="n"/></r>
-      </p><!-- zbra/ň__BASEPL' was replaced -->
+      </p>
         <par n="sa/ne__BASEPL"/> 
     </e>
     </pardef>
@@ -33487,7 +33184,6 @@
       </p>
         <par n="mla/ď__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of mla/ď__n -->
     <e>
       <p>
         <l></l>
@@ -34556,7 +34252,6 @@
       </p>
         <par n="cirk/ev__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of cirk/ev__n -->
     <e>
       <p>
         <l></l>
@@ -35008,12 +34703,11 @@
         <r>y<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of zásnub/y__n -->
     <e>
       <p>
         <l></l>
         <r>y<s n="n"/></r>
-      </p><!-- zásnub/y__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -35031,12 +34725,11 @@
       </p>
         <par n="púš/ť__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of púš/ť__n -->
     <e>
       <p>
         <l></l>
         <r>ť<s n="n"/></r>
-      </p><!-- púš/ť__BASEPL' was replaced -->
+      </p>
         <par n="klieš/te__BASEPL"/> 
     </e>
     </pardef>
@@ -35047,12 +34740,11 @@
         <r>iny<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of dej/iny__n -->
     <e>
       <p>
         <l>in</l>
         <r>iny<s n="n"/></r>
-      </p><!-- dejin/y__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -35432,12 +35124,11 @@
       </p>
         <par n="chlebár/eň__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of lúpár/eň__n -->
     <e>
       <p>
         <l></l>
         <r>eň<s n="n"/></r>
-      </p><!-- lúpár/eň__BASEPL' was replaced -->
+      </p>
         <par n="sa/ne__BASEPL"/> 
     </e>
     </pardef>
@@ -36582,7 +36273,6 @@
         <r>česť<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of /česť__n -->
     <e>
       <p>
         <l></l>
@@ -37387,12 +37077,11 @@
       </p>
         <par n="beznádej__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of črvotoč__n -->
     <e>
       <p>
         <l></l>
         <r><s n="n"/></r>
-      </p><!-- črvotoč__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -37926,7 +37615,6 @@
       </p>
         <par n="ob/ec__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of ob/ec__n -->
     <e>
       <p>
         <l></l>
@@ -37942,12 +37630,11 @@
         <r>ory<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of staroh/ory__n -->
     <e>
       <p>
         <l>or</l>
         <r>ory<s n="n"/></r>
-      </p><!-- starohor/y__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -38300,12 +37987,11 @@
         <r>ety<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of kastan/ety__n -->
     <e>
       <p>
         <l>et</l>
         <r>ety<s n="n"/></r>
-      </p><!-- kastanet/y__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -38493,12 +38179,11 @@
       </p>
         <par n="mašta/ľ__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of mašta/ľ__n -->
     <e>
       <p>
         <l></l>
         <r>ľ<s n="n"/></r>
-      </p><!-- mašta/ľ__BASEPL' was replaced -->
+      </p>
         <par n="by/ľa__BASEPL"/> 
     </e>
     </pardef>
@@ -38516,7 +38201,6 @@
       </p>
         <par n="so/ľ__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of so/ľ__n -->
     <e>
       <p>
         <l></l>
@@ -39841,7 +39525,6 @@
       </p>
         <par n="mla/ď__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of pia/ď__n -->
     <e>
       <p>
         <l></l>
@@ -39992,12 +39675,11 @@
       </p>
         <par n="púš/ť__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of pípe/ť__n -->
     <e>
       <p>
         <l></l>
         <r>ť<s n="n"/></r>
-      </p><!-- pípe/ť__BASEPL' was replaced -->
+      </p>
         <par n="hrs/ť__BASEPL"/> 
     </e>
     </pardef>
@@ -40269,12 +39951,11 @@
       </p>
         <par n="obuv__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of zver__n -->
     <e>
       <p>
         <l></l>
         <r><s n="n"/></r>
-      </p><!-- zver__BASEPL' was replaced -->
+      </p>
         <par n="obuv__BASEPL"/> 
     </e>
     </pardef>
@@ -41001,7 +40682,6 @@
         <r>inki<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of Hels/inki__n -->
     <e>
       <p>
         <l>ink</l>
@@ -41110,7 +40790,6 @@
       </p>
         <par n="fal/oš__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of fal/oš__n -->
     <e>
       <p>
         <l></l>
@@ -41572,12 +41251,11 @@
         <r>amy<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of Bah/amy__n -->
     <e>
       <p>
         <l>am</l>
         <r>amy<s n="n"/></r>
-      </p><!-- Baham/y__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -41880,12 +41558,11 @@
         <r>ky<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of obžin/ky__n -->
     <e>
       <p>
         <l>k</l>
         <r>ky<s n="n"/></r>
-      </p><!-- obžink/y__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -42167,7 +41844,6 @@
       </p>
         <par n="l/ož__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of l/ož__n -->
     <e>
       <p>
         <l></l>
@@ -42183,12 +41859,11 @@
         <r>oty<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of such/oty__n -->
     <e>
       <p>
         <l>ot</l>
         <r>oty<s n="n"/></r>
-      </p><!-- suchot/y__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -42932,12 +42607,11 @@
       </p>
         <par n="obuv__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of step__n -->
     <e>
       <p>
         <l></l>
         <r><s n="n"/></r>
-      </p><!-- step__BASEPL' was replaced -->
+      </p>
         <par n="obuv__BASEPL"/> 
     </e>
     </pardef>
@@ -44133,12 +43807,11 @@
       </p>
         <par n="hne/ď__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of hne/ď__n -->
     <e>
       <p>
         <l></l>
         <r>ď<s n="n"/></r>
-      </p><!-- hne/ď__BASEPL' was replaced -->
+      </p>
         <par n="mla/ď__BASEPL"/> 
     </e>
     </pardef>
@@ -44149,12 +43822,11 @@
         <r>ly<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of vid/ly__n -->
     <e>
       <p>
         <l>l</l>
         <r>ly<s n="n"/></r>
-      </p><!-- vidl/y__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -44670,7 +44342,6 @@
       </p>
         <par n="mat/i__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of mat/i__n -->
     <e>
       <p>
         <l></l>
@@ -46162,12 +45833,11 @@
         <r>udy<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of berm/udy__n -->
     <e>
       <p>
         <l>ud</l>
         <r>udy<s n="n"/></r>
-      </p><!-- bermud/y__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -46220,12 +45890,11 @@
         <r>y<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of legíns/y__n -->
     <e>
       <p>
         <l></l>
         <r>y<s n="n"/></r>
-      </p><!-- legíns/y__BASEPL' was replaced -->
+      </p>
         <par n="súhr/a__BASEPL"/> 
     </e>
     </pardef>
@@ -46671,12 +46340,11 @@
       </p>
         <par n="Koda/ň__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of plá/ň__n -->
     <e>
       <p>
         <l></l>
         <r>ň<s n="n"/></r>
-      </p><!-- plá/ň__BASEPL' was replaced -->
+      </p>
         <par n="chlebár/eň__BASEPL"/> 
     </e>
     </pardef>
@@ -46944,12 +46612,11 @@
       </p>
         <par n="osuh/eľ__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of osuh/eľ__n -->
     <e>
       <p>
         <l></l>
         <r>eľ<s n="n"/></r>
-      </p><!-- osuh/eľ__BASEPL' was replaced -->
+      </p>
         <par n="by/ľa__BASEPL"/> 
     </e>
     </pardef>
@@ -47193,12 +46860,11 @@
       </p>
         <par n="Koda/ň__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of zele/ň__n -->
     <e>
       <p>
         <l></l>
         <r>ň<s n="n"/></r>
-      </p><!-- zele/ň__BASEPL' was replaced -->
+      </p>
         <par n="sa/ne__BASEPL"/> 
     </e>
     </pardef>
@@ -47595,12 +47261,11 @@
         <r>aty<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of š/aty__n -->
     <e>
       <p>
         <l>at</l>
         <r>aty<s n="n"/></r>
-      </p><!-- šat/y__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -48120,7 +47785,6 @@
       </p>
         <par n="BASE__Budapešť"/> 
     </e>
-    <!-- Below is content of a subsequent definition of chu/ť__n -->
     <e>
       <p>
         <l></l>
@@ -48208,7 +47872,6 @@
         <r>lesť<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of /lesť__n -->
     <e>
       <p>
         <l></l>
@@ -49239,7 +48902,6 @@
       </p>
         <par n="prama/ť__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of prama/ť__n -->
     <e>
       <p>
         <l></l>
@@ -49832,12 +49494,11 @@
       </p>
         <par n="mys/eľ__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of mys/eľ__n -->
     <e>
       <p>
         <l></l>
         <r>eľ<s n="n"/></r>
-      </p><!-- mys/eľ__BASEPL' was replaced -->
+      </p>
         <par n="by/ľa__BASEPL"/> 
     </e>
     </pardef>
@@ -50679,7 +50340,6 @@
       </p>
         <par n="mašta/ľ__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of dia/ľ__n -->
     <e>
       <p>
         <l></l>
@@ -50702,7 +50362,6 @@
       </p>
         <par n="beznádej__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of kader__n -->
     <e>
       <p>
         <l></l>
@@ -50760,12 +50419,11 @@
         <r>ary<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of č/ary__n -->
     <e>
       <p>
         <l>ar</l>
         <r>ary<s n="n"/></r>
-      </p><!-- čar/y__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -51163,12 +50821,11 @@
       </p>
         <par n="raž__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of raž__n -->
     <e>
       <p>
         <l></l>
         <r><s n="n"/></r>
-      </p><!-- raž__BASEPL' was replaced -->
+      </p>
         <par n="guč/a__BASEPL"/> 
     </e>
     </pardef>
@@ -51451,12 +51108,11 @@
         <r>aty<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of kazem/aty__n -->
     <e>
       <p>
         <l>at</l>
         <r>aty<s n="n"/></r>
-      </p><!-- kazemat/y__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -51509,12 +51165,11 @@
         <r>y<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of háb/y__n -->
     <e>
       <p>
         <l></l>
         <r>y<s n="n"/></r>
-      </p><!-- háb/y__BASEPL' was replaced -->
+      </p>
         <par n="súhr/a__BASEPL"/> 
     </e>
     </pardef>
@@ -51930,12 +51585,11 @@
       </p>
         <par n="beznádej__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of súš__n -->
     <e>
       <p>
         <l></l>
         <r><s n="n"/></r>
-      </p><!-- súš__BASEPL' was replaced -->
+      </p>
         <par n="rakij/a__BASEPL"/> 
     </e>
     </pardef>
@@ -52184,12 +51838,11 @@
         <r>ivy<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of Mald/ivy__n -->
     <e>
       <p>
         <l>iv</l>
         <r>ivy<s n="n"/></r>
-      </p><!-- Maldiv/y__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -52885,7 +52538,6 @@
       </p>
         <par n="me/ď__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of me/ď__n -->
     <e>
       <p>
         <l></l>
@@ -53255,12 +52907,11 @@
         <r>ajdy<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of g/ajdy__n -->
     <e>
       <p>
         <l>ajd</l>
         <r>ajdy<s n="n"/></r>
-      </p><!-- gajd/y__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -53963,7 +53614,6 @@
         <r>ti<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of pamä/ti__n -->
     <e>
       <p>
         <l></l>
@@ -54131,12 +53781,11 @@
         <r>uby<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of otr/uby__n -->
     <e>
       <p>
         <l>ub</l>
         <r>uby<s n="n"/></r>
-      </p><!-- otrub/y__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -54591,12 +54240,11 @@
         <r>uhy<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of vlač/uhy__n -->
     <e>
       <p>
         <l>uh</l>
         <r>uhy<s n="n"/></r>
-      </p><!-- vlačuh/y__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -55396,7 +55044,6 @@
       </p>
         <par n="v/oš__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of v/oš__n -->
     <e>
       <p>
         <l></l>
@@ -56165,7 +55812,6 @@
       </p>
         <par n="v/es__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of v/es__n -->
     <e>
       <p>
         <l></l>
@@ -57160,12 +56806,11 @@
       </p>
         <par n="Koda/ň__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of bá/ň__n -->
     <e>
       <p>
         <l></l>
         <r>ň<s n="n"/></r>
-      </p><!-- bá/ň__BASEPL' was replaced -->
+      </p>
         <par n="chlebár/eň__BASEPL"/> 
     </e>
     </pardef>
@@ -57443,12 +57088,11 @@
       </p>
         <par n="raž__BASESG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of tvár__n -->
     <e>
       <p>
         <l></l>
         <r><s n="n"/></r>
-      </p><!-- tvár__BASEPL' was replaced -->
+      </p>
         <par n="rakij/a__BASEPL"/> 
     </e>
     </pardef>
@@ -57801,12 +57445,11 @@
         <r>ky<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-    <!-- Below is content of a subsequent definition of raňaj/ky__n -->
     <e>
       <p>
         <l>k</l>
         <r>ky<s n="n"/></r>
-      </p><!-- raňajk/y__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -59726,12 +59369,11 @@
       </p>
         <par n="vyvýšenin/ka__SG"/> 
     </e>
-    <!-- Below is content of a subsequent definition of p/apa__n -->
     <e>
       <p>
         <l>ap</l>
         <r>apa<s n="n"/></r>
-      </p><!-- pap/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
@@ -59740,18 +59382,12 @@
       <p>
         <l>amp</l>
         <r>ampa<s n="n"/></r>
-      </p><!-- pamp/a__BASEPL' was replaced -->
+      </p>
         <par n="žbrnd/a__BASEPL"/> 
     </e>
     </pardef>
   </pardefs>
   <section id="main" type="standard">
-    <!-- ******************************
-          group n
-      ****************************** -->
-    <!-- ******************************
-          group n
-      ****************************** -->
     <e lm="oko"><i></i><par n="/oko__n"/></e>
     <e lm="Ida"><i></i><par n="/Ida__n"/></e>
     <e lm="osa"><i></i><par n="k/osa__n"/></e>
@@ -85486,12 +85122,6 @@
     <e lm="žĺtok"><i>žĺt</i><par n="orieš/ok__n"/></e>
     <e lm="žľab"><i>žľab</i><par n="balast__n"/></e>
     <e lm="žŕdka"><i>žŕd</i><par n="ľahtikár/ka__n"/></e>
-    <!-- ******************************
-          group np
-      ****************************** -->
-    <!-- ******************************
-          group np
-      ****************************** -->
     <e lm="Bohumila"><i>Bohum</i><par n="Jarm/ila__np"/></e>
     <e lm="Dobromila"><i>Dobrom</i><par n="Jarm/ila__np"/></e>
     <e lm="Jarmila"><i>Jarm</i><par n="Jarm/ila__np"/></e>
