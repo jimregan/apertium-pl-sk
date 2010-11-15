@@ -1303,6 +1303,47 @@
     <e><p><l>wiejski<s n="adj"/></l><r>dedinský<s n="adj"/></r></p></e>
     <e><p><l>węgierski<s n="adj"/></l><r>maďarský<s n="adj"/></r></p></e>
     <e><p><l>żydowski<s n="adj"/></l><r>židovský<s n="adj"/></r></p></e>
+    <e><p><l>drugi<s n="adj"/></l><r>druhý<s n="adj"/></r></p></e>
+    <e><p><l>nagi<s n="adj"/></l><r>nahý<s n="adj"/></r></p></e>
+    <e><p><l>żelazny<s n="adj"/></l><r>železný<s n="adj"/></r></p></e>
+    <e><p><l>zielony<s n="adj"/></l><r>zelený<s n="adj"/></r></p></e>
+    <e><p><l>agresywny<s n="adj"/></l><r>agresívny<s n="adj"/></r></p></e>
+    <e><p><l>czarny<s n="adj"/></l><r>čierny<s n="adj"/></r></p></e>
+    <e><p><l>czerwony<s n="adj"/></l><r>červený<s n="adj"/></r></p></e>
+    <e><p><l>mózgowy<s n="adj"/></l><r>cerebrálny<s n="adj"/></r></p></e>
+    <e><p><l>rodzinny<s n="adj"/></l><r>rodinný<s n="adj"/></r></p></e>
+    <e><p><l>ręczny<s n="adj"/></l><r>ručný<s n="adj"/></r></p></e>
+    <e r="RL" c='slr="pomalý"'><p><l>wolny<s n="adj"/></l><r>pomalý<s n="adj"/></r></p></e>
+    <e c='slr="slobodný D"'><p><l>wolny<s n="adj"/></l><r>slobodný<s n="adj"/></r></p></e>
+    <e><p><l>czysty<s n="adj"/></l><r>čistý<s n="adj"/></r></p></e>
+    <e><p><l>żółty<s n="adj"/></l><r>žltý<s n="adj"/></r></p></e>
+    <e><p><l>głasnost<s n="n"/><s n="mi"/></l><r>glasnosť<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Egipcjanin<s n="n"/><s n="mp"/></l><r>Egypťan<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Anglik<s n="n"/><s n="mp"/></l><r>Angličan<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Słowianin<s n="n"/><s n="mp"/></l><r>Slovan<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Włoch<s n="n"/><s n="mp"/></l><r>Talian<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>arsen<s n="n"/><s n="mi"/></l><r>arzén<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>banan<s n="n"/><s n="mi"/></l><r>banán<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>adrenalina<s n="n"/><s n="f"/></l><r>adrenalín<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>akordeon<s n="n"/><s n="mi"/></l><r>harmonika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alkin<s n="n"/><s n="mi"/></l><r>alkín<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>benzyna<s n="n"/><s n="f"/></l><r>benzín<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>beton<s n="n"/><s n="mi"/></l><r>betón<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>bilion<s n="n"/><s n="mi"/></l><r>bilión<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>bizon<s n="n"/><s n="ma"/></l><r>bizón<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>cyrkon<s n="n"/><s n="mi"/></l><r>zirkón<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>cytryna<s n="n"/><s n="f"/></l><r>citrón<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>einstein<s n="n"/><s n="mi"/></l><r>einsteinium<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>elektron<s n="n"/><s n="mi"/></l><r>elektrón<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>flogistonem<s n="n"/><s n="mi"/></l><r>flogistón<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>gadolin<s n="n"/><s n="mi"/></l><r>gadolinium<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>gaz<s n="n"/><s n="mi"/></l><r>plyn<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>gaz<b/>doskonały<s n="n"/><s n="mi"/></l><r>ideálny<b/>plyn<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>german<s n="n"/><s n="mi"/></l><r>germánium<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>glin<s n="n"/><s n="mi"/></l><r>hliník<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>hadron<s n="n"/><s n="mi"/></l><r>hadrón<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>hafn<s n="n"/><s n="mi"/></l><r>hafnium<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>insulina<s n="n"/><s n="f"/></l><r>inzulín<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>dziennikarstwo<s n="n"/><s n="nt"/></l><r>žurnalistika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kłamstwo<s n="n"/><s n="nt"/></l><r>klamstvo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>morderstwo<s n="n"/><s n="nt"/></l><r>vražda<s n="n"/><s n="f"/></r></p></e>
