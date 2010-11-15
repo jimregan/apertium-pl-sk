@@ -1837,6 +1837,9 @@
     <e><p><l>Brazylia<s n="np"/><s n="top"/><s n="f"/></l><r>Brazília<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Chiny<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Čína<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Czechy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Česko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Chruszczow<s n="np"/><s n="cog"/><s n="mp"/></l><r>Chruščov<s n="np"/><s n="cog"/><s n="ma"/></r></p></e>
+    <e><p><l>Chrystus<s n="np"/><s n="cog"/><s n="mp"/></l><r>Kristus<s n="np"/><s n="cog"/><s n="ma"/></r></p></e>
+    <e><p><l>Czajkowski<s n="np"/><s n="cog"/><s n="mp"/></l><r>Čajkovskij<s n="np"/><s n="cog"/><s n="ma"/></r></p></e>
     <e><p><l>Niemcy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Nemecko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Portugalia<s n="np"/><s n="top"/><s n="f"/></l><r>Portugalsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Rumunia<s n="np"/><s n="top"/><s n="f"/></l><r>Rumunsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
@@ -2164,6 +2167,7 @@
     <e><p><l>Brazylijczyk<s n="n"/><s n="mp"/></l><r>Brazílčan<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>Chińczyk<s n="n"/><s n="mp"/></l><r>Číňan<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>Czech<s n="n"/><s n="mp"/></l><r>Čech<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Bułgar<s n="n"/><s n="mp"/></l><r>Bulhar<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>Francuz<s n="n"/><s n="mp"/></l><r>Francúz<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>Grek<s n="n"/><s n="mp"/></l><r>Grék<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>Hiszpan<s n="n"/><s n="mp"/></l><r>Španiel<s n="n"/><s n="ma"/></r></p></e>
