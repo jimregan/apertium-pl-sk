@@ -1278,39 +1278,143 @@
     <e><p><l>Chorwacja<s n="np"/><s n="top"/><s n="f"/></l><r>Chorvátsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Hongkong<s n="np"/><s n="top"/><s n="m"/></l><r>Hongkong<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 
-<e><p><l>tajski<s n="adj"/></l><r>thajský<s n="adj"/></r></p></e>
-<e><p><l>angielski<s n="adj"/></l><r>anglický<s n="adj"/></r></p></e>
-<e><p><l>australijski<s n="adj"/></l><r>austrálsky<s n="adj"/></r></p></e>
-<e><p><l>beztroski<s n="adj"/></l><r>bezstarostný<s n="adj"/></r></p></e>
-<e><p><l>białoruski<s n="adj"/></l><r>bieloruský<s n="adj"/></r></p></e>
-<e><p><l>bretoński<s n="adj"/></l><r>bretónsky<s n="adj"/></r></p></e>
-<e><p><l>bułgarski<s n="adj"/></l><r>bulharský<s n="adj"/></r></p></e>
-<e><p><l>chiński<s n="adj"/></l><r>čínsky<s n="adj"/></r></p></e>
-<e><p><l>chrześcijański<s n="adj"/></l><r>kresťanský<s n="adj"/></r></p></e>
-<e><p><l>czeski<s n="adj"/></l><r>český<s n="adj"/></r></p></e>
-<e><p><l>fiński<s n="adj"/></l><r>fínsky<s n="adj"/></r></p></e>
-<e><p><l>hebrajski<s n="adj"/></l><r>hebrejský<s n="adj"/></r></p></e>
-<e><p><l>hiszpański<s n="adj"/></l><r>španielsky<s n="adj"/></r></p></e>
-<e><p><l>japoński<s n="adj"/></l><r>japonský<s n="adj"/></r></p></e>
-<e><p><l>słoweński<s n="adj"/></l><r>slovinský<s n="adj"/></r></p></e>
-<e><p><l>londyński<s n="adj"/></l><r>londýnsky<s n="adj"/></r></p></e>
-<e><p><l>malajski<s n="adj"/></l><r>malajský<s n="adj"/></r></p></e>
-<e><p><l>morski<s n="adj"/></l><r>morský<s n="adj"/></r></p></e>
-<e><p><l>okcytański<s n="adj"/></l><r>occitánsky<s n="adj"/></r></p></e>
-<e><p><l>portugalski<s n="adj"/></l><r>portugalský<s n="adj"/></r></p></e>
-<e><p><l>słoweński<s n="adj"/></l><r>slovinský<s n="adj"/></r></p></e>
-<e><p><l>słowiański<s n="adj"/></l><r>slovanský<s n="adj"/></r></p></e>
-<e><p><l>wiejski<s n="adj"/></l><r>dedinský<s n="adj"/></r></p></e>
-<e><p><l>węgierski<s n="adj"/></l><r>maďarský<s n="adj"/></r></p></e>
-<e><p><l>żydowski<s n="adj"/></l><r>židovský<s n="adj"/></r></p></e>
-<e><p><l>dziennikarstwo<s n="n"/><s n="nt"/></l><r>žurnalistika<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>kłamstwo<s n="n"/><s n="nt"/></l><r>klamstvo<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>morderstwo<s n="n"/><s n="nt"/></l><r>vražda<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>niebezpieczeństwo<s n="n"/><s n="nt"/></l><r>nebezpečie<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>okrucieństwo<s n="n"/><s n="nt"/></l><r>krutosť<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>posłuszeństwo<s n="n"/><s n="nt"/></l><r>poslušnosť<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>samobójstwo<s n="n"/><s n="nt"/></l><r>samovražda<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>zabójstwo<s n="n"/><s n="nt"/></l><r>vražda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tajski<s n="adj"/></l><r>thajský<s n="adj"/></r></p></e>
+    <e><p><l>angielski<s n="adj"/></l><r>anglický<s n="adj"/></r></p></e>
+    <e><p><l>australijski<s n="adj"/></l><r>austrálsky<s n="adj"/></r></p></e>
+    <e><p><l>beztroski<s n="adj"/></l><r>bezstarostný<s n="adj"/></r></p></e>
+    <e><p><l>białoruski<s n="adj"/></l><r>bieloruský<s n="adj"/></r></p></e>
+    <e><p><l>bretoński<s n="adj"/></l><r>bretónsky<s n="adj"/></r></p></e>
+    <e><p><l>bułgarski<s n="adj"/></l><r>bulharský<s n="adj"/></r></p></e>
+    <e><p><l>chiński<s n="adj"/></l><r>čínsky<s n="adj"/></r></p></e>
+    <e><p><l>chrześcijański<s n="adj"/></l><r>kresťanský<s n="adj"/></r></p></e>
+    <e><p><l>czeski<s n="adj"/></l><r>český<s n="adj"/></r></p></e>
+    <e><p><l>fiński<s n="adj"/></l><r>fínsky<s n="adj"/></r></p></e>
+    <e><p><l>hebrajski<s n="adj"/></l><r>hebrejský<s n="adj"/></r></p></e>
+    <e><p><l>hiszpański<s n="adj"/></l><r>španielsky<s n="adj"/></r></p></e>
+    <e><p><l>japoński<s n="adj"/></l><r>japonský<s n="adj"/></r></p></e>
+    <e><p><l>słoweński<s n="adj"/></l><r>slovinský<s n="adj"/></r></p></e>
+    <e><p><l>londyński<s n="adj"/></l><r>londýnsky<s n="adj"/></r></p></e>
+    <e><p><l>malajski<s n="adj"/></l><r>malajský<s n="adj"/></r></p></e>
+    <e><p><l>morski<s n="adj"/></l><r>morský<s n="adj"/></r></p></e>
+    <e><p><l>okcytański<s n="adj"/></l><r>occitánsky<s n="adj"/></r></p></e>
+    <e><p><l>portugalski<s n="adj"/></l><r>portugalský<s n="adj"/></r></p></e>
+    <e><p><l>słoweński<s n="adj"/></l><r>slovinský<s n="adj"/></r></p></e>
+    <e><p><l>słowiański<s n="adj"/></l><r>slovanský<s n="adj"/></r></p></e>
+    <e><p><l>wiejski<s n="adj"/></l><r>dedinský<s n="adj"/></r></p></e>
+    <e><p><l>węgierski<s n="adj"/></l><r>maďarský<s n="adj"/></r></p></e>
+    <e><p><l>żydowski<s n="adj"/></l><r>židovský<s n="adj"/></r></p></e>
+    <e><p><l>dziennikarstwo<s n="n"/><s n="nt"/></l><r>žurnalistika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kłamstwo<s n="n"/><s n="nt"/></l><r>klamstvo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>morderstwo<s n="n"/><s n="nt"/></l><r>vražda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>niebezpieczeństwo<s n="n"/><s n="nt"/></l><r>nebezpečie<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>okrucieństwo<s n="n"/><s n="nt"/></l><r>krutosť<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>posłuszeństwo<s n="n"/><s n="nt"/></l><r>poslušnosť<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>samobójstwo<s n="n"/><s n="nt"/></l><r>samovražda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>zabójstwo<s n="n"/><s n="nt"/></l><r>vražda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Abidżan<s n="np"/><s n="top"/><s n="mi"/></l><r>Abidžan<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Afganistan<s n="np"/><s n="top"/><s n="mi"/></l><r>Afganistan<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Alaska<s n="np"/><s n="top"/><s n="f"/></l><r>Aljaška<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Algieria<s n="np"/><s n="top"/><s n="f"/></l><r>Alžírsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Andora<s n="np"/><s n="top"/><s n="f"/></l><r>Andorra<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Anglia<s n="np"/><s n="top"/><s n="f"/></l><r>Anglicko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Ankara<s n="np"/><s n="top"/><s n="f"/></l><r>Ankara<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Arabia Saudyjska<s n="np"/><s n="top"/><s n="f"/></l><r>Saudská Arábia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Argentyna<s n="np"/><s n="top"/><s n="f"/></l><r>Argentína<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Armenia<s n="np"/><s n="top"/><s n="f"/></l><r>Arménsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Australia<s n="np"/><s n="top"/><s n="f"/></l><r>Austrália<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Azerbejdżan<s n="np"/><s n="top"/><s n="mi"/></l><r>Azerbajdžan<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Azja<s n="np"/><s n="top"/><s n="f"/></l><r>Ázia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Bahrajn<s n="np"/><s n="top"/><s n="mi"/></l><r>Bahrajn<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Bawaria<s n="np"/><s n="top"/><s n="f"/></l><r>Bavorsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Belgia<s n="np"/><s n="top"/><s n="f"/></l><r>Belgicko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Belgrad<s n="np"/><s n="top"/><s n="mi"/></l><r>Belehrad<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Berlin<s n="np"/><s n="top"/><s n="mi"/></l><r>Berlín<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Boliwia<s n="np"/><s n="top"/><s n="f"/></l><r>Bolívia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Bośnia<s n="np"/><s n="top"/><s n="f"/></l><r>Bosna<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Bratysława<s n="np"/><s n="top"/><s n="f"/></l><r>Bratislava<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Bruksela<s n="np"/><s n="top"/><s n="f"/></l><r>Brusel<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Chorwacja<s n="np"/><s n="top"/><s n="f"/></l><r>Chorvátsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Damaszek<s n="np"/><s n="top"/><s n="mi"/></l><r>Damask<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Dania<s n="np"/><s n="top"/><s n="f"/></l><r>Dánsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Estonia<s n="np"/><s n="top"/><s n="f"/></l><r>Estónsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Europa Południowa<s n="np"/><s n="top"/><s n="f"/></l><r>Južná Európa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Europa Północna<s n="np"/><s n="top"/><s n="f"/></l><r>Severná Európa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Europa Wschodnia<s n="np"/><s n="top"/><s n="f"/></l><r>Východná Európa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Europa Zachodnia<s n="np"/><s n="top"/><s n="f"/></l><r>Západná Európa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Europa Środkowa<s n="np"/><s n="top"/><s n="f"/></l><r>stredná Európa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Federacja Rosyjska<s n="np"/><s n="top"/><s n="f"/></l><r>Ruská federácia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Finlandia<s n="np"/><s n="top"/><s n="f"/></l><r>Fínsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Francja<s n="np"/><s n="top"/><s n="f"/></l><r>Francúzsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Genewa<s n="np"/><s n="top"/><s n="f"/></l><r>Ženeva<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Goa<s n="np"/><s n="top"/><s n="f"/></l><r>Goa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Grecja<s n="np"/><s n="top"/><s n="f"/></l><r>Grécko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Hiszpania<s n="np"/><s n="top"/><s n="f"/></l><r>Španielsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Holandia<s n="np"/><s n="top"/><s n="f"/></l><r>Holandsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Indonezja<s n="np"/><s n="top"/><s n="f"/></l><r>Indonézia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Irak<s n="np"/><s n="top"/><s n="mi"/></l><r>Irák<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Irlandia<s n="np"/><s n="top"/><s n="f"/></l><r>Írsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Islandia<s n="np"/><s n="top"/><s n="f"/></l><r>Island<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Jamajka<s n="np"/><s n="top"/><s n="f"/></l><r>Jamajka<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Japonia<s n="np"/><s n="top"/><s n="f"/></l><r>Japonsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Jemen<s n="np"/><s n="top"/><s n="mi"/></l><r>Jemen<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Kalifornia<s n="np"/><s n="top"/><s n="f"/></l><r>Kalifornia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Kamczatka<s n="np"/><s n="top"/><s n="f"/></l><r>Kamčatka<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Kanada<s n="np"/><s n="top"/><s n="f"/></l><r>Kanada<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Karnataka<s n="np"/><s n="top"/><s n="f"/></l><r>Karnátaka<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Kartagina<s n="np"/><s n="top"/><s n="f"/></l><r>Kartágo<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Kazachstan<s n="np"/><s n="top"/><s n="mi"/></l><r>Kasachstan<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Konstantynopol<s n="np"/><s n="top"/><s n="mi"/></l><r>Konštantínopol<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Litwa<s n="np"/><s n="top"/><s n="f"/></l><r>Litva<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Lizbona<s n="np"/><s n="top"/><s n="f"/></l><r>Lisabon<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Londyn<s n="np"/><s n="top"/><s n="mi"/></l><r>Londýn<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Lublana<s n="np"/><s n="top"/><s n="f"/></l><r>Ľubľana<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Lyon<s n="np"/><s n="top"/><s n="mi"/></l><r>Lyon<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Malta<s n="np"/><s n="top"/><s n="f"/></l><r>Malta<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Mandżuria<s n="np"/><s n="top"/><s n="f"/></l><r>Mandžusko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Manitoba<s n="np"/><s n="top"/><s n="f"/></l><r>Manitoba<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Mińsk<s n="np"/><s n="top"/><s n="mi"/></l><r>Minsk<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Mongolia<s n="np"/><s n="top"/><s n="f"/></l><r>Mongolsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Morze<b/>Czarne<s n="np"/><s n="top"/><s n="nt"/></l><r>Čierne<b/>more<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Morze<b/>Czerwone<s n="np"/><s n="top"/><s n="nt"/></l><r>Červené<b/>more<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Morze<b/>Egejskie<s n="np"/><s n="top"/><s n="nt"/></l><r>Egejské<b/>more<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Morze<b/>Irlandzkie<s n="np"/><s n="top"/><s n="nt"/></l><r>Írske<b/>more<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Morze<b/>Japońskie<s n="np"/><s n="top"/><s n="nt"/></l><r>Japonské<b/>more<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Morze<b/>Kaspijskie<s n="np"/><s n="top"/><s n="nt"/></l><r>Kaspické<b/>more<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Morze<b/>Martwe<s n="np"/><s n="top"/><s n="nt"/></l><r>Mŕtve<b/>more<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Morze<b/>Żółte<s n="np"/><s n="top"/><s n="nt"/></l><r>Žlté<b/>more<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Moskwa<s n="np"/><s n="top"/><s n="f"/></l><r>Moskva<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Namibia<s n="np"/><s n="top"/><s n="f"/></l><r>Namíbia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Nepal<s n="np"/><s n="top"/><s n="mi"/></l><r>Nepál<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Oman<s n="np"/><s n="top"/><s n="mi"/></l><r>Omán<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Organizacja<g><b/>Narodów<b/>Zjednoczonych</g><s n="np"/><s n="al"/></l><r>Organizácia<g><b/>Spojených<b/>Národov</g><s n="np"/><s n="al"/></r></p></e>
+    <e><p><l>Osetia Południowa<s n="np"/><s n="top"/><s n="f"/></l><r>Južné Osetsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Pangea<s n="np"/><s n="top"/><s n="f"/></l><r>Pangea<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Persja<s n="np"/><s n="top"/><s n="f"/></l><r>Perzia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Pluton<s n="np"/><s n="top"/><s n="mi"/></l><r>Pluto<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Polska<s n="np"/><s n="top"/><s n="f"/></l><r>Poľsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Prisztina<s n="np"/><s n="top"/><s n="f"/></l><r>Priština<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Półwysep Jukatan<s n="np"/><s n="top"/><s n="mi"/></l><r>Yucatánsky polostrov<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Republika Czeska<s n="np"/><s n="top"/><s n="f"/></l><r>Česká republika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Rosja<s n="np"/><s n="top"/><s n="f"/></l><r>Rusko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Sahara Zachodnia<s n="np"/><s n="top"/><s n="f"/></l><r>Západná Sahara<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Siedmiogród<s n="np"/><s n="top"/><s n="mi"/></l><r>Sedmohradsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Sofia<s n="np"/><s n="top"/><s n="f"/></l><r>Sofia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Sparta<s n="np"/><s n="top"/><s n="f"/></l><r>Sparta<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Sycylia<s n="np"/><s n="top"/><s n="f"/></l><r>Sicília<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Syria<s n="np"/><s n="top"/><s n="f"/></l><r>Sýria<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Szkocja<s n="np"/><s n="top"/><s n="f"/></l><r>Škótsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Szwecja<s n="np"/><s n="top"/><s n="f"/></l><r>Švédsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Słowacja<s n="np"/><s n="top"/><s n="f"/></l><r>Slovensko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Słowenia<s n="np"/><s n="top"/><s n="f"/></l><r>Slovinsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Tadżykistan<s n="np"/><s n="top"/><s n="mi"/></l><r>Tadžikistan<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Tajwan<s n="np"/><s n="top"/><s n="mi"/></l><r>Taiwan<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Tanganika<s n="np"/><s n="top"/><s n="f"/></l><r>Tanganika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Tanzania<s n="np"/><s n="top"/><s n="f"/></l><r>Tanzánia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Tirana<s n="np"/><s n="top"/><s n="f"/></l><r>Tirana<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Turcja<s n="np"/><s n="top"/><s n="f"/></l><r>Turecko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Ukraina<s n="np"/><s n="top"/><s n="f"/></l><r>Ukrajina<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Unia<b/>Europejska<s n="np"/><s n="top"/><s n="f"/></l><r>Európska<b/>únia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Wyspa Wielkanocna<s n="np"/><s n="top"/><s n="f"/></l><r>Veľkonočný ostrov<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>bratysławski<s n="adj"/></l><r>bratislavský<s n="adj"/></r></p></e>
     <e><p><l>bańskobystrzycki<s n="adj"/></l><r>banskobystrický<s n="adj"/></r></p></e>
     <e><p><l>trnawski<s n="adj"/></l><r>trnavský<s n="adj"/></r></p></e>
