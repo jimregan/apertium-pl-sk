@@ -1278,31 +1278,39 @@
     <e><p><l>Chorwacja<s n="np"/><s n="top"/><s n="f"/></l><r>Chorvátsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Hongkong<s n="np"/><s n="top"/><s n="m"/></l><r>Hongkong<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 
-<e><p><l>tajski<sn="adj"/></l><r>thajský<sn="adj"/></r></p></e>
-<e><p><l>angielski<sn="adj"/></l><r>anglický<sn="adj"/></r></p></e>
-<e><p><l>australijski<sn="adj"/></l><r>austrálsky<sn="adj"/></r></p></e>
-<e><p><l>beztroski<sn="adj"/></l><r>bezstarostný<sn="adj"/></r></p></e>
-<e><p><l>białoruski<sn="adj"/></l><r>bieloruský<sn="adj"/></r></p></e>
-<e><p><l>bretoński<sn="adj"/></l><r>bretónsky<sn="adj"/></r></p></e>
-<e><p><l>bułgarski<sn="adj"/></l><r>bulharský<sn="adj"/></r></p></e>
-<e><p><l>chiński<sn="adj"/></l><r>čínsky<sn="adj"/></r></p></e>
-<e><p><l>chrześcijański<sn="adj"/></l><r>kresťanský<sn="adj"/></r></p></e>
-<e><p><l>czeski<sn="adj"/></l><r>český<sn="adj"/></r></p></e>
-<e><p><l>fiński<sn="adj"/></l><r>fínsky<sn="adj"/></r></p></e>
-<e><p><l>hebrajski<sn="adj"/></l><r>hebrejský<sn="adj"/></r></p></e>
-<e><p><l>hiszpański<sn="adj"/></l><r>španielsky<sn="adj"/></r></p></e>
-<e><p><l>japoński<sn="adj"/></l><r>japonský<sn="adj"/></r></p></e>
-<e><p><l>słoweński<sn="adj"/></l><r>slovinský<sn="adj"/></r></p></e>
-<e><p><l>londyński<sn="adj"/></l><r>londýnsky<sn="adj"/></r></p></e>
-<e><p><l>malajski<sn="adj"/></l><r>malajský<sn="adj"/></r></p></e>
-<e><p><l>morski<sn="adj"/></l><r>morský<sn="adj"/></r></p></e>
-<e><p><l>okcytański<sn="adj"/></l><r>occitánsky<sn="adj"/></r></p></e>
-<e><p><l>portugalski<sn="adj"/></l><r>portugalský<sn="adj"/></r></p></e>
-<e><p><l>słoweński<sn="adj"/></l><r>slovinský<sn="adj"/></r></p></e>
-<e><p><l>słowiański<sn="adj"/></l><r>slovanský<sn="adj"/></r></p></e>
-<e><p><l>wiejski<sn="adj"/></l><r>dedinský<sn="adj"/></r></p></e>
-<e><p><l>węgierski<sn="adj"/></l><r>maďarský<sn="adj"/></r></p></e>
-<e><p><l>żydowski<sn="adj"/></l><r>židovský<sn="adj"/></r></p></e>
+<e><p><l>tajski<s n="adj"/></l><r>thajský<s n="adj"/></r></p></e>
+<e><p><l>angielski<s n="adj"/></l><r>anglický<s n="adj"/></r></p></e>
+<e><p><l>australijski<s n="adj"/></l><r>austrálsky<s n="adj"/></r></p></e>
+<e><p><l>beztroski<s n="adj"/></l><r>bezstarostný<s n="adj"/></r></p></e>
+<e><p><l>białoruski<s n="adj"/></l><r>bieloruský<s n="adj"/></r></p></e>
+<e><p><l>bretoński<s n="adj"/></l><r>bretónsky<s n="adj"/></r></p></e>
+<e><p><l>bułgarski<s n="adj"/></l><r>bulharský<s n="adj"/></r></p></e>
+<e><p><l>chiński<s n="adj"/></l><r>čínsky<s n="adj"/></r></p></e>
+<e><p><l>chrześcijański<s n="adj"/></l><r>kresťanský<s n="adj"/></r></p></e>
+<e><p><l>czeski<s n="adj"/></l><r>český<s n="adj"/></r></p></e>
+<e><p><l>fiński<s n="adj"/></l><r>fínsky<s n="adj"/></r></p></e>
+<e><p><l>hebrajski<s n="adj"/></l><r>hebrejský<s n="adj"/></r></p></e>
+<e><p><l>hiszpański<s n="adj"/></l><r>španielsky<s n="adj"/></r></p></e>
+<e><p><l>japoński<s n="adj"/></l><r>japonský<s n="adj"/></r></p></e>
+<e><p><l>słoweński<s n="adj"/></l><r>slovinský<s n="adj"/></r></p></e>
+<e><p><l>londyński<s n="adj"/></l><r>londýnsky<s n="adj"/></r></p></e>
+<e><p><l>malajski<s n="adj"/></l><r>malajský<s n="adj"/></r></p></e>
+<e><p><l>morski<s n="adj"/></l><r>morský<s n="adj"/></r></p></e>
+<e><p><l>okcytański<s n="adj"/></l><r>occitánsky<s n="adj"/></r></p></e>
+<e><p><l>portugalski<s n="adj"/></l><r>portugalský<s n="adj"/></r></p></e>
+<e><p><l>słoweński<s n="adj"/></l><r>slovinský<s n="adj"/></r></p></e>
+<e><p><l>słowiański<s n="adj"/></l><r>slovanský<s n="adj"/></r></p></e>
+<e><p><l>wiejski<s n="adj"/></l><r>dedinský<s n="adj"/></r></p></e>
+<e><p><l>węgierski<s n="adj"/></l><r>maďarský<s n="adj"/></r></p></e>
+<e><p><l>żydowski<s n="adj"/></l><r>židovský<s n="adj"/></r></p></e>
+<e><p><l>dziennikarstwo<s n="n"/><s n="nt"/></l><r>žurnalistika<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>kłamstwo<s n="n"/><s n="nt"/></l><r>klamstvo<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>morderstwo<s n="n"/><s n="nt"/></l><r>vražda<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>niebezpieczeństwo<s n="n"/><s n="nt"/></l><r>nebezpečie<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>okrucieństwo<s n="n"/><s n="nt"/></l><r>krutosť<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>posłuszeństwo<s n="n"/><s n="nt"/></l><r>poslušnosť<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>samobójstwo<s n="n"/><s n="nt"/></l><r>samovražda<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>zabójstwo<s n="n"/><s n="nt"/></l><r>vražda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bratysławski<s n="adj"/></l><r>bratislavský<s n="adj"/></r></p></e>
     <e><p><l>bańskobystrzycki<s n="adj"/></l><r>banskobystrický<s n="adj"/></r></p></e>
     <e><p><l>trnawski<s n="adj"/></l><r>trnavský<s n="adj"/></r></p></e>
