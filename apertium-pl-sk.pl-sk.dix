@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 2
-	Entries: 2463
-	Sdefs: 41
-	Last processed by: apertium-dixtools fix -standard apertium-pl-sk.pl-sk.dix apertium-pl-sk.pl-sk.dix.out
+	Entries: 2567
+	Sdefs: 42
+	Last processed by: apertium-dixtools fix -standard apertium-pl-sk.pl-sk.dix fixed.dix
 
 -->
 <dictionary>
@@ -51,6 +51,7 @@
     <sdef n="an" /> 
     <sdef n="cnjadv" /> 
     <sdef n="ij" /> 
+    <sdef n="al" /> 
   </sdefs>
   <section id="main" type="standard">
     <e><p><l>w<s n="pr"/></l><r>v<s n="pr"/></r></p></e>
@@ -1298,7 +1299,6 @@
     <e><p><l>morski<s n="adj"/></l><r>morský<s n="adj"/></r></p></e>
     <e><p><l>okcytański<s n="adj"/></l><r>occitánsky<s n="adj"/></r></p></e>
     <e><p><l>portugalski<s n="adj"/></l><r>portugalský<s n="adj"/></r></p></e>
-    <e><p><l>słoweński<s n="adj"/></l><r>slovinský<s n="adj"/></r></p></e>
     <e><p><l>słowiański<s n="adj"/></l><r>slovanský<s n="adj"/></r></p></e>
     <e><p><l>wiejski<s n="adj"/></l><r>dedinský<s n="adj"/></r></p></e>
     <e><p><l>węgierski<s n="adj"/></l><r>maďarský<s n="adj"/></r></p></e>
@@ -1331,9 +1331,7 @@
     <e><p><l>Berlin<s n="np"/><s n="top"/><s n="mi"/></l><r>Berlín<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Boliwia<s n="np"/><s n="top"/><s n="f"/></l><r>Bolívia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Bośnia<s n="np"/><s n="top"/><s n="f"/></l><r>Bosna<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>Bratysława<s n="np"/><s n="top"/><s n="f"/></l><r>Bratislava<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Bruksela<s n="np"/><s n="top"/><s n="f"/></l><r>Brusel<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
-    <e><p><l>Chorwacja<s n="np"/><s n="top"/><s n="f"/></l><r>Chorvátsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Damaszek<s n="np"/><s n="top"/><s n="mi"/></l><r>Damask<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Dania<s n="np"/><s n="top"/><s n="f"/></l><r>Dánsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Estonia<s n="np"/><s n="top"/><s n="f"/></l><r>Estónsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
@@ -1344,10 +1342,8 @@
     <e><p><l>Europa Środkowa<s n="np"/><s n="top"/><s n="f"/></l><r>stredná Európa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Federacja Rosyjska<s n="np"/><s n="top"/><s n="f"/></l><r>Ruská federácia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Finlandia<s n="np"/><s n="top"/><s n="f"/></l><r>Fínsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
-    <e><p><l>Francja<s n="np"/><s n="top"/><s n="f"/></l><r>Francúzsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Genewa<s n="np"/><s n="top"/><s n="f"/></l><r>Ženeva<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Goa<s n="np"/><s n="top"/><s n="f"/></l><r>Goa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>Grecja<s n="np"/><s n="top"/><s n="f"/></l><r>Grécko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Hiszpania<s n="np"/><s n="top"/><s n="f"/></l><r>Španielsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Holandia<s n="np"/><s n="top"/><s n="f"/></l><r>Holandsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Indonezja<s n="np"/><s n="top"/><s n="f"/></l><r>Indonézia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -1429,20 +1425,15 @@
     <e><p><l>dobry<s n="adj"/><s n="sint"/></l><r>dobrý<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>austriacki<s n="adj"/></l><r>rakúsky<s n="adj"/></r></p></e>
     <e><p><l>brazylijski<s n="adj"/></l><r>brazílsky<s n="adj"/></r></p></e>
-    <e><p><l>chiński<s n="adj"/></l><r>čínsky<s n="adj"/></r></p></e>
-    <e><p><l>czeski<s n="adj"/></l><r>český<s n="adj"/></r></p></e>
     <e><p><l>francuski<s n="adj"/></l><r>francúzsky<s n="adj"/></r></p></e>
     <e><p><l>grecki<s n="adj"/></l><r>grécky<s n="adj"/></r></p></e>
-    <e><p><l>hiszpański<s n="adj"/></l><r>španielsky<s n="adj"/></r></p></e>
     <e><p><l>niemiecki<s n="adj"/></l><r>nemecký<s n="adj"/></r></p></e>
     <e><p><l>polski<s n="adj"/></l><r>poľský<s n="adj"/></r></p></e>
     <e><p><l>mały<s n="adj"/></l><r>malý<s n="adj"/></r></p></e>
-    <e><p><l>portugalski<s n="adj"/></l><r>portugalský<s n="adj"/></r></p></e>
     <e><p><l>rosyjski<s n="adj"/></l><r>ruský<s n="adj"/></r></p></e>
     <e><p><l>rumuński<s n="adj"/></l><r>rumunský<s n="adj"/></r></p></e>
     <e><p><l>słowacki<s n="adj"/></l><r>slovenský<s n="adj"/></r></p></e>
     <e><p><l>ukraiński<s n="adj"/></l><r>ukrajinský<s n="adj"/></r></p></e>
-    <e><p><l>węgierski<s n="adj"/></l><r>maďarský<s n="adj"/></r></p></e>
     <e><p><l>brytyjski<s n="adj"/></l><r>britský<s n="adj"/></r></p></e>
     <e><p><l>włoski<s n="adj"/></l><r>taliansky<s n="adj"/></r></p></e>
     <e><p><l>dezaktywować<s n="vblex"/></l><r>deaktivovať<s n="vblex"/></r></p></e>
@@ -1494,7 +1485,6 @@
 
     <e><p><l>diament<s n="n"/><s n="mi"/></l><r>diamant<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>dynamo<s n="n"/><s n="nt"/></l><r>dynamo<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>Ukraina<s n="np"/><s n="top"/><s n="f"/></l><r>Ukrajina<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Stany<b/>Zjednoczone<s n="np"/><s n="top"/><s n="mi"/><s n="pl"/></l><r>Spojené<b/>štáty<s n="np"/><s n="top"/><s n="mi"/><s n="pl"/></r></p></e>
     <e><p><l>Węgry<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Maďarsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Wielka<b/>Brytania<s n="np"/><s n="top"/><s n="f"/></l><r>Veľka<b/>Británia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -1624,13 +1614,9 @@
     <e><p><l>Brazylia<s n="np"/><s n="top"/><s n="f"/></l><r>Brazília<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Chiny<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Čína<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Czechy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Česko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
-    <e><p><l>Hiszpania<s n="np"/><s n="top"/><s n="f"/></l><r>Španielsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Niemcy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Nemecko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
-    <e><p><l>Polska<s n="np"/><s n="top"/><s n="f"/></l><r>Poľsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Portugalia<s n="np"/><s n="top"/><s n="f"/></l><r>Portugalsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
-    <e><p><l>Rosja<s n="np"/><s n="top"/><s n="f"/></l><r>Rusko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Rumunia<s n="np"/><s n="top"/><s n="f"/></l><r>Rumunsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
-    <e><p><l>Słowacja<s n="np"/><s n="top"/><s n="f"/></l><r>Slovensko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>etykieta<s n="n"/><s n="f"/></l><r>etiketa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Etiopia<s n="np"/><s n="top"/><s n="f"/></l><r>Etiópia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>kawa<s n="n"/><s n="f"/></l><r>káva<s n="n"/><s n="f"/></r></p></e>
@@ -1667,7 +1653,6 @@
     <e><p><l>narodowy<s n="adj"/></l><r>národný<s n="adj"/></r></p></e>
     <e><p><l>międzynarodowy<s n="adj"/></l><r>medzinárodný<s n="adj"/></r></p></e>
     <e><p><l>Benin<s n="np"/><s n="top"/><s n="mi"/></l><r>Benin<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
-    <e><p><l>Berlin<s n="np"/><s n="top"/><s n="mi"/></l><r>Berlín<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>beta<s n="n"/><s n="f"/></l><r>beta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>beton<s n="n"/><s n="mi"/></l><r>betón<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>zamek<s n="n"/><s n="mi"/></l><r>zámok<s n="n"/><s n="mi"/></r></p></e>
@@ -1749,7 +1734,6 @@
     <e><p><l>aerodrom<s n="n"/><s n="mi"/></l><r>aerodróm<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>afera<s n="n"/><s n="f"/></l><r>aféra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Afganiec<s n="n"/><s n="mp"/></l><r>Afganec<s n="n"/><s n="ma"/></r></p></e>
-    <e><p><l>Afganistan<s n="np"/><s n="top"/><s n="mi"/></l><r>Afganistan<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>afgański<s n="adj"/></l><r>afgánsky<s n="adj"/></r></p></e>
     <e><p><l>Afrika<s n="np"/><s n="top"/><s n="f"/></l><r>Afrika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>afrykański<s n="adj"/></l><r>Afrikánsky<s n="adj"/></r></p></e>
@@ -1831,9 +1815,6 @@
     <e><p><l>analizować<s n="vblex"/></l><r>analyzovať<s n="vblex"/></r></p></e>
     <e><p><l>ananas<s n="n"/><s n="mi"/></l><r>ananás<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>anatomia<s n="n"/><s n="f"/></l><r>anatómia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Andora<s n="np"/><s n="top"/><s n="f"/></l><r>Andorra<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>Anglia<s n="np"/><s n="top"/><s n="f"/></l><r>Anglicko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
-    <e><p><l>angielski<s n="adj"/></l><r>anglický<s n="adj"/></r></p></e>
     <e><p><l>angloamerykański<s n="adj"/></l><r>angloamerický<s n="adj"/></r></p></e>
     <e><p><l>ani<s n="cnjcoo"/></l><r>ani<s n="cnjcoo"/></r></p></e>
     <e><p><l>ani<b/>jeden<s n="adv"/></l><r>ani<b/>jeden<s n="adv"/></r></p></e>
@@ -1856,7 +1837,6 @@
     <e><p><l>aproksymować<s n="vblex"/></l><r>aproximovať<s n="vblex"/></r></p></e>
     <e><p><l>arabski<s n="adj"/></l><r>arabský<s n="adj"/></r></p></e>
     <e><p><l>arendować<s n="vblex"/></l><r>árendovať<s n="vblex"/></r></p></e>
-    <e><p><l>Argentyna<s n="np"/><s n="top"/><s n="f"/></l><r>Argentína<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>argument<s n="n"/><s n="mi"/></l><r>argument<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>argumentować<s n="vblex"/></l><r>argumentovať<s n="vblex"/></r></p></e>
     <e><p><l>archeolog<s n="n"/><s n="mp"/></l><r>archeológ<s n="n"/><s n="ma"/></r></p></e>
@@ -1910,7 +1890,6 @@
     <e><p><l>audiowizualny<s n="adj"/></l><r>audiovizuálny<s n="adj"/></r></p></e>
     <e><p><l>audyt<s n="n"/><s n="mi"/></l><r>audit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>audytor<s n="n"/><s n="mp"/></l><r>auditor<s n="n"/><s n="ma"/></r></p></e>
-    <e><p><l>australijski<s n="adj"/></l><r>austrálsky<s n="adj"/></r></p></e>
     <e><p><l>autentyczny<s n="adj"/></l><r>autentický<s n="adj"/></r></p></e>
     <e><p><l>autobiograficzny<s n="adj"/></l><r>autobiografický<s n="adj"/></r></p></e>
     <e><p><l>autobus<s n="n"/><s n="mi"/></l><r>autobus<s n="n"/><s n="mi"/></r></p></e>
@@ -1928,9 +1907,7 @@
     <e><p><l>autostrada<s n="n"/><s n="f"/></l><r>autostráda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aksjomatyczny<s n="adj"/></l><r>axiomatický<s n="adj"/></r></p></e>
     <e><p><l>aksonometryczny<s n="adj"/></l><r>axonometrický<s n="adj"/></r></p></e>
-    <e><p><l>Azerbejdżan<s n="np"/><s n="top"/><s n="mi"/></l><r>Azerbajdžan<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Azerbejdżanin<s n="n"/><s n="mp"/></l><r>Azerbajdžánec<s n="n"/><s n="ma"/></r></p></e>
-    <e><p><l>Azja<s n="np"/><s n="top"/><s n="f"/></l><r>Ázia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>azymut<s n="n"/><s n="mi"/></l><r>azimut<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>azuryt<s n="n"/><s n="mi"/></l><r>azurit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>aż<s n="cnjsub"/></l><r>až<s n="cnjsub"/></r></p></e>
@@ -1957,8 +1934,6 @@
     <e><p><l>położyć<s n="vblex"/></l><r>vyložiť<s n="vblex"/></r></p></e>
     <e><p><l>biegać<s n="vblex"/></l><r>behať<s n="vblex"/></r></p></e>
     <e><p><l>Bejrut<s n="np"/><s n="top"/><s n="mi"/></l><r>Bejrút<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
-    <e><p><l>Belgrad<s n="np"/><s n="top"/><s n="mi"/></l><r>Belehrad<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
-    <e><p><l>Belgia<s n="np"/><s n="top"/><s n="f"/></l><r>Belgicko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>belgijski<s n="adj"/></l><r>belgický<s n="adj"/></r></p></e>
     <e><p><l>Belize<s n="np"/></l><r>Belize<s n="np"/></r></p></e>
     <e><p><l>beneficjent<s n="n"/><s n="mp"/></l><r>beneficient<s n="n"/><s n="ma"/></r></p></e>
@@ -2023,7 +1998,6 @@
     <e c="sp."><p><l>Asturia<s n="np"/><s n="top"/><s n="f"/></l><r>Astúria<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>Asyria<s n="np"/><s n="top"/><s n="f"/></l><r>Asýria<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>atrofia<s n="n"/><s n="f"/></l><r>atrofia<s n="n"/><s n="f"/></r></p></e>
-    <e c="sp."><p><l>Australia<s n="np"/><s n="top"/><s n="f"/></l><r>Austrália<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>autobiografia<s n="n"/><s n="f"/></l><r>autobiografia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>autonomia<s n="n"/><s n="f"/></l><r>autonómia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>autopsja<s n="n"/><s n="f"/></l><r>autopsia<s n="n"/><s n="f"/></r></p></e>
@@ -2042,7 +2016,6 @@
     <e c="sp."><p><l>biologia<s n="n"/><s n="f"/></l><r>biológia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>biometria<s n="n"/><s n="f"/></l><r>biometria<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>biżuteria<s n="n"/><s n="f"/></l><r>bižutéria<s n="n"/><s n="f"/></r></p></e>
-    <e c="sp."><p><l>Boliwia<s n="np"/><s n="top"/><s n="f"/></l><r>Bolívia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>bronchoskopia<s n="n"/><s n="f"/></l><r>bronchoskopia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>ceremonia<s n="n"/><s n="f"/></l><r>ceremónia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>cytologia<s n="n"/><s n="f"/></l><r>cytológia<s n="n"/><s n="f"/></r></p></e>
@@ -2175,7 +2148,6 @@
     <e c="sp."><p><l>ichtiologia<s n="n"/><s n="f"/></l><r>ichtyológia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>ikonografia<s n="n"/><s n="f"/></l><r>ikonografia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>immunologia<s n="n"/><s n="f"/></l><r>imunológia<s n="n"/><s n="f"/></r></p></e>
-    <e c="sp."><p><l>Indonezja<s n="np"/><s n="top"/><s n="f"/></l><r>Indonézia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>absolutyzm<s n="n"/><s n="mi"/></l><r>absolutizmus<s n="n"/><s n="mi"/></r></p></e>
     <e c="sp."><p><l>abstrakcjonizm<s n="n"/><s n="mi"/></l><r>abstrakcionizmus<s n="n"/><s n="mi"/></r></p></e>
     <e c="sp."><p><l>aforyzm<s n="n"/><s n="mi"/></l><r>aforizmus<s n="n"/><s n="mi"/></r></p></e>
@@ -2501,7 +2473,6 @@
     <e c="sp."><p><l>muzykologia<s n="n"/><s n="f"/></l><r>muzikológia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>mykologia<s n="n"/><s n="f"/></l><r>mykológia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>mitologia<s n="n"/><s n="f"/></l><r>mytológia<s n="n"/><s n="f"/></r></p></e>
-    <e c="sp."><p><l>Namibia<s n="np"/><s n="top"/><s n="f"/></l><r>Namíbia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>narkomania<s n="n"/><s n="f"/></l><r>narkománia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>neuralgia<s n="n"/><s n="f"/></l><r>neuralgia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>neurastenia<s n="n"/><s n="f"/></l><r>neurasténia<s n="n"/><s n="f"/></r></p></e>
@@ -2534,7 +2505,6 @@
     <e c="sp."><p><l>peryferia<s n="n"/><s n="f"/></l><r>periféria<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>perypetia<s n="n"/><s n="f"/></l><r>peripetia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>Perugia<s n="np"/><s n="top"/><s n="f"/></l><r>Perugia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e c="sp."><p><l>Persja<s n="np"/><s n="top"/><s n="f"/></l><r>Perzia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>petrografia<s n="n"/><s n="f"/></l><r>petrografia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>petrochemia<s n="n"/><s n="f"/></l><r>petrochémia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>pigmentacja<s n="n"/><s n="f"/></l><r>pigmentácia<s n="n"/><s n="f"/></r></p></e>
@@ -2578,7 +2548,6 @@
     <e c="sp."><p><l>sepia<s n="n"/><s n="f"/></l><r>sépia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>seria<s n="n"/><s n="f"/></l><r>séria<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>schizofrenia<s n="n"/><s n="f"/></l><r>schizofrénia<s n="n"/><s n="f"/></r></p></e>
-    <e c="sp."><p><l>Sycylia<s n="np"/><s n="top"/><s n="f"/></l><r>Sicília<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>socjologia<s n="n"/><s n="f"/></l><r>sociológia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>speleologia<s n="n"/><s n="f"/></l><r>speleológia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>stenografia<s n="n"/><s n="f"/></l><r>stenografia<s n="n"/><s n="f"/></r></p></e>
@@ -2594,9 +2563,7 @@
     <e c="sp."><p><l>symfonia<s n="n"/><s n="f"/></l><r>symfónia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>sympatia<s n="n"/><s n="f"/></l><r>sympatia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>synchronia<s n="n"/><s n="f"/></l><r>synchrónia<s n="n"/><s n="f"/></r></p></e>
-    <e c="sp."><p><l>Syria<s n="np"/><s n="top"/><s n="f"/></l><r>Sýria<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>studia<s n="n"/><s n="f"/></l><r>štúdia<s n="n"/><s n="f"/></r></p></e>
-    <e c="sp."><p><l>Tanzania<s n="np"/><s n="top"/><s n="f"/></l><r>Tanzánia<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>tapiseria<s n="n"/><s n="f"/></l><r>tapiséria<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>tautologia<s n="n"/><s n="f"/></l><r>tautológia<s n="n"/><s n="f"/></r></p></e>
     <e c="sp."><p><l>taksacja<s n="n"/><s n="f"/></l><r>taxácia<s n="n"/><s n="f"/></r></p></e>
