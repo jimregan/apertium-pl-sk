@@ -13,6 +13,7 @@
     <sdef n="cnjcoo" /> 
     <sdef n="cnjsub" /> 
     <sdef n="num" /> 
+    <sdef n="cog" /> 
     <sdef n="n" /> 
     <sdef n="m" /> 
     <sdef n="ma" /> 
